@@ -1,2 +1,2 @@
-Glyph uniFF1A was not compatible: 
+Glyph uniFF1A was not compatible:
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=700.0'

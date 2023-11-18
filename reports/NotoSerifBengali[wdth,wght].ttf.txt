@@ -1,2 +1,2 @@
-Glyph uni09C4 was not compatible: 
-    Contour 1 start point differs: 0 in 'wdth=62.5', 7 in 'wdth=62.5 wght=100.0'; reversed: True
+Glyph uni09C4 was not compatible:
+    Contour 1 start point differs: 0 in 'wdth=62.5', 14 in 'wdth=62.5 wght=100.0'; reversed: True

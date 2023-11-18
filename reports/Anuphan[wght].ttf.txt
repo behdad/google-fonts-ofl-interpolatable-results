@@ -1,6 +1,6 @@
-Glyph uni0E4B was not compatible: 
+Glyph uni0E4B was not compatible:
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=700.0'
-Glyph uni0E4B.narrow was not compatible: 
+Glyph uni0E4B.narrow was not compatible:
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=100.0'
-Glyph uni20A9 was not compatible: 
+Glyph uni20A9 was not compatible:
     Contour order differs: [0, 1, 2, 3] in '', [0, 1, 3, 2] in 'wght=700.0'

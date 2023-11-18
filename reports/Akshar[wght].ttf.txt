@@ -1,4 +1,4 @@
-Glyph uni25CC was not compatible: 
+Glyph uni25CC was not compatible:
     Contour 3 start point differs: 0 in '', 14 in 'wght=700.0'; reversed: False
     Contour 5 start point differs: 0 in '', 14 in 'wght=700.0'; reversed: False
     Contour 7 start point differs: 0 in '', 14 in 'wght=700.0'; reversed: False

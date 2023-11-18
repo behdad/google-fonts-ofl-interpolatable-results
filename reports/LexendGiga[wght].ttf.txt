@@ -1,14 +1,14 @@
-Glyph colonmonetary was not compatible: 
+Glyph colonmonetary was not compatible:
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'wght=900.0'
-Glyph numbersign was not compatible: 
+Glyph numbersign was not compatible:
     Contour order differs: [0, 1, 2, 3] in 'wght=199.9939', [0, 2, 1, 3] in 'wght=100.0'
-Glyph plus was not compatible: 
-    Contour 1 start point differs: 0 in 'wght=199.9939', 0 in 'wght=100.0'; reversed: True
-Glyph product was not compatible: 
+Glyph plus was not compatible:
+    Contour 1 start point differs: 0 in 'wght=199.9939', 3 in 'wght=100.0'; reversed: True
+Glyph product was not compatible:
     Contour order differs: [0, 1, 2] in 'wght=199.9939', [2, 1, 0] in 'wght=100.0'
-Glyph uni20AD was not compatible: 
-    Contour 1 start point differs: 0 in '', 2 in 'wght=199.9939'; reversed: True
-    Contour 1 start point differs: 0 in 'wght=199.9939', 2 in 'wght=100.0'; reversed: True
-Glyph uni20B1 was not compatible: 
+Glyph uni20AD was not compatible:
+    Contour 1 start point differs: 0 in '', 1 in 'wght=199.9939'; reversed: True
+    Contour 1 start point differs: 0 in 'wght=199.9939', 1 in 'wght=100.0'; reversed: True
+Glyph uni20B1 was not compatible:
     Contour order differs: [0, 1, 2, 3] in '', [1, 0, 2, 3] in 'wght=199.9939'
     Contour order differs: [0, 1, 2, 3] in '', [1, 0, 2, 3] in 'wght=900.0'

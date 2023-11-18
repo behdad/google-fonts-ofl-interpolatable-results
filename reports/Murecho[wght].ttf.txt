@@ -1,2 +1,2 @@
-Glyph arrowboth was not compatible: 
+Glyph arrowboth was not compatible:
     Contour 2 start point differs: 0 in '', 7 in 'wght=900.0'; reversed: False

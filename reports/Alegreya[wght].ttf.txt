@@ -1,6 +1,6 @@
-Glyph arrowdown was not compatible: 
+Glyph arrowdown was not compatible:
     Contour 1 start point differs: 0 in '', 1 in 'wght=900.0'; reversed: False
-Glyph uni03060300 was not compatible: 
+Glyph uni03060300 was not compatible:
     Contour 1 start point differs: 0 in '', 6 in 'wght=900.0'; reversed: False
-Glyph uni03060301 was not compatible: 
+Glyph uni03060301 was not compatible:
     Contour 1 start point differs: 0 in '', 1 in 'wght=900.0'; reversed: False

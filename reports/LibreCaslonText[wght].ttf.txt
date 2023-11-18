@@ -1,6 +1,6 @@
-Glyph colon.tnum was not compatible: 
+Glyph colon.tnum was not compatible:
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=700.0'
-Glyph equal was not compatible: 
+Glyph equal was not compatible:
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=700.0'
-Glyph equal.tnum was not compatible: 
+Glyph equal.tnum was not compatible:
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=700.0'

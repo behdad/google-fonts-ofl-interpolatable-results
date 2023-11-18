@@ -1,2 +1,2 @@
-Glyph ta_wa_ovl.sub2 was not compatible: 
+Glyph ta_wa_ovl.sub2 was not compatible:
     Contour order differs: [0, 1, 2, 3, 4] in '', [1, 0, 2, 3, 4] in 'wght=699.9878'

@@ -1,163 +1,163 @@
-Glyph Oslash was not compatible: 
+Glyph Oslash was not compatible:
     Contour 0 start point differs: 0 in '', 1 in 'wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=-11.0', 1 in 'slnt=-11.0 wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=11.0', 1 in 'slnt=11.0 wght=1000.0'; reversed: False
-Glyph Oslash.BRACKET.varAlt01 was not compatible: 
+Glyph Oslash.BRACKET.varAlt01 was not compatible:
     Contour order differs: [0, 1, 2, 3] in '', [1, 0, 2, 3] in 'wght=200.0'
     Contour order differs: [0, 1, 2, 3] in 'slnt=-11.0', [1, 0, 2, 3] in 'slnt=-11.0 wght=200.0'
     Contour 0 start point differs: 0 in 'slnt=11.0', 3 in 'slnt=11.0 wght=200.0'; reversed: False
-Glyph Oslash.color0 was not compatible: 
+Glyph Oslash.color0 was not compatible:
     Contour 0 start point differs: 0 in '', 1 in 'wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=-11.0', 1 in 'slnt=-11.0 wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=11.0', 1 in 'slnt=11.0 wght=1000.0'; reversed: False
-Glyph Oslash.color1 was not compatible: 
+Glyph Oslash.color1 was not compatible:
     Contour 0 start point differs: 0 in '', 1 in 'wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=-11.0', 1 in 'slnt=-11.0 wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=11.0', 1 in 'slnt=11.0 wght=1000.0'; reversed: False
-Glyph Oslashacute was not compatible: 
+Glyph Oslashacute was not compatible:
     Contour 0 start point differs: 0 in '', 1 in 'wght=1000.0'; reversed: False
     Contour 2 start point differs: 0 in '', 3 in 'wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=-11.0', 1 in 'slnt=-11.0 wght=1000.0'; reversed: False
     Contour 2 start point differs: 0 in 'slnt=-11.0', 3 in 'slnt=-11.0 wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=11.0', 1 in 'slnt=11.0 wght=1000.0'; reversed: False
     Contour 2 start point differs: 0 in 'slnt=11.0', 3 in 'slnt=11.0 wght=1000.0'; reversed: False
-Glyph Oslashacute.BRACKET.varAlt01 was not compatible: 
+Glyph Oslashacute.BRACKET.varAlt01 was not compatible:
     Contour order differs: [0, 1, 2, 3, 4] in '', [1, 0, 2, 3, 4] in 'wght=200.0'
     Contour order differs: [0, 1, 2, 3, 4] in 'slnt=-11.0', [1, 0, 2, 3, 4] in 'slnt=-11.0 wght=200.0'
     Contour 2 start point differs: 0 in '', 3 in 'wght=1000.0'; reversed: False
     Contour 2 start point differs: 0 in 'slnt=-11.0', 3 in 'slnt=-11.0 wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=11.0', 3 in 'slnt=11.0 wght=200.0'; reversed: False
     Contour 2 start point differs: 0 in 'slnt=11.0', 3 in 'slnt=11.0 wght=1000.0'; reversed: False
-Glyph Oslashacute.color0 was not compatible: 
+Glyph Oslashacute.color0 was not compatible:
     Contour 0 start point differs: 0 in '', 1 in 'wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=-11.0', 1 in 'slnt=-11.0 wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=11.0', 1 in 'slnt=11.0 wght=1000.0'; reversed: False
-Glyph Oslashacute.color1 was not compatible: 
+Glyph Oslashacute.color1 was not compatible:
     Contour 0 start point differs: 0 in '', 1 in 'wght=1000.0'; reversed: False
     Contour 2 start point differs: 0 in '', 3 in 'wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=-11.0', 1 in 'slnt=-11.0 wght=1000.0'; reversed: False
     Contour 2 start point differs: 0 in 'slnt=-11.0', 3 in 'slnt=-11.0 wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=11.0', 1 in 'slnt=11.0 wght=1000.0'; reversed: False
     Contour 2 start point differs: 0 in 'slnt=11.0', 3 in 'slnt=11.0 wght=1000.0'; reversed: False
-Glyph acute.cap was not compatible: 
+Glyph acute.cap was not compatible:
     Contour 0 start point differs: 0 in '', 3 in 'wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=-11.0', 3 in 'slnt=-11.0 wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=11.0', 3 in 'slnt=11.0 wght=1000.0'; reversed: False
-Glyph acute.cap.color0 was not compatible: 
+Glyph acute.cap.color0 was not compatible:
     Contour 0 start point differs: 0 in '', 3 in 'wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=-11.0', 3 in 'slnt=-11.0 wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=11.0', 3 in 'slnt=11.0 wght=1000.0'; reversed: False
-Glyph currency was not compatible: 
+Glyph currency was not compatible:
     Contour 0 start point differs: 0 in '', 2 in 'wght=1000.0'; reversed: False
     Contour 2 start point differs: 0 in '', 20 in 'wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=-11.0', 4 in 'slnt=-11.0 wght=1000.0'; reversed: False
     Contour 2 start point differs: 0 in 'slnt=-11.0', 22 in 'slnt=-11.0 wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=11.0', 2 in 'slnt=11.0 wght=1000.0'; reversed: False
     Contour 2 start point differs: 0 in 'slnt=11.0', 20 in 'slnt=11.0 wght=1000.0'; reversed: False
-Glyph currency.color0 was not compatible: 
+Glyph currency.color0 was not compatible:
     Contour 0 start point differs: 0 in '', 2 in 'wght=1000.0'; reversed: False
     Contour 2 start point differs: 0 in '', 20 in 'wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=-11.0', 4 in 'slnt=-11.0 wght=1000.0'; reversed: False
     Contour 2 start point differs: 0 in 'slnt=-11.0', 22 in 'slnt=-11.0 wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=11.0', 2 in 'slnt=11.0 wght=1000.0'; reversed: False
     Contour 2 start point differs: 0 in 'slnt=11.0', 20 in 'slnt=11.0 wght=1000.0'; reversed: False
-Glyph dad_noonar.color1 was not compatible: 
+Glyph dad_noonar.color1 was not compatible:
     Contour order differs: [0, 1] in '', [1, 0] in 'slnt=-11.0'
     Contour order differs: [0, 1] in '', [1, 0] in 'slnt=11.0'
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=200.0'
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=1000.0'
-Glyph dollar was not compatible: 
+Glyph dollar was not compatible:
     Contour 1 start point differs: 0 in '', 1 in 'wght=1000.0'; reversed: False
     Contour 1 start point differs: 0 in 'slnt=-11.0', 1 in 'slnt=-11.0 wght=1000.0'; reversed: False
     Contour 1 start point differs: 0 in 'slnt=11.0', 1 in 'slnt=11.0 wght=1000.0'; reversed: False
-Glyph dollar.color0 was not compatible: 
+Glyph dollar.color0 was not compatible:
     Contour 1 start point differs: 0 in '', 1 in 'wght=1000.0'; reversed: False
     Contour 1 start point differs: 0 in 'slnt=-11.0', 1 in 'slnt=-11.0 wght=1000.0'; reversed: False
     Contour 1 start point differs: 0 in 'slnt=11.0', 1 in 'slnt=11.0 wght=1000.0'; reversed: False
-Glyph grave.cap was not compatible: 
+Glyph grave.cap was not compatible:
     Contour 0 start point differs: 0 in '', 1 in 'wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=-11.0', 1 in 'slnt=-11.0 wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=11.0', 1 in 'slnt=11.0 wght=1000.0'; reversed: False
-Glyph grave.cap.color0 was not compatible: 
+Glyph grave.cap.color0 was not compatible:
     Contour 0 start point differs: 0 in '', 1 in 'wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=-11.0', 1 in 'slnt=-11.0 wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=11.0', 1 in 'slnt=11.0 wght=1000.0'; reversed: False
-Glyph quotedblbase was not compatible: 
+Glyph quotedblbase was not compatible:
     Contour 0 start point differs: 0 in '', 2 in 'wght=1000.0'; reversed: False
     Contour 1 start point differs: 0 in '', 2 in 'wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=-11.0', 2 in 'slnt=-11.0 wght=1000.0'; reversed: False
     Contour 1 start point differs: 0 in 'slnt=-11.0', 2 in 'slnt=-11.0 wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=11.0', 2 in 'slnt=11.0 wght=1000.0'; reversed: False
     Contour 1 start point differs: 0 in 'slnt=11.0', 2 in 'slnt=11.0 wght=1000.0'; reversed: False
-Glyph quotedblbase.color0 was not compatible: 
+Glyph quotedblbase.color0 was not compatible:
     Contour 0 start point differs: 0 in '', 2 in 'wght=1000.0'; reversed: False
     Contour 1 start point differs: 0 in '', 2 in 'wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=-11.0', 2 in 'slnt=-11.0 wght=1000.0'; reversed: False
     Contour 1 start point differs: 0 in 'slnt=-11.0', 2 in 'slnt=-11.0 wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=11.0', 2 in 'slnt=11.0 wght=1000.0'; reversed: False
     Contour 1 start point differs: 0 in 'slnt=11.0', 2 in 'slnt=11.0 wght=1000.0'; reversed: False
-Glyph threedotsdownabovear was not compatible: 
+Glyph threedotsdownabovear was not compatible:
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'slnt=-11.0'
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'slnt=11.0'
     Contour 2 start point differs: 0 in '', 1 in 'slnt=-11.0'; reversed: False
     Contour 2 start point differs: 0 in '', 1 in 'slnt=11.0'; reversed: False
-Glyph threedotsdownabovear.color0 was not compatible: 
+Glyph threedotsdownabovear.color0 was not compatible:
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'slnt=-11.0'
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'slnt=11.0'
     Contour 2 start point differs: 0 in '', 1 in 'slnt=-11.0'; reversed: False
     Contour 2 start point differs: 0 in '', 1 in 'slnt=11.0'; reversed: False
-Glyph threedotsdownbelowar was not compatible: 
+Glyph threedotsdownbelowar was not compatible:
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'slnt=-11.0'
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'slnt=11.0'
     Contour 2 start point differs: 0 in '', 1 in 'slnt=-11.0'; reversed: False
     Contour 2 start point differs: 0 in '', 1 in 'slnt=11.0'; reversed: False
-Glyph threedotsdownbelowar.color0 was not compatible: 
+Glyph threedotsdownbelowar.color0 was not compatible:
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'slnt=-11.0'
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'slnt=11.0'
     Contour 2 start point differs: 0 in '', 1 in 'slnt=-11.0'; reversed: False
     Contour 2 start point differs: 0 in '', 1 in 'slnt=11.0'; reversed: False
-Glyph uni064C was not compatible: 
+Glyph uni064C was not compatible:
     Contour 0 start point differs: 0 in '', 1 in 'wght=200.0'; reversed: False
     Contour 0 start point differs: 0 in '', 1 in 'wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=-11.0', 1 in 'slnt=-11.0 wght=200.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=-11.0', 1 in 'slnt=-11.0 wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=11.0', 1 in 'slnt=11.0 wght=200.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=11.0', 1 in 'slnt=11.0 wght=1000.0'; reversed: False
-Glyph uni064C.color0 was not compatible: 
+Glyph uni064C.color0 was not compatible:
     Contour 0 start point differs: 0 in '', 1 in 'wght=200.0'; reversed: False
     Contour 0 start point differs: 0 in '', 1 in 'wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=-11.0', 1 in 'slnt=-11.0 wght=200.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=-11.0', 1 in 'slnt=-11.0 wght=1000.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=11.0', 1 in 'slnt=11.0 wght=200.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=11.0', 1 in 'slnt=11.0 wght=1000.0'; reversed: False
-Glyph uni0668 was not compatible: 
+Glyph uni0668 was not compatible:
     Contour 0 start point differs: 0 in '', 1 in 'slnt=-11.0'; reversed: False
     Contour 0 start point differs: 0 in '', 1 in 'slnt=11.0'; reversed: False
-Glyph uni0668.color0 was not compatible: 
+Glyph uni0668.color0 was not compatible:
     Contour 0 start point differs: 0 in '', 1 in 'slnt=-11.0'; reversed: False
     Contour 0 start point differs: 0 in '', 1 in 'slnt=11.0'; reversed: False
-Glyph uni0686 was not compatible: 
-    Contour 0 start point differs: 0 in '', 1 in 'slnt=-11.0'; reversed: False
-    Contour 1 start point differs: 0 in '', 1 in 'slnt=-11.0'; reversed: False
-    Contour 2 start point differs: 0 in '', 1 in 'slnt=-11.0'; reversed: False
-    Contour 0 start point differs: 0 in '', 1 in 'slnt=11.0'; reversed: False
-    Contour 1 start point differs: 0 in '', 1 in 'slnt=11.0'; reversed: False
-    Contour 2 start point differs: 0 in '', 1 in 'slnt=11.0'; reversed: False
-Glyph uni0686.color1 was not compatible: 
+Glyph uni0686 was not compatible:
     Contour 0 start point differs: 0 in '', 1 in 'slnt=-11.0'; reversed: False
     Contour 1 start point differs: 0 in '', 1 in 'slnt=-11.0'; reversed: False
     Contour 2 start point differs: 0 in '', 1 in 'slnt=-11.0'; reversed: False
     Contour 0 start point differs: 0 in '', 1 in 'slnt=11.0'; reversed: False
     Contour 1 start point differs: 0 in '', 1 in 'slnt=11.0'; reversed: False
     Contour 2 start point differs: 0 in '', 1 in 'slnt=11.0'; reversed: False
-Glyph uni0686.fina.color1 was not compatible: 
+Glyph uni0686.color1 was not compatible:
     Contour 0 start point differs: 0 in '', 1 in 'slnt=-11.0'; reversed: False
     Contour 1 start point differs: 0 in '', 1 in 'slnt=-11.0'; reversed: False
     Contour 2 start point differs: 0 in '', 1 in 'slnt=-11.0'; reversed: False
     Contour 0 start point differs: 0 in '', 1 in 'slnt=11.0'; reversed: False
     Contour 1 start point differs: 0 in '', 1 in 'slnt=11.0'; reversed: False
     Contour 2 start point differs: 0 in '', 1 in 'slnt=11.0'; reversed: False
-Glyph uniFB7B was not compatible: 
+Glyph uni0686.fina.color1 was not compatible:
+    Contour 0 start point differs: 0 in '', 1 in 'slnt=-11.0'; reversed: False
+    Contour 1 start point differs: 0 in '', 1 in 'slnt=-11.0'; reversed: False
+    Contour 2 start point differs: 0 in '', 1 in 'slnt=-11.0'; reversed: False
+    Contour 0 start point differs: 0 in '', 1 in 'slnt=11.0'; reversed: False
+    Contour 1 start point differs: 0 in '', 1 in 'slnt=11.0'; reversed: False
+    Contour 2 start point differs: 0 in '', 1 in 'slnt=11.0'; reversed: False
+Glyph uniFB7B was not compatible:
     Contour 0 start point differs: 0 in '', 1 in 'slnt=-11.0'; reversed: False
     Contour 1 start point differs: 0 in '', 1 in 'slnt=-11.0'; reversed: False
     Contour 2 start point differs: 0 in '', 1 in 'slnt=-11.0'; reversed: False

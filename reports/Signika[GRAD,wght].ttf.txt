@@ -1,3 +1,3 @@
-Glyph ico.tag was not compatible: 
+Glyph ico.tag was not compatible:
     Contour 2 start point differs: 0 in '', 4 in 'wght=700.0'; reversed: False
     Contour 2 start point differs: 0 in 'GRAD=-30.0', 4 in 'GRAD=-30.0 wght=700.0'; reversed: False

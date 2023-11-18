@@ -1,2 +1,2 @@
-Glyph uni0723.fina was not compatible: 
+Glyph uni0723.fina was not compatible:
     Contour 2 start point differs: 0 in '', 20 in 'wght=900.0'; reversed: False

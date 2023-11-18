@@ -1,4 +1,4 @@
-Glyph parenleft.case was not compatible: 
-    Contour 0 start point differs: 0 in '', 13 in 'wght=900.0'; reversed: True
-Glyph parenright.case was not compatible: 
-    Contour 0 start point differs: 0 in '', 13 in 'wght=900.0'; reversed: True
+Glyph parenleft.case was not compatible:
+    Contour 0 start point differs: 0 in '', 14 in 'wght=900.0'; reversed: True
+Glyph parenright.case was not compatible:
+    Contour 0 start point differs: 0 in '', 14 in 'wght=900.0'; reversed: True

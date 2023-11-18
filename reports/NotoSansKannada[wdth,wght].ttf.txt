@@ -1,4 +1,4 @@
-Glyph anusvaraaboverightknda was not compatible: 
+Glyph anusvaraaboverightknda was not compatible:
     Contour 0 start point differs: 0 in '', 4 in 'wdth=62.5'; reversed: False
     Contour 1 start point differs: 0 in '', 12 in 'wdth=62.5'; reversed: False
     Contour 0 start point differs: 0 in 'wdth=62.5', 12 in 'wdth=62.5 wght=100.0'; reversed: False

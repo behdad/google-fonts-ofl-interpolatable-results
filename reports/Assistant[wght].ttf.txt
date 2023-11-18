@@ -1,2 +1,2 @@
-Glyph gammalatin was not compatible: 
+Glyph gammalatin was not compatible:
     Contour order differs: [0, 1, 2] in '', [0, 2, 1] in 'wght=800.0'

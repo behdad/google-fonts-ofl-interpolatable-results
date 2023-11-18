@@ -1,7 +1,7 @@
-Glyph uni03020309 was not compatible: 
+Glyph uni03020309 was not compatible:
     Contour order differs: [0, 1, 2] in 'FLAR=100.0', [1, 0, 2] in 'FLAR=100.0 VOLM=100.0'
     Contour order differs: [0, 1, 2] in 'FLAR=100.0 VOLM=100.0', [1, 0, 2] in 'FLAR=100.0 VOLM=100.0 slnt=-12.0'
     Contour order differs: [0, 1, 2] in 'FLAR=100.0 VOLM=100.0', [1, 0, 2] in 'FLAR=100.0 VOLM=100.0 wght=900.0'
-Glyph uni0457.calt1 was not compatible: 
+Glyph uni0457.calt1 was not compatible:
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'FLAR=100.0'
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'slnt=-12.0'

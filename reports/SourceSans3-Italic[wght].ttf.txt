@@ -1,4 +1,4 @@
-Glyph uni03020303.c was not compatible: 
+Glyph uni03020303.c was not compatible:
     Contour 0 start point differs: 0 in '', 7 in 'wght=900.0'; reversed: False
-Glyph uni0302030C.c was not compatible: 
+Glyph uni0302030C.c was not compatible:
     Contour 0 start point differs: 0 in '', 7 in 'wght=900.0'; reversed: False

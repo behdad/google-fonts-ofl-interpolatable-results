@@ -1,46 +1,46 @@
-Glyph uni00A1 was not compatible: 
+Glyph uni00A1 was not compatible:
     Contour 0 start point differs: 0 in '', 1 in 'slnt=-10.0'; reversed: False
-Glyph uni01C2 was not compatible: 
+Glyph uni01C2 was not compatible:
     Contour order differs: [0, 1, 2] in 'slnt=-10.0', [0, 2, 1] in 'slnt=-10.0 wght=900.0'
-Glyph uni0246 was not compatible: 
+Glyph uni0246 was not compatible:
     Contour 0 start point differs: 0 in 'slnt=-10.0', 2 in 'slnt=-10.0 wght=100.0'; reversed: False
-Glyph uni02D4 was not compatible: 
+Glyph uni02D4 was not compatible:
     Contour order differs: [0, 1] in '', [1, 0] in 'slnt=-10.0'
-Glyph uni02EF was not compatible: 
+Glyph uni02EF was not compatible:
     Contour order differs: [0, 1] in '', [1, 0] in 'slnt=-10.0'
     Contour order differs: [0, 1] in 'slnt=-10.0', [1, 0] in 'slnt=-10.0 wght=100.0'
-Glyph uni02F2 was not compatible: 
+Glyph uni02F2 was not compatible:
     Contour order differs: [0, 1] in '', [1, 0] in 'slnt=-10.0'
-Glyph uni02F3 was not compatible: 
+Glyph uni02F3 was not compatible:
     Contour 0 start point differs: 0 in 'slnt=-10.0', 12 in 'slnt=-10.0 wght=100.0'; reversed: False
     Contour 1 start point differs: 0 in 'slnt=-10.0', 4 in 'slnt=-10.0 wght=100.0'; reversed: False
-Glyph uni02FA was not compatible: 
+Glyph uni02FA was not compatible:
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=900.0'
-Glyph uni030B was not compatible: 
+Glyph uni030B was not compatible:
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=100.0'
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=900.0'
     Contour order differs: [0, 1] in 'slnt=-10.0', [1, 0] in 'slnt=-10.0 wght=100.0'
-Glyph uni035D was not compatible: 
+Glyph uni035D was not compatible:
     Contour 0 start point differs: 0 in 'slnt=-10.0', 17 in 'slnt=-10.0 wght=100.0'; reversed: False
-Glyph uni036E was not compatible: 
+Glyph uni036E was not compatible:
     Contour 0 start point differs: 0 in '', 1 in 'wght=100.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=-10.0', 1 in 'slnt=-10.0 wght=100.0'; reversed: False
-Glyph uni0377 was not compatible: 
+Glyph uni0377 was not compatible:
     Contour 0 start point differs: 0 in '', 3 in 'wght=100.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=-10.0', 3 in 'slnt=-10.0 wght=100.0'; reversed: False
-Glyph uni03CF was not compatible: 
+Glyph uni03CF was not compatible:
     Contour 2 start point differs: 0 in 'slnt=-10.0', 3 in 'slnt=-10.0 wght=100.0'; reversed: False
-Glyph uni1DFD was not compatible: 
+Glyph uni1DFD was not compatible:
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=100.0'
     Contour order differs: [0, 1] in 'slnt=-10.0', [1, 0] in 'slnt=-10.0 wght=100.0'
-Glyph uni2380 was not compatible: 
+Glyph uni2380 was not compatible:
     Contour 0 start point differs: 0 in 'slnt=-10.0', 2 in 'slnt=-10.0 wght=100.0'; reversed: False
-Glyph uni2423 was not compatible: 
+Glyph uni2423 was not compatible:
     Contour 0 start point differs: 0 in '', 4 in 'wght=100.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=-10.0', 4 in 'slnt=-10.0 wght=100.0'; reversed: False
-Glyph uniE000 was not compatible: 
+Glyph uniE000 was not compatible:
     Contour order differs: [0, 1, 2, 3, 4, 5, 6, 7] in '', [0, 3, 1, 2, 4, 5, 6, 7] in 'slnt=-10.0'
-Glyph uniE117 was not compatible: 
+Glyph uniE117 was not compatible:
     Contour 0 start point differs: 0 in '', 12 in 'wght=100.0'; reversed: False
     Contour 1 start point differs: 0 in '', 12 in 'wght=100.0'; reversed: False
     Contour 0 start point differs: 0 in 'slnt=-10.0', 12 in 'slnt=-10.0 wght=100.0'; reversed: False

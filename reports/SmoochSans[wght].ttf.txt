@@ -1,6 +1,6 @@
-Glyph uni20BC was not compatible: 
+Glyph uni20BC was not compatible:
     Contour 1 start point differs: 0 in '', 3 in 'wght=900.0'; reversed: False
-Glyph uni27E8 was not compatible: 
+Glyph uni27E8 was not compatible:
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=900.0'
-Glyph uni27E9 was not compatible: 
+Glyph uni27E9 was not compatible:
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=900.0'
