@@ -1,0 +1,2 @@
+Glyph uni26A2 was not compatible: 
+    Contour 3 start point differs: 0 in '', 24 in 'wght=900.0'; reversed: False

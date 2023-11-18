@@ -1,0 +1,10 @@
+Glyph ellipsis was not compatible: 
+    Contour 0 start point differs: 0 in '', 12 in 'wght=900.0'; reversed: False
+    Contour 1 start point differs: 0 in '', 12 in 'wght=900.0'; reversed: False
+    Contour 2 start point differs: 0 in '', 12 in 'wght=900.0'; reversed: False
+Glyph quotedblright.sc was not compatible: 
+    Contour order differs: [0, 1] in '', [1, 0] in 'wght=900.0'
+Glyph threedotshorizontalbelowar was not compatible: 
+    Contour 0 start point differs: 0 in '', 4 in 'wght=900.0'; reversed: False
+    Contour 1 start point differs: 0 in '', 4 in 'wght=900.0'; reversed: False
+    Contour 2 start point differs: 0 in '', 4 in 'wght=900.0'; reversed: False

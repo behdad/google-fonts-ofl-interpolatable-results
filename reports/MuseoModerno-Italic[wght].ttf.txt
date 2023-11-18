@@ -1,0 +1,2 @@
+Glyph dollar was not compatible: 
+    Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'wght=600.0'

@@ -1,0 +1,2 @@
+Glyph uni04A8 was not compatible: 
+    Contour 1 start point differs: 0 in 'wght=500.0', 18 in 'wght=900.0'; reversed: False

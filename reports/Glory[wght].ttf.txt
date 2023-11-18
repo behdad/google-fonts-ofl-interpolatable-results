@@ -1,0 +1,2 @@
+Glyph thorn was not compatible: 
+    Contour 0 start point differs: 0 in '', 60 in 'wght=800.0'; reversed: False

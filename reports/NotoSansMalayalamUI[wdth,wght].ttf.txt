@@ -1,0 +1,6 @@
+Glyph kassamlym was not compatible: 
+    Contour order differs: [0, 1, 2, 3, 4] in 'wdth=62.5', [0, 1, 2, 4, 3] in 'wdth=62.5 wght=900.0'
+Glyph ssamlym was not compatible: 
+    Contour order differs: [0, 1, 2] in 'wdth=62.5', [0, 2, 1] in 'wdth=62.5 wght=900.0'
+Glyph ssattamlym was not compatible: 
+    Contour order differs: [0, 1, 2, 3] in 'wdth=62.5', [0, 1, 3, 2] in 'wdth=62.5 wght=900.0'

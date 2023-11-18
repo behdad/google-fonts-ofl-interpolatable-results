@@ -1,0 +1,7 @@
+Glyph uni20B1.BRACKET.440 was not compatible: 
+    Contour order differs: [0, 1, 2, 3, 4] in '', [1, 0, 2, 3, 4] in 'wght=500.0'
+Glyph uni3082.003 was not compatible: 
+    Contour order differs: [0, 1, 2] in '', [0, 2, 1] in 'wght=500.0'
+    Contour order differs: [0, 1, 2] in 'wght=500.0', [0, 2, 1] in 'wght=900.0'
+Glyph uni7E6D was not compatible: 
+    Contour 11 start point differs: 0 in 'wght=500.0', 1 in 'wght=900.0'; reversed: False

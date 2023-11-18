@@ -1,0 +1,2 @@
+Glyph dollar.BRACKET.varAlt01 was not compatible: 
+    Contour order differs: [0, 1, 2] in '', [0, 2, 1] in 'wght=1.0'

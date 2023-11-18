@@ -1,0 +1,15 @@
+Glyph at was not compatible: 
+    Contour 1 start point differs: 0 in '', 28 in 'wght=900.0'; reversed: False
+Glyph currency was not compatible: 
+    Contour 2 start point differs: 0 in '', 4 in 'wght=100.0'; reversed: False
+Glyph g was not compatible: 
+    Contour 1 start point differs: 0 in '', 2 in 'wght=900.0'; reversed: False
+Glyph lira was not compatible: 
+    Contour 1 start point differs: 0 in '', 5 in 'wght=100.0'; reversed: False
+    Contour 2 start point differs: 0 in '', 5 in 'wght=100.0'; reversed: False
+Glyph zero was not compatible: 
+    Contour 1 start point differs: 0 in '', 28 in 'wght=900.0'; reversed: False
+Glyph zero.lf was not compatible: 
+    Contour 1 start point differs: 0 in '', 34 in 'wght=900.0'; reversed: False
+Glyph zero.zero was not compatible: 
+    Contour 2 start point differs: 0 in '', 28 in 'wght=900.0'; reversed: False

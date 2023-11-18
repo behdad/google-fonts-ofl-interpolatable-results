@@ -1,0 +1,6 @@
+Glyph ellipsis was not compatible: 
+    Contour order differs: [0, 1, 2] in 'opsz=16.0', [2, 1, 0] in 'opsz=16.0 wght=400.0'
+    Contour order differs: [0, 1, 2] in 'opsz=16.0 wght=400.0', [1, 0, 2] in 'opsz=16.0 wght=100.0'
+Glyph logicalnot was not compatible: 
+    Contour order differs: [0, 1] in '', [1, 0] in 'opsz=16.0'
+    Contour order differs: [0, 1] in '', [1, 0] in 'wght=400.0'

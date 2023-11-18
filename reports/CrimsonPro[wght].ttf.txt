@@ -1,0 +1,5 @@
+Glyph uni20B2.BRACKET.700 was not compatible: 
+    Contour 1 start point differs: 0 in '', 3 in 'wght=200.0'; reversed: False
+    Contour 2 start point differs: 0 in '', 1 in 'wght=200.0'; reversed: False
+    Contour 1 start point differs: 0 in '', 3 in 'wght=600.0122'; reversed: False
+    Contour 2 start point differs: 0 in '', 1 in 'wght=600.0122'; reversed: False

@@ -1,0 +1,6 @@
+Glyph sh_caoriya was not compatible: 
+    Contour order differs: [0, 1, 2, 3, 4, 5, 6] in '', [0, 2, 1, 3, 4, 5, 6] in 'wght=700.0'
+Glyph uni00760921 was not compatible: 
+    Contour 1 start point differs: 0 in '', 6 in 'wght=700.0'; reversed: False
+Glyph uni0931094D was not compatible: 
+    Contour 0 start point differs: 0 in '', 8 in 'wght=700.0'; reversed: False

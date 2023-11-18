@@ -1,0 +1,8 @@
+Glyph X was not compatible: 
+    Contour 3 start point differs: 0 in 'opsz=60.0', 5 in 'opsz=60.0 wght=200.0'; reversed: False
+    Contour 4 start point differs: 0 in 'opsz=60.0', 1 in 'opsz=60.0 wght=200.0'; reversed: False
+Glyph uni042E was not compatible: 
+    Contour 2 start point differs: 0 in 'opsz=60.0', 2 in 'opsz=60.0 wght=900.0'; reversed: False
+Glyph uni04B2 was not compatible: 
+    Contour 4 start point differs: 0 in 'opsz=60.0', 5 in 'opsz=60.0 wght=200.0'; reversed: False
+    Contour 5 start point differs: 0 in 'opsz=60.0', 1 in 'opsz=60.0 wght=200.0'; reversed: False

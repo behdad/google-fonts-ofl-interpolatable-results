@@ -1,0 +1,6 @@
+Glyph hungarumlaut was not compatible: 
+    Contour order differs: [0, 1] in '', [1, 0] in 'wght=900.0'
+Glyph uni030B was not compatible: 
+    Contour order differs: [0, 1] in '', [1, 0] in 'wght=900.0'
+Glyph uni030B.case was not compatible: 
+    Contour order differs: [0, 1] in '', [1, 0] in 'wght=900.0'

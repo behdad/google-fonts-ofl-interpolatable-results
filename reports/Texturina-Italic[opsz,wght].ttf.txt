@@ -1,0 +1,20 @@
+Glyph uni0308 was not compatible: 
+    Contour order differs: [0, 1] in '', [1, 0] in 'opsz=72.0'
+    Contour order differs: [0, 1] in '', [1, 0] in 'wght=100.0'
+    Contour order differs: [0, 1] in '', [1, 0] in 'wght=900.0'
+Glyph uni0308.case was not compatible: 
+    Contour order differs: [0, 1] in '', [1, 0] in 'wght=100.0'
+Glyph uni030B.case was not compatible: 
+    Contour order differs: [0, 1] in '', [1, 0] in 'wght=900.0'
+Glyph uni030F was not compatible: 
+    Contour order differs: [0, 1] in '', [1, 0] in 'wght=100.0'
+Glyph uni030F.case was not compatible: 
+    Contour order differs: [0, 1] in '', [1, 0] in 'wght=100.0'
+Glyph uni0324 was not compatible: 
+    Contour order differs: [0, 1] in '', [1, 0] in 'opsz=72.0'
+    Contour order differs: [0, 1] in '', [1, 0] in 'wght=100.0'
+    Contour order differs: [0, 1] in '', [1, 0] in 'wght=900.0'
+Glyph uni0324.case was not compatible: 
+    Contour order differs: [0, 1] in '', [1, 0] in 'opsz=72.0'
+    Contour order differs: [0, 1] in '', [1, 0] in 'wght=100.0'
+    Contour order differs: [0, 1] in '', [1, 0] in 'wght=900.0'

@@ -1,0 +1,2 @@
+Glyph colonmonetary was not compatible: 
+    Contour order differs: [0, 1, 2, 3, 4] in '', [3, 1, 2, 0, 4] in 'wght=700.0'

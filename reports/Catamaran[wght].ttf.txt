@@ -1,0 +1,5 @@
+Glyph degree was not compatible: 
+    Contour 1 start point differs: 0 in 'wght=500.0', 12 in 'wght=700.0'; reversed: False
+Glyph tm_NyU was not compatible: 
+    Contour 1 start point differs: 0 in 'wght=500.0', 12 in 'wght=700.0'; reversed: False
+    Contour 1 start point differs: 0 in 'wght=700.0', 4 in 'wght=900.0'; reversed: False
