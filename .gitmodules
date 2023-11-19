@@ -1,0 +1,6 @@
+[submodule "submodules/fonttools"]
+	path = submodules/fonttools
+	url = git@github.com:fonttools/fonttools.git
+[submodule "submodules/google-fonts"]
+	path = submodules/google-fonts
+	url = git@github.com:google/fonts.git
