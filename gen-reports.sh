@@ -12,9 +12,10 @@ if [ -z "$out" ]; then
 fi
 
 mkdir -p $out &&
-time find $dir -name '*\[*.ttf' -print0 |
-  xargs --verbose -0 -P 24 -I{} \
-  fonttools varLib.interpolatable "{}" --pdf "{}".pdf --output "{}".txt
+time find $dir -name '*\[*.ttf' -print |
+  PYTHONPATH=~/fonttools/build/lib.linux-x86_64-cpython-312 \
+  xargs --verbose -P 24 -I{} \
+  python -m fontTools.varLib.interpolatable "{}" --pdf "{}".pdf --output "{}".txt
 
 if $clear; then
   echo "Clearing $out"
