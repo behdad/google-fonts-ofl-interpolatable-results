@@ -1,3 +1,3 @@
 Glyph uni1C73 was not compatible:
-    Contour 1 start point differs: 0 in 'wght=499.9939', 14 in 'wght=600.0061'; reversed: False
-    Contour 1 start point differs: 0 in 'wght=600.0061', 14 in 'wght=700.0'; reversed: False
+    Contour 1 start point differs: 0 in 'wght=499.9939', 2 in 'wght=600.0061'; reversed: False
+    Contour 1 start point differs: 0 in 'wght=600.0061', 2 in 'wght=700.0'; reversed: False

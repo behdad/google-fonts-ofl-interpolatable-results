@@ -1,2 +1,2 @@
 Glyph uni05D9 was not compatible:
-    Contour 0 start point differs: 0 in '', 48 in 'wght=900.0'; reversed: False
+    Contour 0 start point differs: 0 in '', 2 in 'wght=900.0'; reversed: False

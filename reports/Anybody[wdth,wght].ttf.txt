@@ -1,2 +1,2 @@
 Glyph dotaccent was not compatible:
-    Contour 0 start point differs: 0 in '', 14 in 'wdth=150.0'; reversed: True
+    Contour 0 start point differs: 0 in '', 0 in 'wdth=150.0'; reversed: True

@@ -1,28 +1,28 @@
 Glyph U was not compatible:
-    Contour 0 start point differs: 0 in 'CASL=1.0', 2 in 'CASL=1.0 wght=800.0061'; reversed: False
-    Contour 0 start point differs: 0 in 'CASL=1.0 MONO=1.0', 2 in 'CASL=1.0 MONO=1.0 wght=800.0061'; reversed: False
-    Contour 0 start point differs: 0 in 'CASL=1.0 MONO=1.0 wght=800.0061', 46 in 'CASL=1.0 MONO=1.0 wght=1000.0'; reversed: False
+    Contour 0 start point differs: 0 in 'CASL=1.0', 46 in 'CASL=1.0 wght=800.0061'; reversed: False
+    Contour 0 start point differs: 0 in 'CASL=1.0 MONO=1.0', 46 in 'CASL=1.0 MONO=1.0 wght=800.0061'; reversed: False
+    Contour 0 start point differs: 0 in 'CASL=1.0 MONO=1.0 wght=800.0061', 2 in 'CASL=1.0 MONO=1.0 wght=1000.0'; reversed: False
 Glyph Uhungarumlaut was not compatible:
-    Contour 2 start point differs: 0 in 'CASL=1.0', 2 in 'CASL=1.0 wght=800.0061'; reversed: False
-    Contour 2 start point differs: 0 in 'CASL=1.0 MONO=1.0', 2 in 'CASL=1.0 MONO=1.0 wght=800.0061'; reversed: False
-    Contour 2 start point differs: 0 in 'CASL=1.0 MONO=1.0 wght=800.0061', 46 in 'CASL=1.0 MONO=1.0 wght=1000.0'; reversed: False
+    Contour 2 start point differs: 0 in 'CASL=1.0', 46 in 'CASL=1.0 wght=800.0061'; reversed: False
+    Contour 2 start point differs: 0 in 'CASL=1.0 MONO=1.0', 46 in 'CASL=1.0 MONO=1.0 wght=800.0061'; reversed: False
+    Contour 2 start point differs: 0 in 'CASL=1.0 MONO=1.0 wght=800.0061', 2 in 'CASL=1.0 MONO=1.0 wght=1000.0'; reversed: False
 Glyph currency was not compatible:
-    Contour 0 start point differs: 0 in 'CASL=1.0', 2 in 'CASL=1.0 wght=800.0061'; reversed: False
-    Contour 1 start point differs: 0 in 'CASL=1.0', 30 in 'CASL=1.0 wght=800.0061'; reversed: False
-    Contour 2 start point differs: 0 in 'CASL=1.0', 2 in 'CASL=1.0 wght=800.0061'; reversed: False
-    Contour 3 start point differs: 0 in 'CASL=1.0', 30 in 'CASL=1.0 wght=800.0061'; reversed: False
-    Contour 0 start point differs: 0 in 'CASL=1.0 slnt=-14.0497', 2 in 'CASL=1.0 slnt=-14.0497 wght=800.0061'; reversed: False
-    Contour 1 start point differs: 0 in 'CASL=1.0 slnt=-14.0497', 30 in 'CASL=1.0 slnt=-14.0497 wght=800.0061'; reversed: False
-    Contour 2 start point differs: 0 in 'CASL=1.0 slnt=-14.0497', 2 in 'CASL=1.0 slnt=-14.0497 wght=800.0061'; reversed: False
-    Contour 3 start point differs: 0 in 'CASL=1.0 slnt=-14.0497', 30 in 'CASL=1.0 slnt=-14.0497 wght=800.0061'; reversed: False
+    Contour 0 start point differs: 0 in 'CASL=1.0', 26 in 'CASL=1.0 wght=800.0061'; reversed: False
+    Contour 1 start point differs: 0 in 'CASL=1.0', 2 in 'CASL=1.0 wght=800.0061'; reversed: False
+    Contour 2 start point differs: 0 in 'CASL=1.0', 24 in 'CASL=1.0 wght=800.0061'; reversed: False
+    Contour 3 start point differs: 0 in 'CASL=1.0', 2 in 'CASL=1.0 wght=800.0061'; reversed: False
+    Contour 0 start point differs: 0 in 'CASL=1.0 slnt=-14.0497', 26 in 'CASL=1.0 slnt=-14.0497 wght=800.0061'; reversed: False
+    Contour 1 start point differs: 0 in 'CASL=1.0 slnt=-14.0497', 2 in 'CASL=1.0 slnt=-14.0497 wght=800.0061'; reversed: False
+    Contour 2 start point differs: 0 in 'CASL=1.0 slnt=-14.0497', 24 in 'CASL=1.0 slnt=-14.0497 wght=800.0061'; reversed: False
+    Contour 3 start point differs: 0 in 'CASL=1.0 slnt=-14.0497', 2 in 'CASL=1.0 slnt=-14.0497 wght=800.0061'; reversed: False
 Glyph horncombo was not compatible:
-    Contour 0 start point differs: 0 in '', 2 in 'CASL=1.0'; reversed: False
+    Contour 0 start point differs: 0 in '', 48 in 'CASL=1.0'; reversed: False
 Glyph horncombo.case was not compatible:
-    Contour 0 start point differs: 0 in '', 2 in 'CASL=1.0'; reversed: False
+    Contour 0 start point differs: 0 in '', 44 in 'CASL=1.0'; reversed: False
 Glyph one was not compatible:
-    Contour 1 start point differs: 0 in '', 56 in 'CASL=1.0'; reversed: False
+    Contour 1 start point differs: 0 in '', 2 in 'CASL=1.0'; reversed: False
 Glyph one.pnum was not compatible:
-    Contour 1 start point differs: 0 in '', 56 in 'CASL=1.0'; reversed: False
+    Contour 1 start point differs: 0 in '', 2 in 'CASL=1.0'; reversed: False
 Glyph perthousand was not compatible:
     Contour 2 start point differs: 0 in 'wght=800.0061', 25 in 'wght=1000.0'; reversed: True
     Contour 4 start point differs: 0 in 'wght=800.0061', 25 in 'wght=1000.0'; reversed: True
@@ -37,25 +37,25 @@ Glyph perthousand was not compatible:
     Contour 4 start point differs: 0 in 'CASL=1.0 slnt=-14.0497 wght=800.0061', 25 in 'CASL=1.0 slnt=-14.0497 wght=1000.0'; reversed: True
     Contour 6 start point differs: 0 in 'CASL=1.0 slnt=-14.0497 wght=800.0061', 25 in 'CASL=1.0 slnt=-14.0497 wght=1000.0'; reversed: True
 Glyph r was not compatible:
-    Contour 1 start point differs: 0 in '', 2 in 'CASL=1.0'; reversed: False
+    Contour 1 start point differs: 0 in '', 48 in 'CASL=1.0'; reversed: False
 Glyph rcaron was not compatible:
-    Contour 2 start point differs: 0 in '', 2 in 'CASL=1.0'; reversed: False
+    Contour 2 start point differs: 0 in '', 48 in 'CASL=1.0'; reversed: False
 Glyph uni0211 was not compatible:
-    Contour 3 start point differs: 0 in '', 2 in 'CASL=1.0'; reversed: False
+    Contour 3 start point differs: 0 in '', 48 in 'CASL=1.0'; reversed: False
 Glyph uni0214 was not compatible:
-    Contour 2 start point differs: 0 in 'CASL=1.0', 2 in 'CASL=1.0 wght=800.0061'; reversed: False
-    Contour 2 start point differs: 0 in 'CASL=1.0 MONO=1.0', 2 in 'CASL=1.0 MONO=1.0 wght=800.0061'; reversed: False
-    Contour 2 start point differs: 0 in 'CASL=1.0 MONO=1.0 wght=800.0061', 46 in 'CASL=1.0 MONO=1.0 wght=1000.0'; reversed: False
+    Contour 2 start point differs: 0 in 'CASL=1.0', 46 in 'CASL=1.0 wght=800.0061'; reversed: False
+    Contour 2 start point differs: 0 in 'CASL=1.0 MONO=1.0', 46 in 'CASL=1.0 MONO=1.0 wght=800.0061'; reversed: False
+    Contour 2 start point differs: 0 in 'CASL=1.0 MONO=1.0 wght=800.0061', 2 in 'CASL=1.0 MONO=1.0 wght=1000.0'; reversed: False
 Glyph uni031B was not compatible:
-    Contour 0 start point differs: 0 in '', 2 in 'CASL=1.0'; reversed: False
+    Contour 0 start point differs: 0 in '', 42 in 'CASL=1.0'; reversed: False
 Glyph uni031B.case was not compatible:
-    Contour 0 start point differs: 0 in '', 2 in 'CASL=1.0'; reversed: False
+    Contour 0 start point differs: 0 in '', 40 in 'CASL=1.0'; reversed: False
 Glyph uni1E5F was not compatible:
-    Contour 2 start point differs: 0 in '', 2 in 'CASL=1.0'; reversed: False
+    Contour 2 start point differs: 0 in '', 48 in 'CASL=1.0'; reversed: False
 Glyph uni1EE2 was not compatible:
-    Contour 3 start point differs: 0 in '', 2 in 'CASL=1.0'; reversed: False
+    Contour 3 start point differs: 0 in '', 40 in 'CASL=1.0'; reversed: False
 Glyph uni1EF0 was not compatible:
-    Contour 3 start point differs: 0 in '', 2 in 'CASL=1.0'; reversed: False
-    Contour 1 start point differs: 0 in 'CASL=1.0', 2 in 'CASL=1.0 wght=800.0061'; reversed: False
-    Contour 1 start point differs: 0 in 'CASL=1.0 MONO=1.0', 2 in 'CASL=1.0 MONO=1.0 wght=800.0061'; reversed: False
-    Contour 1 start point differs: 0 in 'CASL=1.0 MONO=1.0 wght=800.0061', 46 in 'CASL=1.0 MONO=1.0 wght=1000.0'; reversed: False
+    Contour 3 start point differs: 0 in '', 40 in 'CASL=1.0'; reversed: False
+    Contour 1 start point differs: 0 in 'CASL=1.0', 46 in 'CASL=1.0 wght=800.0061'; reversed: False
+    Contour 1 start point differs: 0 in 'CASL=1.0 MONO=1.0', 46 in 'CASL=1.0 MONO=1.0 wght=800.0061'; reversed: False
+    Contour 1 start point differs: 0 in 'CASL=1.0 MONO=1.0 wght=800.0061', 2 in 'CASL=1.0 MONO=1.0 wght=1000.0'; reversed: False

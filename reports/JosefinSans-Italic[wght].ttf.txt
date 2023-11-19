@@ -1,10 +1,10 @@
 Glyph exclam was not compatible:
-    Contour 1 start point differs: 0 in '', 14 in 'wght=299.9878'; reversed: False
-    Contour 1 start point differs: 0 in 'wght=299.9878', 14 in 'wght=700.0'; reversed: False
+    Contour 1 start point differs: 0 in '', 2 in 'wght=299.9878'; reversed: False
+    Contour 1 start point differs: 0 in 'wght=299.9878', 2 in 'wght=700.0'; reversed: False
 Glyph exclamdown was not compatible:
-    Contour 1 start point differs: 0 in '', 14 in 'wght=299.9878'; reversed: False
-    Contour 1 start point differs: 0 in 'wght=299.9878', 14 in 'wght=700.0'; reversed: False
+    Contour 1 start point differs: 0 in '', 2 in 'wght=299.9878'; reversed: False
+    Contour 1 start point differs: 0 in 'wght=299.9878', 2 in 'wght=700.0'; reversed: False
 Glyph perthousand was not compatible:
-    Contour 1 start point differs: 0 in 'wght=299.9878', 20 in 'wght=700.0'; reversed: False
-    Contour 3 start point differs: 0 in 'wght=299.9878', 18 in 'wght=700.0'; reversed: False
-    Contour 6 start point differs: 0 in 'wght=299.9878', 20 in 'wght=700.0'; reversed: False
+    Contour 1 start point differs: 0 in 'wght=299.9878', 8 in 'wght=700.0'; reversed: False
+    Contour 3 start point differs: 0 in 'wght=299.9878', 8 in 'wght=700.0'; reversed: False
+    Contour 6 start point differs: 0 in 'wght=299.9878', 8 in 'wght=700.0'; reversed: False

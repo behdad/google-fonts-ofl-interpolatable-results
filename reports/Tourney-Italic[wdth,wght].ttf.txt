@@ -1,10 +1,10 @@
 Glyph Lslash was not compatible:
-    Contour 1 start point differs: 0 in 'wght=700.0', 9 in 'wght=900.0'; reversed: True
+    Contour 1 start point differs: 0 in 'wght=700.0', 3 in 'wght=900.0'; reversed: True
 Glyph M was not compatible:
-    Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 13 in 'wdth=125.0 wght=900.0'; reversed: True
+    Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph N was not compatible:
-    Contour 0 start point differs: 0 in 'wght=700.0', 9 in 'wght=900.0'; reversed: True
-    Contour 0 start point differs: 0 in 'wdth=125.0 wght=700.0', 9 in 'wdth=125.0 wght=900.0'; reversed: True
+    Contour 0 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
+    Contour 0 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph acute was not compatible:
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
 Glyph acutecomb was not compatible:
@@ -16,7 +16,7 @@ Glyph acutecomb.case was not compatible:
     Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
     Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph asciicircum was not compatible:
-    Contour 1 start point differs: 0 in 'wght=700.0', 5 in 'wght=900.0'; reversed: True
+    Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
 Glyph backslash was not compatible:
     Contour 1 start point differs: 0 in 'wght=700.0', 3 in 'wght=900.0'; reversed: True
 Glyph bar was not compatible:
@@ -50,9 +50,9 @@ Glyph guillemotright was not compatible:
     Contour 1 start point differs: 0 in 'wght=700.0', 7 in 'wght=900.0'; reversed: True
     Contour 3 start point differs: 0 in 'wght=700.0', 7 in 'wght=900.0'; reversed: True
 Glyph guilsinglleft was not compatible:
-    Contour 1 start point differs: 0 in 'wght=700.0', 5 in 'wght=900.0'; reversed: True
-    Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 5 in 'wdth=75.0 wght=900.0'; reversed: True
-    Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 5 in 'wdth=125.0 wght=900.0'; reversed: True
+    Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
+    Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
+    Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph guilsinglright was not compatible:
     Contour 1 start point differs: 0 in 'wght=700.0', 7 in 'wght=900.0'; reversed: True
 Glyph hungarumlaut was not compatible:
@@ -76,9 +76,9 @@ Glyph j.ss01 was not compatible:
 Glyph l.ss01 was not compatible:
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
 Glyph less was not compatible:
-    Contour 1 start point differs: 0 in 'wght=700.0', 5 in 'wght=900.0'; reversed: True
-    Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 5 in 'wdth=75.0 wght=900.0'; reversed: True
-    Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 5 in 'wdth=125.0 wght=900.0'; reversed: True
+    Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
+    Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
+    Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph quotedblleft was not compatible:
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
     Contour 3 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
@@ -89,26 +89,26 @@ Glyph quoteright was not compatible:
     Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
     Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph quotesingle was not compatible:
-    Contour 1 start point differs: 0 in 'wght=700.0', 3 in 'wght=900.0'; reversed: True
-    Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 3 in 'wdth=75.0 wght=900.0'; reversed: True
-    Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 3 in 'wdth=125.0 wght=900.0'; reversed: True
+    Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
+    Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
+    Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph registered was not compatible:
-    Contour 5 start point differs: 0 in 'wght=700.0', 7 in 'wght=900.0'; reversed: True
+    Contour 5 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
 Glyph seven was not compatible:
-    Contour 1 start point differs: 0 in 'wght=700.0', 5 in 'wght=900.0'; reversed: True
-    Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 5 in 'wdth=75.0 wght=900.0'; reversed: True
+    Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
+    Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
 Glyph slash was not compatible:
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
 Glyph tilde was not compatible:
-    Contour 1 start point differs: 0 in 'wght=700.0', 13 in 'wght=900.0'; reversed: True
-    Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 13 in 'wdth=75.0 wght=900.0'; reversed: True
-    Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 13 in 'wdth=125.0 wght=900.0'; reversed: True
+    Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
+    Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
+    Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph tildecomb was not compatible:
-    Contour 1 start point differs: 0 in 'wght=700.0', 13 in 'wght=900.0'; reversed: True
-    Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 13 in 'wdth=75.0 wght=900.0'; reversed: True
-    Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 13 in 'wdth=125.0 wght=900.0'; reversed: True
+    Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
+    Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
+    Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph tildecomb.case was not compatible:
-    Contour 1 start point differs: 0 in 'wght=700.0', 13 in 'wght=900.0'; reversed: True
+    Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
 Glyph uni0237 was not compatible:
     Contour 1 start point differs: 0 in 'wght=700.0', 9 in 'wght=900.0'; reversed: True
     Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 9 in 'wdth=75.0 wght=900.0'; reversed: True
@@ -148,9 +148,9 @@ Glyph uni030B.case was not compatible:
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
     Contour 3 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
 Glyph uni030C.alt was not compatible:
-    Contour 1 start point differs: 0 in 'wght=700.0', 3 in 'wght=900.0'; reversed: True
-    Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 3 in 'wdth=75.0 wght=900.0'; reversed: True
-    Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 3 in 'wdth=125.0 wght=900.0'; reversed: True
+    Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
+    Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
+    Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph uni030F was not compatible:
     Contour 1 start point differs: 0 in 'wght=700.0', 3 in 'wght=900.0'; reversed: True
     Contour 3 start point differs: 0 in 'wght=700.0', 3 in 'wght=900.0'; reversed: True

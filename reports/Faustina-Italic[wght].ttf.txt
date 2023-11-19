@@ -1,4 +1,4 @@
 Glyph dollar was not compatible:
-    Contour 1 start point differs: 0 in '', 3 in 'wght=800.0'; reversed: False
+    Contour 1 start point differs: 0 in '', 1 in 'wght=800.0'; reversed: False
 Glyph uni20B2.osf was not compatible:
-    Contour 2 start point differs: 0 in '', 3 in 'wght=800.0'; reversed: False
+    Contour 2 start point differs: 0 in '', 1 in 'wght=800.0'; reversed: False

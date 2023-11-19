@@ -1,11 +1,11 @@
 Glyph .notdef was not compatible:
     Contour order differs: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9] in '', [4, 1, 3, 2, 0, 5, 6, 8, 7, 9] in 'wght=500.0'
     Contour order differs: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9] in 'wght=550.0', [4, 1, 3, 2, 0, 5, 6, 8, 7, 9] in 'wght=900.0'
-    Contour 1 start point differs: 0 in '', 9 in 'wght=500.0'; reversed: True
-    Contour 5 start point differs: 0 in '', 4 in 'wght=500.0'; reversed: True
-    Contour 6 start point differs: 0 in '', 8 in 'wght=500.0'; reversed: True
-    Contour 9 start point differs: 0 in '', 10 in 'wght=500.0'; reversed: True
-    Contour 1 start point differs: 0 in 'wght=550.0', 9 in 'wght=900.0'; reversed: True
-    Contour 5 start point differs: 0 in 'wght=550.0', 4 in 'wght=900.0'; reversed: True
-    Contour 6 start point differs: 0 in 'wght=550.0', 8 in 'wght=900.0'; reversed: True
-    Contour 9 start point differs: 0 in 'wght=550.0', 10 in 'wght=900.0'; reversed: True
+    Contour 1 start point differs: 0 in '', 0 in 'wght=500.0'; reversed: True
+    Contour 5 start point differs: 0 in '', 0 in 'wght=500.0'; reversed: True
+    Contour 6 start point differs: 0 in '', 0 in 'wght=500.0'; reversed: True
+    Contour 9 start point differs: 0 in '', 0 in 'wght=500.0'; reversed: True
+    Contour 1 start point differs: 0 in 'wght=550.0', 0 in 'wght=900.0'; reversed: True
+    Contour 5 start point differs: 0 in 'wght=550.0', 0 in 'wght=900.0'; reversed: True
+    Contour 6 start point differs: 0 in 'wght=550.0', 0 in 'wght=900.0'; reversed: True
+    Contour 9 start point differs: 0 in 'wght=550.0', 0 in 'wght=900.0'; reversed: True

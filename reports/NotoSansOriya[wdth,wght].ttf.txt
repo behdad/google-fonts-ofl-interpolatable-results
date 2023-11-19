@@ -1,6 +1,6 @@
 Glyph laphaoriya was not compatible:
     Contour order differs: [0, 1, 2, 3, 4, 5] in '', [0, 1, 2, 3, 5, 4] in 'wght=900.0'
-    Contour 5 start point differs: 0 in '', 14 in 'wght=100.0'; reversed: True
+    Contour 5 start point differs: 0 in '', 0 in 'wght=100.0'; reversed: True
 Glyph uni0B19.base was not compatible:
-    Contour 2 start point differs: 0 in '', 4 in 'wght=900.0'; reversed: False
-    Contour 2 start point differs: 0 in 'wght=900.0', 12 in 'wdth=62.5 wght=900.0'; reversed: False
+    Contour 2 start point differs: 0 in '', 12 in 'wght=900.0'; reversed: False
+    Contour 2 start point differs: 0 in 'wght=900.0', 4 in 'wdth=62.5 wght=900.0'; reversed: False

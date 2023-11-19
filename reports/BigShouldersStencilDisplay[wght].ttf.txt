@@ -1,5 +1,5 @@
 Glyph Oslash was not compatible:
-    Contour 0 start point differs: 0 in 'wght=333.6003', 2 in 'wght=900.0'; reversed: True
+    Contour 0 start point differs: 0 in 'wght=333.6003', 0 in 'wght=900.0'; reversed: True
 Glyph dcroat was not compatible:
-    Contour 0 start point differs: 0 in '', 1 in 'wght=333.6003'; reversed: False
-    Contour 1 start point differs: 0 in '', 1 in 'wght=333.6003'; reversed: False
+    Contour 0 start point differs: 0 in '', 3 in 'wght=333.6003'; reversed: False
+    Contour 1 start point differs: 0 in '', 3 in 'wght=333.6003'; reversed: False

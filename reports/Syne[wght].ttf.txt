@@ -1,2 +1,2 @@
 Glyph guillemotleft was not compatible:
-    Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=800.0'; reversed: False
+    Contour 1 start point differs: 0 in 'wght=700.0', 5 in 'wght=800.0'; reversed: False

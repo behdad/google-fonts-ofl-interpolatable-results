@@ -1,5 +1,5 @@
 Glyph uni0595 was not compatible:
-    Contour 1 start point differs: 0 in 'wght=699.9878', 4 in 'wght=900.0'; reversed: False
-    Contour 2 start point differs: 0 in 'wght=699.9878', 4 in 'wght=900.0'; reversed: False
-    Contour 1 start point differs: 0 in 'wdth=62.5 wght=699.9878', 4 in 'wdth=62.5 wght=900.0'; reversed: False
-    Contour 2 start point differs: 0 in 'wdth=62.5 wght=699.9878', 4 in 'wdth=62.5 wght=900.0'; reversed: False
+    Contour 1 start point differs: 0 in 'wght=699.9878', 12 in 'wght=900.0'; reversed: False
+    Contour 2 start point differs: 0 in 'wght=699.9878', 12 in 'wght=900.0'; reversed: False
+    Contour 1 start point differs: 0 in 'wdth=62.5 wght=699.9878', 12 in 'wdth=62.5 wght=900.0'; reversed: False
+    Contour 2 start point differs: 0 in 'wdth=62.5 wght=699.9878', 12 in 'wdth=62.5 wght=900.0'; reversed: False
