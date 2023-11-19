@@ -13,6 +13,7 @@ fi
 
 mkdir -p $out &&
 time find $dir -name '*\[*.ttf' -print |
+  xargs ls --sort=size |
   PYTHONPATH=~/fonttools/build/lib.linux-x86_64-cpython-312 \
   xargs --verbose -P 24 -I{} \
   python -m fontTools.varLib.interpolatable "{}" --pdf "{}".pdf --output "{}".txt
