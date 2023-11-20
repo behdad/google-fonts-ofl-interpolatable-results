@@ -1,20 +1,30 @@
 Glyph Ecircumflex was not compatible:
+  Masters: '', 'wght=300.0':
     Contour 1 start point differs: 0 in '', 34 in 'wght=300.0'; reversed: False
 Glyph Icircumflex was not compatible:
+  Masters: '', 'wght=300.0':
     Contour 1 start point differs: 0 in '', 34 in 'wght=300.0'; reversed: False
 Glyph Itilde was not compatible:
+  Masters: '', 'wght=300.0':
     Contour 1 start point differs: 0 in '', 34 in 'wght=300.0'; reversed: False
 Glyph Jcircumflex was not compatible:
+  Masters: '', 'wght=300.0':
     Contour 1 start point differs: 0 in '', 34 in 'wght=300.0'; reversed: False
 Glyph Ntilde was not compatible:
+  Masters: '', 'wght=300.0':
     Contour 2 start point differs: 0 in '', 34 in 'wght=300.0'; reversed: False
 Glyph Ocircumflex was not compatible:
+  Masters: '', 'wght=300.0':
     Contour 1 start point differs: 0 in '', 34 in 'wght=300.0'; reversed: False
 Glyph Otilde was not compatible:
+  Masters: '', 'wght=300.0':
     Contour 1 start point differs: 0 in '', 34 in 'wght=300.0'; reversed: False
 Glyph Ucircumflex was not compatible:
+  Masters: '', 'wght=300.0':
     Contour 1 start point differs: 0 in '', 34 in 'wght=300.0'; reversed: False
 Glyph ecircumflex was not compatible:
+  Masters: '', 'wght=300.0':
     Contour 1 start point differs: 0 in '', 34 in 'wght=300.0'; reversed: False
 Glyph ntilde was not compatible:
+  Masters: '', 'wght=300.0':
     Contour 1 start point differs: 0 in '', 34 in 'wght=300.0'; reversed: False

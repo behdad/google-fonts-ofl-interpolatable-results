@@ -1,12 +1,20 @@
 Glyph cent.BRACKET.110 was not compatible:
+  Masters: '', 'wght=100.0':
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'wght=100.0'
+  Masters: 'wdth=62.0', 'wdth=62.0 wght=100.0':
     Contour order differs: [0, 1, 2] in 'wdth=62.0', [1, 0, 2] in 'wdth=62.0 wght=100.0'
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=100.0':
     Contour order differs: [0, 1, 2] in 'wdth=125.0', [1, 0, 2] in 'wdth=125.0 wght=100.0'
 Glyph dollar.BRACKET.110 was not compatible:
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=100.0':
     Contour order differs: [0, 1, 2] in 'wdth=125.0', [1, 0, 2] in 'wdth=125.0 wght=100.0'
 Glyph intersection was not compatible:
+  Masters: '', 'wght=900.0':
     Contour 0 start point differs: 0 in '', 18 in 'wght=900.0'; reversed: True
+  Masters: 'wdth=62.0', 'wdth=62.0 wght=900.0':
     Contour 0 start point differs: 0 in 'wdth=62.0', 18 in 'wdth=62.0 wght=900.0'; reversed: True
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=900.0':
     Contour 0 start point differs: 0 in 'wdth=125.0', 18 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph multiply was not compatible:
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=100.0':
     Contour 0 start point differs: 0 in 'wdth=125.0', 2 in 'wdth=125.0 wght=100.0'; reversed: False

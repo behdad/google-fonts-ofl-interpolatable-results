@@ -1,16 +1,25 @@
 Glyph asciicircum was not compatible:
+  Masters: '', 'wght=300.0':
     Contour 0 start point differs: 0 in '', 1 in 'wght=300.0'; reversed: False
 Glyph brokenbar was not compatible:
+  Masters: '', 'wght=700.0':
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=700.0'
 Glyph dieresis was not compatible:
+  Masters: 'wght=700.0', 'wght=800.0':
     Contour order differs: [0, 1] in 'wght=700.0', [1, 0] in 'wght=800.0'
 Glyph equal was not compatible:
+  Masters: 'wght=700.0', 'wght=800.0':
     Contour order differs: [0, 1] in 'wght=700.0', [1, 0] in 'wght=800.0'
 Glyph lslash was not compatible:
+  Masters: '', 'wght=300.0':
     Contour 0 start point differs: 0 in '', 3 in 'wght=300.0'; reversed: False
+  Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 3 in 'wght=700.0'; reversed: False
+  Masters: 'wght=700.0', 'wght=800.0':
     Contour 0 start point differs: 0 in 'wght=700.0', 1 in 'wght=800.0'; reversed: False
 Glyph uni0326 was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 1 in 'wght=700.0'; reversed: False
 Glyph uni2197 was not compatible:
+  Masters: '', 'wght=300.0':
     Contour 0 start point differs: 0 in '', 2 in 'wght=300.0'; reversed: False

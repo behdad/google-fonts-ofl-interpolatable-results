@@ -1,3 +1,4 @@
 Glyph degree was not compatible:
+  Masters: '', 'wght=400.0122':
     Contour 0 start point differs: 0 in '', 18 in 'wght=400.0122'; reversed: False
     Contour 1 start point differs: 0 in '', 12 in 'wght=400.0122'; reversed: False

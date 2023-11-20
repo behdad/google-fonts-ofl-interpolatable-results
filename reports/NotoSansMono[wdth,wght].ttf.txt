@@ -1,2 +1,3 @@
 Glyph Bbarredmod was not compatible:
+  Masters: 'wdth=62.5 wght=699.9878', 'wdth=62.5 wght=900.0':
     Contour 0 start point differs: 0 in 'wdth=62.5 wght=699.9878', 3 in 'wdth=62.5 wght=900.0'; reversed: False

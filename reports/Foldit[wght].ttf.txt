@@ -1,12 +1,18 @@
 Glyph B was not compatible:
+  Masters: '', 'wght=900.0':
     Contour 4 start point differs: 0 in '', 1 in 'wght=900.0'; reversed: False
 Glyph B.color4 was not compatible:
+  Masters: '', 'wght=900.0':
     Contour 0 start point differs: 0 in '', 1 in 'wght=900.0'; reversed: False
 Glyph notequal was not compatible:
+  Masters: '', 'wght=900.0':
     Contour 1 start point differs: 0 in '', 1 in 'wght=900.0'; reversed: False
 Glyph notequal.color1 was not compatible:
+  Masters: '', 'wght=900.0':
     Contour 0 start point differs: 0 in '', 1 in 'wght=900.0'; reversed: False
 Glyph uni1EC9 was not compatible:
+  Masters: '', 'wght=900.0':
     Contour 0 start point differs: 0 in '', 5 in 'wght=900.0'; reversed: False
 Glyph uni1EC9.color0 was not compatible:
+  Masters: '', 'wght=900.0':
     Contour 0 start point differs: 0 in '', 5 in 'wght=900.0'; reversed: False

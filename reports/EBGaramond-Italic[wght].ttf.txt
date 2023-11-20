@@ -1,38 +1,57 @@
 Glyph C.ordn was not compatible:
+  Masters: '', 'wght=800.0':
     Contour 0 start point differs: 0 in '', 78 in 'wght=800.0'; reversed: False
 Glyph Euro was not compatible:
+  Masters: '', 'wght=800.0':
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'wght=800.0'
 Glyph Euro.tf was not compatible:
+  Masters: '', 'wght=800.0':
     Contour 2 start point differs: 0 in '', 9 in 'wght=800.0'; reversed: False
 Glyph N.ordn was not compatible:
+  Masters: '', 'wght=800.0':
     Contour 0 start point differs: 0 in '', 152 in 'wght=800.0'; reversed: False
 Glyph acutecomb.flat was not compatible:
+  Masters: '', 'wght=800.0':
     Contour 0 start point differs: 0 in '', 38 in 'wght=800.0'; reversed: False
 Glyph brokenbar.ordn was not compatible:
+  Masters: '', 'wght=800.0':
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=800.0'
 Glyph gravecomb.flat was not compatible:
+  Masters: '', 'wght=800.0':
     Contour 0 start point differs: 0 in '', 6 in 'wght=800.0'; reversed: False
 Glyph guillemotleft.alt was not compatible:
+  Masters: '', 'wght=800.0':
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=800.0'
 Glyph guillemotright.alt was not compatible:
+  Masters: '', 'wght=800.0':
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=800.0'
 Glyph o.ordn was not compatible:
+  Masters: '', 'wght=800.0':
     Contour 1 start point differs: 0 in '', 2 in 'wght=800.0'; reversed: False
 Glyph ordmasculine was not compatible:
+  Masters: '', 'wght=800.0':
     Contour 2 start point differs: 0 in '', 2 in 'wght=800.0'; reversed: False
 Glyph thorn was not compatible:
+  Masters: '', 'wght=800.0':
     Contour 1 start point differs: 0 in '', 2 in 'wght=800.0'; reversed: False
 Glyph thorn.f_ was not compatible:
+  Masters: '', 'wght=800.0':
     Contour 1 start point differs: 0 in '', 2 in 'wght=800.0'; reversed: False
 Glyph uni01A5 was not compatible:
+  Masters: '', 'wght=800.0':
     Contour 1 start point differs: 0 in '', 2 in 'wght=800.0'; reversed: False
 Glyph uni01DB was not compatible:
+  Masters: '', 'wght=800.0':
     Contour 0 start point differs: 0 in '', 6 in 'wght=800.0'; reversed: False
 Glyph uni1E14 was not compatible:
+  Masters: '', 'wght=800.0':
     Contour 0 start point differs: 0 in '', 6 in 'wght=800.0'; reversed: False
 Glyph uni1E50 was not compatible:
+  Masters: '', 'wght=800.0':
     Contour 0 start point differs: 0 in '', 6 in 'wght=800.0'; reversed: False
 Glyph uni20B1 was not compatible:
+  Masters: '', 'wght=800.0':
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'wght=800.0'
 Glyph uni2116 was not compatible:
+  Masters: '', 'wght=800.0':
     Contour 3 start point differs: 0 in '', 2 in 'wght=800.0'; reversed: False

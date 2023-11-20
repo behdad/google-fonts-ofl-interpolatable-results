@@ -1,6 +1,9 @@
 Glyph multiply was not compatible:
+  Masters: '', 'opsz=6.0':
     Contour order differs: [0, 1] in '', [1, 0] in 'opsz=6.0'
 Glyph plus was not compatible:
+  Masters: '', 'opsz=6.0':
     Contour order differs: [0, 1] in '', [1, 0] in 'opsz=6.0'
 Glyph plusminus was not compatible:
+  Masters: '', 'opsz=6.0':
     Contour order differs: [0, 1, 2] in '', [2, 1, 0] in 'opsz=6.0'

@@ -1,6 +1,9 @@
 Glyph BehxMed.inT2outD2HF was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 2 in 'wght=700.0'; reversed: False
 Glyph BehxMed.inT2outD2HS was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 2 in 'wght=700.0'; reversed: False
 Glyph RehFin.inD3MM was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 1 in 'wght=700.0'; reversed: True

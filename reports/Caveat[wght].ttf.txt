@@ -1,54 +1,80 @@
 Glyph Euro was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 1 start point differs: 0 in '', 8 in 'wght=700.0'; reversed: False
 Glyph N.ss02 was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 186 in 'wght=700.0'; reversed: False
 Glyph V.ss01 was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 6 in 'wght=700.0'; reversed: False
 Glyph colonmonetary was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 4 in 'wght=700.0'; reversed: True
     Contour 1 start point differs: 0 in '', 4 in 'wght=700.0'; reversed: True
 Glyph dollar was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 8 in 'wght=700.0'; reversed: False
 Glyph eth was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 2 start point differs: 0 in '', 30 in 'wght=700.0'; reversed: False
 Glyph f_f_i was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 2 start point differs: 0 in '', 4 in 'wght=700.0'; reversed: False
     Contour 3 start point differs: 0 in '', 24 in 'wght=700.0'; reversed: False
 Glyph k.ss02 was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 172 in 'wght=700.0'; reversed: False
 Glyph lira was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 1 start point differs: 0 in '', 8 in 'wght=700.0'; reversed: False
 Glyph n.ss01 was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 2 in 'wght=700.0'; reversed: False
 Glyph one.denominator was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 122 in 'wght=700.0'; reversed: False
 Glyph one.numerator was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 122 in 'wght=700.0'; reversed: False
 Glyph oneeighth was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 1 start point differs: 0 in '', 122 in 'wght=700.0'; reversed: False
 Glyph onehalf was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 1 start point differs: 0 in '', 122 in 'wght=700.0'; reversed: False
 Glyph onequarter was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 1 start point differs: 0 in '', 122 in 'wght=700.0'; reversed: False
 Glyph r.ss02 was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 80 in 'wght=700.0'; reversed: False
 Glyph uni00B9 was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 126 in 'wght=700.0'; reversed: False
 Glyph uni0433 was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 84 in 'wght=700.0'; reversed: False
 Glyph uni0495 was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 1 start point differs: 0 in '', 84 in 'wght=700.0'; reversed: False
 Glyph uni04FB was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 1 start point differs: 0 in '', 84 in 'wght=700.0'; reversed: False
 Glyph uni2081 was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 122 in 'wght=700.0'; reversed: False
 Glyph uni20A9 was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 2 start point differs: 0 in '', 50 in 'wght=700.0'; reversed: False
 Glyph uni20AE was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 42 in 'wght=700.0'; reversed: False
 Glyph uni20BA was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 2 start point differs: 0 in '', 42 in 'wght=700.0'; reversed: False
 Glyph uni20BD was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 8 in 'wght=700.0'; reversed: False
 Glyph uni2153 was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 1 start point differs: 0 in '', 122 in 'wght=700.0'; reversed: False

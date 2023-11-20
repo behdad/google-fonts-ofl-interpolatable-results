@@ -1,183 +1,289 @@
 Glyph Lslash was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 3 in 'wght=900.0'; reversed: True
 Glyph M was not compatible:
+  Masters: 'wdth=125.0 wght=700.0', 'wdth=125.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph N was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 0 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
+  Masters: 'wdth=125.0 wght=700.0', 'wdth=125.0 wght=900.0':
     Contour 0 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph acute was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
 Glyph acutecomb was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
+  Masters: 'wdth=75.0 wght=700.0', 'wdth=75.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
+  Masters: 'wdth=125.0 wght=700.0', 'wdth=125.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph acutecomb.case was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
+  Masters: 'wdth=75.0 wght=700.0', 'wdth=75.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
+  Masters: 'wdth=125.0 wght=700.0', 'wdth=125.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph asciicircum was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
 Glyph backslash was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 3 in 'wght=900.0'; reversed: True
 Glyph bar was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
 Glyph dieresis was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 2 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
     Contour 3 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
 Glyph dotaccent was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
+  Masters: 'wdth=75.0 wght=700.0', 'wdth=75.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
+  Masters: 'wdth=125.0 wght=700.0', 'wdth=125.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph dotbelowcomb was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
+  Masters: 'wdth=75.0 wght=700.0', 'wdth=75.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
+  Masters: 'wdth=125.0 wght=700.0', 'wdth=125.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph dotbelowcomb.case was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
 Glyph grave was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 3 in 'wght=900.0'; reversed: True
 Glyph gravecomb was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 3 in 'wght=900.0'; reversed: True
+  Masters: 'wdth=75.0 wght=700.0', 'wdth=75.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 3 in 'wdth=75.0 wght=900.0'; reversed: True
+  Masters: 'wdth=125.0 wght=700.0', 'wdth=125.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 3 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph gravecomb.case was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 3 in 'wght=900.0'; reversed: True
 Glyph greater was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 7 in 'wght=900.0'; reversed: True
+  Masters: 'wdth=75.0 wght=700.0', 'wdth=75.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 7 in 'wdth=75.0 wght=900.0'; reversed: True
+  Masters: 'wdth=125.0 wght=700.0', 'wdth=125.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 7 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph guillemotright was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 7 in 'wght=900.0'; reversed: True
     Contour 3 start point differs: 0 in 'wght=700.0', 7 in 'wght=900.0'; reversed: True
 Glyph guilsinglleft was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
+  Masters: 'wdth=75.0 wght=700.0', 'wdth=75.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
+  Masters: 'wdth=125.0 wght=700.0', 'wdth=125.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph guilsinglright was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 7 in 'wght=900.0'; reversed: True
 Glyph hungarumlaut was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
     Contour 3 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
 Glyph i was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
+  Masters: 'wdth=75.0 wght=700.0', 'wdth=75.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
+  Masters: 'wdth=125.0 wght=700.0', 'wdth=125.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph i.ss01 was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 3 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
 Glyph j was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 9 in 'wght=900.0'; reversed: True
     Contour 3 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
+  Masters: 'wdth=75.0 wght=700.0', 'wdth=75.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 9 in 'wdth=75.0 wght=900.0'; reversed: True
     Contour 3 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
+  Masters: 'wdth=125.0 wght=700.0', 'wdth=125.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 9 in 'wdth=125.0 wght=900.0'; reversed: True
     Contour 3 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph j.ss01 was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 3 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
 Glyph l.ss01 was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
 Glyph less was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
+  Masters: 'wdth=75.0 wght=700.0', 'wdth=75.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
+  Masters: 'wdth=125.0 wght=700.0', 'wdth=125.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph quotedblleft was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
     Contour 3 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
 Glyph quoteleft was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
 Glyph quoteright was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
+  Masters: 'wdth=75.0 wght=700.0', 'wdth=75.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
+  Masters: 'wdth=125.0 wght=700.0', 'wdth=125.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph quotesingle was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
+  Masters: 'wdth=75.0 wght=700.0', 'wdth=75.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
+  Masters: 'wdth=125.0 wght=700.0', 'wdth=125.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph registered was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 5 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
 Glyph seven was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
+  Masters: 'wdth=75.0 wght=700.0', 'wdth=75.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
 Glyph slash was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
 Glyph tilde was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
+  Masters: 'wdth=75.0 wght=700.0', 'wdth=75.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
+  Masters: 'wdth=125.0 wght=700.0', 'wdth=125.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph tildecomb was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
+  Masters: 'wdth=75.0 wght=700.0', 'wdth=75.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
+  Masters: 'wdth=125.0 wght=700.0', 'wdth=125.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph tildecomb.case was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
 Glyph uni0237 was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 9 in 'wght=900.0'; reversed: True
+  Masters: 'wdth=75.0 wght=700.0', 'wdth=75.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 9 in 'wdth=75.0 wght=900.0'; reversed: True
+  Masters: 'wdth=125.0 wght=700.0', 'wdth=125.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 9 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph uni03020300 was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 3 start point differs: 0 in 'wght=700.0', 3 in 'wght=900.0'; reversed: True
+  Masters: 'wdth=75.0 wght=700.0', 'wdth=75.0 wght=900.0':
     Contour 3 start point differs: 0 in 'wdth=75.0 wght=700.0', 3 in 'wdth=75.0 wght=900.0'; reversed: True
+  Masters: 'wdth=125.0 wght=700.0', 'wdth=125.0 wght=900.0':
     Contour 3 start point differs: 0 in 'wdth=125.0 wght=700.0', 3 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph uni03020301 was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 3 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
+  Masters: 'wdth=75.0 wght=700.0', 'wdth=75.0 wght=900.0':
     Contour 3 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
+  Masters: 'wdth=125.0 wght=700.0', 'wdth=125.0 wght=900.0':
     Contour 3 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph uni0307 was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
+  Masters: 'wdth=75.0 wght=700.0', 'wdth=75.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
+  Masters: 'wdth=125.0 wght=700.0', 'wdth=125.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph uni0307.case was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
 Glyph uni0308 was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 2 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
     Contour 3 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
+  Masters: 'wdth=75.0 wght=700.0', 'wdth=75.0 wght=900.0':
     Contour 2 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
     Contour 3 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
+  Masters: 'wdth=125.0 wght=700.0', 'wdth=125.0 wght=900.0':
     Contour 2 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
     Contour 3 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph uni0308.case was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 2 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
     Contour 3 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
 Glyph uni030B was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
     Contour 3 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
+  Masters: 'wdth=75.0 wght=700.0', 'wdth=75.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
     Contour 3 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
+  Masters: 'wdth=125.0 wght=700.0', 'wdth=125.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
     Contour 3 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph uni030B.case was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
     Contour 3 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
 Glyph uni030C.alt was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
+  Masters: 'wdth=75.0 wght=700.0', 'wdth=75.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
+  Masters: 'wdth=125.0 wght=700.0', 'wdth=125.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph uni030F was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 3 in 'wght=900.0'; reversed: True
     Contour 3 start point differs: 0 in 'wght=700.0', 3 in 'wght=900.0'; reversed: True
+  Masters: 'wdth=75.0 wght=700.0', 'wdth=75.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 3 in 'wdth=75.0 wght=900.0'; reversed: True
     Contour 3 start point differs: 0 in 'wdth=75.0 wght=700.0', 3 in 'wdth=75.0 wght=900.0'; reversed: True
+  Masters: 'wdth=125.0 wght=700.0', 'wdth=125.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 3 in 'wdth=125.0 wght=900.0'; reversed: True
     Contour 3 start point differs: 0 in 'wdth=125.0 wght=700.0', 3 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph uni030F.case was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 3 in 'wght=900.0'; reversed: True
     Contour 3 start point differs: 0 in 'wght=700.0', 3 in 'wght=900.0'; reversed: True
 Glyph uni0312 was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
+  Masters: 'wdth=75.0 wght=700.0', 'wdth=75.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
+  Masters: 'wdth=125.0 wght=700.0', 'wdth=125.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph uni0312.case was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
 Glyph uni0324 was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 2 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
     Contour 3 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
 Glyph uni0324.case was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 2 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
     Contour 3 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
 Glyph uni0326 was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
+  Masters: 'wdth=75.0 wght=700.0', 'wdth=75.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=75.0 wght=700.0', 1 in 'wdth=75.0 wght=900.0'; reversed: True
+  Masters: 'wdth=125.0 wght=700.0', 'wdth=125.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=125.0 wght=700.0', 1 in 'wdth=125.0 wght=900.0'; reversed: True
 Glyph uni0326.case was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True
 Glyph uni2215 was not compatible:
+  Masters: 'wght=700.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=700.0', 1 in 'wght=900.0'; reversed: True

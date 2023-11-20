@@ -1,2 +1,3 @@
 Glyph uni04FF was not compatible:
+  Masters: '', 'wght=700.0':
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'wght=700.0'

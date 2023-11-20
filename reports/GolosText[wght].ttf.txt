@@ -1,4 +1,6 @@
 Glyph seven.tosf was not compatible:
+  Masters: '', 'wght=500.0061':
     Contour 0 start point differs: 0 in '', 1 in 'wght=500.0061'; reversed: False
 Glyph yen.tab was not compatible:
+  Masters: 'wght=699.9878', 'wght=900.0':
     Contour 0 start point differs: 0 in 'wght=699.9878', 1 in 'wght=900.0'; reversed: False

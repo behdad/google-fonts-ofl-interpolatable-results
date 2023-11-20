@@ -1,118 +1,197 @@
 Glyph I was not compatible:
+  Masters: '', 'slnt=13.0':
     Contour 0 start point differs: 0 in '', 40 in 'slnt=13.0'; reversed: False
 Glyph Iogonek was not compatible:
+  Masters: '', 'slnt=13.0':
     Contour 0 start point differs: 0 in '', 40 in 'slnt=13.0'; reversed: False
 Glyph J was not compatible:
+  Masters: 'slnt=-13.0', 'slnt=-13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=-13.0', 2 in 'slnt=-13.0 wght=900.0'; reversed: False
 Glyph Lslash was not compatible:
+  Masters: '', 'slnt=-13.0':
     Contour 0 start point differs: 0 in '', 42 in 'slnt=-13.0'; reversed: False
+  Masters: '', 'slnt=13.0':
     Contour 0 start point differs: 0 in '', 42 in 'slnt=13.0'; reversed: False
+  Masters: 'slnt=-13.0', 'slnt=-13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=-13.0', 8 in 'slnt=-13.0 wght=900.0'; reversed: False
+  Masters: 'slnt=13.0', 'slnt=13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=13.0', 8 in 'slnt=13.0 wght=900.0'; reversed: False
 Glyph P was not compatible:
+  Masters: 'slnt=-13.0', 'slnt=-13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=-13.0', 2 in 'slnt=-13.0 wght=900.0'; reversed: False
 Glyph backslash was not compatible:
+  Masters: '', 'wght=900.0':
     Contour 0 start point differs: 0 in '', 10 in 'wght=900.0'; reversed: False
+  Masters: 'slnt=-13.0', 'slnt=-13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=-13.0', 10 in 'slnt=-13.0 wght=900.0'; reversed: False
+  Masters: 'slnt=13.0', 'slnt=13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=13.0', 10 in 'slnt=13.0 wght=900.0'; reversed: False
 Glyph bar was not compatible:
+  Masters: '', 'slnt=-13.0':
     Contour 0 start point differs: 0 in '', 2 in 'slnt=-13.0'; reversed: False
+  Masters: '', 'slnt=13.0':
     Contour 0 start point differs: 0 in '', 52 in 'slnt=13.0'; reversed: False
 Glyph braceleft was not compatible:
+  Masters: 'slnt=-13.0', 'slnt=-13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=-13.0', 2 in 'slnt=-13.0 wght=900.0'; reversed: False
 Glyph brokenbar was not compatible:
+  Masters: '', 'slnt=-13.0':
     Contour 1 start point differs: 0 in '', 2 in 'slnt=-13.0'; reversed: False
+  Masters: '', 'slnt=13.0':
     Contour 0 start point differs: 0 in '', 40 in 'slnt=13.0'; reversed: False
     Contour 1 start point differs: 0 in '', 36 in 'slnt=13.0'; reversed: False
 Glyph cent was not compatible:
+  Masters: '', 'slnt=-13.0':
     Contour 0 start point differs: 0 in '', 2 in 'slnt=-13.0'; reversed: False
     Contour 1 start point differs: 0 in '', 2 in 'slnt=-13.0'; reversed: False
+  Masters: '', 'slnt=13.0':
     Contour 0 start point differs: 0 in '', 26 in 'slnt=13.0'; reversed: False
     Contour 1 start point differs: 0 in '', 28 in 'slnt=13.0'; reversed: False
 Glyph comma was not compatible:
+  Masters: '', 'wght=900.0':
     Contour 0 start point differs: 0 in '', 6 in 'wght=900.0'; reversed: False
+  Masters: 'slnt=-13.0', 'slnt=-13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=-13.0', 6 in 'slnt=-13.0 wght=900.0'; reversed: False
+  Masters: 'slnt=13.0', 'slnt=13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=13.0', 4 in 'slnt=13.0 wght=900.0'; reversed: False
 Glyph dollar was not compatible:
+  Masters: '', 'slnt=-13.0':
     Contour 1 start point differs: 0 in '', 2 in 'slnt=-13.0'; reversed: False
+  Masters: '', 'slnt=13.0':
     Contour 0 start point differs: 0 in '', 26 in 'slnt=13.0'; reversed: False
     Contour 1 start point differs: 0 in '', 28 in 'slnt=13.0'; reversed: False
 Glyph ellipsis was not compatible:
+  Masters: '', 'wght=900.0':
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'wght=900.0'
+  Masters: 'slnt=-13.0', 'slnt=-13.0 wght=900.0':
     Contour order differs: [0, 1, 2] in 'slnt=-13.0', [1, 0, 2] in 'slnt=-13.0 wght=900.0'
+  Masters: 'slnt=13.0', 'slnt=13.0 wght=900.0':
     Contour order differs: [0, 1, 2] in 'slnt=13.0', [1, 0, 2] in 'slnt=13.0 wght=900.0'
 Glyph exclam was not compatible:
+  Masters: '', 'slnt=-13.0':
     Contour 0 start point differs: 0 in '', 6 in 'slnt=-13.0'; reversed: False
+  Masters: '', 'slnt=13.0':
     Contour 0 start point differs: 0 in '', 50 in 'slnt=13.0'; reversed: False
+  Masters: 'slnt=-13.0', 'slnt=-13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=-13.0', 54 in 'slnt=-13.0 wght=900.0'; reversed: False
+  Masters: 'slnt=13.0', 'slnt=13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=13.0', 2 in 'slnt=13.0 wght=900.0'; reversed: False
 Glyph exclamdown was not compatible:
+  Masters: '', 'slnt=-13.0':
     Contour 0 start point differs: 0 in '', 6 in 'slnt=-13.0'; reversed: False
+  Masters: '', 'slnt=13.0':
     Contour 0 start point differs: 0 in '', 50 in 'slnt=13.0'; reversed: False
+  Masters: 'slnt=-13.0', 'slnt=-13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=-13.0', 54 in 'slnt=-13.0 wght=900.0'; reversed: False
+  Masters: 'slnt=13.0', 'slnt=13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=13.0', 2 in 'slnt=13.0 wght=900.0'; reversed: False
 Glyph exclamdown.case was not compatible:
+  Masters: '', 'slnt=-13.0':
     Contour 0 start point differs: 0 in '', 6 in 'slnt=-13.0'; reversed: False
+  Masters: '', 'slnt=13.0':
     Contour 0 start point differs: 0 in '', 50 in 'slnt=13.0'; reversed: False
+  Masters: 'slnt=-13.0', 'slnt=-13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=-13.0', 54 in 'slnt=-13.0 wght=900.0'; reversed: False
+  Masters: 'slnt=13.0', 'slnt=13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=13.0', 2 in 'slnt=13.0 wght=900.0'; reversed: False
 Glyph fraction was not compatible:
+  Masters: 'slnt=-13.0', 'slnt=-13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=-13.0', 52 in 'slnt=-13.0 wght=900.0'; reversed: False
 Glyph j was not compatible:
+  Masters: 'slnt=13.0', 'slnt=13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=13.0', 56 in 'slnt=13.0 wght=900.0'; reversed: False
 Glyph lslash was not compatible:
+  Masters: '', 'slnt=-13.0':
     Contour 0 start point differs: 0 in '', 40 in 'slnt=-13.0'; reversed: False
+  Masters: '', 'slnt=13.0':
     Contour 0 start point differs: 0 in '', 40 in 'slnt=13.0'; reversed: False
+  Masters: 'slnt=-13.0', 'slnt=-13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=-13.0', 8 in 'slnt=-13.0 wght=900.0'; reversed: False
+  Masters: 'slnt=13.0', 'slnt=13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=13.0', 6 in 'slnt=13.0 wght=900.0'; reversed: False
 Glyph multiply was not compatible:
+  Masters: '', 'slnt=13.0':
     Contour order differs: [0, 1] in '', [1, 0] in 'slnt=13.0'
 Glyph one was not compatible:
+  Masters: 'slnt=13.0', 'slnt=13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=13.0', 64 in 'slnt=13.0 wght=900.0'; reversed: False
 Glyph quotedbl was not compatible:
-    Contour order differs: [0, 1] in '', [1, 0] in 'slnt=13.0'
-    Contour order differs: [0, 1] in 'slnt=13.0', [1, 0] in 'slnt=13.0 wght=900.0'
+  Masters: '', 'slnt=-13.0':
     Contour 0 start point differs: 0 in '', 4 in 'slnt=-13.0'; reversed: False
     Contour 1 start point differs: 0 in '', 4 in 'slnt=-13.0'; reversed: False
+  Masters: '', 'slnt=13.0':
+    Contour order differs: [0, 1] in '', [1, 0] in 'slnt=13.0'
+  Masters: 'slnt=-13.0', 'slnt=-13.0 wght=900.0':
     Contour 1 start point differs: 0 in 'slnt=-13.0', 38 in 'slnt=-13.0 wght=900.0'; reversed: False
+  Masters: 'slnt=13.0', 'slnt=13.0 wght=900.0':
+    Contour order differs: [0, 1] in 'slnt=13.0', [1, 0] in 'slnt=13.0 wght=900.0'
 Glyph quotesingle was not compatible:
+  Masters: '', 'slnt=-13.0':
     Contour 0 start point differs: 0 in '', 2 in 'slnt=-13.0'; reversed: False
+  Masters: '', 'slnt=13.0':
     Contour 0 start point differs: 0 in '', 30 in 'slnt=13.0'; reversed: False
+  Masters: 'slnt=13.0', 'slnt=13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=13.0', 2 in 'slnt=13.0 wght=900.0'; reversed: False
 Glyph semicolon was not compatible:
+  Masters: '', 'wght=900.0':
     Contour 1 start point differs: 0 in '', 4 in 'wght=900.0'; reversed: False
+  Masters: 'slnt=-13.0', 'slnt=-13.0 wght=900.0':
     Contour 1 start point differs: 0 in 'slnt=-13.0', 4 in 'slnt=-13.0 wght=900.0'; reversed: False
+  Masters: 'slnt=13.0', 'slnt=13.0 wght=900.0':
     Contour 1 start point differs: 0 in 'slnt=13.0', 4 in 'slnt=13.0 wght=900.0'; reversed: False
 Glyph uni0237 was not compatible:
+  Masters: 'slnt=13.0', 'slnt=13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=13.0', 56 in 'slnt=13.0 wght=900.0'; reversed: False
 Glyph uni0312 was not compatible:
+  Masters: '', 'wght=900.0':
     Contour 0 start point differs: 0 in '', 4 in 'wght=900.0'; reversed: False
+  Masters: 'slnt=-13.0', 'slnt=-13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=-13.0', 4 in 'slnt=-13.0 wght=900.0'; reversed: False
+  Masters: 'slnt=13.0', 'slnt=13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=13.0', 4 in 'slnt=13.0 wght=900.0'; reversed: False
 Glyph uni0312.case was not compatible:
+  Masters: '', 'wght=900.0':
     Contour 0 start point differs: 0 in '', 4 in 'wght=900.0'; reversed: False
+  Masters: 'slnt=-13.0', 'slnt=-13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=-13.0', 4 in 'slnt=-13.0 wght=900.0'; reversed: False
+  Masters: 'slnt=13.0', 'slnt=13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=13.0', 4 in 'slnt=13.0 wght=900.0'; reversed: False
 Glyph uni0326 was not compatible:
+  Masters: '', 'wght=900.0':
     Contour 0 start point differs: 0 in '', 4 in 'wght=900.0'; reversed: False
+  Masters: 'slnt=-13.0', 'slnt=-13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=-13.0', 4 in 'slnt=-13.0 wght=900.0'; reversed: False
+  Masters: 'slnt=13.0', 'slnt=13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=13.0', 4 in 'slnt=13.0 wght=900.0'; reversed: False
 Glyph uni0326.1 was not compatible:
+  Masters: '', 'wght=900.0':
     Contour 0 start point differs: 0 in '', 4 in 'wght=900.0'; reversed: False
+  Masters: 'slnt=-13.0', 'slnt=-13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=-13.0', 4 in 'slnt=-13.0 wght=900.0'; reversed: False
+  Masters: 'slnt=13.0', 'slnt=13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=13.0', 4 in 'slnt=13.0 wght=900.0'; reversed: False
 Glyph uni0326.case was not compatible:
+  Masters: '', 'wght=900.0':
     Contour 0 start point differs: 0 in '', 4 in 'wght=900.0'; reversed: False
+  Masters: 'slnt=-13.0', 'slnt=-13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=-13.0', 4 in 'slnt=-13.0 wght=900.0'; reversed: False
+  Masters: 'slnt=13.0', 'slnt=13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=13.0', 4 in 'slnt=13.0 wght=900.0'; reversed: False
 Glyph uni20B2 was not compatible:
+  Masters: '', 'slnt=-13.0':
     Contour 1 start point differs: 0 in '', 2 in 'slnt=-13.0'; reversed: False
+  Masters: '', 'slnt=13.0':
     Contour 1 start point differs: 0 in '', 44 in 'slnt=13.0'; reversed: False
 Glyph uni20B5 was not compatible:
+  Masters: '', 'slnt=-13.0':
     Contour 0 start point differs: 0 in '', 2 in 'slnt=-13.0'; reversed: False
+  Masters: '', 'slnt=13.0':
     Contour 0 start point differs: 0 in '', 50 in 'slnt=13.0'; reversed: False
 Glyph uni20BC was not compatible:
+  Masters: '', 'slnt=-13.0':
     Contour 0 start point differs: 0 in '', 2 in 'slnt=-13.0'; reversed: False
+  Masters: '', 'slnt=13.0':
     Contour 0 start point differs: 0 in '', 42 in 'slnt=13.0'; reversed: False
 Glyph uni20BD was not compatible:
+  Masters: 'slnt=-13.0', 'slnt=-13.0 wght=900.0':
     Contour 2 start point differs: 0 in 'slnt=-13.0', 2 in 'slnt=-13.0 wght=900.0'; reversed: False

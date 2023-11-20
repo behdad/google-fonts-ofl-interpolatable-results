@@ -1,8 +1,12 @@
 Glyph divide was not compatible:
+  Masters: '', 'wght=700.0':
     Contour order differs: [0, 1, 2] in '', [0, 2, 1] in 'wght=700.0'
 Glyph uni2270 was not compatible:
+  Masters: '', 'wght=700.0':
     Contour order differs: [0, 1, 2, 3] in '', [1, 0, 2, 3] in 'wght=700.0'
 Glyph uni2279 was not compatible:
+  Masters: '', 'wght=700.0':
     Contour order differs: [0, 1, 2, 3, 4] in '', [1, 0, 2, 3, 4] in 'wght=700.0'
 Glyph uni2281 was not compatible:
+  Masters: '', 'wght=700.0':
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'wght=700.0'

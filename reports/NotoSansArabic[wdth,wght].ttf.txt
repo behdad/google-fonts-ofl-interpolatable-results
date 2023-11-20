@@ -1,27 +1,40 @@
 Glyph uni06DB was not compatible:
+  Masters: '', 'wght=100.0':
     Contour 0 start point differs: 0 in '', 8 in 'wght=100.0'; reversed: False
     Contour 1 start point differs: 0 in '', 8 in 'wght=100.0'; reversed: False
     Contour 2 start point differs: 0 in '', 8 in 'wght=100.0'; reversed: False
+  Masters: 'wdth=62.5', 'wdth=62.5 wght=100.0':
     Contour 0 start point differs: 0 in 'wdth=62.5', 8 in 'wdth=62.5 wght=100.0'; reversed: False
     Contour 1 start point differs: 0 in 'wdth=62.5', 8 in 'wdth=62.5 wght=100.0'; reversed: False
     Contour 2 start point differs: 0 in 'wdth=62.5', 8 in 'wdth=62.5 wght=100.0'; reversed: False
 Glyph uni06FC was not compatible:
+  Masters: '', 'wdth=62.5':
     Contour order differs: [0, 1, 2] in '', [0, 2, 1] in 'wdth=62.5'
+  Masters: 'wght=699.9878', 'wght=900.0':
     Contour order differs: [0, 1, 2] in 'wght=699.9878', [0, 2, 1] in 'wght=900.0'
+  Masters: 'wdth=62.5 wght=699.9878', 'wdth=62.5 wght=900.0':
     Contour order differs: [0, 1, 2] in 'wdth=62.5 wght=699.9878', [0, 2, 1] in 'wdth=62.5 wght=900.0'
 Glyph uni06FC.fina was not compatible:
+  Masters: 'wght=699.9878', 'wght=900.0':
     Contour order differs: [0, 1, 2] in 'wght=699.9878', [0, 2, 1] in 'wght=900.0'
+  Masters: 'wdth=62.5 wght=699.9878', 'wdth=62.5 wght=900.0':
     Contour order differs: [0, 1, 2] in 'wdth=62.5 wght=699.9878', [0, 2, 1] in 'wdth=62.5 wght=900.0'
 Glyph uni0758 was not compatible:
+  Masters: '', 'wght=100.0':
     Contour 1 start point differs: 0 in '', 8 in 'wght=100.0'; reversed: False
     Contour 2 start point differs: 0 in '', 8 in 'wght=100.0'; reversed: False
     Contour 3 start point differs: 0 in '', 8 in 'wght=100.0'; reversed: False
 Glyph uni0758.fina was not compatible:
+  Masters: '', 'wght=100.0':
     Contour 2 start point differs: 0 in '', 8 in 'wght=100.0'; reversed: False
     Contour 3 start point differs: 0 in '', 8 in 'wght=100.0'; reversed: False
     Contour 4 start point differs: 0 in '', 8 in 'wght=100.0'; reversed: False
 Glyph uniFD3E was not compatible:
+  Masters: '', 'wght=699.9878':
     Contour 5 start point differs: 0 in '', 8 in 'wght=699.9878'; reversed: False
+  Masters: 'wdth=62.5', 'wdth=62.5 wght=699.9878':
     Contour 5 start point differs: 0 in 'wdth=62.5', 8 in 'wdth=62.5 wght=699.9878'; reversed: False
+  Masters: 'wght=699.9878', 'wght=900.0':
     Contour 5 start point differs: 0 in 'wght=699.9878', 16 in 'wght=900.0'; reversed: False
+  Masters: 'wdth=62.5 wght=699.9878', 'wdth=62.5 wght=900.0':
     Contour 5 start point differs: 0 in 'wdth=62.5 wght=699.9878', 16 in 'wdth=62.5 wght=900.0'; reversed: False

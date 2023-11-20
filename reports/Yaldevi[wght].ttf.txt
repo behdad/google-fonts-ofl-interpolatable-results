@@ -1,6 +1,9 @@
 Glyph dotaccent was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 12 in 'wght=700.0'; reversed: False
 Glyph lozenge was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 1 start point differs: 0 in '', 7 in 'wght=700.0'; reversed: False
 Glyph lslash was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 2 in 'wght=700.0'; reversed: False

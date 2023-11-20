@@ -1,8 +1,14 @@
 Glyph Oslash.BRACKET.86 was not compatible:
+  Masters: '', 'wdth=75.0':
     Contour 0 start point differs: 0 in '', 3 in 'wdth=75.0'; reversed: False
+  Masters: '', 'wdth=125.0':
     Contour 0 start point differs: 0 in '', 3 in 'wdth=125.0'; reversed: False
+  Masters: '', 'wght=551.72986':
     Contour 0 start point differs: 0 in '', 3 in 'wght=551.72986'; reversed: False
 Glyph Oslashacute.BRACKET.86 was not compatible:
+  Masters: '', 'wdth=75.0':
     Contour 0 start point differs: 0 in '', 3 in 'wdth=75.0'; reversed: False
+  Masters: '', 'wdth=125.0':
     Contour 0 start point differs: 0 in '', 3 in 'wdth=125.0'; reversed: False
+  Masters: '', 'wght=551.72986':
     Contour 0 start point differs: 0 in '', 3 in 'wght=551.72986'; reversed: False

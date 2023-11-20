@@ -1,6 +1,10 @@
 Glyph uni2E48 was not compatible:
+  Masters: 'wdth=62.5 wght=699.9878', 'wdth=62.5 wght=900.0':
     Contour 0 start point differs: 0 in 'wdth=62.5 wght=699.9878', 8 in 'wdth=62.5 wght=900.0'; reversed: False
 Glyph uniAB42 was not compatible:
+  Masters: '', 'wdth=62.5':
     Contour 0 start point differs: 0 in '', 1 in 'wdth=62.5'; reversed: False
+  Masters: '', 'wght=100.0':
     Contour 0 start point differs: 0 in '', 1 in 'wght=100.0'; reversed: False
+  Masters: 'wght=699.9878', 'wght=900.0':
     Contour 0 start point differs: 0 in 'wght=699.9878', 1 in 'wght=900.0'; reversed: False

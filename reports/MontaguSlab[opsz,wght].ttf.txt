@@ -1,6 +1,10 @@
 Glyph ellipsis was not compatible:
+  Masters: 'opsz=16.0', 'opsz=16.0 wght=400.0':
     Contour order differs: [0, 1, 2] in 'opsz=16.0', [2, 1, 0] in 'opsz=16.0 wght=400.0'
+  Masters: 'opsz=16.0 wght=400.0', 'opsz=16.0 wght=100.0':
     Contour order differs: [0, 1, 2] in 'opsz=16.0 wght=400.0', [1, 0, 2] in 'opsz=16.0 wght=100.0'
 Glyph logicalnot was not compatible:
+  Masters: '', 'opsz=16.0':
     Contour order differs: [0, 1] in '', [1, 0] in 'opsz=16.0'
+  Masters: '', 'wght=400.0':
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=400.0'

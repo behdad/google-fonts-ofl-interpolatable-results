@@ -1,6 +1,9 @@
 Glyph uni2196 was not compatible:
+  Masters: '', 'wght=900.0':
     Contour order differs: [0, 1, 2, 3] in '', [1, 0, 2, 3] in 'wght=900.0'
 Glyph uni2197 was not compatible:
+  Masters: '', 'wght=900.0':
     Contour order differs: [0, 1, 2, 3] in '', [1, 0, 2, 3] in 'wght=900.0'
 Glyph uni2198 was not compatible:
+  Masters: '', 'wght=900.0':
     Contour order differs: [0, 1, 2, 3] in '', [1, 0, 2, 3] in 'wght=900.0'

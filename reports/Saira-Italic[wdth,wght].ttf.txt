@@ -1,18 +1,30 @@
 Glyph dollar was not compatible:
+  Masters: 'wdth=75.0 wght=900.0', 'wdth=50.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=75.0 wght=900.0', 1 in 'wdth=50.0 wght=900.0'; reversed: False
 Glyph dollar.BRACKET.64 was not compatible:
+  Masters: 'wdth=75.0', 'wdth=50.0':
     Contour 1 start point differs: 0 in 'wdth=75.0', 2 in 'wdth=50.0'; reversed: False
+  Masters: 'wdth=50.0', 'wdth=50.0 wght=551.72986':
     Contour 1 start point differs: 0 in 'wdth=50.0', 2 in 'wdth=50.0 wght=551.72986'; reversed: False
+  Masters: 'wdth=75.0 wght=900.0', 'wdth=50.0 wght=900.0':
     Contour 2 start point differs: 0 in 'wdth=75.0 wght=900.0', 1 in 'wdth=50.0 wght=900.0'; reversed: False
 Glyph dong was not compatible:
+  Masters: 'wdth=75.0 wght=900.0', 'wdth=50.0 wght=900.0':
     Contour 2 start point differs: 0 in 'wdth=75.0 wght=900.0', 2 in 'wdth=50.0 wght=900.0'; reversed: False
 Glyph multiply was not compatible:
+  Masters: 'wdth=50.0', 'wdth=50.0 wght=551.72986':
     Contour 0 start point differs: 0 in 'wdth=50.0', 2 in 'wdth=50.0 wght=551.72986'; reversed: False
 Glyph uni20B1 was not compatible:
+  Masters: 'wdth=75.0', 'wdth=50.0':
     Contour order differs: [0, 1, 2, 3] in 'wdth=75.0', [1, 0, 2, 3] in 'wdth=50.0'
+  Masters: 'wdth=50.0', 'wdth=50.0 wght=551.72986':
     Contour order differs: [0, 1, 2, 3] in 'wdth=50.0', [1, 0, 2, 3] in 'wdth=50.0 wght=551.72986'
+  Masters: 'wdth=125.0 wght=551.72986', 'wdth=125.0 wght=900.0':
     Contour order differs: [0, 1, 2, 3] in 'wdth=125.0 wght=551.72986', [1, 0, 2, 3] in 'wdth=125.0 wght=900.0'
 Glyph uni20B5.BRACKET.86 was not compatible:
+  Masters: '', 'wdth=75.0':
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'wdth=75.0'
+  Masters: '', 'wdth=125.0':
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'wdth=125.0'
+  Masters: '', 'wght=551.72986':
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'wght=551.72986'

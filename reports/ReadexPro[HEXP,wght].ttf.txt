@@ -1,5 +1,9 @@
 Glyph uni20B1 was not compatible:
+  Masters: '', 'wght=160.0':
     Contour order differs: [0, 1, 2, 3] in '', [1, 0, 2, 3] in 'wght=160.0'
+  Masters: '', 'wght=700.0':
     Contour order differs: [0, 1, 2, 3] in '', [1, 0, 2, 3] in 'wght=700.0'
+  Masters: 'HEXP=100.0', 'HEXP=100.0 wght=160.0':
     Contour order differs: [0, 1, 2, 3] in 'HEXP=100.0', [1, 0, 2, 3] in 'HEXP=100.0 wght=160.0'
+  Masters: 'HEXP=100.0', 'HEXP=100.0 wght=700.0':
     Contour order differs: [0, 1, 2, 3] in 'HEXP=100.0', [1, 0, 2, 3] in 'HEXP=100.0 wght=700.0'

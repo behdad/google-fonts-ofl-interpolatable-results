@@ -1,6 +1,9 @@
 Glyph nine.dnom was not compatible:
+  Masters: 'wght=600.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=600.0', 4 in 'wght=900.0'; reversed: False
 Glyph nine.numr was not compatible:
+  Masters: 'wght=600.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=600.0', 4 in 'wght=900.0'; reversed: False
 Glyph six.numr was not compatible:
+  Masters: 'wght=600.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=600.0', 4 in 'wght=900.0'; reversed: False

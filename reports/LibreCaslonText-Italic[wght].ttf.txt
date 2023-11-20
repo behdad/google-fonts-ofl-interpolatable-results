@@ -1,29 +1,43 @@
 Glyph currency was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 1 start point differs: 0 in '', 6 in 'wght=700.0'; reversed: False
 Glyph dieresis was not compatible:
+  Masters: '', 'wght=700.0':
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=700.0'
 Glyph dieresis.cap was not compatible:
+  Masters: '', 'wght=700.0':
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=700.0'
 Glyph ellipsis was not compatible:
+  Masters: '', 'wght=700.0':
     Contour order differs: [0, 1, 2] in '', [2, 0, 1] in 'wght=700.0'
 Glyph eth was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 1 start point differs: 0 in '', 30 in 'wght=700.0'; reversed: False
 Glyph four was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 2 in 'wght=700.0'; reversed: False
 Glyph four.oldstyle was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 1 start point differs: 0 in '', 2 in 'wght=700.0'; reversed: False
 Glyph guillemotleft was not compatible:
+  Masters: '', 'wght=700.0':
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=700.0'
 Glyph guillemotright was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 3 in 'wght=700.0'; reversed: False
     Contour 1 start point differs: 0 in '', 3 in 'wght=700.0'; reversed: False
 Glyph guilsinglright was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 3 in 'wght=700.0'; reversed: False
 Glyph hungarumlaut was not compatible:
+  Masters: '', 'wght=700.0':
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=700.0'
 Glyph nine.denominator was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 1 start point differs: 0 in '', 10 in 'wght=700.0'; reversed: False
 Glyph six.oldstyle was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 1 start point differs: 0 in '', 6 in 'wght=700.0'; reversed: False
 Glyph uni2089 was not compatible:
+  Masters: '', 'wght=700.0':
     Contour 1 start point differs: 0 in '', 10 in 'wght=700.0'; reversed: False

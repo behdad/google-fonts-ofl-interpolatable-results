@@ -1,32 +1,50 @@
 Glyph uni0030.tosf was not compatible:
+  Masters: 'wght=558.3418', 'wdth=100.0015 wght=558.3418':
     Contour 1 start point differs: 0 in 'wght=558.3418', 2 in 'wdth=100.0015 wght=558.3418'; reversed: False
+  Masters: 'wght=900.0', 'wdth=100.0015 wght=900.0':
     Contour 1 start point differs: 0 in 'wght=900.0', 2 in 'wdth=100.0015 wght=900.0'; reversed: False
 Glyph uni0030.tosf.zero was not compatible:
+  Masters: 'wght=900.0', 'wdth=100.0015 wght=900.0':
     Contour 1 start point differs: 0 in 'wght=900.0', 2 in 'wdth=100.0015 wght=900.0'; reversed: False
 Glyph uni004F was not compatible:
+  Masters: 'wght=558.3418', 'wdth=100.0015 wght=558.3418':
     Contour 1 start point differs: 0 in 'wght=558.3418', 2 in 'wdth=100.0015 wght=558.3418'; reversed: False
+  Masters: 'wght=900.0', 'wdth=100.0015 wght=900.0':
     Contour 1 start point differs: 0 in 'wght=900.0', 2 in 'wdth=100.0015 wght=900.0'; reversed: False
 Glyph uni0051 was not compatible:
+  Masters: 'wght=558.3418', 'wdth=100.0015 wght=558.3418':
     Contour 2 start point differs: 0 in 'wght=558.3418', 2 in 'wdth=100.0015 wght=558.3418'; reversed: False
+  Masters: 'wght=900.0', 'wdth=100.0015 wght=900.0':
     Contour 2 start point differs: 0 in 'wght=900.0', 2 in 'wdth=100.0015 wght=900.0'; reversed: False
 Glyph uni006F was not compatible:
+  Masters: '', 'wdth=100.0015':
     Contour 0 start point differs: 0 in '', 34 in 'wdth=100.0015'; reversed: False
     Contour 1 start point differs: 0 in '', 2 in 'wdth=100.0015'; reversed: False
 Glyph uni006F.sc was not compatible:
+  Masters: 'wght=900.0', 'wdth=100.0015 wght=900.0':
     Contour 1 start point differs: 0 in 'wght=900.0', 2 in 'wdth=100.0015 wght=900.0'; reversed: False
 Glyph uni0071.sc was not compatible:
+  Masters: '', 'wght=900.0':
     Contour 2 start point differs: 0 in '', 34 in 'wght=900.0'; reversed: False
+  Masters: 'wght=900.0', 'wdth=100.0015 wght=900.0':
     Contour 2 start point differs: 0 in 'wght=900.0', 2 in 'wdth=100.0015 wght=900.0'; reversed: False
 Glyph uni00D8 was not compatible:
+  Masters: 'wght=558.3418', 'wdth=100.0015 wght=558.3418':
     Contour 2 start point differs: 0 in 'wght=558.3418', 2 in 'wdth=100.0015 wght=558.3418'; reversed: False
+  Masters: 'wght=900.0', 'wdth=100.0015 wght=900.0':
     Contour 2 start point differs: 0 in 'wght=900.0', 2 in 'wdth=100.0015 wght=900.0'; reversed: False
 Glyph uni00F8 was not compatible:
+  Masters: '', 'wdth=100.0015':
     Contour 1 start point differs: 0 in '', 34 in 'wdth=100.0015'; reversed: False
     Contour 2 start point differs: 0 in '', 2 in 'wdth=100.0015'; reversed: False
+  Masters: 'wght=900.0', 'wdth=100.0015 wght=900.0':
     Contour 2 start point differs: 0 in 'wght=900.0', 2 in 'wdth=100.0015 wght=900.0'; reversed: False
 Glyph uni00F8.sc was not compatible:
+  Masters: '', 'wght=900.0':
     Contour 2 start point differs: 0 in '', 34 in 'wght=900.0'; reversed: False
+  Masters: 'wght=900.0', 'wdth=100.0015 wght=900.0':
     Contour 1 start point differs: 0 in 'wght=900.0', 20 in 'wdth=100.0015 wght=900.0'; reversed: False
     Contour 2 start point differs: 0 in 'wght=900.0', 28 in 'wdth=100.0015 wght=900.0'; reversed: False
 Glyph uni0153 was not compatible:
+  Masters: '', 'wdth=100.0015':
     Contour 1 start point differs: 0 in '', 2 in 'wdth=100.0015'; reversed: False

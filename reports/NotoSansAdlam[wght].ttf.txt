@@ -1,2 +1,3 @@
 Glyph equal was not compatible:
+  Masters: '', 'wght=700.0':
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=700.0'

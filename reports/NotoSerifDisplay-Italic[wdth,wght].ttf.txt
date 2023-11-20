@@ -1,13 +1,20 @@
 Glyph uni024C was not compatible:
+  Masters: '', 'wdth=62.5':
     Contour 0 start point differs: 0 in '', 3 in 'wdth=62.5'; reversed: False
+  Masters: '', 'wght=699.9878':
     Contour 0 start point differs: 0 in '', 3 in 'wght=699.9878'; reversed: False
+  Masters: 'wght=699.9878', 'wght=900.0':
     Contour 0 start point differs: 0 in 'wght=699.9878', 1 in 'wght=900.0'; reversed: False
 Glyph uni044D was not compatible:
+  Masters: 'wght=699.9878', 'wght=900.0':
     Contour 0 start point differs: 0 in 'wght=699.9878', 1 in 'wght=900.0'; reversed: False
 Glyph uni1E9D was not compatible:
+  Masters: '', 'wght=699.9878':
     Contour 0 start point differs: 0 in '', 3 in 'wght=699.9878'; reversed: False
 Glyph uni2E13 was not compatible:
+  Masters: '', 'wght=699.9878':
     Contour 1 start point differs: 0 in '', 14 in 'wght=699.9878'; reversed: False
     Contour 2 start point differs: 0 in '', 14 in 'wght=699.9878'; reversed: False
+  Masters: 'wght=699.9878', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=699.9878', 14 in 'wght=900.0'; reversed: False
     Contour 2 start point differs: 0 in 'wght=699.9878', 14 in 'wght=900.0'; reversed: False

@@ -1,6 +1,9 @@
 Glyph dollar was not compatible:
+  Masters: '', 'wght=900.0':
     Contour 0 start point differs: 0 in '', 3 in 'wght=900.0'; reversed: False
 Glyph lslash was not compatible:
+  Masters: '', 'wght=900.0':
     Contour 0 start point differs: 0 in '', 0 in 'wght=900.0'; reversed: True
 Glyph uni1E9E was not compatible:
+  Masters: '', 'wght=900.0':
     Contour 2 start point differs: 0 in '', 1 in 'wght=900.0'; reversed: False

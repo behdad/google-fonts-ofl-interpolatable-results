@@ -1,58 +1,99 @@
 Glyph acutecombstack.case was not compatible:
+  Masters: 'opsz=8.0 wdth=25.0', 'opsz=8.0 wdth=25.0 wght=100.0':
     Contour 0 start point differs: 0 in 'opsz=8.0 wdth=25.0', 3 in 'opsz=8.0 wdth=25.0 wght=100.0'; reversed: False
+  Masters: 'opsz=8.0 wdth=151.0', 'opsz=8.0 wdth=151.0 wght=100.0':
     Contour 0 start point differs: 0 in 'opsz=8.0 wdth=151.0', 3 in 'opsz=8.0 wdth=151.0 wght=100.0'; reversed: False
+  Masters: 'GRAD=-200.0 opsz=8.0 wght=100.0', 'GRAD=-200.0 opsz=8.0 wdth=25.0 wght=100.0':
     Contour 0 start point differs: 0 in 'GRAD=-200.0 opsz=8.0 wght=100.0', 3 in 'GRAD=-200.0 opsz=8.0 wdth=25.0 wght=100.0'; reversed: False
+  Masters: 'GRAD=-200.0 opsz=8.0 wght=100.0', 'GRAD=-200.0 opsz=8.0 wdth=151.0 wght=100.0':
     Contour 0 start point differs: 0 in 'GRAD=-200.0 opsz=8.0 wght=100.0', 3 in 'GRAD=-200.0 opsz=8.0 wdth=151.0 wght=100.0'; reversed: False
 Glyph breveacutecomb.case was not compatible:
+  Masters: 'opsz=8.0 wdth=151.0', 'opsz=8.0 wdth=151.0 wght=100.0':
     Contour 1 start point differs: 0 in 'opsz=8.0 wdth=151.0', 3 in 'opsz=8.0 wdth=151.0 wght=100.0'; reversed: False
+  Masters: 'GRAD=-200.0 opsz=8.0 wght=100.0', 'GRAD=-200.0 opsz=8.0 wdth=151.0 wght=100.0':
     Contour 1 start point differs: 0 in 'GRAD=-200.0 opsz=8.0 wght=100.0', 3 in 'GRAD=-200.0 opsz=8.0 wdth=151.0 wght=100.0'; reversed: False
+  Masters: 'opsz=8.0 wdth=151.0 wght=100.0', 'opsz=8.0 slnt=-10.0 wdth=151.0 wght=100.0':
     Contour 1 start point differs: 0 in 'opsz=8.0 wdth=151.0 wght=100.0', 1 in 'opsz=8.0 slnt=-10.0 wdth=151.0 wght=100.0'; reversed: False
 Glyph brevegravecomb.case was not compatible:
+  Masters: 'slnt=-10.0', 'slnt=-10.0 wdth=151.0':
     Contour 1 start point differs: 0 in 'slnt=-10.0', 3 in 'slnt=-10.0 wdth=151.0'; reversed: False
+  Masters: 'slnt=-10.0 wdth=151.0', 'slnt=-10.0 wdth=151.0 wght=100.0':
     Contour 1 start point differs: 0 in 'slnt=-10.0 wdth=151.0', 1 in 'slnt=-10.0 wdth=151.0 wght=100.0'; reversed: False
+  Masters: 'slnt=-10.0 wdth=151.0', 'slnt=-10.0 wdth=151.0 wght=1000.0':
     Contour 1 start point differs: 0 in 'slnt=-10.0 wdth=151.0', 1 in 'slnt=-10.0 wdth=151.0 wght=1000.0'; reversed: False
 Glyph circumflexacutecomb.case was not compatible:
+  Masters: 'opsz=8.0 wdth=151.0', 'opsz=8.0 wdth=151.0 wght=100.0':
     Contour 1 start point differs: 0 in 'opsz=8.0 wdth=151.0', 3 in 'opsz=8.0 wdth=151.0 wght=100.0'; reversed: False
+  Masters: 'GRAD=-200.0 opsz=8.0 wght=100.0', 'GRAD=-200.0 opsz=8.0 wdth=151.0 wght=100.0':
     Contour 1 start point differs: 0 in 'GRAD=-200.0 opsz=8.0 wght=100.0', 3 in 'GRAD=-200.0 opsz=8.0 wdth=151.0 wght=100.0'; reversed: False
 Glyph circumflexgravecomb.case was not compatible:
+  Masters: 'slnt=-10.0 wdth=25.0', 'slnt=-10.0 wdth=25.0 wght=100.0':
     Contour 1 start point differs: 0 in 'slnt=-10.0 wdth=25.0', 3 in 'slnt=-10.0 wdth=25.0 wght=100.0'; reversed: False
 Glyph uni0021 was not compatible:
+  Masters: '', 'XOPQ=27.0':
     Contour 0 start point differs: 0 in '', 8 in 'XOPQ=27.0'; reversed: False
 Glyph uni00A1 was not compatible:
+  Masters: '', 'XOPQ=27.0':
     Contour 0 start point differs: 0 in '', 8 in 'XOPQ=27.0'; reversed: False
 Glyph uni00BB was not compatible:
+  Masters: '', 'XOPQ=175.0':
     Contour order differs: [0, 1] in '', [1, 0] in 'XOPQ=175.0'
 Glyph uni00D7 was not compatible:
+  Masters: 'opsz=144.0 wdth=25.0', 'opsz=144.0 wdth=25.0 wght=1000.0':
     Contour order differs: [0, 1] in 'opsz=144.0 wdth=25.0', [1, 0] in 'opsz=144.0 wdth=25.0 wght=1000.0'
+  Masters: 'GRAD=150.0 opsz=144.0 wght=1000.0', 'GRAD=150.0 opsz=144.0 wdth=25.0 wght=1000.0':
     Contour order differs: [0, 1] in 'GRAD=150.0 opsz=144.0 wght=1000.0', [1, 0] in 'GRAD=150.0 opsz=144.0 wdth=25.0 wght=1000.0'
+  Masters: 'opsz=144.0 slnt=-10.0 wdth=25.0', 'opsz=144.0 slnt=-10.0 wdth=25.0 wght=1000.0':
     Contour order differs: [0, 1] in 'opsz=144.0 slnt=-10.0 wdth=25.0', [1, 0] in 'opsz=144.0 slnt=-10.0 wdth=25.0 wght=1000.0'
 Glyph uni02DD was not compatible:
+  Masters: 'opsz=144.0 wdth=25.0', 'opsz=144.0 wdth=25.0 wght=100.0':
     Contour order differs: [0, 1] in 'opsz=144.0 wdth=25.0', [1, 0] in 'opsz=144.0 wdth=25.0 wght=100.0'
+  Masters: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=25.0 wght=100.0':
     Contour order differs: [0, 1] in 'GRAD=-200.0 opsz=144.0 wght=100.0', [1, 0] in 'GRAD=-200.0 opsz=144.0 wdth=25.0 wght=100.0'
+  Masters: 'opsz=144.0 slnt=-10.0 wdth=25.0', 'opsz=144.0 slnt=-10.0 wdth=25.0 wght=100.0':
     Contour order differs: [0, 1] in 'opsz=144.0 slnt=-10.0 wdth=25.0', [1, 0] in 'opsz=144.0 slnt=-10.0 wdth=25.0 wght=100.0'
 Glyph uni0300.case was not compatible:
+  Masters: 'wdth=151.0', 'wdth=151.0 wght=100.0':
     Contour 0 start point differs: 0 in 'wdth=151.0', 3 in 'wdth=151.0 wght=100.0'; reversed: False
 Glyph uni0416 was not compatible:
+  Masters: 'opsz=8.0 wdth=25.0', 'opsz=8.0 wdth=25.0 wght=100.0':
     Contour 3 start point differs: 0 in 'opsz=8.0 wdth=25.0', 3 in 'opsz=8.0 wdth=25.0 wght=100.0'; reversed: False
+  Masters: 'GRAD=-200.0 opsz=8.0 wght=100.0', 'GRAD=-200.0 opsz=8.0 wdth=25.0 wght=100.0':
     Contour 3 start point differs: 0 in 'GRAD=-200.0 opsz=8.0 wght=100.0', 3 in 'GRAD=-200.0 opsz=8.0 wdth=25.0 wght=100.0'; reversed: False
+  Masters: 'opsz=8.0 wdth=25.0 wght=100.0', 'opsz=8.0 slnt=-10.0 wdth=25.0 wght=100.0':
     Contour 3 start point differs: 0 in 'opsz=8.0 wdth=25.0 wght=100.0', 1 in 'opsz=8.0 slnt=-10.0 wdth=25.0 wght=100.0'; reversed: False
 Glyph uni0457 was not compatible:
+  Masters: 'opsz=8.0 wdth=25.0', 'opsz=8.0 wdth=25.0 wght=100.0':
     Contour 1 start point differs: 0 in 'opsz=8.0 wdth=25.0', 3 in 'opsz=8.0 wdth=25.0 wght=100.0'; reversed: False
 Glyph uni201D was not compatible:
+  Masters: 'opsz=8.0 wdth=25.0', 'opsz=8.0 wdth=25.0 wght=100.0':
     Contour order differs: [0, 1] in 'opsz=8.0 wdth=25.0', [1, 0] in 'opsz=8.0 wdth=25.0 wght=100.0'
+  Masters: 'GRAD=-200.0 opsz=8.0 wght=100.0', 'GRAD=-200.0 opsz=8.0 wdth=25.0 wght=100.0':
     Contour order differs: [0, 1] in 'GRAD=-200.0 opsz=8.0 wght=100.0', [1, 0] in 'GRAD=-200.0 opsz=8.0 wdth=25.0 wght=100.0'
 Glyph uni201E was not compatible:
+  Masters: 'opsz=8.0 wdth=25.0', 'opsz=8.0 wdth=25.0 wght=100.0':
     Contour order differs: [0, 1] in 'opsz=8.0 wdth=25.0', [1, 0] in 'opsz=8.0 wdth=25.0 wght=100.0'
+  Masters: 'GRAD=-200.0 opsz=8.0 wght=100.0', 'GRAD=-200.0 opsz=8.0 wdth=25.0 wght=100.0':
     Contour order differs: [0, 1] in 'GRAD=-200.0 opsz=8.0 wght=100.0', [1, 0] in 'GRAD=-200.0 opsz=8.0 wdth=25.0 wght=100.0'
 Glyph uni20B1 was not compatible:
+  Masters: 'GRAD=150.0 wght=1000.0', 'GRAD=150.0 opsz=144.0 wght=1000.0':
     Contour order differs: [0, 1, 2] in 'GRAD=150.0 wght=1000.0', [0, 2, 1] in 'GRAD=150.0 opsz=144.0 wght=1000.0'
+  Masters: 'opsz=144.0 slnt=-10.0', 'opsz=144.0 slnt=-10.0 wght=1000.0':
     Contour order differs: [0, 1, 2] in 'opsz=144.0 slnt=-10.0', [0, 2, 1] in 'opsz=144.0 slnt=-10.0 wght=1000.0'
+  Masters: 'opsz=144.0 wght=700.0', 'opsz=144.0 wght=1000.0':
     Contour order differs: [0, 1, 2] in 'opsz=144.0 wght=700.0', [0, 2, 1] in 'opsz=144.0 wght=1000.0'
+  Masters: 'GRAD=150.0 opsz=144.0 wght=1000.0', 'GRAD=150.0 opsz=144.0 wdth=25.0 wght=1000.0':
     Contour order differs: [0, 1, 2] in 'GRAD=150.0 opsz=144.0 wght=1000.0', [0, 2, 1] in 'GRAD=150.0 opsz=144.0 wdth=25.0 wght=1000.0'
 Glyph uni20BD was not compatible:
+  Masters: 'opsz=144.0', 'opsz=144.0 wdth=25.0':
     Contour 1 start point differs: 0 in 'opsz=144.0', 2 in 'opsz=144.0 wdth=25.0'; reversed: False
+  Masters: 'opsz=144.0 slnt=-10.0', 'opsz=144.0 slnt=-10.0 wdth=25.0':
     Contour 1 start point differs: 0 in 'opsz=144.0 slnt=-10.0', 2 in 'opsz=144.0 slnt=-10.0 wdth=25.0'; reversed: False
+  Masters: 'opsz=144.0 wdth=25.0', 'opsz=144.0 wdth=25.0 wght=100.0':
     Contour 1 start point differs: 0 in 'opsz=144.0 wdth=25.0', 2 in 'opsz=144.0 wdth=25.0 wght=100.0'; reversed: False
+  Masters: 'opsz=144.0 wdth=25.0', 'opsz=144.0 wdth=25.0 wght=1000.0':
     Contour 1 start point differs: 0 in 'opsz=144.0 wdth=25.0', 2 in 'opsz=144.0 wdth=25.0 wght=1000.0'; reversed: False
+  Masters: 'opsz=144.0 slnt=-10.0 wdth=25.0', 'opsz=144.0 slnt=-10.0 wdth=25.0 wght=100.0':
     Contour 1 start point differs: 0 in 'opsz=144.0 slnt=-10.0 wdth=25.0', 2 in 'opsz=144.0 slnt=-10.0 wdth=25.0 wght=100.0'; reversed: False
+  Masters: 'opsz=144.0 slnt=-10.0 wdth=25.0', 'opsz=144.0 slnt=-10.0 wdth=25.0 wght=1000.0':
     Contour 1 start point differs: 0 in 'opsz=144.0 slnt=-10.0 wdth=25.0', 2 in 'opsz=144.0 slnt=-10.0 wdth=25.0 wght=1000.0'; reversed: False

@@ -1,2 +1,3 @@
 Glyph f_f was not compatible:
+  Masters: '', 'opsz=12.0':
     Contour order differs: [0, 1] in '', [1, 0] in 'opsz=12.0'

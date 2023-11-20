@@ -1,13 +1,20 @@
 Glyph brevecombcy.case was not compatible:
+  Masters: 'opsz=72.0', 'opsz=72.0 wght=200.0':
     Contour 0 start point differs: 0 in 'opsz=72.0', 46 in 'opsz=72.0 wght=200.0'; reversed: False
+  Masters: 'opsz=72.0', 'opsz=72.0 wght=900.0':
     Contour 0 start point differs: 0 in 'opsz=72.0', 46 in 'opsz=72.0 wght=900.0'; reversed: False
 Glyph minus was not compatible:
+  Masters: 'opsz=72.0', 'opsz=72.0 wght=200.0':
     Contour 0 start point differs: 0 in 'opsz=72.0', 1 in 'opsz=72.0 wght=200.0'; reversed: True
 Glyph percent was not compatible:
+  Masters: 'opsz=72.0', 'opsz=72.0 wght=200.0':
     Contour 0 start point differs: 0 in 'opsz=72.0', 3 in 'opsz=72.0 wght=200.0'; reversed: True
 Glyph perthousand was not compatible:
+  Masters: 'opsz=72.0', 'opsz=72.0 wght=200.0':
     Contour 0 start point differs: 0 in 'opsz=72.0', 3 in 'opsz=72.0 wght=200.0'; reversed: True
 Glyph plus was not compatible:
+  Masters: 'opsz=72.0', 'opsz=72.0 wght=200.0':
     Contour 0 start point differs: 0 in 'opsz=72.0', 11 in 'opsz=72.0 wght=200.0'; reversed: True
 Glyph plusminus was not compatible:
+  Masters: 'opsz=72.0', 'opsz=72.0 wght=200.0':
     Contour 0 start point differs: 0 in 'opsz=72.0', 11 in 'opsz=72.0 wght=200.0'; reversed: True

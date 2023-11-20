@@ -1,4 +1,6 @@
 Glyph divide.case was not compatible:
+  Masters: '', 'wght=900.0':
     Contour order differs: [0, 1, 2] in '', [0, 2, 1] in 'wght=900.0'
 Glyph notequal.case was not compatible:
+  Masters: '', 'wght=900.0':
     Contour 0 start point differs: 0 in '', 1 in 'wght=900.0'; reversed: False

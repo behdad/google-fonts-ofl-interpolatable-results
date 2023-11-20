@@ -1,2 +1,3 @@
 Glyph brokenbar was not compatible:
+  Masters: '', 'wght=900.0':
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=900.0'
