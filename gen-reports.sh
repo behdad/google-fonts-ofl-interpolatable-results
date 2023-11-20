@@ -18,6 +18,7 @@ git submodule init
 (cd "$dirname/submodules/fonttools" && time python setup.py build_ext -i)
 
 cores=`grep -c ^processor /proc/cpuinfo`
+echo "Cranking up $cores varLib.interpolatable processes at a time"
 time find "$dir" -name '*\[*.ttf' -print |
   xargs ls --sort=size |
   xargs --verbose -P "$cores" -I{} \
