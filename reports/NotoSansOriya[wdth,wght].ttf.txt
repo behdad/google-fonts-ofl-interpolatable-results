@@ -3,6 +3,7 @@ Glyph laphaoriya was not compatible:
     Contour 5 start point differs: 0 in '', 0 in 'wght=100.0'; reversed: True
   Masters: '', 'wght=900.0':
     Contour order differs: [0, 1, 2, 3, 4, 5] in '', [0, 1, 2, 3, 5, 4] in 'wght=900.0'
+    Contour 5 start point differs: 0 in '', 0 in 'wght=900.0'; reversed: True
 Glyph uni0B19.base was not compatible:
   Masters: '', 'wght=900.0':
     Contour 2 start point differs: 0 in '', 12 in 'wght=900.0'; reversed: False

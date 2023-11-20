@@ -1,4 +1,4 @@
 Glyph dollar.BRACKET.varAlt01 was not compatible:
   Masters: '', 'wght=1.0':
     Contour order differs: [0, 1, 2] in '', [0, 2, 1] in 'wght=1.0'
-    Contour 2 start point differs: 0 in '', 2 in 'wght=1.0'; reversed: False
+    Contour 1 start point differs: 0 in '', 2 in 'wght=1.0'; reversed: False

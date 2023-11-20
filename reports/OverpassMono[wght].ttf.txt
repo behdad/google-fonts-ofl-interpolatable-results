@@ -10,5 +10,3 @@ Glyph uni2279 was not compatible:
 Glyph uni2281 was not compatible:
   Masters: '', 'wght=700.0':
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'wght=700.0'
-    Contour 0 start point differs: 0 in '', 3 in 'wght=700.0'; reversed: False
-    Contour 1 start point differs: 0 in '', 1 in 'wght=700.0'; reversed: False

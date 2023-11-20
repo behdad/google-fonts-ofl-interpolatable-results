@@ -1,4 +1,6 @@
 Glyph .notdef was not compatible:
   Masters: '', 'wght=500.0':
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'wght=500.0'
+    Contour 0 start point differs: 0 in '', 1 in 'wght=500.0'; reversed: False
+    Contour 1 start point differs: 0 in '', 1 in 'wght=500.0'; reversed: False
     Contour 2 start point differs: 0 in '', 0 in 'wght=500.0'; reversed: True
