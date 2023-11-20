@@ -36,6 +36,6 @@ echo "Removing empty reports"
 time find "$out" -name '*.ttf.txt' -size 0 |
   while read x; do rm -f "$x" "${x%txt}pdf" "${x%txt}html"; done
 
-echo "Gzipping the HTML reports"
+echo "Compressing the HTML reports"
 time find "$out" -name '*.ttf.html' |
-  while read x; do gzip < "$x" > "$x.gz" && rm -f "$x"; done
+  while read x; do bzip2 < "$x" > "$x.gz" && rm -f "$x"; done
