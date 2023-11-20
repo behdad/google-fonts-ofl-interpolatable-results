@@ -20,17 +20,17 @@ git submodule init
 time find "$dir" -name '*\[*.ttf' -print |
   xargs ls --sort=size |
   xargs --verbose -P 24 -I{} \
-  submodules/fonttools/fonttools varLib.interpolatable "{}" --pdf "{}".pdf --output "{}".txt
+  submodules/fonttools/fonttools varLib.interpolatable "{}" --pdf "{}".pdf --html "{}".html --output "{}".txt
 
 if $clear; then
   echo "Clearing $out"
-  rm -f $out/*.ttf.{pdf,txt}
+  rm -f $out/*.ttf.{pdf,html,txt}
 fi
 
 echo "Moving reports to $out"
-find $dir \( -name '*.ttf.pdf' -o -name '*.ttf.txt' \) -print0 |
+find $dir \( -name '*.ttf.pdf' -o -name '*.ttf.html' -o -name '*.ttf.txt' \) -print0 |
   xargs -0 -I{} mv {} "$out"
 
 echo "Removing empty reports"
 find "$out" -name '*.ttf.txt' -size 0 |
-  while read x; do rm -f "$x" "${x%txt}pdf"; done
+  while read x; do rm -f "$x" "${x%txt}pdf" "${x%txt}html; done
