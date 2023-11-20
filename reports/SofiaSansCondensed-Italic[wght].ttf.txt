@@ -1,3 +1,0 @@
-Glyph phi.sc was not compatible:
-  Masters: '', 'wght=1.0':
-    Contour 0 start point differs: 0 in '', 19 in 'wght=1.0'; reversed: True

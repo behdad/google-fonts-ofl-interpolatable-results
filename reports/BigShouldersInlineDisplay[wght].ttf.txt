@@ -1,5 +1,0 @@
-Glyph greaterequal was not compatible:
-  Masters: '', 'wght=333.6003':
-    Contour 0 start point differs: 0 in '', 1 in 'wght=333.6003'; reversed: True
-    Contour 1 start point differs: 0 in '', 1 in 'wght=333.6003'; reversed: True
-    Contour 2 start point differs: 0 in '', 1 in 'wght=333.6003'; reversed: True

@@ -1,3 +1,0 @@
-Glyph backslash was not compatible:
-  Masters: '', 'wght=1.0':
-    Contour 0 start point differs: 0 in '', 11 in 'wght=1.0'; reversed: True
