@@ -38,4 +38,4 @@ time find "$out" -name '*.ttf.txt' -size 0 |
 
 echo "Gzipping the HTML reports"
 time find "$out" -name '*.ttf.html' |
-  while read x; do gzip < "$x" > "$x.gzip" && rm -f "$x"; done
+  while read x; do gzip < "$x" > "$x.gz" && rm -f "$x"; done
