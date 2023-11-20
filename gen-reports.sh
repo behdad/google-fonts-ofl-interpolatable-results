@@ -17,9 +17,10 @@ git submodule init
 (cd "$dirname/submodules/fonttools" && time git pull)
 (cd "$dirname/submodules/fonttools" && time python setup.py build_ext -i)
 
+cores=`grep -c ^processor /proc/cpuinfo`
 time find "$dir" -name '*\[*.ttf' -print |
   xargs ls --sort=size |
-  xargs --verbose -P 24 -I{} \
+  xargs --verbose -P "$cores" -I{} \
   submodules/fonttools/fonttools varLib.interpolatable "{}" --pdf "{}".pdf --html "{}".html --output "{}".txt
 
 if $clear; then
