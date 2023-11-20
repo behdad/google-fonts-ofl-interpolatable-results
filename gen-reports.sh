@@ -33,4 +33,8 @@ find $dir \( -name '*.ttf.pdf' -o -name '*.ttf.html' -o -name '*.ttf.txt' \) -pr
 
 echo "Removing empty reports"
 find "$out" -name '*.ttf.txt' -size 0 |
-  while read x; do rm -f "$x" "${x%txt}pdf" "${x%txt}html; done
+  while read x; do rm -f "$x" "${x%txt}pdf" "${x%txt}html"; done
+
+echo "Gzipping the HTML reports"
+find "$out" -name '*.ttf.html' |
+  while read x; do gzip "$x"; done
