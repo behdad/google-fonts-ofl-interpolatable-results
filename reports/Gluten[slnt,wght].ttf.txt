@@ -112,6 +112,8 @@ Glyph lslash was not compatible:
 Glyph multiply was not compatible:
   Masters: '', 'slnt=13.0':
     Contour order differs: [0, 1] in '', [1, 0] in 'slnt=13.0'
+    Contour 0 start point differs: 0 in '', 16 in 'slnt=13.0'; reversed: False
+    Contour 1 start point differs: 0 in '', 46 in 'slnt=13.0'; reversed: False
 Glyph one was not compatible:
   Masters: 'slnt=13.0', 'slnt=13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=13.0', 64 in 'slnt=13.0 wght=900.0'; reversed: False
@@ -121,10 +123,13 @@ Glyph quotedbl was not compatible:
     Contour 1 start point differs: 0 in '', 4 in 'slnt=-13.0'; reversed: False
   Masters: '', 'slnt=13.0':
     Contour order differs: [0, 1] in '', [1, 0] in 'slnt=13.0'
+    Contour 0 start point differs: 0 in '', 36 in 'slnt=13.0'; reversed: False
+    Contour 1 start point differs: 0 in '', 36 in 'slnt=13.0'; reversed: False
   Masters: 'slnt=-13.0', 'slnt=-13.0 wght=900.0':
     Contour 1 start point differs: 0 in 'slnt=-13.0', 38 in 'slnt=-13.0 wght=900.0'; reversed: False
   Masters: 'slnt=13.0', 'slnt=13.0 wght=900.0':
     Contour order differs: [0, 1] in 'slnt=13.0', [1, 0] in 'slnt=13.0 wght=900.0'
+    Contour 1 start point differs: 0 in 'slnt=13.0', 2 in 'slnt=13.0 wght=900.0'; reversed: False
 Glyph quotesingle was not compatible:
   Masters: '', 'slnt=-13.0':
     Contour 0 start point differs: 0 in '', 2 in 'slnt=-13.0'; reversed: False
