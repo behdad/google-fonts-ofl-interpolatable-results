@@ -46,80 +46,59 @@ Glyph _14 was not compatible:
 Glyph _14.clip was not compatible:
   Masters: '', 'ROND=0.0':
     Contour 0 start point differs: 0 in '', 19 in 'ROND=0.0'; reversed: True
-  Masters: '', 'wght=1000.0':
-    Contour 0 start point differs: 0 in '', 19 in 'wght=1000.0'; reversed: True
 Glyph _15 was not compatible:
   Masters: '', 'wght=1000.0':
     Contour order differs: [0, 1, 2] in '', [1, 2, 0] in 'wght=1000.0'
 Glyph _15.clip was not compatible:
   Masters: '', 'ROND=0.0':
     Contour 0 start point differs: 0 in '', 19 in 'ROND=0.0'; reversed: True
-  Masters: '', 'wght=1000.0':
-    Contour 0 start point differs: 0 in '', 19 in 'wght=1000.0'; reversed: True
 Glyph _16 was not compatible:
   Masters: '', 'wght=1000.0':
     Contour order differs: [0, 1, 2] in '', [1, 2, 0] in 'wght=1000.0'
 Glyph _16.clip was not compatible:
   Masters: '', 'ROND=0.0':
     Contour 0 start point differs: 0 in '', 19 in 'ROND=0.0'; reversed: True
-  Masters: '', 'wght=1000.0':
-    Contour 0 start point differs: 0 in '', 19 in 'wght=1000.0'; reversed: True
 Glyph _17 was not compatible:
   Masters: '', 'wght=1000.0':
     Contour order differs: [0, 1, 2] in '', [1, 2, 0] in 'wght=1000.0'
 Glyph _17.clip was not compatible:
   Masters: '', 'ROND=0.0':
     Contour 0 start point differs: 0 in '', 19 in 'ROND=0.0'; reversed: True
-  Masters: '', 'wght=1000.0':
-    Contour 0 start point differs: 0 in '', 19 in 'wght=1000.0'; reversed: True
 Glyph _18 was not compatible:
   Masters: '', 'wght=1000.0':
     Contour order differs: [0, 1, 2] in '', [1, 2, 0] in 'wght=1000.0'
 Glyph _18.clip was not compatible:
   Masters: '', 'ROND=0.0':
     Contour 0 start point differs: 0 in '', 19 in 'ROND=0.0'; reversed: True
-  Masters: '', 'wght=1000.0':
-    Contour 0 start point differs: 0 in '', 19 in 'wght=1000.0'; reversed: True
 Glyph _19 was not compatible:
   Masters: '', 'wght=1000.0':
     Contour order differs: [0, 1, 2] in '', [1, 2, 0] in 'wght=1000.0'
 Glyph _19.clip was not compatible:
   Masters: '', 'ROND=0.0':
     Contour 0 start point differs: 0 in '', 19 in 'ROND=0.0'; reversed: True
-  Masters: '', 'wght=1000.0':
-    Contour 0 start point differs: 0 in '', 19 in 'wght=1000.0'; reversed: True
 Glyph _2 was not compatible:
   Masters: '', 'ROND=0.0':
     Contour order differs: [0, 1, 2] in '', [2, 0, 1] in 'ROND=0.0'
   Masters: '', 'wght=4.0':
     Contour order differs: [0, 1, 2] in '', [2, 0, 1] in 'wght=4.0'
-Glyph _2.clip was not compatible:
-  Masters: '', 'wght=4.0':
-    Contour 0 start point differs: 0 in '', 19 in 'wght=4.0'; reversed: True
 Glyph _20 was not compatible:
   Masters: '', 'wght=1000.0':
     Contour order differs: [0, 1, 2] in '', [1, 2, 0] in 'wght=1000.0'
 Glyph _20.clip was not compatible:
   Masters: '', 'ROND=0.0':
     Contour 0 start point differs: 0 in '', 19 in 'ROND=0.0'; reversed: True
-  Masters: '', 'wght=1000.0':
-    Contour 0 start point differs: 0 in '', 19 in 'wght=1000.0'; reversed: True
 Glyph _21 was not compatible:
   Masters: '', 'wght=1000.0':
     Contour order differs: [0, 1, 2] in '', [1, 2, 0] in 'wght=1000.0'
 Glyph _21.clip was not compatible:
   Masters: '', 'ROND=0.0':
     Contour 0 start point differs: 0 in '', 19 in 'ROND=0.0'; reversed: True
-  Masters: '', 'wght=1000.0':
-    Contour 0 start point differs: 0 in '', 19 in 'wght=1000.0'; reversed: True
 Glyph _22 was not compatible:
   Masters: '', 'wght=1000.0':
     Contour order differs: [0, 1, 2] in '', [1, 2, 0] in 'wght=1000.0'
 Glyph _22.clip was not compatible:
   Masters: '', 'ROND=0.0':
     Contour 0 start point differs: 0 in '', 27 in 'ROND=0.0'; reversed: True
-  Masters: '', 'wght=1000.0':
-    Contour 0 start point differs: 0 in '', 27 in 'wght=1000.0'; reversed: True
 Glyph _23 was not compatible:
   Masters: '', 'wght=1000.0':
     Contour order differs: [0, 1, 2] in '', [1, 2, 0] in 'wght=1000.0'
@@ -152,6 +131,8 @@ Glyph _3 was not compatible:
     Contour order differs: [0, 1, 2] in '', [2, 1, 0] in 'ROND=0.0'
   Masters: '', 'wght=4.0':
     Contour order differs: [0, 1, 2] in '', [2, 1, 0] in 'wght=4.0'
+  Masters: '', 'wght=1000.0':
+    Contour 0 start point differs: 0 in '', 3 in 'wght=1000.0'; reversed: True
 Glyph _30 was not compatible:
   Masters: '', 'wght=1000.0':
     Contour order differs: [0, 1, 2] in '', [2, 1, 0] in 'wght=1000.0'

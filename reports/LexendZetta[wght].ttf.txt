@@ -1,6 +1,16 @@
 Glyph colonmonetary was not compatible:
   Masters: '', 'wght=900.0':
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'wght=900.0'
+Glyph exclam was not compatible:
+  Masters: '', 'wght=199.9939':
+    Contour 0 start point differs: 0 in '', 15 in 'wght=199.9939'; reversed: True
+  Masters: 'wght=199.9939', 'wght=100.0':
+    Contour 0 start point differs: 0 in 'wght=199.9939', 15 in 'wght=100.0'; reversed: True
+Glyph exclamdown was not compatible:
+  Masters: '', 'wght=199.9939':
+    Contour 0 start point differs: 0 in '', 15 in 'wght=199.9939'; reversed: True
+  Masters: 'wght=199.9939', 'wght=100.0':
+    Contour 0 start point differs: 0 in 'wght=199.9939', 15 in 'wght=100.0'; reversed: True
 Glyph numbersign was not compatible:
   Masters: '', 'wght=199.9939':
     Contour order differs: [0, 1, 2, 3] in '', [0, 2, 1, 3] in 'wght=199.9939'
@@ -10,8 +20,10 @@ Glyph product was not compatible:
 Glyph uni20AD was not compatible:
   Masters: '', 'wght=199.9939':
     Contour 1 start point differs: 0 in '', 1 in 'wght=199.9939'; reversed: True
+    Contour 2 start point differs: 0 in '', 3 in 'wght=199.9939'; reversed: True
   Masters: 'wght=199.9939', 'wght=100.0':
     Contour 1 start point differs: 0 in 'wght=199.9939', 1 in 'wght=100.0'; reversed: True
+    Contour 2 start point differs: 0 in 'wght=199.9939', 3 in 'wght=100.0'; reversed: True
 Glyph uni20B1 was not compatible:
   Masters: '', 'wght=199.9939':
     Contour order differs: [0, 1, 2, 3] in '', [1, 0, 2, 3] in 'wght=199.9939'

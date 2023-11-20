@@ -27,6 +27,12 @@ Glyph Eng.color2 was not compatible:
   Masters: 'MORF=35.0006', 'MORF=39.9994':
     Contour 4 start point differs: 0 in 'MORF=35.0006', 4 in 'MORF=39.9994'; reversed: False
     Contour 6 start point differs: 0 in 'MORF=35.0006', 2 in 'MORF=39.9994'; reversed: False
+Glyph Ldot was not compatible:
+  Masters: 'MORF=35.0006', 'MORF=39.9994':
+    Contour 4 start point differs: 0 in 'MORF=35.0006', 50 in 'MORF=39.9994'; reversed: False
+Glyph Ldot.color2 was not compatible:
+  Masters: 'MORF=35.0006', 'MORF=39.9994':
+    Contour 4 start point differs: 0 in 'MORF=35.0006', 50 in 'MORF=39.9994'; reversed: False
 Glyph asterisk.color1 was not compatible:
   Masters: 'MORF=30.0', 'MORF=35.0006':
     Contour 0 start point differs: 0 in 'MORF=30.0', 122 in 'MORF=35.0006'; reversed: False
@@ -102,3 +108,19 @@ Glyph shadowdecender_p was not compatible:
 Glyph shadowdecender_q was not compatible:
   Masters: 'MORF=30.0', 'MORF=35.0006':
     Contour 0 start point differs: 0 in 'MORF=30.0', 50 in 'MORF=35.0006'; reversed: True
+Glyph skullcrossbones was not compatible:
+  Masters: 'MORF=39.9994', 'MORF=45.0':
+    Contour 11 start point differs: 0 in 'MORF=39.9994', 0 in 'MORF=45.0'; reversed: True
+    Contour 13 start point differs: 0 in 'MORF=39.9994', 0 in 'MORF=45.0'; reversed: True
+Glyph skullcrossbones.color2 was not compatible:
+  Masters: 'MORF=39.9994', 'MORF=45.0':
+    Contour 11 start point differs: 0 in 'MORF=39.9994', 0 in 'MORF=45.0'; reversed: True
+    Contour 13 start point differs: 0 in 'MORF=39.9994', 0 in 'MORF=45.0'; reversed: True
+Glyph u1F480 was not compatible:
+  Masters: 'MORF=39.9994', 'MORF=45.0':
+    Contour 2 start point differs: 0 in 'MORF=39.9994', 0 in 'MORF=45.0'; reversed: True
+    Contour 4 start point differs: 0 in 'MORF=39.9994', 0 in 'MORF=45.0'; reversed: True
+Glyph u1F480.color2 was not compatible:
+  Masters: 'MORF=39.9994', 'MORF=45.0':
+    Contour 2 start point differs: 0 in 'MORF=39.9994', 0 in 'MORF=45.0'; reversed: True
+    Contour 4 start point differs: 0 in 'MORF=39.9994', 0 in 'MORF=45.0'; reversed: True

@@ -1,0 +1,3 @@
+Glyph uni0444 was not compatible:
+  Masters: '', 'wght=1.0':
+    Contour 2 start point differs: 0 in '', 19 in 'wght=1.0'; reversed: True

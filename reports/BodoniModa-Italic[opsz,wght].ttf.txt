@@ -56,9 +56,5 @@ Glyph uni2031 was not compatible:
     Contour 6 start point differs: 0 in 'opsz=96.0', 32 in 'opsz=96.0 wght=900.0'; reversed: False
     Contour 8 start point differs: 0 in 'opsz=96.0', 32 in 'opsz=96.0 wght=900.0'; reversed: False
 Glyph z was not compatible:
-  Masters: '', 'opsz=6.0':
-    Contour 0 start point differs: 0 in '', 0 in 'opsz=6.0'; reversed: True
-  Masters: '', 'wght=900.0':
-    Contour 0 start point differs: 0 in '', 0 in 'wght=900.0'; reversed: True
   Masters: 'opsz=96.0', 'opsz=96.0 wght=900.0':
     Contour 0 start point differs: 0 in 'opsz=96.0', 3 in 'opsz=96.0 wght=900.0'; reversed: False

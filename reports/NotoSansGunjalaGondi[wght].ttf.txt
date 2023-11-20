@@ -20,10 +20,10 @@ Glyph KhaMatraAa.GGondi was not compatible:
     Contour 3 start point differs: 0 in '', 4 in 'wght=700.0'; reversed: False
 Glyph La.GGondi was not compatible:
   Masters: '', 'wght=700.0':
-    Contour 1 start point differs: 0 in '', 4 in 'wght=700.0'; reversed: False
+    Contour 1 start point differs: 0 in '', 2 in 'wght=700.0'; reversed: False
 Glyph LaHalant.GGondi was not compatible:
   Masters: '', 'wght=700.0':
-    Contour 1 start point differs: 0 in '', 4 in 'wght=700.0'; reversed: False
+    Contour 1 start point differs: 0 in '', 2 in 'wght=700.0'; reversed: False
 Glyph Om.GGondi was not compatible:
   Masters: '', 'wght=700.0':
     Contour 1 start point differs: 0 in '', 12 in 'wght=700.0'; reversed: False

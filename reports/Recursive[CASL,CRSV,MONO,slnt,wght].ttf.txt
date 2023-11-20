@@ -12,17 +12,6 @@ Glyph Uhungarumlaut was not compatible:
     Contour 2 start point differs: 0 in 'CASL=1.0 MONO=1.0', 46 in 'CASL=1.0 MONO=1.0 wght=800.0061'; reversed: False
   Masters: 'CASL=1.0 MONO=1.0 wght=800.0061', 'CASL=1.0 MONO=1.0 wght=1000.0':
     Contour 2 start point differs: 0 in 'CASL=1.0 MONO=1.0 wght=800.0061', 2 in 'CASL=1.0 MONO=1.0 wght=1000.0'; reversed: False
-Glyph currency was not compatible:
-  Masters: 'CASL=1.0', 'CASL=1.0 wght=800.0061':
-    Contour 0 start point differs: 0 in 'CASL=1.0', 26 in 'CASL=1.0 wght=800.0061'; reversed: False
-    Contour 1 start point differs: 0 in 'CASL=1.0', 2 in 'CASL=1.0 wght=800.0061'; reversed: False
-    Contour 2 start point differs: 0 in 'CASL=1.0', 24 in 'CASL=1.0 wght=800.0061'; reversed: False
-    Contour 3 start point differs: 0 in 'CASL=1.0', 2 in 'CASL=1.0 wght=800.0061'; reversed: False
-  Masters: 'CASL=1.0 slnt=-14.0497', 'CASL=1.0 slnt=-14.0497 wght=800.0061':
-    Contour 0 start point differs: 0 in 'CASL=1.0 slnt=-14.0497', 26 in 'CASL=1.0 slnt=-14.0497 wght=800.0061'; reversed: False
-    Contour 1 start point differs: 0 in 'CASL=1.0 slnt=-14.0497', 2 in 'CASL=1.0 slnt=-14.0497 wght=800.0061'; reversed: False
-    Contour 2 start point differs: 0 in 'CASL=1.0 slnt=-14.0497', 24 in 'CASL=1.0 slnt=-14.0497 wght=800.0061'; reversed: False
-    Contour 3 start point differs: 0 in 'CASL=1.0 slnt=-14.0497', 2 in 'CASL=1.0 slnt=-14.0497 wght=800.0061'; reversed: False
 Glyph horncombo was not compatible:
   Masters: '', 'CASL=1.0':
     Contour 0 start point differs: 0 in '', 48 in 'CASL=1.0'; reversed: False
