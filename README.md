@@ -1,9 +1,13 @@
+## Intro
+
 This repository holds reports of the `fonttools varLib.interpolatable`
 tool on the Google Fonts catalog.
 
+## Update
+
 To update all reports, run `./generate-all.sh`.
 
-== git setup
+## git setup
 
 To get a visual diff of the changes, you can configure `git` as below:
 
