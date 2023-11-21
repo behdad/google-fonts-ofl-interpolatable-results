@@ -1,7 +1,7 @@
 Glyph approxequal was not compatible:
   Masters: '', 'wght=900.0':
     Contour 0 start point differs: 0 in '', 4 in 'wght=900.0'; reversed: False
-    Contour 1 start point differs: 0 in '', 2 in 'wght=900.0'; reversed: False
+    Contour 1 start point differs: 0 in '', 4 in 'wght=900.0'; reversed: False
 Glyph backslash was not compatible:
   Masters: '', 'wght=900.0':
     Contour 0 start point differs: 0 in '', 2 in 'wght=900.0'; reversed: False
