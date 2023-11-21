@@ -87,8 +87,6 @@ Glyph pattern_1 was not compatible:
     Contour 1 start point differs: 0 in '', 2 in 'MORF=19.9988'; reversed: False
   Masters: 'MORF=40.0012', 'MORF=49.9988':
     Contour 1 start point differs: 0 in 'MORF=40.0012', 42 in 'MORF=49.9988'; reversed: False
-  Masters: 'MORF=49.9988', 'MORF=60.0':
-    Contour 1 start point differs: 0 in 'MORF=49.9988', 42 in 'MORF=60.0'; reversed: False
 Glyph pattern_3 was not compatible:
   Masters: '', 'MORF=19.9988':
     Contour 2 start point differs: 0 in '', 28 in 'MORF=19.9988'; reversed: False

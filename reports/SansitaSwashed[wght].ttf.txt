@@ -1,3 +1,0 @@
-Glyph OE.ss01 was not compatible:
-  Masters: '', 'wght=900.0':
-    Contour 1 start point differs: 0 in '', 38 in 'wght=900.0'; reversed: False

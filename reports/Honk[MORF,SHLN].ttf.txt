@@ -61,22 +61,6 @@ Glyph ordfeminine.color1 was not compatible:
 Glyph ordmasculine.color1 was not compatible:
   Masters: 'MORF=30.0', 'MORF=35.0006':
     Contour 0 start point differs: 0 in 'MORF=30.0', 122 in 'MORF=35.0006'; reversed: False
-Glyph parenleft was not compatible:
-  Masters: 'MORF=10.0003', 'MORF=4.9997':
-    Contour 2 start point differs: 0 in 'MORF=10.0003', 90 in 'MORF=4.9997'; reversed: False
-    Contour 5 start point differs: 0 in 'MORF=10.0003', 2 in 'MORF=4.9997'; reversed: False
-Glyph parenleft.color2 was not compatible:
-  Masters: 'MORF=10.0003', 'MORF=4.9997':
-    Contour 2 start point differs: 0 in 'MORF=10.0003', 90 in 'MORF=4.9997'; reversed: False
-    Contour 5 start point differs: 0 in 'MORF=10.0003', 2 in 'MORF=4.9997'; reversed: False
-Glyph parenright was not compatible:
-  Masters: 'MORF=10.0003', 'MORF=4.9997':
-    Contour 2 start point differs: 0 in 'MORF=10.0003', 2 in 'MORF=4.9997'; reversed: False
-    Contour 5 start point differs: 0 in 'MORF=10.0003', 90 in 'MORF=4.9997'; reversed: False
-Glyph parenright.color2 was not compatible:
-  Masters: 'MORF=10.0003', 'MORF=4.9997':
-    Contour 2 start point differs: 0 in 'MORF=10.0003', 2 in 'MORF=4.9997'; reversed: False
-    Contour 5 start point differs: 0 in 'MORF=10.0003', 90 in 'MORF=4.9997'; reversed: False
 Glyph shadow1_Q was not compatible:
   Masters: '', 'MORF=20.0006':
     Contour 2 start point differs: 0 in '', 26 in 'MORF=20.0006'; reversed: False

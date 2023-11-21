@@ -1,23 +1,6 @@
 Glyph cent.BRACKET.110 was not compatible:
   Masters: 'wdth=125.0', 'wdth=125.0 wght=100.0':
     Contour order differs: [0, 1, 2] in 'wdth=125.0', [1, 0, 2] in 'wdth=125.0 wght=100.0'
-Glyph eight was not compatible:
-  Masters: 'wdth=62.0', 'wdth=62.0 wght=900.0':
-    Contour 1 start point differs: 0 in 'wdth=62.0', 26 in 'wdth=62.0 wght=900.0'; reversed: False
-Glyph eight.lf was not compatible:
-  Masters: 'wdth=62.0', 'wdth=62.0 wght=900.0':
-    Contour 1 start point differs: 0 in 'wdth=62.0', 26 in 'wdth=62.0 wght=900.0'; reversed: False
-Glyph eight.osf was not compatible:
-  Masters: 'wdth=62.0', 'wdth=62.0 wght=900.0':
-    Contour 1 start point differs: 0 in 'wdth=62.0', 26 in 'wdth=62.0 wght=900.0'; reversed: False
-    Contour 2 start point differs: 0 in 'wdth=62.0', 26 in 'wdth=62.0 wght=900.0'; reversed: False
-Glyph eight.tf was not compatible:
-  Masters: 'wdth=62.0', 'wdth=62.0 wght=900.0':
-    Contour 1 start point differs: 0 in 'wdth=62.0', 26 in 'wdth=62.0 wght=900.0'; reversed: False
-Glyph eight.tosf was not compatible:
-  Masters: 'wdth=62.0', 'wdth=62.0 wght=900.0':
-    Contour 1 start point differs: 0 in 'wdth=62.0', 26 in 'wdth=62.0 wght=900.0'; reversed: False
-    Contour 2 start point differs: 0 in 'wdth=62.0', 26 in 'wdth=62.0 wght=900.0'; reversed: False
 Glyph g was not compatible:
   Masters: 'wdth=62.0', 'wdth=62.0 wght=100.0':
     Contour 1 start point differs: 0 in 'wdth=62.0', 2 in 'wdth=62.0 wght=100.0'; reversed: False
@@ -33,24 +16,6 @@ Glyph gcircumflex was not compatible:
 Glyph gdotaccent was not compatible:
   Masters: 'wdth=62.0', 'wdth=62.0 wght=100.0':
     Contour 1 start point differs: 0 in 'wdth=62.0', 2 in 'wdth=62.0 wght=100.0'; reversed: False
-Glyph q was not compatible:
-  Masters: 'wdth=62.0', 'wdth=62.0 wght=100.0':
-    Contour 1 start point differs: 0 in 'wdth=62.0', 2 in 'wdth=62.0 wght=100.0'; reversed: False
-Glyph six was not compatible:
-  Masters: 'wdth=62.0', 'wdth=62.0 wght=900.0':
-    Contour 1 start point differs: 0 in 'wdth=62.0', 26 in 'wdth=62.0 wght=900.0'; reversed: False
-Glyph six.lf was not compatible:
-  Masters: 'wdth=62.0', 'wdth=62.0 wght=900.0':
-    Contour 1 start point differs: 0 in 'wdth=62.0', 26 in 'wdth=62.0 wght=900.0'; reversed: False
-Glyph six.osf was not compatible:
-  Masters: 'wdth=62.0', 'wdth=62.0 wght=900.0':
-    Contour 1 start point differs: 0 in 'wdth=62.0', 26 in 'wdth=62.0 wght=900.0'; reversed: False
-Glyph six.tf was not compatible:
-  Masters: 'wdth=62.0', 'wdth=62.0 wght=900.0':
-    Contour 1 start point differs: 0 in 'wdth=62.0', 26 in 'wdth=62.0 wght=900.0'; reversed: False
-Glyph six.tosf was not compatible:
-  Masters: 'wdth=62.0', 'wdth=62.0 wght=900.0':
-    Contour 1 start point differs: 0 in 'wdth=62.0', 26 in 'wdth=62.0 wght=900.0'; reversed: False
 Glyph uni0123 was not compatible:
   Masters: 'wdth=62.0', 'wdth=62.0 wght=100.0':
     Contour 1 start point differs: 0 in 'wdth=62.0', 2 in 'wdth=62.0 wght=100.0'; reversed: False

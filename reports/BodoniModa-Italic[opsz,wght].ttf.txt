@@ -1,8 +1,3 @@
-Glyph eight was not compatible:
-  Masters: '', 'wght=900.0':
-    Contour 3 start point differs: 0 in '', 30 in 'wght=900.0'; reversed: False
-  Masters: 'opsz=96.0', 'opsz=96.0 wght=900.0':
-    Contour 3 start point differs: 0 in 'opsz=96.0', 30 in 'opsz=96.0 wght=900.0'; reversed: False
 Glyph g was not compatible:
   Masters: '', 'wght=900.0':
     Contour 2 start point differs: 0 in '', 26 in 'wght=900.0'; reversed: False
@@ -20,7 +15,6 @@ Glyph percent was not compatible:
     Contour 4 start point differs: 0 in '', 32 in 'wght=900.0'; reversed: False
   Masters: 'opsz=6.0', 'opsz=6.0 wght=900.0':
     Contour 2 start point differs: 0 in 'opsz=6.0', 30 in 'opsz=6.0 wght=900.0'; reversed: False
-    Contour 4 start point differs: 0 in 'opsz=6.0', 32 in 'opsz=6.0 wght=900.0'; reversed: False
   Masters: 'opsz=96.0', 'opsz=96.0 wght=900.0':
     Contour 2 start point differs: 0 in 'opsz=96.0', 30 in 'opsz=96.0 wght=900.0'; reversed: False
     Contour 4 start point differs: 0 in 'opsz=96.0', 32 in 'opsz=96.0 wght=900.0'; reversed: False
@@ -31,8 +25,6 @@ Glyph perthousand was not compatible:
     Contour 6 start point differs: 0 in '', 32 in 'wght=900.0'; reversed: False
   Masters: 'opsz=6.0', 'opsz=6.0 wght=900.0':
     Contour 2 start point differs: 0 in 'opsz=6.0', 30 in 'opsz=6.0 wght=900.0'; reversed: False
-    Contour 4 start point differs: 0 in 'opsz=6.0', 32 in 'opsz=6.0 wght=900.0'; reversed: False
-    Contour 6 start point differs: 0 in 'opsz=6.0', 32 in 'opsz=6.0 wght=900.0'; reversed: False
   Masters: 'opsz=96.0', 'opsz=96.0 wght=900.0':
     Contour 2 start point differs: 0 in 'opsz=96.0', 30 in 'opsz=96.0 wght=900.0'; reversed: False
     Contour 4 start point differs: 0 in 'opsz=96.0', 32 in 'opsz=96.0 wght=900.0'; reversed: False
@@ -48,8 +40,6 @@ Glyph uni2031 was not compatible:
     Contour 8 start point differs: 0 in '', 32 in 'wght=900.0'; reversed: False
   Masters: 'opsz=6.0', 'opsz=6.0 wght=900.0':
     Contour 4 start point differs: 0 in 'opsz=6.0', 30 in 'opsz=6.0 wght=900.0'; reversed: False
-    Contour 6 start point differs: 0 in 'opsz=6.0', 32 in 'opsz=6.0 wght=900.0'; reversed: False
-    Contour 8 start point differs: 0 in 'opsz=6.0', 32 in 'opsz=6.0 wght=900.0'; reversed: False
   Masters: 'opsz=96.0', 'opsz=96.0 wght=900.0':
     Contour 1 start point differs: 0 in 'opsz=96.0', 32 in 'opsz=96.0 wght=900.0'; reversed: False
     Contour 4 start point differs: 0 in 'opsz=96.0', 30 in 'opsz=96.0 wght=900.0'; reversed: False
