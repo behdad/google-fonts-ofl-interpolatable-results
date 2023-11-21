@@ -9,8 +9,8 @@ out="$dirname/reports/$basename"
 	"$ttf" \
 	--pdf "$out.pdf" \
 	--html "$out.html" \
-	--output "$out.txt" &&
-bzip2 < "$out.html" > "$out.html.bz2"
+	--output "$out.txt"
 status=$?
+bzip2 < "$out.html" > "$out.html.bz2" && rm "$out.html"
 echo "Done processing $ttf"
 exit $status
