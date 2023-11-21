@@ -1,5 +1,7 @@
 #! /bin/bash
 
+echo "Making one with everything."
+
 dirname=$(dirname "$0")
 dir=$1
 clear=false
