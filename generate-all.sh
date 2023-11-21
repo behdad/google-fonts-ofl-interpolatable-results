@@ -14,8 +14,8 @@ fi
 
 echo "git submodule init"
 time git submodule init
-echo "git submodule update"
-time git submodule update
+#echo "git submodule update"
+#time git submodule update
 echo "git submodule foreach git pull"
 time git submodule foreach git pull
 echo "Building fonttools cython extensions"
