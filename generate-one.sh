@@ -12,5 +12,5 @@ out="$dirname/reports/$basename"
 	--output "$out.txt"
 status=$?
 bzip2 < "$out.html" > "$out.html.bz2" && rm "$out.html"
-echo "Done processing $ttf"
+echo "Finished all with '$ttf'"
 exit $status
