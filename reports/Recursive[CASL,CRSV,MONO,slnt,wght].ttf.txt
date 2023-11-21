@@ -7,6 +7,12 @@ Glyph one was not compatible:
 Glyph one.pnum was not compatible:
   Masters: '', 'CASL=1.0':
     Contour 1 start point differs: 0 in '', 2 in 'CASL=1.0'; reversed: False
+Glyph percent was not compatible:
+  Masters: 'wght=800.0061', 'wght=1000.0':
+    Contour 1 structures differ: 'wght=800.0061', 'wght=1000.0'
+  Masters: 'slnt=-14.0497 wght=800.0061', 'slnt=-14.0497 wght=1000.0':
+    Contour 1 structures differ: 'slnt=-14.0497 wght=800.0061', 'slnt=-14.0497 wght=1000.0'
+    Contour 3 structures differ: 'slnt=-14.0497 wght=800.0061', 'slnt=-14.0497 wght=1000.0'
 Glyph perthousand was not compatible:
   Masters: 'wght=800.0061', 'wght=1000.0':
     Contour 2 start point differs: 0 in 'wght=800.0061', 25 in 'wght=1000.0'; reversed: True

@@ -8,6 +8,13 @@ Glyph cent.BRACKET.110 was not compatible:
 Glyph dollar.BRACKET.110 was not compatible:
   Masters: 'wdth=125.0', 'wdth=125.0 wght=100.0':
     Contour order differs: [0, 1, 2] in 'wdth=125.0', [1, 0, 2] in 'wdth=125.0 wght=100.0'
+Glyph intersection was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 structures differ: '', 'wght=900.0'
+  Masters: 'wdth=62.0', 'wdth=62.0 wght=900.0':
+    Contour 0 structures differ: 'wdth=62.0', 'wdth=62.0 wght=900.0'
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=900.0':
+    Contour 0 structures differ: 'wdth=125.0', 'wdth=125.0 wght=900.0'
 Glyph multiply was not compatible:
   Masters: 'wdth=125.0', 'wdth=125.0 wght=100.0':
     Contour 0 start point differs: 0 in 'wdth=125.0', 2 in 'wdth=125.0 wght=100.0'; reversed: False

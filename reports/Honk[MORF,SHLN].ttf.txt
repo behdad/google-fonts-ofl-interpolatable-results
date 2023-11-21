@@ -82,6 +82,10 @@ Glyph shadow1_Q was not compatible:
     Contour 1 start point differs: 0 in 'MORF=30.0 SHLN=100.0', 4 in 'MORF=35.0006 SHLN=100.0'; reversed: False
   Masters: 'MORF=39.9994 SHLN=100.0', 'MORF=45.0 SHLN=100.0':
     Contour 0 start point differs: 0 in 'MORF=39.9994 SHLN=100.0', 2 in 'MORF=45.0 SHLN=100.0'; reversed: False
+Glyph shadow9 was not compatible:
+  Masters: 'MORF=24.9994', 'MORF=30.0':
+    Contour 0 structures differ: 'MORF=24.9994', 'MORF=30.0'
+    Contour 1 structures differ: 'MORF=24.9994', 'MORF=30.0'
 Glyph shadowdecender_enj was not compatible:
   Masters: 'MORF=30.0', 'MORF=35.0006':
     Contour 0 start point differs: 0 in 'MORF=30.0', 46 in 'MORF=35.0006'; reversed: True
