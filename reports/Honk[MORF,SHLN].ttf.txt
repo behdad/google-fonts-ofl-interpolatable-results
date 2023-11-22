@@ -78,8 +78,8 @@ Glyph shadow1_Q was not compatible:
     Contour 0 start point differs: 0 in 'MORF=35.0006', 28 in 'MORF=39.9994'; reversed: True
     Contour 1 start point differs: 0 in 'MORF=35.0006', 28 in 'MORF=39.9994'; reversed: True
   Masters: 'MORF=30.0 SHLN=100.0', 'MORF=35.0006 SHLN=100.0':
-    Contour 0 start point differs: 0 in 'MORF=30.0 SHLN=100.0', 4 in 'MORF=35.0006 SHLN=100.0'; reversed: False
-    Contour 1 start point differs: 0 in 'MORF=30.0 SHLN=100.0', 4 in 'MORF=35.0006 SHLN=100.0'; reversed: False
+    Contour 0 start point differs: 0 in 'MORF=30.0 SHLN=100.0', 2 in 'MORF=35.0006 SHLN=100.0'; reversed: False
+    Contour 1 start point differs: 0 in 'MORF=30.0 SHLN=100.0', 2 in 'MORF=35.0006 SHLN=100.0'; reversed: False
   Masters: 'MORF=39.9994 SHLN=100.0', 'MORF=45.0 SHLN=100.0':
     Contour 0 start point differs: 0 in 'MORF=39.9994 SHLN=100.0', 2 in 'MORF=45.0 SHLN=100.0'; reversed: False
 Glyph shadow9 was not compatible:
@@ -96,19 +96,3 @@ Glyph shadowdecender_p was not compatible:
 Glyph shadowdecender_q was not compatible:
   Masters: 'MORF=30.0', 'MORF=35.0006':
     Contour 0 start point differs: 0 in 'MORF=30.0', 50 in 'MORF=35.0006'; reversed: True
-Glyph skullcrossbones was not compatible:
-  Masters: 'MORF=39.9994', 'MORF=45.0':
-    Contour 11 start point differs: 0 in 'MORF=39.9994', 0 in 'MORF=45.0'; reversed: True
-    Contour 13 start point differs: 0 in 'MORF=39.9994', 0 in 'MORF=45.0'; reversed: True
-Glyph skullcrossbones.color2 was not compatible:
-  Masters: 'MORF=39.9994', 'MORF=45.0':
-    Contour 11 start point differs: 0 in 'MORF=39.9994', 0 in 'MORF=45.0'; reversed: True
-    Contour 13 start point differs: 0 in 'MORF=39.9994', 0 in 'MORF=45.0'; reversed: True
-Glyph u1F480 was not compatible:
-  Masters: 'MORF=39.9994', 'MORF=45.0':
-    Contour 2 start point differs: 0 in 'MORF=39.9994', 0 in 'MORF=45.0'; reversed: True
-    Contour 4 start point differs: 0 in 'MORF=39.9994', 0 in 'MORF=45.0'; reversed: True
-Glyph u1F480.color2 was not compatible:
-  Masters: 'MORF=39.9994', 'MORF=45.0':
-    Contour 2 start point differs: 0 in 'MORF=39.9994', 0 in 'MORF=45.0'; reversed: True
-    Contour 4 start point differs: 0 in 'MORF=39.9994', 0 in 'MORF=45.0'; reversed: True

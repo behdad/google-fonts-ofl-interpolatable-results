@@ -11,6 +11,39 @@ Glyph B.rev was not compatible:
     Contour order differs: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12] in 'MORF=19.9988', [0, 1, 2, 3, 4, 5, 6, 9, 7, 8, 10, 11, 12] in 'MORF=40.0012'
   Masters: 'MORF=40.0012', 'MORF=60.0':
     Contour order differs: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12] in 'MORF=40.0012', [0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 8, 11, 12] in 'MORF=60.0'
+Glyph C was not compatible:
+  Masters: '', 'MORF=19.9988':
+    Contour 2 start point differs: 0 in '', 2 in 'MORF=19.9988'; reversed: False
+Glyph C.bottomless was not compatible:
+  Masters: '', 'MORF=19.9988':
+    Contour 2 start point differs: 0 in '', 2 in 'MORF=19.9988'; reversed: False
+Glyph C.rev was not compatible:
+  Masters: 'MORF=40.0012', 'MORF=60.0':
+    Contour 2 start point differs: 0 in 'MORF=40.0012', 22 in 'MORF=60.0'; reversed: False
+Glyph C.topless was not compatible:
+  Masters: '', 'MORF=19.9988':
+    Contour 2 start point differs: 0 in '', 2 in 'MORF=19.9988'; reversed: False
+Glyph C.toplessbottomless was not compatible:
+  Masters: '', 'MORF=19.9988':
+    Contour 1 start point differs: 0 in '', 2 in 'MORF=19.9988'; reversed: False
+Glyph Cacute.rev was not compatible:
+  Masters: 'MORF=40.0012', 'MORF=60.0':
+    Contour 2 start point differs: 0 in 'MORF=40.0012', 22 in 'MORF=60.0'; reversed: False
+Glyph Ccaron.rev was not compatible:
+  Masters: 'MORF=40.0012', 'MORF=60.0':
+    Contour 2 start point differs: 0 in 'MORF=40.0012', 22 in 'MORF=60.0'; reversed: False
+Glyph Ccedilla was not compatible:
+  Masters: '', 'MORF=19.9988':
+    Contour 2 start point differs: 0 in '', 2 in 'MORF=19.9988'; reversed: False
+Glyph Ccedilla.rev was not compatible:
+  Masters: 'MORF=40.0012', 'MORF=60.0':
+    Contour 2 start point differs: 0 in 'MORF=40.0012', 22 in 'MORF=60.0'; reversed: False
+Glyph Ccircumflex.rev was not compatible:
+  Masters: 'MORF=40.0012', 'MORF=60.0':
+    Contour 2 start point differs: 0 in 'MORF=40.0012', 22 in 'MORF=60.0'; reversed: False
+Glyph Cdotaccent.rev was not compatible:
+  Masters: 'MORF=40.0012', 'MORF=60.0':
+    Contour 2 start point differs: 0 in 'MORF=40.0012', 22 in 'MORF=60.0'; reversed: False
 Glyph T was not compatible:
   Masters: 'MORF=40.0012', 'MORF=60.0':
     Contour order differs: [0, 1, 2, 3] in 'MORF=40.0012', [0, 2, 3, 1] in 'MORF=60.0'
@@ -21,9 +54,9 @@ Glyph Tbar was not compatible:
   Masters: 'MORF=10.0012', 'MORF=19.9988':
     Contour order differs: [0, 1, 2, 3, 4, 5, 6] in 'MORF=10.0012', [0, 1, 5, 3, 6, 4, 2] in 'MORF=19.9988'
   Masters: 'MORF=19.9988', 'MORF=30.0':
-    Contour 5 start point differs: 0 in 'MORF=19.9988', 14 in 'MORF=30.0'; reversed: False
+    Contour 5 start point differs: 0 in 'MORF=19.9988', 6 in 'MORF=30.0'; reversed: False
   Masters: 'MORF=30.0', 'MORF=40.0012':
-    Contour 5 start point differs: 0 in 'MORF=30.0', 14 in 'MORF=40.0012'; reversed: False
+    Contour 5 start point differs: 0 in 'MORF=30.0', 14 in 'MORF=40.0012'; reversed: True
   Masters: 'MORF=40.0012', 'MORF=60.0':
     Contour order differs: [0, 1, 2, 3, 4, 5, 6] in 'MORF=40.0012', [0, 3, 2, 4, 5, 6, 1] in 'MORF=60.0'
 Glyph Tcaron.rev was not compatible:
@@ -36,6 +69,9 @@ Glyph X was not compatible:
 Glyph X.rev was not compatible:
   Masters: 'MORF=40.0012', 'MORF=60.0':
     Contour order differs: [0, 1, 2, 3, 4, 5, 6, 7] in 'MORF=40.0012', [0, 1, 2, 7, 5, 3, 4, 6] in 'MORF=60.0'
+Glyph Z.rev was not compatible:
+  Masters: 'MORF=19.9988', 'MORF=30.0':
+    Contour 7 start point differs: 0 in 'MORF=19.9988', 8 in 'MORF=30.0'; reversed: True
 Glyph ampersand was not compatible:
   Masters: 'MORF=30.0', 'MORF=40.0012':
     Contour 6 start point differs: 0 in 'MORF=30.0', 2 in 'MORF=40.0012'; reversed: False
@@ -76,8 +112,11 @@ Glyph nine.rev was not compatible:
   Masters: 'MORF=27.00073', 'MORF=40.0012':
     Contour order differs: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] in 'MORF=27.00073', [0, 1, 2, 3, 6, 5, 7, 9, 8, 4, 10, 11] in 'MORF=40.0012'
 Glyph one.rev was not compatible:
+  Masters: 'MORF=19.9988', 'MORF=30.0':
+    Contour 3 start point differs: 0 in 'MORF=19.9988', 0 in 'MORF=30.0'; reversed: True
   Masters: 'MORF=40.0012', 'MORF=60.0':
     Contour order differs: [0, 1, 2, 3, 4, 5] in 'MORF=40.0012', [0, 1, 3, 4, 2, 5] in 'MORF=60.0'
+    Contour 4 start point differs: 0 in 'MORF=40.0012', 1 in 'MORF=60.0'; reversed: True
 Glyph pattern_1 was not compatible:
   Masters: '', 'MORF=19.9988':
     Contour 0 start point differs: 0 in '', 36 in 'MORF=19.9988'; reversed: False
@@ -143,12 +182,10 @@ Glyph uni021A.rev was not compatible:
 Glyph uni0404.rev was not compatible:
   Masters: 'MORF=40.0012', 'MORF=49.9988':
     Contour 5 start point differs: 0 in 'MORF=40.0012', 0 in 'MORF=49.9988'; reversed: True
+    Contour 6 start point differs: 0 in 'MORF=40.0012', 8 in 'MORF=49.9988'; reversed: False
 Glyph uni0407.rev was not compatible:
   Masters: '', 'MORF=19.9988':
     Contour order differs: [0, 1, 2, 3, 4, 5] in '', [1, 2, 0, 3, 4, 5] in 'MORF=19.9988'
-Glyph uni040F.rev was not compatible:
-  Masters: 'MORF=40.0012', 'MORF=53.0017':
-    Contour 7 start point differs: 0 in 'MORF=40.0012', 4 in 'MORF=53.0017'; reversed: False
 Glyph uni0412.rev was not compatible:
   Masters: 'MORF=19.9988', 'MORF=40.0012':
     Contour order differs: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12] in 'MORF=19.9988', [0, 1, 2, 3, 4, 5, 6, 9, 7, 8, 10, 11, 12] in 'MORF=40.0012'
@@ -173,11 +210,12 @@ Glyph uni0429.rev was not compatible:
 Glyph uni042D.rev was not compatible:
   Masters: 'MORF=40.0012', 'MORF=49.9988':
     Contour 5 start point differs: 0 in 'MORF=40.0012', 12 in 'MORF=49.9988'; reversed: False
+    Contour 6 start point differs: 0 in 'MORF=40.0012', 8 in 'MORF=49.9988'; reversed: False
 Glyph uni042E.rev was not compatible:
   Masters: 'MORF=19.9988', 'MORF=30.0':
     Contour 7 start point differs: 0 in 'MORF=19.9988', 2 in 'MORF=30.0'; reversed: False
   Masters: 'MORF=30.0', 'MORF=40.0012':
-    Contour 7 start point differs: 0 in 'MORF=30.0', 8 in 'MORF=40.0012'; reversed: False
+    Contour 7 start point differs: 0 in 'MORF=30.0', 0 in 'MORF=40.0012'; reversed: True
   Masters: 'MORF=40.0012', 'MORF=49.9988':
     Contour 7 start point differs: 0 in 'MORF=40.0012', 8 in 'MORF=49.9988'; reversed: False
 Glyph uni0462 was not compatible:
@@ -199,6 +237,9 @@ Glyph uni0498 was not compatible:
 Glyph uni0498.rev was not compatible:
   Masters: 'MORF=19.9988', 'MORF=30.0':
     Contour 6 start point differs: 0 in 'MORF=19.9988', 2 in 'MORF=30.0'; reversed: False
+Glyph uni04A0 was not compatible:
+  Masters: 'MORF=32.99927', 'MORF=40.0012':
+    Contour 2 start point differs: 0 in 'MORF=32.99927', 4 in 'MORF=40.0012'; reversed: False
 Glyph uni04AC was not compatible:
   Masters: 'MORF=40.0012', 'MORF=60.0':
     Contour order differs: [0, 1, 2, 3] in 'MORF=40.0012', [0, 2, 3, 1] in 'MORF=60.0'
@@ -212,6 +253,9 @@ Glyph uni04B2 was not compatible:
 Glyph uni04B2.rev was not compatible:
   Masters: 'MORF=40.0012', 'MORF=60.0':
     Contour order differs: [0, 1, 2, 3, 4, 5, 6, 7] in 'MORF=40.0012', [0, 1, 6, 4, 2, 3, 5, 7] in 'MORF=60.0'
+Glyph uni04B8 was not compatible:
+  Masters: 'MORF=30.0', 'MORF=40.0012':
+    Contour 8 start point differs: 0 in 'MORF=30.0', 8 in 'MORF=40.0012'; reversed: True
 Glyph uni04BA.rev was not compatible:
   Masters: 'MORF=40.0012', 'MORF=49.9988':
     Contour 4 start point differs: 0 in 'MORF=40.0012', 2 in 'MORF=49.9988'; reversed: True
@@ -256,6 +300,7 @@ Glyph uni04E6.rev was not compatible:
 Glyph uni04EC.rev was not compatible:
   Masters: 'MORF=40.0012', 'MORF=49.9988':
     Contour 5 start point differs: 0 in 'MORF=40.0012', 12 in 'MORF=49.9988'; reversed: False
+    Contour 6 start point differs: 0 in 'MORF=40.0012', 8 in 'MORF=49.9988'; reversed: False
 Glyph uni04FC was not compatible:
   Masters: 'MORF=19.9988', 'MORF=30.0':
     Contour order differs: [0, 1, 2, 3, 4, 5, 6, 7] in 'MORF=19.9988', [0, 1, 5, 2, 4, 6, 3, 7] in 'MORF=30.0'
@@ -269,6 +314,9 @@ Glyph uni04FE.rev was not compatible:
 Glyph uni0526.rev was not compatible:
   Masters: 'MORF=40.0012', 'MORF=49.9988':
     Contour 3 start point differs: 0 in 'MORF=40.0012', 2 in 'MORF=49.9988'; reversed: True
+Glyph uni1E08.rev was not compatible:
+  Masters: 'MORF=40.0012', 'MORF=60.0':
+    Contour 1 start point differs: 0 in 'MORF=40.0012', 22 in 'MORF=60.0'; reversed: False
 Glyph uni1E6C.rev was not compatible:
   Masters: '', 'MORF=19.9988':
     Contour order differs: [0, 1, 2, 3, 4] in '', [0, 3, 1, 2, 4] in 'MORF=19.9988'

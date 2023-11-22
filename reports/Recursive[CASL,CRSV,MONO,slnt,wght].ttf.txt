@@ -18,18 +18,10 @@ Glyph perthousand was not compatible:
     Contour 2 start point differs: 0 in 'wght=800.0061', 25 in 'wght=1000.0'; reversed: True
     Contour 4 start point differs: 0 in 'wght=800.0061', 25 in 'wght=1000.0'; reversed: True
     Contour 6 start point differs: 0 in 'wght=800.0061', 25 in 'wght=1000.0'; reversed: True
-  Masters: 'CASL=1.0 wght=800.0061', 'CASL=1.0 wght=1000.0':
-    Contour 2 start point differs: 0 in 'CASL=1.0 wght=800.0061', 25 in 'CASL=1.0 wght=1000.0'; reversed: True
-    Contour 4 start point differs: 0 in 'CASL=1.0 wght=800.0061', 25 in 'CASL=1.0 wght=1000.0'; reversed: True
-    Contour 6 start point differs: 0 in 'CASL=1.0 wght=800.0061', 25 in 'CASL=1.0 wght=1000.0'; reversed: True
   Masters: 'slnt=-14.0497 wght=800.0061', 'slnt=-14.0497 wght=1000.0':
     Contour 2 start point differs: 0 in 'slnt=-14.0497 wght=800.0061', 25 in 'slnt=-14.0497 wght=1000.0'; reversed: True
     Contour 4 start point differs: 0 in 'slnt=-14.0497 wght=800.0061', 25 in 'slnt=-14.0497 wght=1000.0'; reversed: True
     Contour 6 start point differs: 0 in 'slnt=-14.0497 wght=800.0061', 25 in 'slnt=-14.0497 wght=1000.0'; reversed: True
-  Masters: 'CASL=1.0 slnt=-14.0497 wght=800.0061', 'CASL=1.0 slnt=-14.0497 wght=1000.0':
-    Contour 2 start point differs: 0 in 'CASL=1.0 slnt=-14.0497 wght=800.0061', 25 in 'CASL=1.0 slnt=-14.0497 wght=1000.0'; reversed: True
-    Contour 4 start point differs: 0 in 'CASL=1.0 slnt=-14.0497 wght=800.0061', 25 in 'CASL=1.0 slnt=-14.0497 wght=1000.0'; reversed: True
-    Contour 6 start point differs: 0 in 'CASL=1.0 slnt=-14.0497 wght=800.0061', 25 in 'CASL=1.0 slnt=-14.0497 wght=1000.0'; reversed: True
 Glyph uni031B was not compatible:
   Masters: '', 'CASL=1.0':
     Contour 0 start point differs: 0 in '', 42 in 'CASL=1.0'; reversed: False
