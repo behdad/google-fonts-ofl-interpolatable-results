@@ -25,7 +25,7 @@ echo "Building fonttools cython extensions"
 
 if $clear; then
   echo "Clearing $out"
-  time rm -f "$out"/*.ttf.{pdf,html.bz2,txt}
+  time rm -f "$out"/*.ttf.{pdf,html.bz2,txt,metadata}
 fi
 
 cores=`grep -c ^processor /proc/cpuinfo`
@@ -37,4 +37,4 @@ time find "$dir" -name '*\[*.ttf' -print |
 
 echo "Removing empty reports"
 time find "$out" -name '*.ttf.txt' -size 0 |
-  while read x; do rm -f "$x" "${x%txt}pdf" "${x%txt}html.bz2"; done
+  while read x; do rm -f "$x" "${x%txt}pdf" "${x%txt}html.bz2" "${x%txt}metadata"; done
