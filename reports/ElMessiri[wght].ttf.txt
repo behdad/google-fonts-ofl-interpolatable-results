@@ -1,8 +1,6 @@
 Glyph degree was not compatible:
   Masters: '', 'wght=700.0':
-    Contour 0 start point differs: 0 in '', 8 in 'wght=700.0'; reversed: False
-    Contour 1 start point differs: 0 in '', 12 in 'wght=700.0'; reversed: False
+    Contour order differs: [0, 1] in '', [1, 0] in 'wght=700.0'
 Glyph ordmasculine was not compatible:
   Masters: '', 'wght=700.0':
-    Contour 0 start point differs: 0 in '', 12 in 'wght=700.0'; reversed: False
-    Contour 1 start point differs: 0 in '', 10 in 'wght=700.0'; reversed: False
+    Contour order differs: [0, 1] in '', [1, 0] in 'wght=700.0'
