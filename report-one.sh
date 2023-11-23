@@ -4,6 +4,7 @@ our_repo=https://github.com/behdad/google-fonts-ofl-interpolatable-results
 
 dirname=$(dirname "$1")
 basename=$(basename "$1" .metadata)
+
 # Check that basename ends in ttf
 metadata=$"$dirname/$basename.metadata"
 if [ ! -f "$metadata" ]; then
@@ -111,6 +112,5 @@ if [ $? -ne 0 ]; then
 	echo "ERROR: Could not file issue at $repository_url"
 	exit 1
 fi
-echo "Filed issue at $issue_url"
-echo "$issue_url" > "$dirname/$basename.issue"
+echo "$issue_url" | tee "$dirname/$basename.issue"
 # Done!
