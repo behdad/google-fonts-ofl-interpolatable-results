@@ -52,13 +52,13 @@ repository_url=$(cat "$metadata" | grep '^repository_url:' | cut -d' ' -f2 | sed
 if [ "x$repository_url" = xrepository_url: ]; then
 	repository_url=""
 fi
-if [ x$repository_url = x ]; then
+if [ "x$repository_url" = x ]; then
 	repository_url=$(cat "$metadata" | grep '^contribution_url:' | cut -d' ' -f2 | sed -e 's/"//g')
 	if [ "x$repository_url" = xrepository_url: ]; then
 		repository_url=""
 	fi
 fi
-if [ x$repository_url = x ]; then
+if [ "x$repository_url" = x ]; then
 	# If archive_url is github, extract the repo URL from it
 	# For example, if archive_url is https://github.com/googlefonts/roboto-flex/releases/download/3.100/roboto-flex-fonts.zip
 	# then we just want https://github.com/googlefonts/roboto-flex
