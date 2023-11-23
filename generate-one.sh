@@ -17,12 +17,16 @@ bzip2 < "$out.html" > "$out.html.bz2" && rm "$out.html"
 ttfdirname=`dirname "$ttf"`
 metadata="$ttfdirname/METADATA.pb"
 upstream="$ttfdirname/upstream.yaml"
+description="$ttfdirname/DESCRIPTION.en_us.html"
 > "$out.metadata"
 if [ -f "$metadata" ]; then
 	grep _url "$metadata" | sed 's/^ *//' >> "$out.metadata"
 fi
 if [ -f "$upstream" ]; then
 	grep "^archive\|^branch" "$upstream" >> "$out.metadata"
+fi
+if [ -f "$description" ]; then
+	grep '<a href="https://github.com/' "$description" | sed 's@.*<a href="\(https://github.com/[^"]*\)".*@contribution_url: \1@' >> "$out.metadata"
 fi
 
 echo "Finished all with '$ttf'"
