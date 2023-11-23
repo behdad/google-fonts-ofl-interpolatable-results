@@ -17,6 +17,7 @@ bzip2 < "$out.html" > "$out.html.bz2" && rm "$out.html"
 ttfdirname=`dirname "$ttf"`
 metadata="$ttfdirname/METADATA.pb"
 upstream="$ttfdirname/upstream.yaml"
+> "$out.metadata"
 if [ -f "$metadata" ]; then
 	grep _url "$metadata" | sed 's/^ *//' >> "$out.metadata"
 fi
