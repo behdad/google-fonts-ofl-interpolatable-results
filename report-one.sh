@@ -37,23 +37,23 @@ if [ -f "$dirname/$basename.issue" -a x$dryrun = xfalse ]; then
 	exit 1
 fi
 
-archive_url=$(cat $metadata | grep '^archive_url:' | cut -d' ' -f2 | sed -e 's/"//g')
+archive_url=$(cat $metadata | grep '^archive_url:' | tail -n 1 | cut -d' ' -f2 | sed -e 's/"//g')
 if [ "x$archive_url" = xarchive_url: ]; then
   archive_url=""
 fi
 if [ "x$archive_url" = x ]; then
-	archive_url=$(cat "$metadata" | grep '^archive:' | cut -d' ' -f2)
+	archive_url=$(cat "$metadata" | grep '^archive:' | tail -n 1 | cut -d' ' -f2)
 	if [ "x$archive_url" = xarchive: ]; then
 	  archive_url=""
 	fi
 fi
 
-repository_url=$(cat "$metadata" | grep '^repository_url:' | cut -d' ' -f2 | sed -e 's/"//g')
+repository_url=$(cat "$metadata" | grep '^repository_url:' | tail -n 1 | cut -d' ' -f2 | sed -e 's/"//g')
 if [ "x$repository_url" = xrepository_url: ]; then
 	repository_url=""
 fi
 if [ "x$repository_url" = x ]; then
-	repository_url=$(cat "$metadata" | grep '^contribution_url:' | cut -d' ' -f2 | sed -e 's/"//g')
+	repository_url=$(cat "$metadata" | grep '^contribution_url:' | tail -n 1 | cut -d' ' -f2 | sed -e 's/"//g')
 	if [ "x$repository_url" = xrepository_url: ]; then
 		repository_url=""
 	fi
