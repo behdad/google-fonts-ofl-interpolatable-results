@@ -1,26 +1,22 @@
 Glyph .notdef was not compatible:
   Masters: '', 'wght=335.71674':
-    Contour order differs: [0, 1, 2, 3] in '', [1, 0, 2, 3] in 'wght=335.71674'
-    Contour 0 start point differs: 0 in '', 3 in 'wght=335.71674'; reversed: False
-    Contour 1 start point differs: 0 in '', 3 in 'wght=335.71674'; reversed: False
+    Contour 0 start point differs: 0 in '', 0 in 'wght=335.71674'; reversed: True
+    Contour 1 start point differs: 0 in '', 0 in 'wght=335.71674'; reversed: True
     Contour 2 start point differs: 0 in '', 0 in 'wght=335.71674'; reversed: True
     Contour 3 start point differs: 0 in '', 0 in 'wght=335.71674'; reversed: True
   Masters: 'wght=427.31226', 'wght=514.29443':
-    Contour order differs: [0, 1, 2, 3] in 'wght=427.31226', [1, 0, 2, 3] in 'wght=514.29443'
-    Contour 0 start point differs: 0 in 'wght=427.31226', 1 in 'wght=514.29443'; reversed: False
-    Contour 1 start point differs: 0 in 'wght=427.31226', 1 in 'wght=514.29443'; reversed: False
+    Contour 0 start point differs: 0 in 'wght=427.31226', 0 in 'wght=514.29443'; reversed: True
+    Contour 1 start point differs: 0 in 'wght=427.31226', 0 in 'wght=514.29443'; reversed: True
     Contour 2 start point differs: 0 in 'wght=427.31226', 0 in 'wght=514.29443'; reversed: True
     Contour 3 start point differs: 0 in 'wght=427.31226', 0 in 'wght=514.29443'; reversed: True
   Masters: 'wght=514.29443', 'wght=613.32666':
-    Contour order differs: [0, 1, 2, 3] in 'wght=514.29443', [1, 0, 2, 3] in 'wght=613.32666'
-    Contour 0 start point differs: 0 in 'wght=514.29443', 3 in 'wght=613.32666'; reversed: False
-    Contour 1 start point differs: 0 in 'wght=514.29443', 3 in 'wght=613.32666'; reversed: False
+    Contour 0 start point differs: 0 in 'wght=514.29443', 0 in 'wght=613.32666'; reversed: True
+    Contour 1 start point differs: 0 in 'wght=514.29443', 0 in 'wght=613.32666'; reversed: True
     Contour 2 start point differs: 0 in 'wght=514.29443', 0 in 'wght=613.32666'; reversed: True
     Contour 3 start point differs: 0 in 'wght=514.29443', 0 in 'wght=613.32666'; reversed: True
   Masters: 'wght=855.5416', 'wght=900.0':
-    Contour order differs: [0, 1, 2, 3] in 'wght=855.5416', [1, 0, 2, 3] in 'wght=900.0'
-    Contour 0 start point differs: 0 in 'wght=855.5416', 1 in 'wght=900.0'; reversed: False
-    Contour 1 start point differs: 0 in 'wght=855.5416', 1 in 'wght=900.0'; reversed: False
+    Contour 0 start point differs: 0 in 'wght=855.5416', 0 in 'wght=900.0'; reversed: True
+    Contour 1 start point differs: 0 in 'wght=855.5416', 0 in 'wght=900.0'; reversed: True
     Contour 2 start point differs: 0 in 'wght=855.5416', 0 in 'wght=900.0'; reversed: True
     Contour 3 start point differs: 0 in 'wght=855.5416', 0 in 'wght=900.0'; reversed: True
 Glyph hbar.sc.BRACKET.98 was not compatible:

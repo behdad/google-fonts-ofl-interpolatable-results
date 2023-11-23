@@ -1,9 +1,0 @@
-Glyph acute was not compatible:
-  Masters: '', 'EDPT=0.0':
-    Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'EDPT=0.0'
-Glyph acutecomb was not compatible:
-  Masters: '', 'EDPT=0.0':
-    Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'EDPT=0.0'
-Glyph slash was not compatible:
-  Masters: '', 'EDPT=0.0':
-    Contour order differs: [0, 1, 2] in '', [2, 1, 0] in 'EDPT=0.0'
