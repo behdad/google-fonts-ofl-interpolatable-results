@@ -33,7 +33,7 @@ if [ ! -f "$dirname/$basename.pdf" ]; then
 fi
 
 if [ -f "$dirname/$basename.issue" -a x$dryrun = xfalse ]; then
-	echo "ERROR: Issue already filed: $(cat "$dirname/$basename.issue")"
+	echo "INFO: Issue already filed: $(cat "$dirname/$basename.issue")"
 	exit 1
 fi
 
@@ -70,18 +70,18 @@ if [ x$repository_url = x ]; then
 fi
 if [ "x$repository_url" = x ]; then
 	# Bail
-	echo "ERROR: Could not determine repository URL"
+	echo "WARNING: Could not determine repository URL"
 	exit 1
 fi
 # Check that we have a repository URL that starts with https://github.com/
 if [ x"$repository_url" = "${repository_url%https://github.com/}" ]; then
-	echo "ERROR: Repository URL does not point to GitHub: $repository_url"
+	echo "INFO: Repository URL does not point to GitHub: $repository_url"
 	exit 1
 fi
 
 report="$(cat "$reportfile")"
 if [ "x$report" = x ]; then
-	echo "ERROR: No problems found in the report: $basename.txt"
+	echo "INFO: No problems found in the report: $basename.txt"
 	exit 1
 fi
 
