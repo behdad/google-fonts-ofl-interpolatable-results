@@ -1,5 +1,10 @@
 #! /bin/bash
 
+if [ "x$1" = x--sleep ]; then
+	sleep 1
+	shift
+fi
+
 our_repo=https://github.com/behdad/google-fonts-ofl-interpolatable-results
 
 dirname=$(dirname "$1")
@@ -108,7 +113,7 @@ issue_url=$(gh issue create \
 	--title "$title" \
 	--body "$body" \
 	--repo "$repository_url" | tail -n 1)
-if [ $? -ne 0 ]; then
+if [ -x"$issue_url" = -x ]; then
 	echo "ERROR: Could not file issue at $repository_url"
 	exit 1
 fi

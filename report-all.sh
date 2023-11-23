@@ -10,7 +10,7 @@ if [ $# -eq 0 ]; then
 	defaultdir=reports
 fi
 
-cores=`grep -c ^processor /proc/cpuinfo`
-echo "Cranking up $cores report-one.sh processes at a time"
+# GitHub doesn't like us making too many requests too quickly.
+# So, no parallelizing, and sleep in between.
 find $defaultdir "$@" -name '*.ttf.metadata' |
-xargs --verbose -P "$cores" -I {} $basedir/report-one.sh "{}"
+xargs --verbose -I {} $basedir/report-one.sh --sleep "{}"
