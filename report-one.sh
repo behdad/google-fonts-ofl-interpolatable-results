@@ -1,7 +1,8 @@
 #! /bin/bash
 
+sleep=0
 if [ "x$1" = x--sleep ]; then
-	sleep 1
+	sleep=1
 	shift
 fi
 
@@ -118,4 +119,5 @@ if [ -x"$issue_url" = -x ]; then
 	exit 1
 fi
 echo "$issue_url" | tee "$dirname/$basename.issue"
-# Done!
+# Done! Sleep time!
+sleep $sleep
