@@ -1,7 +1,6 @@
 Glyph .notdef was not compatible:
   Masters: '', 'wght=425.94257':
-    Contour 0 start point differs: 0 in '', 0 in 'wght=425.94257'; reversed: True
-    Contour 1 start point differs: 0 in '', 0 in 'wght=425.94257'; reversed: True
+    Contour order differs: [0, 1] in '', [1, 0] in 'wght=425.94257'
 Glyph dcroat was not compatible:
   Masters: '', 'wght=100.0':
     Contour 0 start point differs: 0 in '', 1 in 'wght=100.0'; reversed: False

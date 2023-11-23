@@ -5,12 +5,3 @@ Glyph .notdef was not compatible:
   Masters: 'wght=427.761', 'wght=900.0':
     Contour 0 start point differs: 0 in 'wght=427.761', 0 in 'wght=900.0'; reversed: True
     Contour 1 start point differs: 0 in 'wght=427.761', 0 in 'wght=900.0'; reversed: True
-Glyph uni046B was not compatible:
-  Masters: '', 'wght=900.0':
-    Contour order differs: [0, 1, 2, 3, 4, 5] in '', [0, 1, 2, 5, 4, 3] in 'wght=900.0'
-Glyph uni046B.rlWeight_118_208 was not compatible:
-  Masters: '', 'wght=900.0':
-    Contour order differs: [0, 1, 2, 3, 4, 5] in '', [0, 1, 2, 5, 4, 3] in 'wght=900.0'
-Glyph uni046B.sc was not compatible:
-  Masters: '', 'wght=900.0':
-    Contour order differs: [0, 1, 2, 3, 4, 5] in '', [0, 1, 2, 5, 4, 3] in 'wght=900.0'
