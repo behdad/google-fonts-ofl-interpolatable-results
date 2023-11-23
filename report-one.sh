@@ -5,6 +5,11 @@ if [ "x$1" = x--sleep ]; then
 	sleep=1
 	shift
 fi
+dryrun=false
+if [ "x$1" = x--dry-run ]; then
+	dryrun=true
+	shift
+fi
 
 our_repo=https://github.com/behdad/google-fonts-ofl-interpolatable-results
 
@@ -27,17 +32,26 @@ if [ ! -f "$dirname/$basename.pdf" ]; then
 	exit 1
 fi
 
-if [ -f "$dirname/$basename.issue" ]; then
+if [ -f "$dirname/$basename.issue" -a x$dryrun = xfalse ]; then
 	echo "ERROR: Issue already filed: $(cat "$dirname/$basename.issue")"
 	exit 1
 fi
 
 archive_url=$(cat $metadata | grep '^archive_url:' | cut -d' ' -f2 | sed -e 's/"//g')
+if [ "x$archive_url" = xarchive_url: ]; then
+  archive_url=""
+fi
 if [ "x$archive_url" = x ]; then
 	archive_url=$(cat "$metadata" | grep '^archive:' | cut -d' ' -f2)
+	if [ "x$archive_url" = xarchive: ]; then
+	  archive_url=""
+	fi
 fi
 
 repository_url=$(cat "$metadata" | grep '^repository_url:' | cut -d' ' -f2 | sed -e 's/"//g')
+if [ "x$repository_url" = xrepository_url: ]; then
+  repository_url=""
+fi
 if [ x$repository_url = x ]; then
 	# If archive_url is github, extract the repo URL from it
 	# For example, if archive_url is https://github.com/googlefonts/roboto-flex/releases/download/3.100/roboto-flex-fonts.zip
@@ -87,8 +101,9 @@ Hello!
 This is an automatically-generated report about possible interpolation problems in \`$basename\`, as found in the Google Fonts catalog.
 "
 if [ x"$archive_url" != x ]; then
+	archive_basename=$(echo "$archive_url" | sed 's@.*/releases/download/@@')
 	body="$body
-The particular version of the font that was tested was [$(echo "$archive_url" | sed 's@.*releases/download/@@')]($archive_url).
+The particular version of the font that was tested was [$archive_basename]($archive_url).
 "
 fi
 
@@ -109,6 +124,13 @@ This report was generated using the \`fonttools varLib.interpolatable\` tool.  W
 To give feedback about this report, please file an issue or open a discussion at [fonttools](https://github.com/fonttools/fonttools).
 "
 
+if $dryrun; then
+	echo "Dry-run mode.  Would have filed the following issue:"
+	echo "Title: $title"
+	echo "Body:"
+	echo "$body"
+	exit 0
+fi
 # Okay! File it!
 issue_url=$(gh issue create \
 	--title "$title" \
