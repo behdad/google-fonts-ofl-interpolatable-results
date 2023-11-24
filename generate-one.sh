@@ -7,7 +7,8 @@ out="$dirname/reports/$basename"
 
 basebasename="$(echo "$basename" | sed 's/\[.*$//')"
 if grep -q "^$basebasename\$" "$dirname/IGNORE.txt"; then
-	echo "Ignoring '$ttf' as is in IGNORE.txt"
+	echo "Skipping ignored  '$ttf'"
+	echo "Finished all with '$ttf'"
 	exit 0
 fi
 
