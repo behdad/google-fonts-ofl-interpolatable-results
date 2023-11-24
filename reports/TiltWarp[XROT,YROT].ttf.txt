@@ -1,22 +1,9 @@
-Glyph O was not compatible:
-  Masters: 'XROT=-45.0', 'XROT=-45.0 YROT=-45.0':
-    Contour 0 start point differs: 0 in 'XROT=-45.0', 34 in 'XROT=-45.0 YROT=-45.0'; reversed: False
-  Masters: 'XROT=45.0', 'XROT=45.0 YROT=-45.0':
-    Contour 0 start point differs: 0 in 'XROT=45.0', 2 in 'XROT=45.0 YROT=-45.0'; reversed: False
 Glyph arrowNE.circle was not compatible:
   Masters: 'XROT=-45.0', 'XROT=-45.0 YROT=-45.0':
     Contour 1 start point differs: 0 in 'XROT=-45.0', 2 in 'XROT=-45.0 YROT=-45.0'; reversed: False
   Masters: 'XROT=-45.0', 'XROT=-45.0 YROT=45.0':
     Contour 1 start point differs: 0 in 'XROT=-45.0', 42 in 'XROT=-45.0 YROT=45.0'; reversed: False
-  Masters: 'XROT=45.0', 'XROT=45.0 YROT=-45.0':
-    Contour 1 start point differs: 0 in 'XROT=45.0', 42 in 'XROT=45.0 YROT=-45.0'; reversed: False
-  Masters: 'XROT=45.0', 'XROT=45.0 YROT=45.0':
-    Contour 1 start point differs: 0 in 'XROT=45.0', 2 in 'XROT=45.0 YROT=45.0'; reversed: False
 Glyph arrowNW.circle was not compatible:
-  Masters: 'XROT=-45.0', 'XROT=-45.0 YROT=-45.0':
-    Contour 1 start point differs: 0 in 'XROT=-45.0', 2 in 'XROT=-45.0 YROT=-45.0'; reversed: False
-  Masters: 'XROT=-45.0', 'XROT=-45.0 YROT=45.0':
-    Contour 1 start point differs: 0 in 'XROT=-45.0', 42 in 'XROT=-45.0 YROT=45.0'; reversed: False
   Masters: 'XROT=45.0', 'XROT=45.0 YROT=-45.0':
     Contour 1 start point differs: 0 in 'XROT=45.0', 42 in 'XROT=45.0 YROT=-45.0'; reversed: False
   Masters: 'XROT=45.0', 'XROT=45.0 YROT=45.0':
@@ -26,15 +13,7 @@ Glyph arrowSE.circle was not compatible:
     Contour 1 start point differs: 0 in 'XROT=-45.0', 2 in 'XROT=-45.0 YROT=-45.0'; reversed: False
   Masters: 'XROT=-45.0', 'XROT=-45.0 YROT=45.0':
     Contour 1 start point differs: 0 in 'XROT=-45.0', 42 in 'XROT=-45.0 YROT=45.0'; reversed: False
-  Masters: 'XROT=45.0', 'XROT=45.0 YROT=-45.0':
-    Contour 1 start point differs: 0 in 'XROT=45.0', 42 in 'XROT=45.0 YROT=-45.0'; reversed: False
-  Masters: 'XROT=45.0', 'XROT=45.0 YROT=45.0':
-    Contour 1 start point differs: 0 in 'XROT=45.0', 2 in 'XROT=45.0 YROT=45.0'; reversed: False
 Glyph arrowSW.circle was not compatible:
-  Masters: 'XROT=-45.0', 'XROT=-45.0 YROT=-45.0':
-    Contour 1 start point differs: 0 in 'XROT=-45.0', 2 in 'XROT=-45.0 YROT=-45.0'; reversed: False
-  Masters: 'XROT=-45.0', 'XROT=-45.0 YROT=45.0':
-    Contour 1 start point differs: 0 in 'XROT=-45.0', 42 in 'XROT=-45.0 YROT=45.0'; reversed: False
   Masters: 'XROT=45.0', 'XROT=45.0 YROT=-45.0':
     Contour 1 start point differs: 0 in 'XROT=45.0', 42 in 'XROT=45.0 YROT=-45.0'; reversed: False
   Masters: 'XROT=45.0', 'XROT=45.0 YROT=45.0':
@@ -49,10 +28,6 @@ Glyph arrowdown.circle was not compatible:
   Masters: 'XROT=45.0', 'XROT=45.0 YROT=45.0':
     Contour 0 start point differs: 0 in 'XROT=45.0', 2 in 'XROT=45.0 YROT=45.0'; reversed: False
 Glyph arrowleft.circle was not compatible:
-  Masters: 'XROT=-45.0', 'XROT=-45.0 YROT=-45.0':
-    Contour 0 start point differs: 0 in 'XROT=-45.0', 2 in 'XROT=-45.0 YROT=-45.0'; reversed: False
-  Masters: 'XROT=-45.0', 'XROT=-45.0 YROT=45.0':
-    Contour 0 start point differs: 0 in 'XROT=-45.0', 42 in 'XROT=-45.0 YROT=45.0'; reversed: False
   Masters: 'XROT=45.0', 'XROT=45.0 YROT=-45.0':
     Contour 0 start point differs: 0 in 'XROT=45.0', 42 in 'XROT=45.0 YROT=-45.0'; reversed: False
   Masters: 'XROT=45.0', 'XROT=45.0 YROT=45.0':
@@ -62,10 +37,6 @@ Glyph arrowright.circle was not compatible:
     Contour 0 start point differs: 0 in 'XROT=-45.0', 2 in 'XROT=-45.0 YROT=-45.0'; reversed: False
   Masters: 'XROT=-45.0', 'XROT=-45.0 YROT=45.0':
     Contour 0 start point differs: 0 in 'XROT=-45.0', 42 in 'XROT=-45.0 YROT=45.0'; reversed: False
-  Masters: 'XROT=45.0', 'XROT=45.0 YROT=-45.0':
-    Contour 0 start point differs: 0 in 'XROT=45.0', 42 in 'XROT=45.0 YROT=-45.0'; reversed: False
-  Masters: 'XROT=45.0', 'XROT=45.0 YROT=45.0':
-    Contour 0 start point differs: 0 in 'XROT=45.0', 2 in 'XROT=45.0 YROT=45.0'; reversed: False
 Glyph arrowup.circle was not compatible:
   Masters: 'XROT=-45.0', 'XROT=-45.0 YROT=-45.0':
     Contour 0 start point differs: 0 in 'XROT=-45.0', 2 in 'XROT=-45.0 YROT=-45.0'; reversed: False
@@ -75,26 +46,6 @@ Glyph arrowup.circle was not compatible:
     Contour 0 start point differs: 0 in 'XROT=45.0', 42 in 'XROT=45.0 YROT=-45.0'; reversed: False
   Masters: 'XROT=45.0', 'XROT=45.0 YROT=45.0':
     Contour 0 start point differs: 0 in 'XROT=45.0', 2 in 'XROT=45.0 YROT=45.0'; reversed: False
-Glyph bullet was not compatible:
-  Masters: 'XROT=-45.0', 'XROT=-45.0 YROT=-45.0':
-    Contour 0 start point differs: 0 in 'XROT=-45.0', 34 in 'XROT=-45.0 YROT=-45.0'; reversed: False
-  Masters: 'XROT=45.0', 'XROT=45.0 YROT=-45.0':
-    Contour 0 start point differs: 0 in 'XROT=45.0', 2 in 'XROT=45.0 YROT=-45.0'; reversed: False
-Glyph copyright was not compatible:
-  Masters: 'XROT=-45.0', 'XROT=-45.0 YROT=-45.0':
-    Contour 0 start point differs: 0 in 'XROT=-45.0', 34 in 'XROT=-45.0 YROT=-45.0'; reversed: False
-    Contour 1 start point differs: 0 in 'XROT=-45.0', 2 in 'XROT=-45.0 YROT=-45.0'; reversed: False
-  Masters: 'XROT=45.0', 'XROT=45.0 YROT=-45.0':
-    Contour 0 start point differs: 0 in 'XROT=45.0', 2 in 'XROT=45.0 YROT=-45.0'; reversed: False
-    Contour 1 start point differs: 0 in 'XROT=45.0', 34 in 'XROT=45.0 YROT=-45.0'; reversed: False
-Glyph o was not compatible:
-  Masters: 'XROT=-45.0', 'XROT=-45.0 YROT=-45.0':
-    Contour 0 start point differs: 0 in 'XROT=-45.0', 34 in 'XROT=-45.0 YROT=-45.0'; reversed: False
-  Masters: 'XROT=45.0', 'XROT=45.0 YROT=-45.0':
-    Contour 0 start point differs: 0 in 'XROT=45.0', 2 in 'XROT=45.0 YROT=-45.0'; reversed: False
-Glyph percent was not compatible:
-  Masters: 'XROT=45.0', 'XROT=45.0 YROT=45.0':
-    Contour 3 start point differs: 0 in 'XROT=45.0', 30 in 'XROT=45.0 YROT=45.0'; reversed: False
 Glyph perthousand was not compatible:
   Masters: 'XROT=45.0', 'XROT=45.0 YROT=45.0':
     Contour 4 start point differs: 0 in 'XROT=45.0', 30 in 'XROT=45.0 YROT=45.0'; reversed: False

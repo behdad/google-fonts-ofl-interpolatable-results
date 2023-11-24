@@ -1,61 +1,61 @@
 Glyph pixel was not compatible:
   Masters: 'ELSH=6.49976', 'ELSH=8.00024':
-    Contour 0 start point differs: 0 in 'ELSH=6.49976', 76 in 'ELSH=8.00024'; reversed: False
-    Contour 1 start point differs: 0 in 'ELSH=6.49976', 76 in 'ELSH=8.00024'; reversed: False
-    Contour 2 start point differs: 0 in 'ELSH=6.49976', 76 in 'ELSH=8.00024'; reversed: False
-    Contour 3 start point differs: 0 in 'ELSH=6.49976', 76 in 'ELSH=8.00024'; reversed: False
+    Contour 0 start point differs: 0 in 'ELSH=6.49976', 72 in 'ELSH=8.00024'; reversed: False
+    Contour 1 start point differs: 0 in 'ELSH=6.49976', 72 in 'ELSH=8.00024'; reversed: False
+    Contour 2 start point differs: 0 in 'ELSH=6.49976', 72 in 'ELSH=8.00024'; reversed: False
+    Contour 3 start point differs: 0 in 'ELSH=6.49976', 72 in 'ELSH=8.00024'; reversed: False
   Masters: 'ELGR=2.0 ELSH=6.49976', 'ELGR=2.0 ELSH=8.00024':
-    Contour 0 start point differs: 0 in 'ELGR=2.0 ELSH=6.49976', 76 in 'ELGR=2.0 ELSH=8.00024'; reversed: False
-    Contour 1 start point differs: 0 in 'ELGR=2.0 ELSH=6.49976', 76 in 'ELGR=2.0 ELSH=8.00024'; reversed: False
-    Contour 2 start point differs: 0 in 'ELGR=2.0 ELSH=6.49976', 76 in 'ELGR=2.0 ELSH=8.00024'; reversed: False
-    Contour 3 start point differs: 0 in 'ELGR=2.0 ELSH=6.49976', 76 in 'ELGR=2.0 ELSH=8.00024'; reversed: False
+    Contour 0 start point differs: 0 in 'ELGR=2.0 ELSH=6.49976', 72 in 'ELGR=2.0 ELSH=8.00024'; reversed: False
+    Contour 1 start point differs: 0 in 'ELGR=2.0 ELSH=6.49976', 72 in 'ELGR=2.0 ELSH=8.00024'; reversed: False
+    Contour 2 start point differs: 0 in 'ELGR=2.0 ELSH=6.49976', 72 in 'ELGR=2.0 ELSH=8.00024'; reversed: False
+    Contour 3 start point differs: 0 in 'ELGR=2.0 ELSH=6.49976', 72 in 'ELGR=2.0 ELSH=8.00024'; reversed: False
   Masters: 'ELSH=6.49976 wght=100.0', 'ELSH=8.00024 wght=100.0':
-    Contour 0 start point differs: 0 in 'ELSH=6.49976 wght=100.0', 4 in 'ELSH=8.00024 wght=100.0'; reversed: False
-    Contour 1 start point differs: 0 in 'ELSH=6.49976 wght=100.0', 4 in 'ELSH=8.00024 wght=100.0'; reversed: False
-    Contour 2 start point differs: 0 in 'ELSH=6.49976 wght=100.0', 4 in 'ELSH=8.00024 wght=100.0'; reversed: False
-    Contour 3 start point differs: 0 in 'ELSH=6.49976 wght=100.0', 4 in 'ELSH=8.00024 wght=100.0'; reversed: False
+    Contour 0 start point differs: 0 in 'ELSH=6.49976 wght=100.0', 8 in 'ELSH=8.00024 wght=100.0'; reversed: False
+    Contour 1 start point differs: 0 in 'ELSH=6.49976 wght=100.0', 8 in 'ELSH=8.00024 wght=100.0'; reversed: False
+    Contour 2 start point differs: 0 in 'ELSH=6.49976 wght=100.0', 8 in 'ELSH=8.00024 wght=100.0'; reversed: False
+    Contour 3 start point differs: 0 in 'ELSH=6.49976 wght=100.0', 8 in 'ELSH=8.00024 wght=100.0'; reversed: False
   Masters: 'ELSH=6.49976 wght=900.0', 'ELSH=8.00024 wght=900.0':
-    Contour 0 start point differs: 0 in 'ELSH=6.49976 wght=900.0', 76 in 'ELSH=8.00024 wght=900.0'; reversed: False
-    Contour 1 start point differs: 0 in 'ELSH=6.49976 wght=900.0', 76 in 'ELSH=8.00024 wght=900.0'; reversed: False
-    Contour 2 start point differs: 0 in 'ELSH=6.49976 wght=900.0', 76 in 'ELSH=8.00024 wght=900.0'; reversed: False
-    Contour 3 start point differs: 0 in 'ELSH=6.49976 wght=900.0', 76 in 'ELSH=8.00024 wght=900.0'; reversed: False
+    Contour 0 start point differs: 0 in 'ELSH=6.49976 wght=900.0', 72 in 'ELSH=8.00024 wght=900.0'; reversed: False
+    Contour 1 start point differs: 0 in 'ELSH=6.49976 wght=900.0', 72 in 'ELSH=8.00024 wght=900.0'; reversed: False
+    Contour 2 start point differs: 0 in 'ELSH=6.49976 wght=900.0', 72 in 'ELSH=8.00024 wght=900.0'; reversed: False
+    Contour 3 start point differs: 0 in 'ELSH=6.49976 wght=900.0', 72 in 'ELSH=8.00024 wght=900.0'; reversed: False
   Masters: 'ELGR=2.0 ELSH=6.49976 wght=100.0', 'ELGR=2.0 ELSH=8.00024 wght=100.0':
-    Contour 0 start point differs: 0 in 'ELGR=2.0 ELSH=6.49976 wght=100.0', 76 in 'ELGR=2.0 ELSH=8.00024 wght=100.0'; reversed: False
-    Contour 1 start point differs: 0 in 'ELGR=2.0 ELSH=6.49976 wght=100.0', 76 in 'ELGR=2.0 ELSH=8.00024 wght=100.0'; reversed: False
-    Contour 2 start point differs: 0 in 'ELGR=2.0 ELSH=6.49976 wght=100.0', 76 in 'ELGR=2.0 ELSH=8.00024 wght=100.0'; reversed: False
-    Contour 3 start point differs: 0 in 'ELGR=2.0 ELSH=6.49976 wght=100.0', 76 in 'ELGR=2.0 ELSH=8.00024 wght=100.0'; reversed: False
+    Contour 0 start point differs: 0 in 'ELGR=2.0 ELSH=6.49976 wght=100.0', 72 in 'ELGR=2.0 ELSH=8.00024 wght=100.0'; reversed: False
+    Contour 1 start point differs: 0 in 'ELGR=2.0 ELSH=6.49976 wght=100.0', 72 in 'ELGR=2.0 ELSH=8.00024 wght=100.0'; reversed: False
+    Contour 2 start point differs: 0 in 'ELGR=2.0 ELSH=6.49976 wght=100.0', 72 in 'ELGR=2.0 ELSH=8.00024 wght=100.0'; reversed: False
+    Contour 3 start point differs: 0 in 'ELGR=2.0 ELSH=6.49976 wght=100.0', 72 in 'ELGR=2.0 ELSH=8.00024 wght=100.0'; reversed: False
   Masters: 'ELGR=2.0 ELSH=6.49976 wght=900.0', 'ELGR=2.0 ELSH=8.00024 wght=900.0':
-    Contour 0 start point differs: 0 in 'ELGR=2.0 ELSH=6.49976 wght=900.0', 76 in 'ELGR=2.0 ELSH=8.00024 wght=900.0'; reversed: False
-    Contour 1 start point differs: 0 in 'ELGR=2.0 ELSH=6.49976 wght=900.0', 76 in 'ELGR=2.0 ELSH=8.00024 wght=900.0'; reversed: False
-    Contour 2 start point differs: 0 in 'ELGR=2.0 ELSH=6.49976 wght=900.0', 76 in 'ELGR=2.0 ELSH=8.00024 wght=900.0'; reversed: False
-    Contour 3 start point differs: 0 in 'ELGR=2.0 ELSH=6.49976 wght=900.0', 76 in 'ELGR=2.0 ELSH=8.00024 wght=900.0'; reversed: False
+    Contour 0 start point differs: 0 in 'ELGR=2.0 ELSH=6.49976 wght=900.0', 72 in 'ELGR=2.0 ELSH=8.00024 wght=900.0'; reversed: False
+    Contour 1 start point differs: 0 in 'ELGR=2.0 ELSH=6.49976 wght=900.0', 72 in 'ELGR=2.0 ELSH=8.00024 wght=900.0'; reversed: False
+    Contour 2 start point differs: 0 in 'ELGR=2.0 ELSH=6.49976 wght=900.0', 72 in 'ELGR=2.0 ELSH=8.00024 wght=900.0'; reversed: False
+    Contour 3 start point differs: 0 in 'ELGR=2.0 ELSH=6.49976 wght=900.0', 72 in 'ELGR=2.0 ELSH=8.00024 wght=900.0'; reversed: False
   Masters: 'ELSH=12.9999', 'ELSH=13.99963':
-    Contour 0 start point differs: 0 in 'ELSH=12.9999', 70 in 'ELSH=13.99963'; reversed: False
-    Contour 1 start point differs: 0 in 'ELSH=12.9999', 70 in 'ELSH=13.99963'; reversed: False
-    Contour 2 start point differs: 0 in 'ELSH=12.9999', 70 in 'ELSH=13.99963'; reversed: False
-    Contour 3 start point differs: 0 in 'ELSH=12.9999', 70 in 'ELSH=13.99963'; reversed: False
+    Contour 0 start point differs: 0 in 'ELSH=12.9999', 40 in 'ELSH=13.99963'; reversed: False
+    Contour 1 start point differs: 0 in 'ELSH=12.9999', 40 in 'ELSH=13.99963'; reversed: False
+    Contour 2 start point differs: 0 in 'ELSH=12.9999', 40 in 'ELSH=13.99963'; reversed: False
+    Contour 3 start point differs: 0 in 'ELSH=12.9999', 40 in 'ELSH=13.99963'; reversed: False
   Masters: 'ELGR=2.0 ELSH=12.9999', 'ELGR=2.0 ELSH=13.99963':
-    Contour 0 start point differs: 0 in 'ELGR=2.0 ELSH=12.9999', 70 in 'ELGR=2.0 ELSH=13.99963'; reversed: False
-    Contour 1 start point differs: 0 in 'ELGR=2.0 ELSH=12.9999', 70 in 'ELGR=2.0 ELSH=13.99963'; reversed: False
-    Contour 2 start point differs: 0 in 'ELGR=2.0 ELSH=12.9999', 70 in 'ELGR=2.0 ELSH=13.99963'; reversed: False
-    Contour 3 start point differs: 0 in 'ELGR=2.0 ELSH=12.9999', 70 in 'ELGR=2.0 ELSH=13.99963'; reversed: False
+    Contour 0 start point differs: 0 in 'ELGR=2.0 ELSH=12.9999', 40 in 'ELGR=2.0 ELSH=13.99963'; reversed: False
+    Contour 1 start point differs: 0 in 'ELGR=2.0 ELSH=12.9999', 40 in 'ELGR=2.0 ELSH=13.99963'; reversed: False
+    Contour 2 start point differs: 0 in 'ELGR=2.0 ELSH=12.9999', 40 in 'ELGR=2.0 ELSH=13.99963'; reversed: False
+    Contour 3 start point differs: 0 in 'ELGR=2.0 ELSH=12.9999', 40 in 'ELGR=2.0 ELSH=13.99963'; reversed: False
   Masters: 'ELSH=12.9999 wght=100.0', 'ELSH=13.99963 wght=100.0':
-    Contour 0 start point differs: 0 in 'ELSH=12.9999 wght=100.0', 70 in 'ELSH=13.99963 wght=100.0'; reversed: False
-    Contour 1 start point differs: 0 in 'ELSH=12.9999 wght=100.0', 70 in 'ELSH=13.99963 wght=100.0'; reversed: False
-    Contour 2 start point differs: 0 in 'ELSH=12.9999 wght=100.0', 70 in 'ELSH=13.99963 wght=100.0'; reversed: False
-    Contour 3 start point differs: 0 in 'ELSH=12.9999 wght=100.0', 70 in 'ELSH=13.99963 wght=100.0'; reversed: False
+    Contour 0 start point differs: 0 in 'ELSH=12.9999 wght=100.0', 40 in 'ELSH=13.99963 wght=100.0'; reversed: False
+    Contour 1 start point differs: 0 in 'ELSH=12.9999 wght=100.0', 40 in 'ELSH=13.99963 wght=100.0'; reversed: False
+    Contour 2 start point differs: 0 in 'ELSH=12.9999 wght=100.0', 40 in 'ELSH=13.99963 wght=100.0'; reversed: False
+    Contour 3 start point differs: 0 in 'ELSH=12.9999 wght=100.0', 40 in 'ELSH=13.99963 wght=100.0'; reversed: False
   Masters: 'ELSH=12.9999 wght=900.0', 'ELSH=13.99963 wght=900.0':
-    Contour 0 start point differs: 0 in 'ELSH=12.9999 wght=900.0', 70 in 'ELSH=13.99963 wght=900.0'; reversed: False
-    Contour 1 start point differs: 0 in 'ELSH=12.9999 wght=900.0', 70 in 'ELSH=13.99963 wght=900.0'; reversed: False
-    Contour 2 start point differs: 0 in 'ELSH=12.9999 wght=900.0', 70 in 'ELSH=13.99963 wght=900.0'; reversed: False
-    Contour 3 start point differs: 0 in 'ELSH=12.9999 wght=900.0', 70 in 'ELSH=13.99963 wght=900.0'; reversed: False
+    Contour 0 start point differs: 0 in 'ELSH=12.9999 wght=900.0', 40 in 'ELSH=13.99963 wght=900.0'; reversed: False
+    Contour 1 start point differs: 0 in 'ELSH=12.9999 wght=900.0', 40 in 'ELSH=13.99963 wght=900.0'; reversed: False
+    Contour 2 start point differs: 0 in 'ELSH=12.9999 wght=900.0', 40 in 'ELSH=13.99963 wght=900.0'; reversed: False
+    Contour 3 start point differs: 0 in 'ELSH=12.9999 wght=900.0', 40 in 'ELSH=13.99963 wght=900.0'; reversed: False
   Masters: 'ELGR=2.0 ELSH=12.9999 wght=100.0', 'ELGR=2.0 ELSH=13.99963 wght=100.0':
-    Contour 0 start point differs: 0 in 'ELGR=2.0 ELSH=12.9999 wght=100.0', 70 in 'ELGR=2.0 ELSH=13.99963 wght=100.0'; reversed: False
-    Contour 1 start point differs: 0 in 'ELGR=2.0 ELSH=12.9999 wght=100.0', 70 in 'ELGR=2.0 ELSH=13.99963 wght=100.0'; reversed: False
-    Contour 2 start point differs: 0 in 'ELGR=2.0 ELSH=12.9999 wght=100.0', 70 in 'ELGR=2.0 ELSH=13.99963 wght=100.0'; reversed: False
-    Contour 3 start point differs: 0 in 'ELGR=2.0 ELSH=12.9999 wght=100.0', 70 in 'ELGR=2.0 ELSH=13.99963 wght=100.0'; reversed: False
+    Contour 0 start point differs: 0 in 'ELGR=2.0 ELSH=12.9999 wght=100.0', 40 in 'ELGR=2.0 ELSH=13.99963 wght=100.0'; reversed: False
+    Contour 1 start point differs: 0 in 'ELGR=2.0 ELSH=12.9999 wght=100.0', 40 in 'ELGR=2.0 ELSH=13.99963 wght=100.0'; reversed: False
+    Contour 2 start point differs: 0 in 'ELGR=2.0 ELSH=12.9999 wght=100.0', 40 in 'ELGR=2.0 ELSH=13.99963 wght=100.0'; reversed: False
+    Contour 3 start point differs: 0 in 'ELGR=2.0 ELSH=12.9999 wght=100.0', 40 in 'ELGR=2.0 ELSH=13.99963 wght=100.0'; reversed: False
   Masters: 'ELGR=2.0 ELSH=12.9999 wght=900.0', 'ELGR=2.0 ELSH=13.99963 wght=900.0':
-    Contour 0 start point differs: 0 in 'ELGR=2.0 ELSH=12.9999 wght=900.0', 70 in 'ELGR=2.0 ELSH=13.99963 wght=900.0'; reversed: False
-    Contour 1 start point differs: 0 in 'ELGR=2.0 ELSH=12.9999 wght=900.0', 70 in 'ELGR=2.0 ELSH=13.99963 wght=900.0'; reversed: False
-    Contour 2 start point differs: 0 in 'ELGR=2.0 ELSH=12.9999 wght=900.0', 70 in 'ELGR=2.0 ELSH=13.99963 wght=900.0'; reversed: False
-    Contour 3 start point differs: 0 in 'ELGR=2.0 ELSH=12.9999 wght=900.0', 70 in 'ELGR=2.0 ELSH=13.99963 wght=900.0'; reversed: False
+    Contour 0 start point differs: 0 in 'ELGR=2.0 ELSH=12.9999 wght=900.0', 40 in 'ELGR=2.0 ELSH=13.99963 wght=900.0'; reversed: False
+    Contour 1 start point differs: 0 in 'ELGR=2.0 ELSH=12.9999 wght=900.0', 40 in 'ELGR=2.0 ELSH=13.99963 wght=900.0'; reversed: False
+    Contour 2 start point differs: 0 in 'ELGR=2.0 ELSH=12.9999 wght=900.0', 40 in 'ELGR=2.0 ELSH=13.99963 wght=900.0'; reversed: False
+    Contour 3 start point differs: 0 in 'ELGR=2.0 ELSH=12.9999 wght=900.0', 40 in 'ELGR=2.0 ELSH=13.99963 wght=900.0'; reversed: False

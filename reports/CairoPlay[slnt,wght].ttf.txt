@@ -87,7 +87,6 @@ Glyph acute.cap.color0 was not compatible:
 Glyph currency was not compatible:
   Masters: '', 'wght=1000.0':
     Contour 0 start point differs: 0 in '', 20 in 'wght=1000.0'; reversed: False
-    Contour 2 start point differs: 0 in '', 4 in 'wght=1000.0'; reversed: False
   Masters: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=-11.0', 20 in 'slnt=-11.0 wght=1000.0'; reversed: False
     Contour 2 start point differs: 0 in 'slnt=-11.0', 2 in 'slnt=-11.0 wght=1000.0'; reversed: False
@@ -97,7 +96,6 @@ Glyph currency was not compatible:
 Glyph currency.color0 was not compatible:
   Masters: '', 'wght=1000.0':
     Contour 0 start point differs: 0 in '', 20 in 'wght=1000.0'; reversed: False
-    Contour 2 start point differs: 0 in '', 4 in 'wght=1000.0'; reversed: False
   Masters: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=-11.0', 20 in 'slnt=-11.0 wght=1000.0'; reversed: False
     Contour 2 start point differs: 0 in 'slnt=-11.0', 2 in 'slnt=-11.0 wght=1000.0'; reversed: False

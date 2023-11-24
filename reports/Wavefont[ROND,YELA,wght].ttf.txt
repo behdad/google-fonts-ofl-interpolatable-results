@@ -78,12 +78,16 @@ Glyph _18 was not compatible:
 Glyph _18.clip was not compatible:
   Masters: '', 'ROND=0.0':
     Contour 0 start point differs: 0 in '', 19 in 'ROND=0.0'; reversed: True
+  Masters: '', 'wght=1000.0':
+    Contour 0 start point differs: 0 in '', 19 in 'wght=1000.0'; reversed: True
 Glyph _19 was not compatible:
   Masters: '', 'wght=1000.0':
     Contour order differs: [0, 1, 2] in '', [1, 2, 0] in 'wght=1000.0'
 Glyph _19.clip was not compatible:
   Masters: '', 'ROND=0.0':
     Contour 0 start point differs: 0 in '', 19 in 'ROND=0.0'; reversed: True
+  Masters: '', 'wght=1000.0':
+    Contour 0 start point differs: 0 in '', 19 in 'wght=1000.0'; reversed: True
 Glyph _2 was not compatible:
   Masters: '', 'ROND=0.0':
     Contour order differs: [0, 1, 2] in '', [2, 0, 1] in 'ROND=0.0'

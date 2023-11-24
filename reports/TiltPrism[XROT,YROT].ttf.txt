@@ -77,8 +77,12 @@ Glyph perthousand was not compatible:
 Glyph registered was not compatible:
   Masters: 'XROT=-45.0', 'XROT=-45.0 YROT=-45.0':
     Contour 7 start point differs: 0 in 'XROT=-45.0', 2 in 'XROT=-45.0 YROT=-45.0'; reversed: False
+  Masters: 'XROT=-45.0', 'XROT=-45.0 YROT=45.0':
+    Contour 7 start point differs: 0 in 'XROT=-45.0', 22 in 'XROT=-45.0 YROT=45.0'; reversed: False
   Masters: 'XROT=45.0', 'XROT=45.0 YROT=-45.0':
     Contour 7 start point differs: 0 in 'XROT=45.0', 22 in 'XROT=45.0 YROT=-45.0'; reversed: False
+  Masters: 'XROT=45.0', 'XROT=45.0 YROT=45.0':
+    Contour 7 start point differs: 0 in 'XROT=45.0', 2 in 'XROT=45.0 YROT=45.0'; reversed: False
 Glyph sterling was not compatible:
   Masters: 'XROT=45.0', 'XROT=45.0 YROT=-45.0':
     Contour 9 start point differs: 0 in 'XROT=45.0', 5 in 'XROT=45.0 YROT=-45.0'; reversed: False

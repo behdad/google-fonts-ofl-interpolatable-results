@@ -1,6 +1,3 @@
-Glyph RotatedQ was not compatible:
-  Masters: '', 'wdth=62.5':
-    Contour 1 start point differs: 0 in '', 2 in 'wdth=62.5'; reversed: False
 Glyph uniA650 was not compatible:
   Masters: 'wght=699.9878', 'wght=900.0':
     Contour 0 start point differs: 0 in 'wght=699.9878', 1 in 'wght=900.0'; reversed: False

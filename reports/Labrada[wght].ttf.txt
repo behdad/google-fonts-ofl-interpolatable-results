@@ -1,12 +1,9 @@
+Glyph Oslash was not compatible:
+  Masters: '', 'wght=100.0':
+    Contour 0 start point differs: 0 in '', 0 in 'wght=100.0'; reversed: True
 Glyph exclamdown was not compatible:
   Masters: '', 'wght=100.0':
     Contour 1 start point differs: 0 in '', 4 in 'wght=100.0'; reversed: False
-Glyph g was not compatible:
-  Masters: '', 'wght=900.0':
-    Contour 1 start point differs: 0 in '', 36 in 'wght=900.0'; reversed: False
-Glyph g.BRACKET.varAlt01 was not compatible:
-  Masters: '', 'wght=900.0':
-    Contour 1 start point differs: 0 in '', 36 in 'wght=900.0'; reversed: False
 Glyph sterling was not compatible:
   Masters: '', 'wght=100.0':
     Contour 1 start point differs: 0 in '', 1 in 'wght=100.0'; reversed: False
