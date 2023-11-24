@@ -1,26 +1,18 @@
 Glyph Eng was not compatible:
   Masters: '', 'XROT=-45.0':
     Contour 3 start point differs: 0 in '', 3 in 'XROT=-45.0'; reversed: False
-  Masters: 'XROT=-45.0', 'XROT=-45.0 YROT=45.0':
-    Contour 3 start point differs: 0 in 'XROT=-45.0', 2 in 'XROT=-45.0 YROT=45.0'; reversed: False
 Glyph Eogonek was not compatible:
   Masters: 'XROT=-45.0', 'XROT=-45.0 YROT=45.0':
     Contour 10 start point differs: 0 in 'XROT=-45.0', 2 in 'XROT=-45.0 YROT=45.0'; reversed: False
 Glyph L was not compatible:
   Masters: 'XROT=-45.0', 'XROT=-45.0 YROT=45.0':
     Contour 0 start point differs: 0 in 'XROT=-45.0', 2 in 'XROT=-45.0 YROT=45.0'; reversed: False
-  Masters: 'XROT=45.0', 'XROT=45.0 YROT=-45.0':
-    Contour 1 start point differs: 0 in 'XROT=45.0', 3 in 'XROT=45.0 YROT=-45.0'; reversed: False
 Glyph Ldot was not compatible:
   Masters: 'XROT=-45.0', 'XROT=-45.0 YROT=45.0':
     Contour 0 start point differs: 0 in 'XROT=-45.0', 2 in 'XROT=-45.0 YROT=45.0'; reversed: False
-  Masters: 'XROT=45.0', 'XROT=45.0 YROT=-45.0':
-    Contour 1 start point differs: 0 in 'XROT=45.0', 3 in 'XROT=45.0 YROT=-45.0'; reversed: False
 Glyph Lslash was not compatible:
   Masters: 'XROT=-45.0', 'XROT=-45.0 YROT=45.0':
     Contour 0 start point differs: 0 in 'XROT=-45.0', 2 in 'XROT=-45.0 YROT=45.0'; reversed: False
-  Masters: 'XROT=45.0', 'XROT=45.0 YROT=-45.0':
-    Contour 1 start point differs: 0 in 'XROT=45.0', 3 in 'XROT=45.0 YROT=-45.0'; reversed: False
 Glyph O was not compatible:
   Masters: 'XROT=-45.0', 'XROT=-45.0 YROT=-45.0':
     Contour 5 start point differs: 0 in 'XROT=-45.0', 2 in 'XROT=-45.0 YROT=-45.0'; reversed: False
@@ -50,8 +42,6 @@ Glyph copyright was not compatible:
 Glyph eng was not compatible:
   Masters: '', 'XROT=-45.0':
     Contour 1 start point differs: 0 in '', 3 in 'XROT=-45.0'; reversed: False
-  Masters: 'XROT=-45.0', 'XROT=-45.0 YROT=45.0':
-    Contour 1 start point differs: 0 in 'XROT=-45.0', 3 in 'XROT=-45.0 YROT=45.0'; reversed: False
 Glyph eogonek was not compatible:
   Masters: 'XROT=-45.0', 'XROT=-45.0 YROT=45.0':
     Contour 10 start point differs: 0 in 'XROT=-45.0', 2 in 'XROT=-45.0 YROT=45.0'; reversed: False

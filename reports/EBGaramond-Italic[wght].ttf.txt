@@ -25,12 +25,6 @@ Glyph guillemotleft.alt was not compatible:
 Glyph guillemotright.alt was not compatible:
   Masters: '', 'wght=800.0':
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=800.0'
-Glyph o.ordn was not compatible:
-  Masters: '', 'wght=800.0':
-    Contour 1 start point differs: 0 in '', 2 in 'wght=800.0'; reversed: False
-Glyph ordmasculine was not compatible:
-  Masters: '', 'wght=800.0':
-    Contour 2 start point differs: 0 in '', 2 in 'wght=800.0'; reversed: False
 Glyph thorn was not compatible:
   Masters: '', 'wght=800.0':
     Contour 1 start point differs: 0 in '', 2 in 'wght=800.0'; reversed: False
@@ -52,6 +46,3 @@ Glyph uni1E50 was not compatible:
 Glyph uni20B1 was not compatible:
   Masters: '', 'wght=800.0':
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'wght=800.0'
-Glyph uni2116 was not compatible:
-  Masters: '', 'wght=800.0':
-    Contour 3 start point differs: 0 in '', 2 in 'wght=800.0'; reversed: False
