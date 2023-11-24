@@ -18,7 +18,6 @@ Glyph acutecomb.sc was not compatible:
 Glyph infinity was not compatible:
   Masters: 'wdth=75.0', 'wdth=75.0 wght=800.0':
     Contour order differs: [0, 1, 2, 3] in 'wdth=75.0', [3, 0, 1, 2] in 'wdth=75.0 wght=800.0'
-    Contour 3 start point differs: 0 in 'wdth=75.0', 26 in 'wdth=75.0 wght=800.0'; reversed: False
 Glyph uni03020300 was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 start point differs: 0 in '', 3 in 'wght=800.0'; reversed: False
