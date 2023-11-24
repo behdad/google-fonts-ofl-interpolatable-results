@@ -13,23 +13,10 @@ Glyph Upsilon was not compatible:
 Glyph asterisk was not compatible:
   Masters: '', 'wght=800.0':
     Contour order differs: [0, 1, 2, 3, 4] in '', [2, 0, 1, 3, 4] in 'wght=800.0'
-    Contour 3 start point differs: 0 in '', 1 in 'wght=800.0'; reversed: False
     Contour 4 start point differs: 0 in '', 1 in 'wght=800.0'; reversed: False
 Glyph dvDGRa was not compatible:
   Masters: '', 'wght=800.0':
     Contour order differs: [0, 1, 2, 3, 4, 5, 6, 7] in '', [0, 1, 3, 2, 4, 5, 6, 7] in 'wght=800.0'
-Glyph dvKSDda was not compatible:
-  Masters: '', 'wght=800.0':
-    Contour 11 start point differs: 0 in '', 1 in 'wght=800.0'; reversed: False
-Glyph dvKSTa was not compatible:
-  Masters: '', 'wght=800.0':
-    Contour 8 start point differs: 0 in '', 1 in 'wght=800.0'; reversed: False
-Glyph dvKSTta was not compatible:
-  Masters: '', 'wght=800.0':
-    Contour 8 start point differs: 0 in '', 1 in 'wght=800.0'; reversed: False
-Glyph dvNSMYa was not compatible:
-  Masters: '', 'wght=800.0':
-    Contour 11 start point differs: 0 in '', 1 in 'wght=800.0'; reversed: False
 Glyph dvNgMa was not compatible:
   Masters: '', 'wght=800.0':
     Contour 7 start point differs: 0 in '', 1 in 'wght=800.0'; reversed: False

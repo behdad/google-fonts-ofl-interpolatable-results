@@ -47,11 +47,6 @@ Glyph bg_symbolsmall was not compatible:
 Glyph bg_symbolsmall2 was not compatible:
   Masters: 'MORF=30.0', 'MORF=35.0006':
     Contour 0 start point differs: 0 in 'MORF=30.0', 122 in 'MORF=35.0006'; reversed: False
-Glyph bg_symbolwide was not compatible:
-  Masters: 'MORF=30.0', 'MORF=35.0006':
-    Contour 0 start point differs: 0 in 'MORF=30.0', 146 in 'MORF=35.0006'; reversed: False
-  Masters: 'MORF=30.0 SHLN=100.0', 'MORF=35.0006 SHLN=100.0':
-    Contour 0 start point differs: 0 in 'MORF=30.0 SHLN=100.0', 146 in 'MORF=35.0006 SHLN=100.0'; reversed: False
 Glyph bullet.color1 was not compatible:
   Masters: 'MORF=30.0', 'MORF=35.0006':
     Contour 0 start point differs: 0 in 'MORF=30.0', 122 in 'MORF=35.0006'; reversed: False

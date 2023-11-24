@@ -27,9 +27,6 @@ Glyph k.ss02 was not compatible:
 Glyph lira was not compatible:
   Masters: '', 'wght=700.0':
     Contour 1 start point differs: 0 in '', 8 in 'wght=700.0'; reversed: False
-Glyph n.ss01 was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 0 start point differs: 0 in '', 2 in 'wght=700.0'; reversed: False
 Glyph one.denominator was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 122 in 'wght=700.0'; reversed: False

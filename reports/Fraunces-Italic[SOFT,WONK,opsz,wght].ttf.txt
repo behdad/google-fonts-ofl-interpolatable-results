@@ -1,9 +1,3 @@
-Glyph Oogonek was not compatible:
-  Masters: 'opsz=144.0', 'opsz=144.0 wght=100.0':
-    Contour 1 start point differs: 0 in 'opsz=144.0', 2 in 'opsz=144.0 wght=100.0'; reversed: False
-Glyph b was not compatible:
-  Masters: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0':
-    Contour 1 start point differs: 0 in 'SOFT=100.0 opsz=144.0', 2 in 'SOFT=100.0 opsz=144.0 wght=100.0'; reversed: False
 Glyph colonmonetary was not compatible:
   Masters: '', 'opsz=144.0':
     Contour 2 start point differs: 0 in '', 0 in 'opsz=144.0'; reversed: True
@@ -14,11 +8,6 @@ Glyph eth was not compatible:
     Contour 1 start point differs: 0 in 'opsz=144.0', 2 in 'opsz=144.0 wght=100.0'; reversed: False
   Masters: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0':
     Contour 1 start point differs: 0 in 'SOFT=100.0 opsz=144.0', 2 in 'SOFT=100.0 opsz=144.0 wght=100.0'; reversed: False
-Glyph numero was not compatible:
-  Masters: 'SOFT=100.0', 'SOFT=100.0 wght=100.0':
-    Contour 3 start point differs: 0 in 'SOFT=100.0', 2 in 'SOFT=100.0 wght=100.0'; reversed: False
-  Masters: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0':
-    Contour 3 start point differs: 0 in 'SOFT=100.0 opsz=144.0', 2 in 'SOFT=100.0 opsz=144.0 wght=100.0'; reversed: False
 Glyph o was not compatible:
   Masters: '', 'opsz=144.0':
     Contour 1 start point differs: 0 in '', 28 in 'opsz=144.0'; reversed: False
@@ -26,15 +15,11 @@ Glyph o was not compatible:
     Contour 1 start point differs: 0 in 'SOFT=100.0', 30 in 'SOFT=100.0 opsz=144.0'; reversed: False
   Masters: 'opsz=144.0', 'opsz=144.0 wght=100.0':
     Contour 1 start point differs: 0 in 'opsz=144.0', 2 in 'opsz=144.0 wght=100.0'; reversed: False
-  Masters: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0':
-    Contour 1 start point differs: 0 in 'SOFT=100.0 opsz=144.0', 2 in 'SOFT=100.0 opsz=144.0 wght=100.0'; reversed: False
 Glyph oe was not compatible:
   Masters: 'SOFT=100.0', 'SOFT=100.0 opsz=144.0':
     Contour 1 start point differs: 0 in 'SOFT=100.0', 30 in 'SOFT=100.0 opsz=144.0'; reversed: False
   Masters: 'opsz=144.0', 'opsz=144.0 wght=100.0':
     Contour 1 start point differs: 0 in 'opsz=144.0', 2 in 'opsz=144.0 wght=100.0'; reversed: False
-  Masters: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0':
-    Contour 1 start point differs: 0 in 'SOFT=100.0 opsz=144.0', 2 in 'SOFT=100.0 opsz=144.0 wght=100.0'; reversed: False
 Glyph ohorn was not compatible:
   Masters: '', 'opsz=144.0':
     Contour 2 start point differs: 0 in '', 28 in 'opsz=144.0'; reversed: False
@@ -42,8 +27,6 @@ Glyph ohorn was not compatible:
     Contour 2 start point differs: 0 in 'SOFT=100.0', 30 in 'SOFT=100.0 opsz=144.0'; reversed: False
   Masters: 'opsz=144.0', 'opsz=144.0 wght=100.0':
     Contour 2 start point differs: 0 in 'opsz=144.0', 2 in 'opsz=144.0 wght=100.0'; reversed: False
-  Masters: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0':
-    Contour 2 start point differs: 0 in 'SOFT=100.0 opsz=144.0', 2 in 'SOFT=100.0 opsz=144.0 wght=100.0'; reversed: False
 Glyph oslash was not compatible:
   Masters: '', 'opsz=144.0':
     Contour 2 start point differs: 0 in '', 28 in 'opsz=144.0'; reversed: False
@@ -51,8 +34,6 @@ Glyph oslash was not compatible:
     Contour 2 start point differs: 0 in 'SOFT=100.0', 30 in 'SOFT=100.0 opsz=144.0'; reversed: False
   Masters: 'opsz=144.0', 'opsz=144.0 wght=100.0':
     Contour 2 start point differs: 0 in 'opsz=144.0', 2 in 'opsz=144.0 wght=100.0'; reversed: False
-  Masters: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0':
-    Contour 2 start point differs: 0 in 'SOFT=100.0 opsz=144.0', 2 in 'SOFT=100.0 opsz=144.0 wght=100.0'; reversed: False
 Glyph peso was not compatible:
   Masters: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0':
     Contour 1 start point differs: 0 in 'SOFT=100.0 opsz=144.0', 0 in 'SOFT=100.0 opsz=144.0 wght=100.0'; reversed: True
