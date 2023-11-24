@@ -1,0 +1,10 @@
+# These families are too complicated and we don't do a good
+# job at them. Some also take veeery long.  Ignore them.
+Wavefont
+TiltWarp
+TiltPrism
+TiltNeon
+Handjet
+HeptaSlab
+Honk
+Kablammo

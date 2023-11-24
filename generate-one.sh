@@ -5,6 +5,12 @@ ttf=$1
 basename=`basename $ttf`
 out="$dirname/reports/$basename"
 
+basebasename="$(echo "$basename" | sed 's/\[.*$//')"
+if grep -q "^$basebasename\$" "$dirname/IGNORE.txt"; then
+	echo "Ignoring '$ttf' as is in IGNORE.txt"
+	exit 0
+fi
+
 "$dirname"/submodules/fonttools/fonttools varLib.interpolatable \
 	"$ttf" \
 	--pdf "$out.pdf" \
