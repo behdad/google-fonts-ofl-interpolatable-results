@@ -25,5 +25,4 @@ diff \
 	--new-line-format='<div style="background: #8F8">%L</div>' \
 	"$@"
 
-cat "$tempfile"
 echo "</body></html>"
