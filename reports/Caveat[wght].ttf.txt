@@ -10,9 +10,6 @@ Glyph V.ss01 was not compatible:
 Glyph __descendercy was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 has a kink at 0: '', 'wght=700.0'
-Glyph __descendercy.case was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 0 has a kink at 43: '', 'wght=700.0'
 Glyph colonmonetary was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 4 in 'wght=700.0'; reversed: True
@@ -63,45 +60,18 @@ Glyph uni03BC was not compatible:
 Glyph uni03BC.1 was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 has a kink at 112: '', 'wght=700.0'
-Glyph uni0409 was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 0 has a kink at 140: '', 'wght=700.0'
-Glyph uni0413.ss02 was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 0 has a kink at 92: '', 'wght=700.0'
 Glyph uni0417.ss01 was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 has a kink at 86: '', 'wght=700.0'
 Glyph uni0433 was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 84 in 'wght=700.0'; reversed: False
-Glyph uni043B.ss02 was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 0 has a kink at 44: '', 'wght=700.0'
-Glyph uni043C.ss02 was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 0 has a kink at 40: '', 'wght=700.0'
-Glyph uni0444.ss02 was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 1 has a kink at 16: '', 'wght=700.0'
-Glyph uni0447.ss02 was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 0 has a kink at 57: '', 'wght=700.0'
-Glyph uni044D was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 0 has a kink at 54: '', 'wght=700.0'
 Glyph uni0495 was not compatible:
   Masters: '', 'wght=700.0':
     Contour 1 start point differs: 0 in '', 84 in 'wght=700.0'; reversed: False
 Glyph uni04A3 was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 has a kink at 0: '', 'wght=700.0'
-Glyph uni04BD was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 1 has a kink at 46: '', 'wght=700.0'
-Glyph uni04C8 was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 0 has a kink at 6: '', 'wght=700.0'
 Glyph uni04FB was not compatible:
   Masters: '', 'wght=700.0':
     Contour 1 start point differs: 0 in '', 84 in 'wght=700.0'; reversed: False

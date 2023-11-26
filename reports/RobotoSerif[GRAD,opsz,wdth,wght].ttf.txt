@@ -74,9 +74,6 @@ Glyph idieresisacute was not compatible:
   Masters: 'GRAD=100.0 opsz=8.0 wdth=50.0', 'GRAD=100.0 opsz=8.0 wdth=50.0 wght=900.0':
     Contour 0 start point differs: 0 in 'GRAD=100.0 opsz=8.0 wdth=50.0', 12 in 'GRAD=100.0 opsz=8.0 wdth=50.0 wght=900.0'; reversed: False
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=8.0 wdth=50.0', 12 in 'GRAD=100.0 opsz=8.0 wdth=50.0 wght=900.0'; reversed: False
-Glyph ohorn was not compatible:
-  Masters: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=100.0':
-    Contour 1 has a kink at 58: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=100.0'
 Glyph yukrcyr was not compatible:
   Masters: 'GRAD=100.0', 'GRAD=100.0 wght=100.0':
     Contour order differs: [0, 1, 2] in 'GRAD=100.0', [1, 0, 2] in 'GRAD=100.0 wght=100.0'

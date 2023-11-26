@@ -16,6 +16,3 @@ Glyph section was not compatible:
   Masters: 'wdth=75.0', 'wdth=50.0':
     Contour 1 has a kink at 11: 'wdth=75.0', 'wdth=50.0'
     Contour 1 has a kink at 26: 'wdth=75.0', 'wdth=50.0'
-  Masters: 'wdth=75.0 wght=900.0', 'wdth=50.0 wght=900.0':
-    Contour 1 has a kink at 11: 'wdth=75.0 wght=900.0', 'wdth=50.0 wght=900.0'
-    Contour 1 has a kink at 26: 'wdth=75.0 wght=900.0', 'wdth=50.0 wght=900.0'

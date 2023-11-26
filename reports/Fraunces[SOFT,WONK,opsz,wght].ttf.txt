@@ -1,11 +1,9 @@
 Glyph A was not compatible:
   Masters: 'opsz=144.0', 'opsz=144.0 wght=100.0':
     Contour 1 has a kink at 23: 'opsz=144.0', 'opsz=144.0 wght=100.0'
-    Contour 1 has a kink at 40: 'opsz=144.0', 'opsz=144.0 wght=100.0'
 Glyph Aogonek was not compatible:
   Masters: 'opsz=144.0', 'opsz=144.0 wght=100.0':
     Contour 2 has a kink at 23: 'opsz=144.0', 'opsz=144.0 wght=100.0'
-    Contour 2 has a kink at 40: 'opsz=144.0', 'opsz=144.0 wght=100.0'
 Glyph K was not compatible:
   Masters: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0':
     Contour 1 has a kink at 23: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0'
@@ -18,17 +16,11 @@ Glyph Schwa was not compatible:
 Glyph Thorn was not compatible:
   Masters: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0':
     Contour 1 has a kink at 46: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0'
-Glyph a was not compatible:
-  Masters: '', 'opsz=144.0':
-    Contour 0 has a kink at 39: '', 'opsz=144.0'
 Glyph ampersand.alt was not compatible:
   Masters: 'SOFT=100.0', 'SOFT=100.0 wght=100.0':
     Contour 2 has a kink at 21: 'SOFT=100.0', 'SOFT=100.0 wght=100.0'
   Masters: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0':
     Contour 2 has a kink at 21: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0'
-Glyph aogonek was not compatible:
-  Masters: '', 'opsz=144.0':
-    Contour 1 has a kink at 39: '', 'opsz=144.0'
 Glyph b was not compatible:
   Masters: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0':
     Contour 0 has a kink at 15: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0'
@@ -99,7 +91,6 @@ Glyph k was not compatible:
   Masters: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0':
     Contour 0 has a kink at 8: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0'
     Contour 0 has a kink at 18: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0'
-    Contour 2 has a kink at 22: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0'
 Glyph kip was not compatible:
   Masters: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0':
     Contour 3 has a kink at 55: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0'
@@ -170,7 +161,6 @@ Glyph tbar was not compatible:
 Glyph thorn was not compatible:
   Masters: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0':
     Contour 0 has a kink at 23: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0'
-    Contour 0 has a kink at 33: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0'
 Glyph u was not compatible:
   Masters: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0':
     Contour 0 has a kink at 7: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0'
@@ -189,5 +179,3 @@ Glyph w was not compatible:
 Glyph x was not compatible:
   Masters: 'SOFT=100.0', 'SOFT=100.0 wght=100.0':
     Contour 1 has a kink at 53: 'SOFT=100.0', 'SOFT=100.0 wght=100.0'
-  Masters: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0':
-    Contour 1 has a kink at 53: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0'

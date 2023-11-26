@@ -38,7 +38,6 @@ Glyph TahDotAboveNS was not compatible:
     Contour 0 has a kink at 49: '', 'wght=700.0'
 Glyph TahDotEnclNS was not compatible:
   Masters: '', 'wght=700.0':
-    Contour 0 has a kink at 41: '', 'wght=700.0'
     Contour 0 has a kink at 47: '', 'wght=700.0'
 Glyph TahIni.HRlow was not compatible:
   Masters: '', 'wght=700.0':

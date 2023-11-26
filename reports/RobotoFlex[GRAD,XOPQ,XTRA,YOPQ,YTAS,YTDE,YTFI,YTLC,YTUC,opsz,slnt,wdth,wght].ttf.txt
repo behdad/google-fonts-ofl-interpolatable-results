@@ -50,9 +50,6 @@ Glyph uni00D7 was not compatible:
     Contour order differs: [0, 1] in 'GRAD=150.0 opsz=144.0 wght=1000.0', [1, 0] in 'GRAD=150.0 opsz=144.0 wdth=25.0 wght=1000.0'
   Masters: 'opsz=144.0 slnt=-10.0 wdth=25.0', 'opsz=144.0 slnt=-10.0 wdth=25.0 wght=1000.0':
     Contour order differs: [0, 1] in 'opsz=144.0 slnt=-10.0 wdth=25.0', [1, 0] in 'opsz=144.0 slnt=-10.0 wdth=25.0 wght=1000.0'
-Glyph uni00E6 was not compatible:
-  Masters: 'slnt=-10.0 wdth=151.0', 'slnt=-10.0 wdth=151.0 wght=100.0':
-    Contour 1 has a kink at 34: 'slnt=-10.0 wdth=151.0', 'slnt=-10.0 wdth=151.0 wght=100.0'
 Glyph uni02DD was not compatible:
   Masters: 'opsz=144.0 wdth=25.0', 'opsz=144.0 wdth=25.0 wght=100.0':
     Contour order differs: [0, 1] in 'opsz=144.0 wdth=25.0', [1, 0] in 'opsz=144.0 wdth=25.0 wght=100.0'

@@ -21,7 +21,6 @@ Glyph Lslash was not compatible:
   Masters: 'slnt=13.0', 'slnt=13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=13.0', 8 in 'slnt=13.0 wght=900.0'; reversed: False
     Contour 0 has a kink at 0: 'slnt=13.0', 'slnt=13.0 wght=900.0'
-    Contour 0 has a kink at 28: 'slnt=13.0', 'slnt=13.0 wght=900.0'
 Glyph Q was not compatible:
   Masters: '', 'wght=900.0':
     Contour 0 has a kink at 52: '', 'wght=900.0'
@@ -65,7 +64,6 @@ Glyph comma was not compatible:
   Masters: 'slnt=13.0', 'slnt=13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=13.0', 4 in 'slnt=13.0 wght=900.0'; reversed: False
     Contour 0 has a kink at 4: 'slnt=13.0', 'slnt=13.0 wght=900.0'
-    Contour 0 has a kink at 12: 'slnt=13.0', 'slnt=13.0 wght=900.0'
     Contour 0 has a kink at 20: 'slnt=13.0', 'slnt=13.0 wght=900.0'
     Contour 0 has a kink at 32: 'slnt=13.0', 'slnt=13.0 wght=900.0'
 Glyph dollar was not compatible:
@@ -99,8 +97,6 @@ Glyph exclamdown.case was not compatible:
 Glyph fraction was not compatible:
   Masters: 'slnt=-13.0', 'slnt=-13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=-13.0', 52 in 'slnt=-13.0 wght=900.0'; reversed: False
-    Contour 0 has a kink at 0: 'slnt=-13.0', 'slnt=-13.0 wght=900.0'
-    Contour 0 has a kink at 32: 'slnt=-13.0', 'slnt=-13.0 wght=900.0'
 Glyph lslash was not compatible:
   Masters: '', 'slnt=-13.0':
     Contour 0 start point differs: 0 in '', 40 in 'slnt=-13.0'; reversed: False
@@ -112,15 +108,10 @@ Glyph lslash was not compatible:
   Masters: 'slnt=13.0', 'slnt=13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=13.0', 6 in 'slnt=13.0 wght=900.0'; reversed: False
     Contour 0 has a kink at 0: 'slnt=13.0', 'slnt=13.0 wght=900.0'
-    Contour 0 has a kink at 28: 'slnt=13.0', 'slnt=13.0 wght=900.0'
 Glyph multiply was not compatible:
   Masters: '', 'slnt=13.0':
     Contour order differs: [0, 1] in '', [1, 0] in 'slnt=13.0'
 Glyph one was not compatible:
-  Masters: '', 'wght=900.0':
-    Contour 0 has a kink at 28: '', 'wght=900.0'
-  Masters: 'slnt=-13.0', 'slnt=-13.0 wght=900.0':
-    Contour 0 has a kink at 28: 'slnt=-13.0', 'slnt=-13.0 wght=900.0'
   Masters: 'slnt=13.0', 'slnt=13.0 wght=900.0':
     Contour 0 start point differs: 0 in 'slnt=13.0', 64 in 'slnt=13.0 wght=900.0'; reversed: False
 Glyph q was not compatible:
@@ -168,7 +159,6 @@ Glyph semicolon was not compatible:
   Masters: 'slnt=13.0', 'slnt=13.0 wght=900.0':
     Contour 1 start point differs: 0 in 'slnt=13.0', 4 in 'slnt=13.0 wght=900.0'; reversed: False
     Contour 1 has a kink at 4: 'slnt=13.0', 'slnt=13.0 wght=900.0'
-    Contour 1 has a kink at 12: 'slnt=13.0', 'slnt=13.0 wght=900.0'
     Contour 1 has a kink at 20: 'slnt=13.0', 'slnt=13.0 wght=900.0'
     Contour 1 has a kink at 30: 'slnt=13.0', 'slnt=13.0 wght=900.0'
 Glyph uni0312 was not compatible:

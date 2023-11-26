@@ -1,14 +1,12 @@
 Glyph Ecircumflex was not compatible:
   Masters: '', 'wght=300.0':
     Contour 1 start point differs: 0 in '', 34 in 'wght=300.0'; reversed: False
-    Contour 1 has a kink at 0: '', 'wght=300.0'
     Contour 1 has a kink at 14: '', 'wght=300.0'
     Contour 1 has a kink at 26: '', 'wght=300.0'
     Contour 1 has a kink at 34: '', 'wght=300.0'
 Glyph Icircumflex was not compatible:
   Masters: '', 'wght=300.0':
     Contour 1 start point differs: 0 in '', 34 in 'wght=300.0'; reversed: False
-    Contour 1 has a kink at 0: '', 'wght=300.0'
     Contour 1 has a kink at 14: '', 'wght=300.0'
     Contour 1 has a kink at 26: '', 'wght=300.0'
     Contour 1 has a kink at 34: '', 'wght=300.0'
@@ -19,7 +17,6 @@ Glyph Itilde was not compatible:
 Glyph Jcircumflex was not compatible:
   Masters: '', 'wght=300.0':
     Contour 1 start point differs: 0 in '', 34 in 'wght=300.0'; reversed: False
-    Contour 1 has a kink at 0: '', 'wght=300.0'
     Contour 1 has a kink at 14: '', 'wght=300.0'
     Contour 1 has a kink at 26: '', 'wght=300.0'
     Contour 1 has a kink at 34: '', 'wght=300.0'
@@ -30,7 +27,6 @@ Glyph Ntilde was not compatible:
 Glyph Ocircumflex was not compatible:
   Masters: '', 'wght=300.0':
     Contour 1 start point differs: 0 in '', 34 in 'wght=300.0'; reversed: False
-    Contour 1 has a kink at 0: '', 'wght=300.0'
     Contour 1 has a kink at 14: '', 'wght=300.0'
     Contour 1 has a kink at 26: '', 'wght=300.0'
     Contour 1 has a kink at 34: '', 'wght=300.0'
@@ -41,14 +37,12 @@ Glyph Otilde was not compatible:
 Glyph Ucircumflex was not compatible:
   Masters: '', 'wght=300.0':
     Contour 1 start point differs: 0 in '', 34 in 'wght=300.0'; reversed: False
-    Contour 1 has a kink at 0: '', 'wght=300.0'
     Contour 1 has a kink at 14: '', 'wght=300.0'
     Contour 1 has a kink at 26: '', 'wght=300.0'
     Contour 1 has a kink at 34: '', 'wght=300.0'
 Glyph ecircumflex was not compatible:
   Masters: '', 'wght=300.0':
     Contour 1 start point differs: 0 in '', 34 in 'wght=300.0'; reversed: False
-    Contour 1 has a kink at 0: '', 'wght=300.0'
     Contour 1 has a kink at 14: '', 'wght=300.0'
     Contour 1 has a kink at 26: '', 'wght=300.0'
     Contour 1 has a kink at 34: '', 'wght=300.0'

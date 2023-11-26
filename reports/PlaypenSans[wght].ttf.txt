@@ -10,12 +10,6 @@ Glyph six.alt4 was not compatible:
 Glyph suninlove was not compatible:
   Masters: '', 'wght=100.0':
     Contour 3 has a kink at 12: '', 'wght=100.0'
-Glyph u1F31E was not compatible:
-  Masters: '', 'wght=100.0':
-    Contour 2 has a kink at 8: '', 'wght=100.0'
 Glyph u1F446 was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 has a kink at 222: '', 'wght=800.0'
-Glyph u1F4E3 was not compatible:
-  Masters: '', 'wght=100.0':
-    Contour 3 has a kink at 20: '', 'wght=100.0'

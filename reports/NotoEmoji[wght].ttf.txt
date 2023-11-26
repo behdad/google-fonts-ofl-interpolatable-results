@@ -14,4 +14,3 @@ Glyph u1F493 was not compatible:
     Contour 3 has a kink at 10: '', 'wght=700.0'
     Contour 3 has a kink at 12: '', 'wght=700.0'
     Contour 3 has a kink at 16: '', 'wght=700.0'
-    Contour 3 has a kink at 20: '', 'wght=700.0'

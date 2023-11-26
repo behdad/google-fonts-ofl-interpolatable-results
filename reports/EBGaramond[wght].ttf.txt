@@ -1,6 +1,3 @@
-Glyph P.ordn was not compatible:
-  Masters: '', 'wght=800.0':
-    Contour 0 has a kink at 43: '', 'wght=800.0'
 Glyph Sigma was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 has a kink at 68: '', 'wght=800.0'
@@ -10,9 +7,6 @@ Glyph W was not compatible:
 Glyph Wgrave was not compatible:
   Masters: '', 'wght=800.0':
     Contour 1 has a kink at 95: '', 'wght=800.0'
-Glyph ampersand.ordn was not compatible:
-  Masters: '', 'wght=800.0':
-    Contour 0 has a kink at 94: '', 'wght=800.0'
 Glyph bullet.01 was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 has a kink at 182: '', 'wght=800.0'
@@ -21,21 +15,9 @@ Glyph bullet.02 was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 has a kink at 42: '', 'wght=800.0'
     Contour 0 has a kink at 62: '', 'wght=800.0'
-Glyph daggerdbl.ordn was not compatible:
-  Masters: '', 'wght=800.0':
-    Contour 0 has a kink at 61: '', 'wght=800.0'
-Glyph f_f_j was not compatible:
-  Masters: '', 'wght=800.0':
-    Contour 1 has a kink at 132: '', 'wght=800.0'
-Glyph f_j was not compatible:
-  Masters: '', 'wght=800.0':
-    Contour 0 has a kink at 132: '', 'wght=800.0'
 Glyph germandbls.sc1 was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 has a kink at 117: '', 'wght=800.0'
-Glyph k.ordn was not compatible:
-  Masters: '', 'wght=800.0':
-    Contour 0 has a kink at 95: '', 'wght=800.0'
 Glyph longs was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 has a kink at 45: '', 'wght=800.0'
@@ -47,7 +29,6 @@ Glyph longs_longs was not compatible:
     Contour 1 has a kink at 45: '', 'wght=800.0'
 Glyph sigma was not compatible:
   Masters: '', 'wght=800.0':
-    Contour 0 has a kink at 32: '', 'wght=800.0'
     Contour 0 has a kink at 36: '', 'wght=800.0'
 Glyph uni0199 was not compatible:
   Masters: '', 'wght=800.0':
@@ -58,16 +39,9 @@ Glyph uni01A5 was not compatible:
 Glyph uni01AD was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 has a kink at 38: '', 'wght=800.0'
-Glyph uni01BA was not compatible:
-  Masters: '', 'wght=800.0':
-    Contour 0 has a kink at 51: '', 'wght=800.0'
 Glyph uni0257 was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 has a kink at 54: '', 'wght=800.0'
-Glyph uni025A was not compatible:
-  Masters: '', 'wght=800.0':
-    Contour 0 has a kink at 41: '', 'wght=800.0'
-    Contour 0 has a kink at 45: '', 'wght=800.0'
 Glyph uni025D was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 has a kink at 101: '', 'wght=800.0'
@@ -96,11 +70,6 @@ Glyph uni0292 was not compatible:
 Glyph uni0293 was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 has a kink at 63: '', 'wght=800.0'
-Glyph uni029E was not compatible:
-  Masters: '', 'wght=800.0':
-    Contour 0 has a kink at 33: '', 'wght=800.0'
-    Contour 0 has a kink at 87: '', 'wght=800.0'
-    Contour 0 has a kink at 91: '', 'wght=800.0'
 Glyph uni02A0 was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 has a kink at 62: '', 'wght=800.0'
@@ -110,12 +79,6 @@ Glyph uni02A9 was not compatible:
 Glyph uni02DE was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 has a kink at 25: '', 'wght=800.0'
-Glyph uni0394 was not compatible:
-  Masters: '', 'wght=800.0':
-    Contour 0 has a kink at 11: '', 'wght=800.0'
-Glyph uni0414.alt was not compatible:
-  Masters: '', 'wght=800.0':
-    Contour 0 has a kink at 27: '', 'wght=800.0'
 Glyph uni0416 was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 has a kink at 174: '', 'wght=800.0'
@@ -128,12 +91,6 @@ Glyph uni0496 was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 has a kink at 26: '', 'wght=800.0'
     Contour 0 has a kink at 84: '', 'wght=800.0'
-Glyph uni049C was not compatible:
-  Masters: '', 'wght=800.0':
-    Contour 0 has a kink at 133: '', 'wght=800.0'
-Glyph uni049E was not compatible:
-  Masters: '', 'wght=800.0':
-    Contour 0 has a kink at 168: '', 'wght=800.0'
 Glyph uni04A8 was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 has a kink at 40: '', 'wght=800.0'
@@ -153,29 +110,17 @@ Glyph uni20A9 was not compatible:
 Glyph uni2619.01 was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 has a kink at 526: '', 'wght=800.0'
-    Contour 0 has a kink at 530: '', 'wght=800.0'
 Glyph uni261C was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 has a kink at 42: '', 'wght=800.0'
     Contour 0 has a kink at 62: '', 'wght=800.0'
-Glyph uni270B was not compatible:
-  Masters: '', 'wght=800.0':
-    Contour 0 has a kink at 157: '', 'wght=800.0'
 Glyph uni2767.01 was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 has a kink at 132: '', 'wght=800.0'
 Glyph uni2C72 was not compatible:
   Masters: '', 'wght=800.0':
-    Contour 0 has a kink at 70: '', 'wght=800.0'
     Contour 0 has a kink at 74: '', 'wght=800.0'
-    Contour 0 has a kink at 88: '', 'wght=800.0'
     Contour 0 has a kink at 98: '', 'wght=800.0'
 Glyph uniE002 was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 has a kink at 132: '', 'wght=800.0'
-Glyph uniFB01 was not compatible:
-  Masters: '', 'wght=800.0':
-    Contour 0 has a kink at 76: '', 'wght=800.0'
-Glyph uniFB03 was not compatible:
-  Masters: '', 'wght=800.0':
-    Contour 1 has a kink at 76: '', 'wght=800.0'
