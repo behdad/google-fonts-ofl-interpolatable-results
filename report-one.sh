@@ -8,15 +8,21 @@ for cmd in curl jq gh; do
 done
 
 sleep=0
-if [ "x$1" = x--sleep ]; then
-	sleep=1
-	shift
-fi
 dryrun=false
-if [ "x$1" = x--dry-run ]; then
-	dryrun=true
+while [ $# -gt 0 ]; do
+	case "$1" in
+	--sleep)
+		sleep=1
+		;;
+	--dry-run)
+		dryrun=true
+		;;
+	*)
+		break
+		;;
+	esac
 	shift
-fi
+done
 
 our_repo=https://github.com/behdad/google-fonts-ofl-interpolatable-results
 
