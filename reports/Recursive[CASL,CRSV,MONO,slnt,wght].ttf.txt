@@ -1,3 +1,15 @@
+Glyph D was not compatible:
+  Masters: '', 'CASL=1.0':
+    Contour 0 has a kink at 18: '', 'CASL=1.0'
+Glyph Dcaron was not compatible:
+  Masters: '', 'CASL=1.0':
+    Contour 1 has a kink at 18: '', 'CASL=1.0'
+Glyph Dcroat was not compatible:
+  Masters: '', 'CASL=1.0':
+    Contour 1 has a kink at 18: '', 'CASL=1.0'
+Glyph Eth was not compatible:
+  Masters: '', 'CASL=1.0':
+    Contour 1 has a kink at 18: '', 'CASL=1.0'
 Glyph Euro was not compatible:
   Masters: '', 'CASL=1.0':
     Contour 0 has a kink at 45: '', 'CASL=1.0'
@@ -17,11 +29,17 @@ Glyph ampersand was not compatible:
   Masters: 'CASL=1.0 slnt=-14.0497 wght=800.0061', 'CASL=1.0 slnt=-14.0497 wght=1000.0':
     Contour 0 has a kink at 27: 'CASL=1.0 slnt=-14.0497 wght=800.0061', 'CASL=1.0 slnt=-14.0497 wght=1000.0'
 Glyph dollar was not compatible:
+  Masters: 'CASL=1.0', 'CASL=1.0 wght=800.0061':
+    Contour 1 has a kink at 4: 'CASL=1.0', 'CASL=1.0 wght=800.0061'
+    Contour 2 has a kink at 4: 'CASL=1.0', 'CASL=1.0 wght=800.0061'
   Masters: 'CASL=1.0 wght=800.0061', 'CASL=1.0 wght=1000.0':
     Contour 2 has a kink at 4: 'CASL=1.0 wght=800.0061', 'CASL=1.0 wght=1000.0'
   Masters: 'CASL=1.0 slnt=-14.0497 wght=800.0061', 'CASL=1.0 slnt=-14.0497 wght=1000.0':
     Contour 2 has a kink at 4: 'CASL=1.0 slnt=-14.0497 wght=800.0061', 'CASL=1.0 slnt=-14.0497 wght=1000.0'
 Glyph dollar_bracelf.code was not compatible:
+  Masters: 'CASL=1.0', 'CASL=1.0 wght=800.0061':
+    Contour 2 has a kink at 4: 'CASL=1.0', 'CASL=1.0 wght=800.0061'
+    Contour 3 has a kink at 4: 'CASL=1.0', 'CASL=1.0 wght=800.0061'
   Masters: 'CASL=1.0 wght=800.0061', 'CASL=1.0 wght=1000.0':
     Contour 3 has a kink at 4: 'CASL=1.0 wght=800.0061', 'CASL=1.0 wght=1000.0'
   Masters: 'CASL=1.0 slnt=-14.0497 wght=800.0061', 'CASL=1.0 slnt=-14.0497 wght=1000.0':
@@ -32,6 +50,9 @@ Glyph k.italic was not compatible:
   Masters: 'CASL=1.0 MONO=1.0 wght=800.0061', 'CASL=1.0 MONO=1.0 wght=1000.0':
     Contour 1 has a kink at 15: 'CASL=1.0 MONO=1.0 wght=800.0061', 'CASL=1.0 MONO=1.0 wght=1000.0'
 Glyph less_dollar_greater.code was not compatible:
+  Masters: 'CASL=1.0', 'CASL=1.0 wght=800.0061':
+    Contour 3 has a kink at 4: 'CASL=1.0', 'CASL=1.0 wght=800.0061'
+    Contour 4 has a kink at 4: 'CASL=1.0', 'CASL=1.0 wght=800.0061'
   Masters: 'CASL=1.0 wght=800.0061', 'CASL=1.0 wght=1000.0':
     Contour 4 has a kink at 4: 'CASL=1.0 wght=800.0061', 'CASL=1.0 wght=1000.0'
   Masters: 'CASL=1.0 slnt=-14.0497 wght=800.0061', 'CASL=1.0 slnt=-14.0497 wght=1000.0':
@@ -92,11 +113,17 @@ Glyph question was not compatible:
     Contour 1 has a kink at 48: '', 'wght=800.0061'
   Masters: 'MONO=1.0', 'MONO=1.0 wght=800.0061':
     Contour 1 has a kink at 48: 'MONO=1.0', 'MONO=1.0 wght=800.0061'
+  Masters: 'wght=800.0061', 'wght=1000.0':
+    Contour 1 has a kink at 48: 'wght=800.0061', 'wght=1000.0'
+  Masters: 'MONO=1.0 wght=800.0061', 'MONO=1.0 wght=1000.0':
+    Contour 1 has a kink at 48: 'MONO=1.0 wght=800.0061', 'MONO=1.0 wght=1000.0'
 Glyph questiondown was not compatible:
   Masters: '', 'wght=800.0061':
     Contour 1 has a kink at 48: '', 'wght=800.0061'
   Masters: 'slnt=-14.0497', 'slnt=-14.0497 wght=800.0061':
     Contour 1 has a kink at 48: 'slnt=-14.0497', 'slnt=-14.0497 wght=800.0061'
+  Masters: 'wght=800.0061', 'wght=1000.0':
+    Contour 1 has a kink at 48: 'wght=800.0061', 'wght=1000.0'
 Glyph questiondown.case was not compatible:
   Masters: '', 'wght=800.0061':
     Contour 1 has a kink at 48: '', 'wght=800.0061'
@@ -104,19 +131,29 @@ Glyph questiondown.case was not compatible:
     Contour 1 has a kink at 48: 'MONO=1.0', 'MONO=1.0 wght=800.0061'
   Masters: 'slnt=-14.0497', 'slnt=-14.0497 wght=800.0061':
     Contour 1 has a kink at 48: 'slnt=-14.0497', 'slnt=-14.0497 wght=800.0061'
+  Masters: 'wght=800.0061', 'wght=1000.0':
+    Contour 1 has a kink at 48: 'wght=800.0061', 'wght=1000.0'
   Masters: 'MONO=1.0 slnt=-14.0497', 'MONO=1.0 slnt=-14.0497 wght=800.0061':
     Contour 1 has a kink at 48: 'MONO=1.0 slnt=-14.0497', 'MONO=1.0 slnt=-14.0497 wght=800.0061'
+  Masters: 'MONO=1.0 wght=800.0061', 'MONO=1.0 wght=1000.0':
+    Contour 1 has a kink at 48: 'MONO=1.0 wght=800.0061', 'MONO=1.0 wght=1000.0'
 Glyph qust_colon.code was not compatible:
   Masters: '', 'wght=800.0061':
     Contour 3 has a kink at 48: '', 'wght=800.0061'
   Masters: 'MONO=1.0', 'MONO=1.0 wght=800.0061':
     Contour 3 has a kink at 48: 'MONO=1.0', 'MONO=1.0 wght=800.0061'
+  Masters: 'wght=800.0061', 'wght=1000.0':
+    Contour 3 has a kink at 48: 'wght=800.0061', 'wght=1000.0'
+  Masters: 'MONO=1.0 wght=800.0061', 'MONO=1.0 wght=1000.0':
+    Contour 3 has a kink at 48: 'MONO=1.0 wght=800.0061', 'MONO=1.0 wght=1000.0'
 Glyph qust_qust.code was not compatible:
   Masters: '', 'wght=800.0061':
     Contour 1 has a kink at 48: '', 'wght=800.0061'
     Contour 3 has a kink at 48: '', 'wght=800.0061'
   Masters: 'slnt=-14.0497', 'slnt=-14.0497 wght=800.0061':
     Contour 3 has a kink at 48: 'slnt=-14.0497', 'slnt=-14.0497 wght=800.0061'
+  Masters: 'wght=800.0061', 'wght=1000.0':
+    Contour 3 has a kink at 48: 'wght=800.0061', 'wght=1000.0'
 Glyph three was not compatible:
   Masters: '', 'wght=800.0061':
     Contour 0 has a kink at 117: '', 'wght=800.0061'
@@ -129,9 +166,53 @@ Glyph twothirds was not compatible:
 Glyph uni00B2 was not compatible:
   Masters: '', 'CASL=1.0':
     Contour 0 has a kink at 35: '', 'CASL=1.0'
+Glyph uni01C4 was not compatible:
+  Masters: '', 'CASL=1.0':
+    Contour 0 has a kink at 27: '', 'CASL=1.0'
+Glyph uni01C4.sans was not compatible:
+  Masters: '', 'CASL=1.0':
+    Contour 1 has a kink at 27: '', 'CASL=1.0'
+Glyph uni01C5 was not compatible:
+  Masters: '', 'CASL=1.0':
+    Contour 0 has a kink at 27: '', 'CASL=1.0'
+Glyph uni01F1 was not compatible:
+  Masters: '', 'CASL=1.0':
+    Contour 0 has a kink at 27: '', 'CASL=1.0'
+Glyph uni01F1.sans was not compatible:
+  Masters: '', 'CASL=1.0':
+    Contour 0 has a kink at 27: '', 'CASL=1.0'
+Glyph uni01F2 was not compatible:
+  Masters: '', 'CASL=1.0':
+    Contour 0 has a kink at 27: '', 'CASL=1.0'
+Glyph uni0309 was not compatible:
+  Masters: '', 'CASL=1.0':
+    Contour 0 has a kink at 31: '', 'CASL=1.0'
+Glyph uni0309.case was not compatible:
+  Masters: '', 'CASL=1.0':
+    Contour 0 has a kink at 29: '', 'CASL=1.0'
 Glyph uni031B was not compatible:
   Masters: '', 'CASL=1.0':
     Contour 0 start point differs: 0 in '', 42 in 'CASL=1.0'; reversed: False
+Glyph uni1E0C was not compatible:
+  Masters: '', 'CASL=1.0':
+    Contour 1 has a kink at 18: '', 'CASL=1.0'
+Glyph uni1E0E was not compatible:
+  Masters: '', 'CASL=1.0':
+    Contour 1 has a kink at 18: '', 'CASL=1.0'
+Glyph uni1EA3.simple was not compatible:
+  Masters: '', 'CASL=1.0':
+    Contour 2 has a kink at 31: '', 'CASL=1.0'
+Glyph uni1EA9.simple was not compatible:
+  Masters: '', 'CASL=1.0':
+    Contour 3 has a kink at 29: '', 'CASL=1.0'
+Glyph uni1EB3.simple was not compatible:
+  Masters: '', 'CASL=1.0':
+    Contour 3 has a kink at 29: '', 'CASL=1.0'
+Glyph uni1EC9.simple was not compatible:
+  Masters: '', 'CASL=1.0':
+    Contour 1 has a kink at 31: '', 'CASL=1.0'
 Glyph uni20B5 was not compatible:
   Masters: '', 'CASL=1.0':
     Contour 0 has a kink at 11: '', 'CASL=1.0'
+  Masters: 'CASL=1.0', 'CASL=1.0 wght=800.0061':
+    Contour 2 has a kink at 16: 'CASL=1.0', 'CASL=1.0 wght=800.0061'

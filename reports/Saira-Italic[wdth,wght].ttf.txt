@@ -14,6 +14,12 @@ Glyph five.dnom was not compatible:
 Glyph five.numr was not compatible:
   Masters: '', 'wdth=125.0':
     Contour 0 has a kink at 48: '', 'wdth=125.0'
+Glyph hookabovecomb was not compatible:
+  Masters: '', 'wdth=125.0':
+    Contour 0 has a kink at 41: '', 'wdth=125.0'
+Glyph hookabovecomb.case was not compatible:
+  Masters: '', 'wdth=125.0':
+    Contour 0 has a kink at 41: '', 'wdth=125.0'
 Glyph multiply was not compatible:
   Masters: 'wdth=50.0', 'wdth=50.0 wght=551.72986':
     Contour 0 start point differs: 0 in 'wdth=50.0', 2 in 'wdth=50.0 wght=551.72986'; reversed: False
@@ -27,6 +33,18 @@ Glyph section was not compatible:
     Contour 1 has a kink at 6: 'wdth=125.0', 'wdth=125.0 wght=551.72986'
   Masters: 'wdth=125.0 wght=551.72986', 'wdth=125.0 wght=900.0':
     Contour 0 has a kink at 112: 'wdth=125.0 wght=551.72986', 'wdth=125.0 wght=900.0'
+Glyph uni03020309 was not compatible:
+  Masters: '', 'wdth=125.0':
+    Contour 1 has a kink at 41: '', 'wdth=125.0'
+Glyph uni03020309.case was not compatible:
+  Masters: '', 'wdth=125.0':
+    Contour 1 has a kink at 41: '', 'wdth=125.0'
+Glyph uni03060309 was not compatible:
+  Masters: '', 'wdth=125.0':
+    Contour 1 has a kink at 41: '', 'wdth=125.0'
+Glyph uni03060309.case was not compatible:
+  Masters: '', 'wdth=125.0':
+    Contour 1 has a kink at 41: '', 'wdth=125.0'
 Glyph uni20B1 was not compatible:
   Masters: 'wdth=75.0', 'wdth=50.0':
     Contour order differs: [0, 1, 2, 3] in 'wdth=75.0', [1, 0, 2, 3] in 'wdth=50.0'

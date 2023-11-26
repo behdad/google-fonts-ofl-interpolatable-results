@@ -2,6 +2,7 @@ Glyph BhaMatraU.GGondi was not compatible:
   Masters: '', 'wght=700.0':
     Contour 1 start point differs: 0 in '', 4 in 'wght=700.0'; reversed: False
     Contour 2 start point differs: 0 in '', 4 in 'wght=700.0'; reversed: False
+    Contour 2 has a kink at 8: '', 'wght=700.0'
 Glyph Five.GGondi was not compatible:
   Masters: '', 'wght=700.0':
     Contour 1 start point differs: 0 in '', 4 in 'wght=700.0'; reversed: False

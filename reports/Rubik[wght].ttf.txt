@@ -6,6 +6,12 @@ Glyph Scedilla was not compatible:
   Masters: '', 'wght=900.0':
     Contour 0 has a kink at 48: '', 'wght=900.0'
     Contour 0 has a kink at 93: '', 'wght=900.0'
+Glyph ae was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 22: '', 'wght=900.0'
+Glyph aogonek was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 45: '', 'wght=900.0'
 Glyph dollar was not compatible:
   Masters: '', 'wght=900.0':
     Contour 0 has a kink at 20: '', 'wght=900.0'

@@ -290,6 +290,12 @@ Glyph ruble.proportional was not compatible:
     Contour 0 has a kink at 53: 'opsz=8.0', 'opsz=8.0 wdth=50.0'
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=50.0':
     Contour 0 has a kink at 53: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=50.0'
+Glyph shacyr was not compatible:
+  Masters: 'GRAD=-50.0 opsz=144.0', 'GRAD=-50.0 opsz=144.0 wght=900.0':
+    Contour 1 has a kink at 31: 'GRAD=-50.0 opsz=144.0', 'GRAD=-50.0 opsz=144.0 wght=900.0'
+Glyph shchacyr was not compatible:
+  Masters: 'GRAD=-50.0 opsz=144.0', 'GRAD=-50.0 opsz=144.0 wght=900.0':
+    Contour 2 has a kink at 12: 'GRAD=-50.0 opsz=144.0', 'GRAD=-50.0 opsz=144.0 wght=900.0'
 Glyph six.linprop was not compatible:
   Masters: 'opsz=8.0 wdth=150.0', 'opsz=8.0 wdth=150.0 wght=100.0':
     Contour 0 has a kink at 25: 'opsz=8.0 wdth=150.0', 'opsz=8.0 wdth=150.0 wght=100.0'
@@ -329,6 +335,9 @@ Glyph six.oldprop was not compatible:
 Glyph six.oldtab was not compatible:
   Masters: 'opsz=8.0 wdth=150.0', 'opsz=8.0 wdth=150.0 wght=900.0':
     Contour 0 has a kink at 43: 'opsz=8.0 wdth=150.0', 'opsz=8.0 wdth=150.0 wght=900.0'
+Glyph te.locl was not compatible:
+  Masters: 'GRAD=-50.0 opsz=144.0', 'GRAD=-50.0 opsz=144.0 wght=900.0':
+    Contour 2 has a kink at 31: 'GRAD=-50.0 opsz=144.0', 'GRAD=-50.0 opsz=144.0 wght=900.0'
 Glyph udieresiscaron was not compatible:
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0':
     Contour order differs: [0, 1, 2, 3, 4] in 'GRAD=-50.0 opsz=8.0', [0, 1, 2, 4, 3] in 'GRAD=-50.0 opsz=8.0 wght=900.0'

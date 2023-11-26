@@ -4,3 +4,6 @@ Glyph glyph30712 was not compatible:
 Glyph uni3047 was not compatible:
   Masters: '', 'wght=900.0':
     Contour 1 has a kink at 16: '', 'wght=900.0'
+Glyph uni45BB was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 8 has a kink at 4: '', 'wght=900.0'

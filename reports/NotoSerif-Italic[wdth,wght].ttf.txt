@@ -11,6 +11,9 @@ Glyph uni0508 was not compatible:
 Glyph uni050E was not compatible:
   Masters: '', 'wght=100.0':
     Contour 0 has a kink at 6: '', 'wght=100.0'
+Glyph uni0520 was not compatible:
+  Masters: '', 'wght=100.0':
+    Contour 0 has a kink at 108: '', 'wght=100.0'
 Glyph uni052A was not compatible:
   Masters: '', 'wght=100.0':
     Contour 0 has a kink at 152: '', 'wght=100.0'

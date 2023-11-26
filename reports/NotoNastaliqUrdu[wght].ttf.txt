@@ -29,11 +29,16 @@ Glyph Safhah was not compatible:
 Glyph SeenMed.SWinAoutT2 was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 has a kink at 31: '', 'wght=700.0'
+Glyph SeenMed.SWinBoutT2 was not compatible:
+  Masters: '', 'wght=700.0':
+    Contour 0 has a kink at 35: '', 'wght=700.0'
 Glyph TahDotAboveNS was not compatible:
   Masters: '', 'wght=700.0':
+    Contour 0 has a kink at 43: '', 'wght=700.0'
     Contour 0 has a kink at 49: '', 'wght=700.0'
 Glyph TahDotEnclNS was not compatible:
   Masters: '', 'wght=700.0':
+    Contour 0 has a kink at 41: '', 'wght=700.0'
     Contour 0 has a kink at 47: '', 'wght=700.0'
 Glyph TahIni.HRlow was not compatible:
   Masters: '', 'wght=700.0':

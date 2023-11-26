@@ -3,7 +3,11 @@ Glyph d was not compatible:
     Contour 1 has a kink at 4: '', 'wght=800.0'
 Glyph germandbls was not compatible:
   Masters: '', 'wght=800.0':
+    Contour 0 has a kink at 12: '', 'wght=800.0'
     Contour 0 has a kink at 106: '', 'wght=800.0'
+Glyph k was not compatible:
+  Masters: '', 'wght=800.0':
+    Contour 0 has a kink at 15: '', 'wght=800.0'
 Glyph six was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 has a kink at 38: '', 'wght=800.0'

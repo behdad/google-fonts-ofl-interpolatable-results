@@ -10,6 +10,12 @@ Glyph c was not compatible:
 Glyph cent was not compatible:
   Masters: '', 'wght=100.0':
     Contour 1 has a kink at 38: '', 'wght=100.0'
+Glyph germandbls was not compatible:
+  Masters: '', 'wght=100.0':
+    Contour 0 has a kink at 9: '', 'wght=100.0'
+Glyph ordfeminine was not compatible:
+  Masters: '', 'wght=100.0':
+    Contour 0 has a kink at 23: '', 'wght=100.0'
 Glyph section was not compatible:
   Masters: '', 'wght=100.0':
     Contour 0 has a kink at 7: '', 'wght=100.0'

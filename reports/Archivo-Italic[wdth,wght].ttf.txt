@@ -47,6 +47,9 @@ Glyph intersection was not compatible:
     Contour 0 has a kink at 15: 'wdth=125.0', 'wdth=125.0 wght=900.0'
     Contour 0 has a kink at 30: 'wdth=125.0', 'wdth=125.0 wght=900.0'
     Contour 0 has a kink at 36: 'wdth=125.0', 'wdth=125.0 wght=900.0'
+Glyph ordfeminine was not compatible:
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=100.0':
+    Contour 0 has a kink at 46: 'wdth=125.0', 'wdth=125.0 wght=100.0'
 Glyph uni20B9 was not compatible:
   Masters: 'wdth=125.0', 'wdth=125.0 wght=100.0':
     Contour 0 has a kink at 14: 'wdth=125.0', 'wdth=125.0 wght=100.0'

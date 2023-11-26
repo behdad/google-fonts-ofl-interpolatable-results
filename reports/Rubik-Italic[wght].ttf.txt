@@ -4,6 +4,9 @@ Glyph S was not compatible:
 Glyph Scedilla was not compatible:
   Masters: '', 'wght=900.0':
     Contour 0 has a kink at 48: '', 'wght=900.0'
+Glyph ae was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 22: '', 'wght=900.0'
 Glyph dollar was not compatible:
   Masters: '', 'wght=900.0':
     Contour 0 has a kink at 20: '', 'wght=900.0'
@@ -25,6 +28,14 @@ Glyph peh_yehar was not compatible:
 Glyph peh_zainar.fina was not compatible:
   Masters: '', 'wght=900.0':
     Contour order differs: [0, 1, 2, 3, 4, 5, 6] in '', [1, 0, 2, 3, 4, 5, 6] in 'wght=900.0'
+Glyph s was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 17: '', 'wght=900.0'
+    Contour 0 has a kink at 62: '', 'wght=900.0'
+Glyph scedilla was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 48: '', 'wght=900.0'
+    Contour 0 has a kink at 93: '', 'wght=900.0'
 Glyph theh_yehHamzaabovear was not compatible:
   Masters: '', 'wght=900.0':
     Contour order differs: [0, 1, 2, 3, 4] in '', [0, 1, 4, 2, 3] in 'wght=900.0'
@@ -35,6 +46,9 @@ Glyph threedotsdownabovear was not compatible:
 Glyph twodotsverticalabovear was not compatible:
   Masters: '', 'wght=900.0':
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=900.0'
+Glyph uni04D5 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 22: '', 'wght=900.0'
 Glyph uniFC13 was not compatible:
   Masters: '', 'wght=900.0':
     Contour order differs: [0, 1, 2, 3] in '', [0, 3, 1, 2] in 'wght=900.0'
