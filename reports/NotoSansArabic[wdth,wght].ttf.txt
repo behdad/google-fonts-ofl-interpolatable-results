@@ -32,17 +32,9 @@ Glyph uni0758.fina was not compatible:
 Glyph uniFD3E was not compatible:
   Masters: '', 'wght=699.9878':
     Contour 5 start point differs: 0 in '', 8 in 'wght=699.9878'; reversed: False
-    Contour 5 has a kink at 4: '', 'wght=699.9878'
-    Contour 5 has a kink at 20: '', 'wght=699.9878'
   Masters: 'wdth=62.5', 'wdth=62.5 wght=699.9878':
     Contour 5 start point differs: 0 in 'wdth=62.5', 8 in 'wdth=62.5 wght=699.9878'; reversed: False
-    Contour 5 has a kink at 4: 'wdth=62.5', 'wdth=62.5 wght=699.9878'
-    Contour 5 has a kink at 20: 'wdth=62.5', 'wdth=62.5 wght=699.9878'
   Masters: 'wght=699.9878', 'wght=900.0':
     Contour 5 start point differs: 0 in 'wght=699.9878', 16 in 'wght=900.0'; reversed: False
-    Contour 5 has a kink at 4: 'wght=699.9878', 'wght=900.0'
-    Contour 5 has a kink at 20: 'wght=699.9878', 'wght=900.0'
   Masters: 'wdth=62.5 wght=699.9878', 'wdth=62.5 wght=900.0':
     Contour 5 start point differs: 0 in 'wdth=62.5 wght=699.9878', 16 in 'wdth=62.5 wght=900.0'; reversed: False
-    Contour 5 has a kink at 4: 'wdth=62.5 wght=699.9878', 'wdth=62.5 wght=900.0'
-    Contour 5 has a kink at 20: 'wdth=62.5 wght=699.9878', 'wdth=62.5 wght=900.0'

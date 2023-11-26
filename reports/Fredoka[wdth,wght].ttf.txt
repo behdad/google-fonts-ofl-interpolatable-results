@@ -1,39 +1,11 @@
-Glyph asciitilde was not compatible:
-  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
-    Contour 0 has a kink at 62: 'wdth=125.0', 'wdth=125.0 wght=700.0'
 Glyph c was not compatible:
   Masters: 'wdth=75.0', 'wdth=75.0 wght=700.0':
-    Contour 0 has a kink at 22: 'wdth=75.0', 'wdth=75.0 wght=700.0'
-    Contour 0 has a kink at 58: 'wdth=75.0', 'wdth=75.0 wght=700.0'
     Contour 0 has a kink at 72: 'wdth=75.0', 'wdth=75.0 wght=700.0'
-Glyph cent was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 0 has a kink at 49: '', 'wght=700.0'
-  Masters: 'wdth=75.0', 'wdth=75.0 wght=700.0':
-    Contour 0 has a kink at 85: 'wdth=75.0', 'wdth=75.0 wght=700.0'
-  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
-    Contour 0 has a kink at 49: 'wdth=125.0', 'wdth=125.0 wght=700.0'
-Glyph eth was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 0 has a kink at 65: '', 'wght=700.0'
 Glyph slash was not compatible:
   Masters: '', 'wdth=125.0':
     Contour 0 structures differ: '', 'wdth=125.0'
-    Contour 0 has a kink at 0: '', 'wdth=125.0'
-    Contour 0 has a kink at 4: '', 'wdth=125.0'
-    Contour 0 has a kink at 17: '', 'wdth=125.0'
-Glyph tildecomb was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 0 has a kink at 12: '', 'wght=700.0'
-  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
-    Contour 0 has a kink at 12: 'wdth=125.0', 'wdth=125.0 wght=700.0'
 Glyph uni0328 was not compatible:
   Masters: '', 'wdth=125.0':
     Contour 0 start point differs: 0 in '', 44 in 'wdth=125.0'; reversed: False
-    Contour 0 has a kink at 10: '', 'wdth=125.0'
-    Contour 0 has a kink at 44: '', 'wdth=125.0'
   Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
     Contour 0 start point differs: 0 in 'wdth=125.0', 8 in 'wdth=125.0 wght=700.0'; reversed: False
-    Contour 0 has a kink at 36: 'wdth=125.0', 'wdth=125.0 wght=700.0'
-    Contour 0 has a kink at 40: 'wdth=125.0', 'wdth=125.0 wght=700.0'
-    Contour 0 has a kink at 44: 'wdth=125.0', 'wdth=125.0 wght=700.0'

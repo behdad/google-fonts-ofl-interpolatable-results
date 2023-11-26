@@ -1,6 +1,0 @@
-Glyph glyph17613 was not compatible:
-  Masters: '', 'wght=900.0':
-    Contour 1 has a kink at 16: '', 'wght=900.0'
-Glyph uni3047 was not compatible:
-  Masters: '', 'wght=900.0':
-    Contour 1 has a kink at 16: '', 'wght=900.0'

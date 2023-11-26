@@ -1,7 +1,3 @@
-Glyph g.alt was not compatible:
-  Masters: '', 'wdth=125.0':
-    Contour 1 has a kink at 6: '', 'wdth=125.0'
-    Contour 1 has a kink at 20: '', 'wdth=125.0'
 Glyph oslash.BRACKET.600 was not compatible:
   Masters: '', 'wght=100.0':
     Contour 2 start point differs: 0 in '', 5 in 'wght=100.0'; reversed: False
@@ -18,14 +14,8 @@ Glyph oslash.BRACKET.600 was not compatible:
 Glyph uni019D.alt was not compatible:
   Masters: '', 'wdth=75.0':
     Contour 0 has a kink at 0: '', 'wdth=75.0'
-    Contour 0 has a kink at 9: '', 'wdth=75.0'
-  Masters: 'opsz=72.0', 'opsz=72.0 wdth=75.0':
-    Contour 0 has a kink at 0: 'opsz=72.0', 'opsz=72.0 wdth=75.0'
-    Contour 0 has a kink at 9: 'opsz=72.0', 'opsz=72.0 wdth=75.0'
   Masters: 'wdth=75.0', 'wdth=75.0 wght=900.0':
     Contour 0 has a kink at 0: 'wdth=75.0', 'wdth=75.0 wght=900.0'
-  Masters: 'opsz=72.0 wdth=75.0', 'opsz=72.0 wdth=75.0 wght=900.0':
-    Contour 0 has a kink at 0: 'opsz=72.0 wdth=75.0', 'opsz=72.0 wdth=75.0 wght=900.0'
 Glyph uni20A9.BRACKET.600 was not compatible:
   Masters: '', 'wght=100.0':
     Contour order differs: [0, 1, 2, 3, 4] in '', [0, 3, 4, 1, 2] in 'wght=100.0'

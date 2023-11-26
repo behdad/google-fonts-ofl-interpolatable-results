@@ -1,8 +1,0 @@
-Glyph uni046A.c2sc was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 1 has a kink at 21: '', 'wght=700.0'
-    Contour 2 has a kink at 15: '', 'wght=700.0'
-Glyph uni046B was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 1 has a kink at 21: '', 'wght=700.0'
-    Contour 2 has a kink at 15: '', 'wght=700.0'

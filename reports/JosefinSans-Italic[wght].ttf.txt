@@ -6,9 +6,3 @@ Glyph perthousand was not compatible:
     Contour 1 start point differs: 0 in 'wght=299.9878', 8 in 'wght=700.0'; reversed: False
     Contour 3 start point differs: 0 in 'wght=299.9878', 8 in 'wght=700.0'; reversed: False
     Contour 6 start point differs: 0 in 'wght=299.9878', 8 in 'wght=700.0'; reversed: False
-    Contour 1 has a kink at 0: 'wght=299.9878', 'wght=700.0'
-    Contour 1 has a kink at 14: 'wght=299.9878', 'wght=700.0'
-    Contour 3 has a kink at 0: 'wght=299.9878', 'wght=700.0'
-    Contour 3 has a kink at 14: 'wght=299.9878', 'wght=700.0'
-    Contour 6 has a kink at 0: 'wght=299.9878', 'wght=700.0'
-    Contour 6 has a kink at 14: 'wght=299.9878', 'wght=700.0'

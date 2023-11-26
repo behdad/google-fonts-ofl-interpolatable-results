@@ -1,3 +1,0 @@
-Glyph sterling was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 0 has a kink at 80: '', 'wght=700.0'

@@ -1,12 +1,3 @@
-Glyph uni03020303 was not compatible:
-  Masters: 'wght=700.0', 'wght=1000.0':
-    Contour 1 has a kink at 18: 'wght=700.0', 'wght=1000.0'
-Glyph uni03020303.case was not compatible:
-  Masters: 'wght=700.0', 'wght=1000.0':
-    Contour 1 has a kink at 18: 'wght=700.0', 'wght=1000.0'
-Glyph uni0311.case was not compatible:
-  Masters: 'wght=700.0', 'wght=1000.0':
-    Contour 0 has a kink at 22: 'wght=700.0', 'wght=1000.0'
 Glyph uni046A was not compatible:
   Masters: '', 'wght=700.0':
     Contour 1 start point differs: 0 in '', 1 in 'wght=700.0'; reversed: False

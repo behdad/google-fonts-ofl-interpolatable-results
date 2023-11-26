@@ -1,3 +1,0 @@
-Glyph LlamatraI.te was not compatible:
-  Masters: 'wdth=125.0', 'wdth=125.0 wght=100.0':
-    Contour 0 has a kink at 93: 'wdth=125.0', 'wdth=125.0 wght=100.0'

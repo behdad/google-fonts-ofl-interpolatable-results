@@ -4,12 +4,3 @@ Glyph O.alt4 was not compatible:
 Glyph Ohorn.alt4 was not compatible:
   Masters: '', 'wght=100.0':
     Contour 1 has a kink at 60: '', 'wght=100.0'
-Glyph six.alt4 was not compatible:
-  Masters: '', 'wght=100.0':
-    Contour 0 has a kink at 44: '', 'wght=100.0'
-Glyph suninlove was not compatible:
-  Masters: '', 'wght=100.0':
-    Contour 3 has a kink at 12: '', 'wght=100.0'
-Glyph u1F446 was not compatible:
-  Masters: '', 'wght=800.0':
-    Contour 0 has a kink at 222: '', 'wght=800.0'

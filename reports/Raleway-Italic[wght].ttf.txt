@@ -1,9 +1,0 @@
-Glyph ordfeminine was not compatible:
-  Masters: '', 'wght=500.0':
-    Contour 0 has a kink at 50: '', 'wght=500.0'
-Glyph uni00B5 was not compatible:
-  Masters: '', 'wght=500.0':
-    Contour 0 has a kink at 28: '', 'wght=500.0'
-Glyph uni03BC was not compatible:
-  Masters: '', 'wght=500.0':
-    Contour 0 has a kink at 29: '', 'wght=500.0'

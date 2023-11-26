@@ -1,3 +1,0 @@
-Glyph eth was not compatible:
-  Masters: '', 'wght=800.0':
-    Contour 0 has a kink at 39: '', 'wght=800.0'

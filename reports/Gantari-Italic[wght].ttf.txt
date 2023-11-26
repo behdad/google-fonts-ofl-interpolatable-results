@@ -3,6 +3,3 @@ Glyph equal was not compatible:
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=300.0061'
   Masters: 'wght=300.0061', 'wght=100.0':
     Contour order differs: [0, 1] in 'wght=300.0061', [1, 0] in 'wght=100.0'
-Glyph sterling was not compatible:
-  Masters: 'wght=678.92004', 'wght=779.97437':
-    Contour 0 has a kink at 7: 'wght=678.92004', 'wght=779.97437'

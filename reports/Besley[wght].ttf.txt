@@ -1,3 +1,0 @@
-Glyph Q was not compatible:
-  Masters: '', 'wght=900.0':
-    Contour 1 has a kink at 2: '', 'wght=900.0'

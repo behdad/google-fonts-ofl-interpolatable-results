@@ -1,9 +1,6 @@
 Glyph GafInvIni.NoutD11 was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 has a kink at 26: '', 'wght=700.0'
-Glyph HamzaBelowAF_AltNS was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 0 has a kink at 18: '', 'wght=700.0'
 Glyph HehMed.inD5outD2H was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 has a kink at 29: '', 'wght=700.0'
@@ -13,9 +10,6 @@ Glyph KafIni.NoutD11 was not compatible:
 Glyph RehFin.inD3MM was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 1 in 'wght=700.0'; reversed: True
-    Contour 0 has a kink at 13: '', 'wght=700.0'
-    Contour 0 has a kink at 19: '', 'wght=700.0'
-    Contour 0 has a kink at 25: '', 'wght=700.0'
 Glyph SadMed.inD1outD1 was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 has a kink at 36: '', 'wght=700.0'
@@ -23,37 +17,15 @@ Glyph SadMed.inD1outD1 was not compatible:
 Glyph SadSep was not compatible:
   Masters: '', 'wght=700.0':
     Contour 1 has a kink at 8: '', 'wght=700.0'
-Glyph Safhah was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 0 has a kink at 27: '', 'wght=700.0'
 Glyph SeenMed.SWinAoutT2 was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 has a kink at 31: '', 'wght=700.0'
-Glyph SeenMed.SWinBoutT2 was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 0 has a kink at 35: '', 'wght=700.0'
-Glyph TahDotAboveNS was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 0 has a kink at 43: '', 'wght=700.0'
-    Contour 0 has a kink at 49: '', 'wght=700.0'
-Glyph TahDotEnclNS was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 0 has a kink at 47: '', 'wght=700.0'
 Glyph TahIni.HRlow was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 has a kink at 61: '', 'wght=700.0'
 Glyph TahMed.HRlow was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 has a kink at 57: '', 'wght=700.0'
-Glyph YehBarreeFin was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 0 has a kink at 46: '', 'wght=700.0'
 Glyph nine was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 has a kink at 31: '', 'wght=700.0'
-Glyph seven.encl was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 0 has a kink at 10: '', 'wght=700.0'
-Glyph uniFDFD was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 0 has a kink at 40: '', 'wght=700.0'
