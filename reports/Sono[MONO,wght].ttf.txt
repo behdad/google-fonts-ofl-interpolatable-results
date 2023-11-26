@@ -1,11 +1,28 @@
 Glyph OE was not compatible:
+  Masters: '', 'wght=800.0':
+    Contour 0 has a kink at 31: '', 'wght=800.0'
   Masters: 'MONO=0.0', 'MONO=0.0 wght=800.0':
     Contour 0 has a kink at 31: 'MONO=0.0', 'MONO=0.0 wght=800.0'
+Glyph a.ss03 was not compatible:
+  Masters: '', 'wght=800.0':
+    Contour 0 has a kink at 6: '', 'wght=800.0'
+  Masters: 'MONO=0.0', 'MONO=0.0 wght=800.0':
+    Contour 0 has a kink at 6: 'MONO=0.0', 'MONO=0.0 wght=800.0'
 Glyph ae was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 has a kink at 86: '', 'wght=800.0'
   Masters: 'MONO=0.0', 'MONO=0.0 wght=800.0':
     Contour 0 has a kink at 86: 'MONO=0.0', 'MONO=0.0 wght=800.0'
+Glyph d was not compatible:
+  Masters: '', 'wght=800.0':
+    Contour 0 has a kink at 2: '', 'wght=800.0'
+  Masters: 'MONO=0.0', 'MONO=0.0 wght=800.0':
+    Contour 0 has a kink at 2: 'MONO=0.0', 'MONO=0.0 wght=800.0'
+Glyph dcroat was not compatible:
+  Masters: '', 'wght=800.0':
+    Contour 1 has a kink at 2: '', 'wght=800.0'
+  Masters: 'MONO=0.0', 'MONO=0.0 wght=800.0':
+    Contour 1 has a kink at 2: 'MONO=0.0', 'MONO=0.0 wght=800.0'
 Glyph g was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 has a kink at 16: '', 'wght=800.0'
@@ -31,6 +48,48 @@ Glyph uni0237 was not compatible:
     Contour 0 has a kink at 32: '', 'wght=800.0'
   Masters: 'MONO=0.0', 'MONO=0.0 wght=800.0':
     Contour 0 has a kink at 32: 'MONO=0.0', 'MONO=0.0 wght=800.0'
+Glyph uni0306 was not compatible:
+  Masters: '', 'wght=800.0':
+    Contour 0 has a kink at 8: '', 'wght=800.0'
+    Contour 0 has a kink at 16: '', 'wght=800.0'
+  Masters: 'MONO=0.0', 'MONO=0.0 wght=800.0':
+    Contour 0 has a kink at 8: 'MONO=0.0', 'MONO=0.0 wght=800.0'
+    Contour 0 has a kink at 16: 'MONO=0.0', 'MONO=0.0 wght=800.0'
+Glyph uni0306.case was not compatible:
+  Masters: '', 'wght=800.0':
+    Contour 0 has a kink at 8: '', 'wght=800.0'
+    Contour 0 has a kink at 16: '', 'wght=800.0'
+  Masters: 'MONO=0.0', 'MONO=0.0 wght=800.0':
+    Contour 0 has a kink at 8: 'MONO=0.0', 'MONO=0.0 wght=800.0'
+    Contour 0 has a kink at 16: 'MONO=0.0', 'MONO=0.0 wght=800.0'
+Glyph uni0311 was not compatible:
+  Masters: '', 'wght=800.0':
+    Contour 0 has a kink at 24: '', 'wght=800.0'
+    Contour 0 has a kink at 32: '', 'wght=800.0'
+  Masters: 'MONO=0.0', 'MONO=0.0 wght=800.0':
+    Contour 0 has a kink at 24: 'MONO=0.0', 'MONO=0.0 wght=800.0'
+    Contour 0 has a kink at 32: 'MONO=0.0', 'MONO=0.0 wght=800.0'
+Glyph uni0311.case was not compatible:
+  Masters: '', 'wght=800.0':
+    Contour 0 has a kink at 24: '', 'wght=800.0'
+    Contour 0 has a kink at 32: '', 'wght=800.0'
+  Masters: 'MONO=0.0', 'MONO=0.0 wght=800.0':
+    Contour 0 has a kink at 24: 'MONO=0.0', 'MONO=0.0 wght=800.0'
+    Contour 0 has a kink at 32: 'MONO=0.0', 'MONO=0.0 wght=800.0'
+Glyph uni032E was not compatible:
+  Masters: '', 'wght=800.0':
+    Contour 0 has a kink at 8: '', 'wght=800.0'
+    Contour 0 has a kink at 16: '', 'wght=800.0'
+  Masters: 'MONO=0.0', 'MONO=0.0 wght=800.0':
+    Contour 0 has a kink at 8: 'MONO=0.0', 'MONO=0.0 wght=800.0'
+    Contour 0 has a kink at 16: 'MONO=0.0', 'MONO=0.0 wght=800.0'
+Glyph uni032E.case was not compatible:
+  Masters: '', 'wght=800.0':
+    Contour 0 has a kink at 8: '', 'wght=800.0'
+    Contour 0 has a kink at 16: '', 'wght=800.0'
+  Masters: 'MONO=0.0', 'MONO=0.0 wght=800.0':
+    Contour 0 has a kink at 8: 'MONO=0.0', 'MONO=0.0 wght=800.0'
+    Contour 0 has a kink at 16: 'MONO=0.0', 'MONO=0.0 wght=800.0'
 Glyph y.ss03 was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 has a kink at 16: '', 'wght=800.0'

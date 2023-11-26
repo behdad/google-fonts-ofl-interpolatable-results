@@ -1,3 +1,6 @@
+Glyph A.ss02 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 17: '', 'wght=900.0'
 Glyph K was not compatible:
   Masters: '', 'wght=900.0':
     Contour 0 has a kink at 18: '', 'wght=900.0'
@@ -7,6 +10,9 @@ Glyph S was not compatible:
 Glyph Scaron was not compatible:
   Masters: '', 'wght=900.0':
     Contour 1 has a kink at 48: '', 'wght=900.0'
+Glyph a.ss02 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 15: '', 'wght=900.0'
 Glyph approxequal was not compatible:
   Masters: '', 'wght=900.0':
     Contour 0 start point differs: 0 in '', 4 in 'wght=900.0'; reversed: False
@@ -17,6 +23,12 @@ Glyph backslash was not compatible:
 Glyph c.ss01 was not compatible:
   Masters: '', 'wght=900.0':
     Contour 0 has a kink at 15: '', 'wght=900.0'
+Glyph eth was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 2 has a kink at 4: '', 'wght=900.0'
+Glyph partialdiff was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 1 has a kink at 4: '', 'wght=900.0'
 Glyph three.osf was not compatible:
   Masters: '', 'wght=900.0':
     Contour 0 has a kink at 48: '', 'wght=900.0'

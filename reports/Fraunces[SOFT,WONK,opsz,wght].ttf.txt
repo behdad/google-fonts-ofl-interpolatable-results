@@ -1,9 +1,18 @@
+Glyph A was not compatible:
+  Masters: 'opsz=144.0', 'opsz=144.0 wght=100.0':
+    Contour 1 has a kink at 40: 'opsz=144.0', 'opsz=144.0 wght=100.0'
+Glyph Aogonek was not compatible:
+  Masters: 'opsz=144.0', 'opsz=144.0 wght=100.0':
+    Contour 2 has a kink at 40: 'opsz=144.0', 'opsz=144.0 wght=100.0'
 Glyph K was not compatible:
   Masters: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0':
     Contour 1 has a kink at 23: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0'
 Glyph R was not compatible:
   Masters: 'SOFT=100.0', 'SOFT=100.0 wght=100.0':
     Contour 1 has a kink at 21: 'SOFT=100.0', 'SOFT=100.0 wght=100.0'
+Glyph Schwa was not compatible:
+  Masters: '', 'opsz=144.0':
+    Contour 0 has a kink at 39: '', 'opsz=144.0'
 Glyph Thorn was not compatible:
   Masters: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0':
     Contour 1 has a kink at 46: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0'
@@ -27,6 +36,8 @@ Glyph brevetilde.cap was not compatible:
     Contour 1 has a kink at 8: 'SOFT=100.0', 'SOFT=100.0 wght=100.0'
     Contour 1 has a kink at 28: 'SOFT=100.0', 'SOFT=100.0 wght=100.0'
 Glyph c was not compatible:
+  Masters: '', 'opsz=144.0':
+    Contour 0 has a kink at 29: '', 'opsz=144.0'
   Masters: '', 'wght=100.0':
     Contour 0 has a kink at 29: '', 'wght=100.0'
   Masters: 'SOFT=100.0', 'SOFT=100.0 wght=100.0':
@@ -49,9 +60,13 @@ Glyph dong was not compatible:
   Masters: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0':
     Contour 1 has a kink at 19: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0'
 Glyph e was not compatible:
+  Masters: '', 'opsz=144.0':
+    Contour 0 has a kink at 27: '', 'opsz=144.0'
   Masters: '', 'wght=100.0':
     Contour 0 has a kink at 27: '', 'wght=100.0'
 Glyph five was not compatible:
+  Masters: '', 'opsz=144.0':
+    Contour 0 has a kink at 54: '', 'opsz=144.0'
   Masters: 'SOFT=100.0', 'SOFT=100.0 wght=100.0':
     Contour 0 has a kink at 27: 'SOFT=100.0', 'SOFT=100.0 wght=100.0'
 Glyph h was not compatible:

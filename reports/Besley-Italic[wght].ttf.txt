@@ -37,3 +37,9 @@ Glyph tildecomb was not compatible:
 Glyph uni030C.alt was not compatible:
   Masters: '', 'wght=900.0':
     Contour 0 has a kink at 12: '', 'wght=900.0'
+Glyph uni0312 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 12: '', 'wght=900.0'
+Glyph uni0326 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 12: '', 'wght=900.0'

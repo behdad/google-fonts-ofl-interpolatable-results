@@ -12,3 +12,7 @@ Glyph Oslashacute.BRACKET.86 was not compatible:
     Contour 0 start point differs: 0 in '', 3 in 'wdth=125.0'; reversed: False
   Masters: '', 'wght=551.72986':
     Contour 0 start point differs: 0 in '', 3 in 'wght=551.72986'; reversed: False
+Glyph section was not compatible:
+  Masters: 'wdth=75.0', 'wdth=50.0':
+    Contour 1 has a kink at 11: 'wdth=75.0', 'wdth=50.0'
+    Contour 1 has a kink at 26: 'wdth=75.0', 'wdth=50.0'

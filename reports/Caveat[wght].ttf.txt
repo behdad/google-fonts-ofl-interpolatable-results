@@ -10,9 +10,6 @@ Glyph V.ss01 was not compatible:
 Glyph __descendercy was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 has a kink at 0: '', 'wght=700.0'
-Glyph __descendercy.case was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 0 has a kink at 43: '', 'wght=700.0'
 Glyph colonmonetary was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 4 in 'wght=700.0'; reversed: True
@@ -63,9 +60,6 @@ Glyph uni03BC was not compatible:
 Glyph uni03BC.1 was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 has a kink at 112: '', 'wght=700.0'
-Glyph uni0413.ss02 was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 0 has a kink at 92: '', 'wght=700.0'
 Glyph uni0417.ss01 was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 has a kink at 86: '', 'wght=700.0'
@@ -81,9 +75,6 @@ Glyph uni0495 was not compatible:
 Glyph uni04A3 was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 has a kink at 0: '', 'wght=700.0'
-Glyph uni04BD was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 1 has a kink at 46: '', 'wght=700.0'
 Glyph uni04C8 was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 has a kink at 6: '', 'wght=700.0'
@@ -100,7 +91,6 @@ Glyph uni20A6 was not compatible:
 Glyph uni20A9 was not compatible:
   Masters: '', 'wght=700.0':
     Contour 2 start point differs: 0 in '', 50 in 'wght=700.0'; reversed: False
-    Contour 0 has a kink at 110: '', 'wght=700.0'
     Contour 2 has a kink at 46: '', 'wght=700.0'
 Glyph uni20AE was not compatible:
   Masters: '', 'wght=700.0':

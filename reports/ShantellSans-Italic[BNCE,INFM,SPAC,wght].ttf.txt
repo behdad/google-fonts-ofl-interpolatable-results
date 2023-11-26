@@ -21,6 +21,7 @@ Glyph uni20B1 was not compatible:
     Contour 3 has a kink at 10: '', 'wght=800.0'
     Contour 3 has a kink at 26: '', 'wght=800.0'
     Contour 3 has a kink at 30: '', 'wght=800.0'
+    Contour 4 has a kink at 10: '', 'wght=800.0'
     Contour 4 has a kink at 34: '', 'wght=800.0'
   Masters: 'BNCE=-100.0', 'BNCE=-100.0 wght=800.0':
     Contour 3 start point differs: 0 in 'BNCE=-100.0', 6 in 'BNCE=-100.0 wght=800.0'; reversed: False
@@ -28,4 +29,5 @@ Glyph uni20B1 was not compatible:
     Contour 3 has a kink at 10: 'BNCE=-100.0', 'BNCE=-100.0 wght=800.0'
     Contour 3 has a kink at 26: 'BNCE=-100.0', 'BNCE=-100.0 wght=800.0'
     Contour 3 has a kink at 30: 'BNCE=-100.0', 'BNCE=-100.0 wght=800.0'
+    Contour 4 has a kink at 10: 'BNCE=-100.0', 'BNCE=-100.0 wght=800.0'
     Contour 4 has a kink at 34: 'BNCE=-100.0', 'BNCE=-100.0 wght=800.0'

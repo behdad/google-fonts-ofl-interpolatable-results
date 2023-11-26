@@ -79,6 +79,7 @@ Glyph eight.den was not compatible:
     Contour 2 has a kink at 0: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'
     Contour 2 has a kink at 4: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'
     Contour 2 has a kink at 12: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'
+    Contour 2 has a kink at 16: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'
     Contour 3 has a kink at 8: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'
     Contour 3 has a kink at 16: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'
 Glyph eight.lintab was not compatible:
@@ -91,6 +92,7 @@ Glyph eight.lintab was not compatible:
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0 wdth=150.0', 30 in 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'; reversed: False
   Masters: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0':
     Contour 0 has a kink at 22: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0'
+    Contour 1 has a kink at 22: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0'
 Glyph g.alt was not compatible:
   Masters: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0':
     Contour 3 start point differs: 0 in 'GRAD=100.0 opsz=144.0 wdth=50.0', 32 in 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
@@ -118,6 +120,13 @@ Glyph gcommaaccent.alt was not compatible:
     Contour 4 start point differs: 0 in 'GRAD=100.0 opsz=144.0 wdth=150.0', 18 in 'GRAD=100.0 opsz=144.0 wdth=150.0 wght=100.0'; reversed: False
     Contour 4 has a kink at 4: 'GRAD=100.0 opsz=144.0 wdth=150.0', 'GRAD=100.0 opsz=144.0 wdth=150.0 wght=100.0'
     Contour 4 has a kink at 22: 'GRAD=100.0 opsz=144.0 wdth=150.0', 'GRAD=100.0 opsz=144.0 wdth=150.0 wght=100.0'
+Glyph guarani was not compatible:
+  Masters: 'opsz=144.0 wdth=150.0', 'opsz=144.0 wdth=150.0 wght=900.0':
+    Contour 1 has a kink at 72: 'opsz=144.0 wdth=150.0', 'opsz=144.0 wdth=150.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=144.0 wdth=150.0', 'GRAD=-50.0 opsz=144.0 wdth=150.0 wght=900.0':
+    Contour 1 has a kink at 72: 'GRAD=-50.0 opsz=144.0 wdth=150.0', 'GRAD=-50.0 opsz=144.0 wdth=150.0 wght=900.0'
+  Masters: 'GRAD=100.0 opsz=144.0 wdth=150.0', 'GRAD=100.0 opsz=144.0 wdth=150.0 wght=900.0':
+    Contour 1 has a kink at 72: 'GRAD=100.0 opsz=144.0 wdth=150.0', 'GRAD=100.0 opsz=144.0 wdth=150.0 wght=900.0'
 Glyph naira was not compatible:
   Masters: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0':
     Contour 4 start point differs: 0 in 'GRAD=-50.0', 1 in 'GRAD=-50.0 opsz=8.0'; reversed: False

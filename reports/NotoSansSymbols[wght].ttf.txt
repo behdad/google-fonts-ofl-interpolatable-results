@@ -4,4 +4,5 @@ Glyph uni2649 was not compatible:
 Glyph uni26A2 was not compatible:
   Masters: '', 'wght=900.0':
     Contour 3 start point differs: 0 in '', 6 in 'wght=900.0'; reversed: False
+    Contour 3 has a kink at 6: '', 'wght=900.0'
     Contour 3 has a kink at 12: '', 'wght=900.0'
