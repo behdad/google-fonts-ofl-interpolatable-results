@@ -1,0 +1,3 @@
+Glyph uni0665 was not compatible:
+  Masters: '', 'wght=700.0':
+    Contour 0 has a kink at 26: '', 'wght=700.0'

@@ -7,6 +7,7 @@ Glyph Euro was not compatible:
 Glyph Euro.tf was not compatible:
   Masters: '', 'wght=800.0':
     Contour 2 start point differs: 0 in '', 9 in 'wght=800.0'; reversed: False
+    Contour 2 has a kink at 17: '', 'wght=800.0'
 Glyph acutecomb.flat was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 start point differs: 0 in '', 38 in 'wght=800.0'; reversed: False

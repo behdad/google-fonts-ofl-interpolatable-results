@@ -1,0 +1,19 @@
+Glyph g was not compatible:
+  Masters: '', 'wght=800.0':
+    Contour 0 has a kink at 16: '', 'wght=800.0'
+  Masters: 'MONO=0.0', 'MONO=0.0 wght=800.0':
+    Contour 0 has a kink at 16: 'MONO=0.0', 'MONO=0.0 wght=800.0'
+Glyph j was not compatible:
+  Masters: 'MONO=0.0', 'MONO=0.0 wght=800.0':
+    Contour 1 has a kink at 8: 'MONO=0.0', 'MONO=0.0 wght=800.0'
+Glyph j.ss01 was not compatible:
+  Masters: 'MONO=0.0', 'MONO=0.0 wght=800.0':
+    Contour 1 has a kink at 29: 'MONO=0.0', 'MONO=0.0 wght=800.0'
+Glyph uni0237 was not compatible:
+  Masters: 'MONO=0.0', 'MONO=0.0 wght=800.0':
+    Contour 0 has a kink at 32: 'MONO=0.0', 'MONO=0.0 wght=800.0'
+Glyph y.ss03 was not compatible:
+  Masters: '', 'wght=800.0':
+    Contour 0 has a kink at 16: '', 'wght=800.0'
+  Masters: 'MONO=0.0', 'MONO=0.0 wght=800.0':
+    Contour 0 has a kink at 16: 'MONO=0.0', 'MONO=0.0 wght=800.0'

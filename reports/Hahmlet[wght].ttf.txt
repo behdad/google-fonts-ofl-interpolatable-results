@@ -1,0 +1,21 @@
+Glyph uniCAD9 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 1 has a kink at 2: '', 'wght=900.0'
+Glyph uniCADC was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 1 has a kink at 2: '', 'wght=900.0'
+Glyph uniCAEC was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 1 has a kink at 2: '', 'wght=900.0'
+Glyph uniCB14 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 1 has a kink at 2: '', 'wght=900.0'
+Glyph uniCB20 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 1 has a kink at 2: '', 'wght=900.0'
+Glyph uniCB78 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 1 has a kink at 2: '', 'wght=900.0'
+Glyph uniCB79 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 1 has a kink at 2: '', 'wght=900.0'

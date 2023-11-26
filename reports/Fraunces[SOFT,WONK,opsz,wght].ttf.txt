@@ -1,6 +1,12 @@
 Glyph colonmonetary was not compatible:
   Masters: '', 'opsz=144.0':
     Contour 2 start point differs: 0 in '', 0 in 'opsz=144.0'; reversed: True
+Glyph five was not compatible:
+  Masters: 'SOFT=100.0', 'SOFT=100.0 wght=100.0':
+    Contour 0 has a kink at 27: 'SOFT=100.0', 'SOFT=100.0 wght=100.0'
+Glyph oe was not compatible:
+  Masters: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0':
+    Contour 2 has a kink at 27: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0'
 Glyph oslash was not compatible:
   Masters: '', 'opsz=144.0':
     Contour 0 start point differs: 0 in '', 2 in 'opsz=144.0'; reversed: True
