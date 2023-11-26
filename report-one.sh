@@ -1,5 +1,12 @@
 #! /bin/bash
 
+for cmd in curl jq gh; do
+	if ! which $cmd >/dev/null; then
+		echo "ERROR: $cmd not found"
+		exit 1
+	fi
+done
+
 sleep=0
 if [ "x$1" = x--sleep ]; then
 	sleep=1
