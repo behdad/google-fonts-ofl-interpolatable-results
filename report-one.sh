@@ -8,9 +8,13 @@ for cmd in curl jq gh; do
 done
 
 sleep=0
+show=false
 dryrun=false
 while [ $# -gt 0 ]; do
 	case "$1" in
+	--show)
+		show=true
+		;;
 	--sleep)
 		sleep=1
 		;;
@@ -42,11 +46,6 @@ if [ ! -f "$reportfile" ]; then
 fi
 if [ ! -f "$dirname/$basename.pdf" ]; then
 	echo "ERROR: No PDF file found: $basename.pdf"
-	exit 1
-fi
-
-if [ -f "$dirname/$basename.issue" -a x$dryrun = xfalse ]; then
-	echo "INFO: Issue already filed: $(cat "$dirname/$basename.issue")"
 	exit 1
 fi
 
@@ -104,12 +103,6 @@ git_rev=$(git rev-parse HEAD)
 basename_encoded=$(echo -n "$basename" | jq -sRr @uri)
 pdf_url="$our_repo/raw/$git_rev/reports/$basename_encoded.pdf"
 pdfviewer_url="$our_repo/blob/$git_rev/reports/$basename_encoded.pdf"
-# Double-check that the file exists
-curl -I "$pdf_url" 2>/dev/null | head -n 1 | grep -q '^HTTP/.* [23]0[0-9]'
-if [ $? -ne 0 ]; then
-	echo "ERROR: Could not find PDF report at $pdf_url; did you push?"
-	exit 1
-fi
 
 # Finally! Assemble the text.
 
@@ -145,13 +138,30 @@ To give feedback about this report, please file an issue or open a discussion at
 Please note that I am doing this as a community service and do not represent Google Fonts.
 "
 
-if $dryrun; then
-	echo "Dry-run mode.  Would have filed the following issue:"
+if $show; then
 	echo "Title: $title"
-	echo "Body:"
+	echo ""
 	echo "$body"
 	exit 0
 fi
+
+if [ -f "$dirname/$basename.issue" ]; then
+	echo "INFO: Issue already filed: $(cat "$dirname/$basename.issue")"
+	exit 1
+fi
+
+echo "Filing issue at $repository_url"
+if [ x$dryrun = xtrue ]; then
+	exit 0
+fi
+
+# Double-check that the file exists
+curl -I "$pdf_url" 2>/dev/null | head -n 1 | grep -q '^HTTP/.* [23]0[0-9]'
+if [ $? -ne 0 ]; then
+	echo "ERROR: Could not find PDF report at $pdf_url; did you push?"
+	exit 1
+fi
+
 # Okay! File it!
 issue_url=$(gh issue create \
 	--title "$title" \
