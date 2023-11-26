@@ -2,3 +2,7 @@ Glyph uni00F8.sc was not compatible:
   Masters: 'wght=900.0', 'wdth=100.0015 wght=900.0':
     Contour 1 start point differs: 0 in 'wght=900.0', 20 in 'wdth=100.0015 wght=900.0'; reversed: False
     Contour 2 start point differs: 0 in 'wght=900.0', 28 in 'wdth=100.0015 wght=900.0'; reversed: False
+    Contour 2 has a kink at 0: 'wght=900.0', 'wdth=100.0015 wght=900.0'
+    Contour 2 has a kink at 10: 'wght=900.0', 'wdth=100.0015 wght=900.0'
+    Contour 2 has a kink at 18: 'wght=900.0', 'wdth=100.0015 wght=900.0'
+    Contour 2 has a kink at 28: 'wght=900.0', 'wdth=100.0015 wght=900.0'

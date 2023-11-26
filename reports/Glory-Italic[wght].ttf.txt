@@ -1,3 +1,12 @@
+Glyph d was not compatible:
+  Masters: '', 'wght=800.0':
+    Contour 1 has a kink at 4: '', 'wght=800.0'
+Glyph germandbls was not compatible:
+  Masters: '', 'wght=800.0':
+    Contour 0 has a kink at 106: '', 'wght=800.0'
+Glyph six was not compatible:
+  Masters: '', 'wght=800.0':
+    Contour 0 has a kink at 38: '', 'wght=800.0'
 Glyph thorn was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 start point differs: 0 in '', 4 in 'wght=800.0'; reversed: False

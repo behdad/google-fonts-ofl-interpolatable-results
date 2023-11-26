@@ -1,3 +1,6 @@
+Glyph uniFF7C was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 2 has a kink at 15: '', 'wght=900.0'
 Glyph uniFF9D was not compatible:
   Masters: '', 'wght=900.0':
     Contour 1 has a kink at 17: '', 'wght=900.0'

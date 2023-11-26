@@ -1,0 +1,18 @@
+Glyph glyph00468 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 24: '', 'wght=900.0'
+Glyph glyph00469 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 1 has a kink at 48: '', 'wght=900.0'
+Glyph glyph00470 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 1 has a kink at 24: '', 'wght=900.0'
+Glyph glyph00471 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 1 has a kink at 48: '', 'wght=900.0'
+Glyph glyph00472 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 48: '', 'wght=900.0'
+Glyph uni0645 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 1 has a kink at 48: '', 'wght=900.0'

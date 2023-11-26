@@ -1,3 +1,9 @@
+Glyph g was not compatible:
+  Masters: 'wdth=75.0 wght=700.0', 'wdth=75.0 wght=800.0':
+    Contour 2 has a kink at 10: 'wdth=75.0 wght=700.0', 'wdth=75.0 wght=800.0'
 Glyph six.osf was not compatible:
   Masters: 'wght=700.0', 'wght=800.0':
     Contour 0 has a kink at 14: 'wght=700.0', 'wght=800.0'
+Glyph uni05D0 was not compatible:
+  Masters: '', 'wdth=75.0':
+    Contour 0 has a kink at 16: '', 'wdth=75.0'

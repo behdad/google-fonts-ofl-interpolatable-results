@@ -1,0 +1,6 @@
+Glyph DaGha.or was not compatible:
+  Masters: '', 'wght=800.0':
+    Contour 4 has a kink at 5: '', 'wght=800.0'
+Glyph GhaSmall.or was not compatible:
+  Masters: '', 'wght=800.0':
+    Contour 1 has a kink at 5: '', 'wght=800.0'

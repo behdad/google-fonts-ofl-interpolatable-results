@@ -1,3 +1,9 @@
+Glyph R was not compatible:
+  Masters: '', 'wght=800.0':
+    Contour 0 has a kink at 20: '', 'wght=800.0'
+Glyph d was not compatible:
+  Masters: '', 'wght=800.0':
+    Contour 1 has a kink at 4: '', 'wght=800.0'
 Glyph germandbls was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 has a kink at 106: '', 'wght=800.0'

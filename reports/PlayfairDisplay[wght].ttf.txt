@@ -1,3 +1,15 @@
+Glyph eng was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 43: '', 'wght=900.0'
+Glyph florin was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 69: '', 'wght=900.0'
+Glyph florin.smcp was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 67: '', 'wght=900.0'
+Glyph uni0452 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 48: '', 'wght=900.0'
 Glyph uni2196 was not compatible:
   Masters: '', 'wght=900.0':
     Contour order differs: [0, 1, 2, 3] in '', [1, 0, 2, 3] in 'wght=900.0'

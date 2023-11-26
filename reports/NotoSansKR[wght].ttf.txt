@@ -1,3 +1,9 @@
+Glyph glyph24641 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 1 has a kink at 16: '', 'wght=900.0'
+Glyph uni3047 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 1 has a kink at 16: '', 'wght=900.0'
 Glyph uniD73A was not compatible:
   Masters: '', 'wght=900.0':
     Contour order differs: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12] in '', [0, 12, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 1] in 'wght=900.0'

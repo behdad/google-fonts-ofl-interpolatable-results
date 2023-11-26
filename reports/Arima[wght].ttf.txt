@@ -1,6 +1,9 @@
 Glyph lira was not compatible:
   Masters: '', 'wght=700.0':
     Contour order differs: [0, 1, 2] in '', [0, 2, 1] in 'wght=700.0'
+Glyph uni0D26.below was not compatible:
+  Masters: '', 'wght=700.0':
+    Contour 0 has a kink at 53: '', 'wght=700.0'
 Glyph uni20B1 was not compatible:
   Masters: '', 'wght=700.0':
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'wght=700.0'

@@ -1,0 +1,9 @@
+Glyph jha was not compatible:
+  Masters: '', 'wght=700.0':
+    Contour 0 has a kink at 63: '', 'wght=700.0'
+Glyph jha.alt was not compatible:
+  Masters: '', 'wght=700.0':
+    Contour 0 has a kink at 63: '', 'wght=700.0'
+Glyph jha.alt1 was not compatible:
+  Masters: '', 'wght=700.0':
+    Contour 0 has a kink at 77: '', 'wght=700.0'

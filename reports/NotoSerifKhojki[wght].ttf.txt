@@ -1,0 +1,24 @@
+Glyph dd_ra_iMatrakhoj was not compatible:
+  Masters: '', 'wght=700.0':
+    Contour 1 has a kink at 16: '', 'wght=700.0'
+Glyph dd_ra_iiMatrakhoj was not compatible:
+  Masters: '', 'wght=700.0':
+    Contour 1 has a kink at 16: '', 'wght=700.0'
+Glyph dd_rakhoj was not compatible:
+  Masters: '', 'wght=700.0':
+    Contour 0 has a kink at 16: '', 'wght=700.0'
+Glyph dda_iiMatrakhoj was not compatible:
+  Masters: '', 'wght=700.0':
+    Contour 1 has a kink at 16: '', 'wght=700.0'
+Glyph nn_ra_iMatrakhoj was not compatible:
+  Masters: '', 'wght=700.0':
+    Contour 1 has a kink at 18: '', 'wght=700.0'
+Glyph nn_ra_iiMatrakhoj was not compatible:
+  Masters: '', 'wght=700.0':
+    Contour 1 has a kink at 18: '', 'wght=700.0'
+Glyph nn_rakhoj was not compatible:
+  Masters: '', 'wght=700.0':
+    Contour 0 has a kink at 18: '', 'wght=700.0'
+Glyph nna_iiMatrakhoj was not compatible:
+  Masters: '', 'wght=700.0':
+    Contour 1 has a kink at 18: '', 'wght=700.0'

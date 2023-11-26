@@ -1,0 +1,9 @@
+Glyph O.alt4 was not compatible:
+  Masters: '', 'wght=100.0':
+    Contour 0 has a kink at 60: '', 'wght=100.0'
+Glyph Ohorn.alt4 was not compatible:
+  Masters: '', 'wght=100.0':
+    Contour 1 has a kink at 60: '', 'wght=100.0'
+Glyph u1F31E was not compatible:
+  Masters: '', 'wght=100.0':
+    Contour 2 has a kink at 8: '', 'wght=100.0'

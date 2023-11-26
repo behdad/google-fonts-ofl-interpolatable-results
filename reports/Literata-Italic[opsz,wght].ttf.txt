@@ -1,0 +1,21 @@
+Glyph uni0416 was not compatible:
+  Masters: 'opsz=7.0', 'opsz=7.0 wght=900.0':
+    Contour 0 has a kink at 179: 'opsz=7.0', 'opsz=7.0 wght=900.0'
+Glyph uni0434 was not compatible:
+  Masters: 'opsz=72.0', 'opsz=72.0 wght=900.0':
+    Contour 0 has a kink at 46: 'opsz=72.0', 'opsz=72.0 wght=900.0'
+Glyph uni0436.sc was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 4: '', 'wght=900.0'
+Glyph uni044F was not compatible:
+  Masters: 'opsz=72.0', 'opsz=72.0 wght=900.0':
+    Contour 0 has a kink at 8: 'opsz=72.0', 'opsz=72.0 wght=900.0'
+Glyph uni0491 was not compatible:
+  Masters: 'opsz=72.0', 'opsz=72.0 wght=900.0':
+    Contour 0 has a kink at 30: 'opsz=72.0', 'opsz=72.0 wght=900.0'
+Glyph uni0496 was not compatible:
+  Masters: 'opsz=7.0', 'opsz=7.0 wght=900.0':
+    Contour 0 has a kink at 187: 'opsz=7.0', 'opsz=7.0 wght=900.0'
+Glyph uni0497.sc was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 4: '', 'wght=900.0'

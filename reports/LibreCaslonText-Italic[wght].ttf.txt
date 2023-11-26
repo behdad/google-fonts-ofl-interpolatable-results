@@ -13,6 +13,10 @@ Glyph ellipsis was not compatible:
 Glyph eth was not compatible:
   Masters: '', 'wght=700.0':
     Contour 1 start point differs: 0 in '', 30 in 'wght=700.0'; reversed: False
+    Contour 1 has a kink at 0: '', 'wght=700.0'
+    Contour 1 has a kink at 10: '', 'wght=700.0'
+    Contour 1 has a kink at 20: '', 'wght=700.0'
+    Contour 1 has a kink at 30: '', 'wght=700.0'
 Glyph four was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 2 in 'wght=700.0'; reversed: False
@@ -38,6 +42,8 @@ Glyph nine.denominator was not compatible:
 Glyph six.oldstyle was not compatible:
   Masters: '', 'wght=700.0':
     Contour 1 start point differs: 0 in '', 6 in 'wght=700.0'; reversed: False
+    Contour 1 has a kink at 0: '', 'wght=700.0'
+    Contour 1 has a kink at 8: '', 'wght=700.0'
 Glyph uni2089 was not compatible:
   Masters: '', 'wght=700.0':
     Contour 1 start point differs: 0 in '', 12 in 'wght=700.0'; reversed: False

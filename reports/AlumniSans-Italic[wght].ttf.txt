@@ -1,3 +1,6 @@
+Glyph uni00B2 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 33: '', 'wght=900.0'
 Glyph uni2198 was not compatible:
   Masters: '', 'wght=900.0':
     Contour 0 start point differs: 0 in '', 1 in 'wght=900.0'; reversed: False
