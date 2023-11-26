@@ -1,3 +1,6 @@
 Glyph uni0434 was not compatible:
   Masters: 'opsz=72.0', 'opsz=72.0 wght=900.0':
     Contour 0 has a kink at 46: 'opsz=72.0', 'opsz=72.0 wght=900.0'
+Glyph uni044F was not compatible:
+  Masters: 'opsz=72.0', 'opsz=72.0 wght=900.0':
+    Contour 0 has a kink at 8: 'opsz=72.0', 'opsz=72.0 wght=900.0'

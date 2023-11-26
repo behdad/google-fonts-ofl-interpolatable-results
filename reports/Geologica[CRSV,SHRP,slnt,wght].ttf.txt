@@ -11,6 +11,8 @@ Glyph notequal was not compatible:
 Glyph uni01EA was not compatible:
   Masters: 'SHRP=100.0', 'SHRP=100.0 slnt=-12.0':
     Contour 0 start point differs: 0 in 'SHRP=100.0', 15 in 'SHRP=100.0 slnt=-12.0'; reversed: False
+    Contour 0 has a kink at 4: 'SHRP=100.0', 'SHRP=100.0 slnt=-12.0'
+    Contour 0 has a kink at 19: 'SHRP=100.0', 'SHRP=100.0 slnt=-12.0'
   Masters: 'SHRP=100.0', 'SHRP=100.0 wght=900.0':
     Contour 0 start point differs: 0 in 'SHRP=100.0', 15 in 'SHRP=100.0 wght=900.0'; reversed: False
     Contour 0 has a kink at 19: 'SHRP=100.0', 'SHRP=100.0 wght=900.0'

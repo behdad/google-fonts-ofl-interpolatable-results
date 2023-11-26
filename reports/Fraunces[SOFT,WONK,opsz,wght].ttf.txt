@@ -1,3 +1,17 @@
+Glyph K was not compatible:
+  Masters: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0':
+    Contour 1 has a kink at 23: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0'
+Glyph brevetilde was not compatible:
+  Masters: 'SOFT=100.0', 'SOFT=100.0 wght=100.0':
+    Contour 1 has a kink at 8: 'SOFT=100.0', 'SOFT=100.0 wght=100.0'
+    Contour 1 has a kink at 28: 'SOFT=100.0', 'SOFT=100.0 wght=100.0'
+Glyph brevetilde.cap was not compatible:
+  Masters: 'SOFT=100.0', 'SOFT=100.0 wght=100.0':
+    Contour 1 has a kink at 8: 'SOFT=100.0', 'SOFT=100.0 wght=100.0'
+    Contour 1 has a kink at 28: 'SOFT=100.0', 'SOFT=100.0 wght=100.0'
+Glyph c was not compatible:
+  Masters: '', 'wght=100.0':
+    Contour 0 has a kink at 29: '', 'wght=100.0'
 Glyph colonmonetary was not compatible:
   Masters: '', 'opsz=144.0':
     Contour 2 start point differs: 0 in '', 0 in 'opsz=144.0'; reversed: True
@@ -10,9 +24,22 @@ Glyph dong was not compatible:
 Glyph e was not compatible:
   Masters: '', 'opsz=144.0':
     Contour 0 has a kink at 27: '', 'opsz=144.0'
+  Masters: '', 'wght=100.0':
+    Contour 0 has a kink at 27: '', 'wght=100.0'
+Glyph five was not compatible:
+  Masters: '', 'opsz=144.0':
+    Contour 0 has a kink at 54: '', 'opsz=144.0'
+  Masters: 'SOFT=100.0', 'SOFT=100.0 wght=100.0':
+    Contour 0 has a kink at 27: 'SOFT=100.0', 'SOFT=100.0 wght=100.0'
+Glyph oe was not compatible:
+  Masters: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0':
+    Contour 2 has a kink at 27: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0'
 Glyph oslash was not compatible:
   Masters: '', 'opsz=144.0':
     Contour 0 start point differs: 0 in '', 2 in 'opsz=144.0'; reversed: True
+Glyph q was not compatible:
+  Masters: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0':
+    Contour 0 has a kink at 8: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0'
 Glyph question was not compatible:
   Masters: 'SOFT=100.0', 'SOFT=100.0 wght=100.0':
     Contour 0 has a kink at 9: 'SOFT=100.0', 'SOFT=100.0 wght=100.0'

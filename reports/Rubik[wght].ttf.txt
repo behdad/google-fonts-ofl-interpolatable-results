@@ -1,3 +1,12 @@
+Glyph S was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 60: '', 'wght=900.0'
+Glyph Scedilla was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 93: '', 'wght=900.0'
+Glyph dollar was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 72: '', 'wght=900.0'
 Glyph peh_alefMaksuraar was not compatible:
   Masters: '', 'wght=900.0':
     Contour order differs: [0, 1, 2, 3] in '', [0, 3, 1, 2] in 'wght=900.0'
@@ -26,6 +35,12 @@ Glyph threedotsdownabovear was not compatible:
 Glyph twodotsverticalabovear was not compatible:
   Masters: '', 'wght=900.0':
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=900.0'
+Glyph uni20B4 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 71: '', 'wght=900.0'
+Glyph uni20B4.BRACKET.varAlt01 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 71: '', 'wght=900.0'
 Glyph uniFC13 was not compatible:
   Masters: '', 'wght=900.0':
     Contour order differs: [0, 1, 2, 3] in '', [0, 3, 1, 2] in 'wght=900.0'

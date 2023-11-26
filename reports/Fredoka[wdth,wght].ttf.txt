@@ -1,6 +1,14 @@
 Glyph c was not compatible:
   Masters: 'wdth=75.0', 'wdth=75.0 wght=700.0':
+    Contour 0 has a kink at 22: 'wdth=75.0', 'wdth=75.0 wght=700.0'
     Contour 0 has a kink at 72: 'wdth=75.0', 'wdth=75.0 wght=700.0'
+Glyph cent was not compatible:
+  Masters: '', 'wght=700.0':
+    Contour 0 has a kink at 49: '', 'wght=700.0'
+  Masters: 'wdth=75.0', 'wdth=75.0 wght=700.0':
+    Contour 0 has a kink at 85: 'wdth=75.0', 'wdth=75.0 wght=700.0'
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour 0 has a kink at 49: 'wdth=125.0', 'wdth=125.0 wght=700.0'
 Glyph slash was not compatible:
   Masters: '', 'wdth=125.0':
     Contour 0 structures differ: '', 'wdth=125.0'

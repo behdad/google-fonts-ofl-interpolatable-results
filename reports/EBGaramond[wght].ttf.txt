@@ -1,3 +1,15 @@
+Glyph Sigma was not compatible:
+  Masters: '', 'wght=800.0':
+    Contour 0 has a kink at 68: '', 'wght=800.0'
+Glyph sigma was not compatible:
+  Masters: '', 'wght=800.0':
+    Contour 0 has a kink at 36: '', 'wght=800.0'
+Glyph uni027B was not compatible:
+  Masters: '', 'wght=800.0':
+    Contour 0 has a kink at 17: '', 'wght=800.0'
+Glyph uni028A was not compatible:
+  Masters: '', 'wght=800.0':
+    Contour 0 has a kink at 14: '', 'wght=800.0'
 Glyph uni04A8 was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 has a kink at 40: '', 'wght=800.0'

@@ -7,9 +7,13 @@ Glyph Euro was not compatible:
 Glyph Euro.tf was not compatible:
   Masters: '', 'wght=800.0':
     Contour 2 start point differs: 0 in '', 9 in 'wght=800.0'; reversed: False
+Glyph N.ordn was not compatible:
+  Masters: '', 'wght=800.0':
+    Contour 0 has a kink at 80: '', 'wght=800.0'
 Glyph acutecomb.flat was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 start point differs: 0 in '', 38 in 'wght=800.0'; reversed: False
+    Contour 0 has a kink at 32: '', 'wght=800.0'
 Glyph brokenbar.ordn was not compatible:
   Masters: '', 'wght=800.0':
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=800.0'

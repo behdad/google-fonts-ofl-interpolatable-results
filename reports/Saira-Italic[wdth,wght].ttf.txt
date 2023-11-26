@@ -8,6 +8,12 @@ Glyph dollar.BRACKET.64 was not compatible:
     Contour 1 start point differs: 0 in 'wdth=50.0', 2 in 'wdth=50.0 wght=551.72986'; reversed: False
   Masters: 'wdth=75.0 wght=900.0', 'wdth=50.0 wght=900.0':
     Contour 2 start point differs: 0 in 'wdth=75.0 wght=900.0', 1 in 'wdth=50.0 wght=900.0'; reversed: False
+Glyph five.dnom was not compatible:
+  Masters: '', 'wdth=125.0':
+    Contour 0 has a kink at 48: '', 'wdth=125.0'
+Glyph five.numr was not compatible:
+  Masters: '', 'wdth=125.0':
+    Contour 0 has a kink at 48: '', 'wdth=125.0'
 Glyph multiply was not compatible:
   Masters: 'wdth=50.0', 'wdth=50.0 wght=551.72986':
     Contour 0 start point differs: 0 in 'wdth=50.0', 2 in 'wdth=50.0 wght=551.72986'; reversed: False

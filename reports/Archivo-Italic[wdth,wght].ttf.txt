@@ -3,18 +3,23 @@ Glyph cent.BRACKET.110 was not compatible:
     Contour order differs: [0, 1, 2] in 'wdth=125.0', [1, 0, 2] in 'wdth=125.0 wght=100.0'
 Glyph eight was not compatible:
   Masters: '', 'wdth=125.0':
+    Contour 2 has a kink at 6: '', 'wdth=125.0'
     Contour 2 has a kink at 20: '', 'wdth=125.0'
 Glyph eight.lf was not compatible:
   Masters: '', 'wdth=125.0':
+    Contour 2 has a kink at 6: '', 'wdth=125.0'
     Contour 2 has a kink at 20: '', 'wdth=125.0'
 Glyph eight.osf was not compatible:
   Masters: '', 'wdth=125.0':
+    Contour 2 has a kink at 6: '', 'wdth=125.0'
     Contour 2 has a kink at 20: '', 'wdth=125.0'
 Glyph eight.tf was not compatible:
   Masters: '', 'wdth=125.0':
+    Contour 2 has a kink at 6: '', 'wdth=125.0'
     Contour 2 has a kink at 20: '', 'wdth=125.0'
 Glyph eight.tosf was not compatible:
   Masters: '', 'wdth=125.0':
+    Contour 2 has a kink at 6: '', 'wdth=125.0'
     Contour 2 has a kink at 20: '', 'wdth=125.0'
 Glyph eth was not compatible:
   Masters: '', 'wdth=62.0':

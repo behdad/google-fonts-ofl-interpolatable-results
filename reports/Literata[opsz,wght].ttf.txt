@@ -1,11 +1,14 @@
 Glyph brevecombcy.case was not compatible:
   Masters: 'opsz=72.0', 'opsz=72.0 wght=200.0':
     Contour 0 start point differs: 0 in 'opsz=72.0', 46 in 'opsz=72.0 wght=200.0'; reversed: False
+    Contour 0 has a kink at 0: 'opsz=72.0', 'opsz=72.0 wght=200.0'
+    Contour 0 has a kink at 8: 'opsz=72.0', 'opsz=72.0 wght=200.0'
     Contour 0 has a kink at 44: 'opsz=72.0', 'opsz=72.0 wght=200.0'
   Masters: 'opsz=72.0', 'opsz=72.0 wght=900.0':
     Contour 0 start point differs: 0 in 'opsz=72.0', 46 in 'opsz=72.0 wght=900.0'; reversed: False
     Contour 0 has a kink at 0: 'opsz=72.0', 'opsz=72.0 wght=900.0'
     Contour 0 has a kink at 8: 'opsz=72.0', 'opsz=72.0 wght=900.0'
+    Contour 0 has a kink at 36: 'opsz=72.0', 'opsz=72.0 wght=900.0'
     Contour 0 has a kink at 44: 'opsz=72.0', 'opsz=72.0 wght=900.0'
 Glyph minus was not compatible:
   Masters: 'opsz=72.0', 'opsz=72.0 wght=200.0':
@@ -22,3 +25,24 @@ Glyph plus was not compatible:
 Glyph plusminus was not compatible:
   Masters: 'opsz=72.0', 'opsz=72.0 wght=200.0':
     Contour 0 start point differs: 0 in 'opsz=72.0', 11 in 'opsz=72.0 wght=200.0'; reversed: True
+Glyph uni0436 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 176: '', 'wght=900.0'
+Glyph uni043A was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 12: '', 'wght=900.0'
+Glyph uni0497 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 22: '', 'wght=900.0'
+Glyph uni0497.sc was not compatible:
+  Masters: '', 'opsz=7.0':
+    Contour 0 has a kink at 109: '', 'opsz=7.0'
+    Contour 0 has a kink at 132: '', 'opsz=7.0'
+  Masters: '', 'wght=200.0':
+    Contour 0 has a kink at 132: '', 'wght=200.0'
+Glyph uni049B was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 22: '', 'wght=900.0'
+Glyph uni20B4 was not compatible:
+  Masters: 'opsz=72.0', 'opsz=72.0 wght=900.0':
+    Contour 0 has a kink at 71: 'opsz=72.0', 'opsz=72.0 wght=900.0'

@@ -1,3 +1,24 @@
+Glyph AE was not compatible:
+  Masters: 'SOFT=100.0', 'SOFT=100.0 wght=100.0':
+    Contour 2 has a kink at 5: 'SOFT=100.0', 'SOFT=100.0 wght=100.0'
+Glyph E was not compatible:
+  Masters: 'SOFT=100.0', 'SOFT=100.0 wght=100.0':
+    Contour 0 has a kink at 5: 'SOFT=100.0', 'SOFT=100.0 wght=100.0'
+Glyph F was not compatible:
+  Masters: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0':
+    Contour 1 has a kink at 5: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0'
+Glyph OE was not compatible:
+  Masters: 'SOFT=100.0', 'SOFT=100.0 wght=100.0':
+    Contour 2 has a kink at 5: 'SOFT=100.0', 'SOFT=100.0 wght=100.0'
+Glyph brevetilde was not compatible:
+  Masters: 'SOFT=100.0', 'SOFT=100.0 wght=100.0':
+    Contour 1 has a kink at 10: 'SOFT=100.0', 'SOFT=100.0 wght=100.0'
+Glyph brevetilde.cap was not compatible:
+  Masters: 'SOFT=100.0', 'SOFT=100.0 wght=100.0':
+    Contour 1 has a kink at 10: 'SOFT=100.0', 'SOFT=100.0 wght=100.0'
+Glyph c was not compatible:
+  Masters: '', 'wght=100.0':
+    Contour 0 has a kink at 16: '', 'wght=100.0'
 Glyph colonmonetary was not compatible:
   Masters: '', 'opsz=144.0':
     Contour 2 start point differs: 0 in '', 0 in 'opsz=144.0'; reversed: True
@@ -9,10 +30,18 @@ Glyph eth was not compatible:
   Masters: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0':
     Contour 1 start point differs: 0 in 'SOFT=100.0 opsz=144.0', 2 in 'SOFT=100.0 opsz=144.0 wght=100.0'; reversed: False
 Glyph f was not compatible:
+  Masters: '', 'opsz=144.0':
+    Contour 1 has a kink at 64: '', 'opsz=144.0'
+  Masters: '', 'wght=100.0':
+    Contour 1 has a kink at 64: '', 'wght=100.0'
   Masters: 'SOFT=100.0', 'SOFT=100.0 wght=100.0':
     Contour 1 has a kink at 64: 'SOFT=100.0', 'SOFT=100.0 wght=100.0'
+Glyph fhook was not compatible:
+  Masters: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0':
+    Contour 0 has a kink at 50: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0'
 Glyph germandbls was not compatible:
   Masters: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0':
+    Contour 0 has a kink at 5: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0'
     Contour 0 has a kink at 87: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0'
 Glyph lira was not compatible:
   Masters: '', 'wght=100.0':
@@ -33,6 +62,8 @@ Glyph oe was not compatible:
     Contour 1 start point differs: 0 in 'SOFT=100.0', 30 in 'SOFT=100.0 opsz=144.0'; reversed: False
   Masters: 'opsz=144.0', 'opsz=144.0 wght=100.0':
     Contour 1 start point differs: 0 in 'opsz=144.0', 2 in 'opsz=144.0 wght=100.0'; reversed: False
+  Masters: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0':
+    Contour 0 has a kink at 79: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0'
 Glyph ohorn was not compatible:
   Masters: '', 'opsz=144.0':
     Contour 2 start point differs: 0 in '', 28 in 'opsz=144.0'; reversed: False
@@ -65,3 +96,6 @@ Glyph two was not compatible:
     Contour 1 has a kink at 36: 'SOFT=100.0', 'SOFT=100.0 wght=100.0'
   Masters: 'opsz=144.0', 'opsz=144.0 wght=100.0':
     Contour 1 has a kink at 36: 'opsz=144.0', 'opsz=144.0 wght=100.0'
+Glyph z was not compatible:
+  Masters: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0':
+    Contour 0 has a kink at 135: 'SOFT=100.0 opsz=144.0', 'SOFT=100.0 opsz=144.0 wght=100.0'

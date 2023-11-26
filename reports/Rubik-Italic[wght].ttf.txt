@@ -1,3 +1,12 @@
+Glyph S was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 15: '', 'wght=900.0'
+Glyph ae was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 22: '', 'wght=900.0'
+Glyph dollar was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 20: '', 'wght=900.0'
 Glyph peh_alefMaksuraar was not compatible:
   Masters: '', 'wght=900.0':
     Contour order differs: [0, 1, 2, 3] in '', [0, 3, 1, 2] in 'wght=900.0'
