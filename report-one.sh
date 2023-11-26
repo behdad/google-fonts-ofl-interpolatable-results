@@ -128,6 +128,8 @@ body="$body
 This report was generated using the \`fonttools varLib.interpolatable\` tool.  We understand that sometimes the tool generates false-positives.  Particularly for more complicated font designs.  If you did not find this report useful, please accept our apologies and ignore / close it.
 
 To give feedback about this report, please file an issue or open a discussion at [fonttools](https://github.com/fonttools/fonttools).
+
+Please note that I am doing this as a community service and do not represent Google Fonts.
 "
 
 if $dryrun; then
