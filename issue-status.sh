@@ -12,5 +12,8 @@ fi
 # So, no parallelizing.
 find $defaultdir "$@" -name '*.ttf.issue' |
 while read x; do
-	cat "$x" && gh issue view --json state --jq '.state' `cat "$x"`
+	raw_url=`cat "$x"`
+	# Drop a possible initial "#" from the issue number
+	url=${raw_url#\#}
+	echo -n "$raw_url " && gh issue view --json state --jq '.state' $url | cat
 done
