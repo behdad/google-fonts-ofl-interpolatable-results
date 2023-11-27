@@ -38,7 +38,6 @@ Glyph nine.denominator was not compatible:
 Glyph six.oldstyle was not compatible:
   Masters: '', 'wght=700.0':
     Contour 1 start point differs: 0 in '', 6 in 'wght=700.0'; reversed: False
-    Contour 1 has a kink at 0: '', 'wght=700.0'
 Glyph uni2089 was not compatible:
   Masters: '', 'wght=700.0':
     Contour 1 start point differs: 0 in '', 12 in 'wght=700.0'; reversed: False

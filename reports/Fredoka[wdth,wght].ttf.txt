@@ -17,3 +17,4 @@ Glyph uni0328 was not compatible:
     Contour 0 start point differs: 0 in '', 44 in 'wdth=125.0'; reversed: False
   Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
     Contour 0 start point differs: 0 in 'wdth=125.0', 8 in 'wdth=125.0 wght=700.0'; reversed: False
+    Contour 0 has a kink at 44: 'wdth=125.0', 'wdth=125.0 wght=700.0'

@@ -54,13 +54,9 @@ Glyph eight.den was not compatible:
   Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
     Contour 2 start point differs: 0 in 'GRAD=-50.0 opsz=8.0 wdth=150.0', 4 in 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'; reversed: False
     Contour 3 start point differs: 0 in 'GRAD=-50.0 opsz=8.0 wdth=150.0', 4 in 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'; reversed: False
-    Contour 2 has a kink at 8: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
-    Contour 3 has a kink at 8: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
   Masters: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0':
     Contour 2 start point differs: 0 in 'GRAD=100.0 opsz=8.0 wdth=150.0', 4 in 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0'; reversed: False
     Contour 3 start point differs: 0 in 'GRAD=100.0 opsz=8.0 wdth=150.0', 4 in 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0'; reversed: False
-    Contour 2 has a kink at 20: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0'
-    Contour 3 has a kink at 8: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0'
   Masters: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0':
     Contour 0 start point differs: 0 in 'GRAD=100.0 opsz=144.0 wdth=50.0', 20 in 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=144.0 wdth=50.0', 18 in 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
@@ -79,22 +75,16 @@ Glyph eight.lintab was not compatible:
 Glyph g.alt was not compatible:
   Masters: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0':
     Contour 3 start point differs: 0 in 'GRAD=100.0 opsz=144.0 wdth=50.0', 32 in 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
-    Contour 3 has a kink at 4: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'
-    Contour 3 has a kink at 22: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'
   Masters: 'GRAD=100.0 opsz=144.0 wdth=150.0', 'GRAD=100.0 opsz=144.0 wdth=150.0 wght=100.0':
     Contour 3 start point differs: 0 in 'GRAD=100.0 opsz=144.0 wdth=150.0', 18 in 'GRAD=100.0 opsz=144.0 wdth=150.0 wght=100.0'; reversed: False
 Glyph gcaron.alt was not compatible:
   Masters: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0':
     Contour 4 start point differs: 0 in 'GRAD=100.0 opsz=144.0 wdth=50.0', 32 in 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
-    Contour 4 has a kink at 4: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'
-    Contour 4 has a kink at 22: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'
   Masters: 'GRAD=100.0 opsz=144.0 wdth=150.0', 'GRAD=100.0 opsz=144.0 wdth=150.0 wght=100.0':
     Contour 4 start point differs: 0 in 'GRAD=100.0 opsz=144.0 wdth=150.0', 18 in 'GRAD=100.0 opsz=144.0 wdth=150.0 wght=100.0'; reversed: False
 Glyph gcommaaccent.alt was not compatible:
   Masters: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0':
     Contour 4 start point differs: 0 in 'GRAD=100.0 opsz=144.0 wdth=50.0', 32 in 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
-    Contour 4 has a kink at 4: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'
-    Contour 4 has a kink at 22: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'
   Masters: 'GRAD=100.0 opsz=144.0 wdth=150.0', 'GRAD=100.0 opsz=144.0 wdth=150.0 wght=100.0':
     Contour 4 start point differs: 0 in 'GRAD=100.0 opsz=144.0 wdth=150.0', 18 in 'GRAD=100.0 opsz=144.0 wdth=150.0 wght=100.0'; reversed: False
 Glyph naira was not compatible:
@@ -179,6 +169,8 @@ Glyph nine.oldtab was not compatible:
 Glyph o was not compatible:
   Masters: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=900.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 wdth=50.0', 36 in 'GRAD=-50.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 0 has a kink at 12: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=900.0'
+    Contour 0 has a kink at 32: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=900.0'
   Masters: 'GRAD=100.0 wdth=50.0', 'GRAD=100.0 wdth=50.0 wght=900.0':
     Contour 0 start point differs: 0 in 'GRAD=100.0 wdth=50.0', 36 in 'GRAD=100.0 wdth=50.0 wght=900.0'; reversed: False
 Glyph obarcyr was not compatible:
@@ -191,51 +183,62 @@ Glyph obarcyr was not compatible:
 Glyph ocaron was not compatible:
   Masters: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=900.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0 wdth=50.0', 36 in 'GRAD=-50.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 1 has a kink at 12: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=900.0'
+    Contour 1 has a kink at 32: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=900.0'
   Masters: 'GRAD=100.0 wdth=50.0', 'GRAD=100.0 wdth=50.0 wght=900.0':
     Contour 1 start point differs: 0 in 'GRAD=100.0 wdth=50.0', 36 in 'GRAD=100.0 wdth=50.0 wght=900.0'; reversed: False
 Glyph oe was not compatible:
   Masters: 'GRAD=100.0', 'GRAD=100.0 opsz=8.0':
     Contour 2 start point differs: 0 in 'GRAD=100.0', 34 in 'GRAD=100.0 opsz=8.0'; reversed: False
-    Contour 2 has a kink at 6: 'GRAD=100.0', 'GRAD=100.0 opsz=8.0'
-    Contour 2 has a kink at 12: 'GRAD=100.0', 'GRAD=100.0 opsz=8.0'
-    Contour 2 has a kink at 26: 'GRAD=100.0', 'GRAD=100.0 opsz=8.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0':
     Contour 2 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 32 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
   Masters: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=900.0':
     Contour 2 start point differs: 0 in 'GRAD=-50.0 wdth=50.0', 36 in 'GRAD=-50.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 2 has a kink at 12: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=900.0'
+    Contour 2 has a kink at 32: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=900.0'
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=50.0':
     Contour 2 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 6 in 'GRAD=100.0 opsz=8.0 wdth=50.0'; reversed: False
-    Contour 2 has a kink at 12: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=50.0'
+    Contour 2 has a kink at 6: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=50.0'
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=150.0':
     Contour 2 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 6 in 'GRAD=100.0 opsz=8.0 wdth=150.0'; reversed: False
-    Contour 2 has a kink at 26: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=150.0'
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=100.0':
     Contour 2 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 6 in 'GRAD=100.0 opsz=8.0 wght=100.0'; reversed: False
-    Contour 2 has a kink at 26: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=100.0'
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=900.0':
     Contour 2 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 6 in 'GRAD=100.0 opsz=8.0 wght=900.0'; reversed: False
-    Contour 2 has a kink at 12: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=900.0'
-    Contour 2 has a kink at 32: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=900.0'
+    Contour 2 has a kink at 6: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=900.0'
   Masters: 'GRAD=100.0 wdth=50.0', 'GRAD=100.0 wdth=50.0 wght=900.0':
     Contour 2 start point differs: 0 in 'GRAD=100.0 wdth=50.0', 36 in 'GRAD=100.0 wdth=50.0 wght=900.0'; reversed: False
+  Masters: 'GRAD=100.0 opsz=8.0 wdth=50.0', 'GRAD=100.0 opsz=8.0 wdth=50.0 wght=100.0':
+    Contour 2 has a kink at 6: 'GRAD=100.0 opsz=8.0 wdth=50.0', 'GRAD=100.0 opsz=8.0 wdth=50.0 wght=100.0'
+    Contour 2 has a kink at 26: 'GRAD=100.0 opsz=8.0 wdth=50.0', 'GRAD=100.0 opsz=8.0 wdth=50.0 wght=100.0'
+  Masters: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0':
+    Contour 2 has a kink at 6: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0'
 Glyph ohorn was not compatible:
   Masters: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=900.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 wdth=50.0', 36 in 'GRAD=-50.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 0 has a kink at 12: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=900.0'
+    Contour 0 has a kink at 32: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=900.0'
   Masters: 'GRAD=100.0 wdth=50.0', 'GRAD=100.0 wdth=50.0 wght=900.0':
     Contour 0 start point differs: 0 in 'GRAD=100.0 wdth=50.0', 36 in 'GRAD=100.0 wdth=50.0 wght=900.0'; reversed: False
 Glyph ohorntilde was not compatible:
   Masters: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=900.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0 wdth=50.0', 36 in 'GRAD=-50.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 1 has a kink at 12: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=900.0'
+    Contour 1 has a kink at 32: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=900.0'
   Masters: 'GRAD=100.0 wdth=50.0', 'GRAD=100.0 wdth=50.0 wght=900.0':
     Contour 1 start point differs: 0 in 'GRAD=100.0 wdth=50.0', 36 in 'GRAD=100.0 wdth=50.0 wght=900.0'; reversed: False
 Glyph oinvertedbreve was not compatible:
   Masters: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=900.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0 wdth=50.0', 36 in 'GRAD=-50.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 1 has a kink at 12: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=900.0'
+    Contour 1 has a kink at 32: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=900.0'
   Masters: 'GRAD=100.0 wdth=50.0', 'GRAD=100.0 wdth=50.0 wght=900.0':
     Contour 1 start point differs: 0 in 'GRAD=100.0 wdth=50.0', 36 in 'GRAD=100.0 wdth=50.0 wght=900.0'; reversed: False
 Glyph oogonek was not compatible:
   Masters: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=900.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0 wdth=50.0', 36 in 'GRAD=-50.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 1 has a kink at 12: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=900.0'
+    Contour 1 has a kink at 32: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=900.0'
   Masters: 'GRAD=100.0 wdth=50.0', 'GRAD=100.0 wdth=50.0 wght=900.0':
     Contour 1 start point differs: 0 in 'GRAD=100.0 wdth=50.0', 36 in 'GRAD=100.0 wdth=50.0 wght=900.0'; reversed: False
 Glyph oslash was not compatible:
@@ -243,6 +246,8 @@ Glyph oslash was not compatible:
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 38 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
   Masters: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=900.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 wdth=50.0', 36 in 'GRAD=-50.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 0 has a kink at 0: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=900.0'
+    Contour 0 has a kink at 20: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=900.0'
   Masters: 'GRAD=100.0 wdth=50.0', 'GRAD=100.0 wdth=50.0 wght=900.0':
     Contour 0 start point differs: 0 in 'GRAD=100.0 wdth=50.0', 36 in 'GRAD=100.0 wdth=50.0 wght=900.0'; reversed: False
 Glyph perthousand was not compatible:
@@ -303,109 +308,118 @@ Glyph udieresiscaron was not compatible:
 Glyph yu.bgr was not compatible:
   Masters: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=900.0':
     Contour 2 start point differs: 0 in 'GRAD=-50.0 wdth=50.0', 4 in 'GRAD=-50.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 2 has a kink at 34: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=900.0'
   Masters: 'GRAD=100.0 wdth=50.0', 'GRAD=100.0 wdth=50.0 wght=900.0':
     Contour 2 start point differs: 0 in 'GRAD=100.0 wdth=50.0', 4 in 'GRAD=100.0 wdth=50.0 wght=900.0'; reversed: False
 Glyph yucyr was not compatible:
   Masters: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=900.0':
     Contour 3 start point differs: 0 in 'GRAD=-50.0 wdth=50.0', 4 in 'GRAD=-50.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 3 has a kink at 34: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=900.0'
   Masters: 'GRAD=100.0 wdth=50.0', 'GRAD=100.0 wdth=50.0 wght=900.0':
     Contour 3 start point differs: 0 in 'GRAD=100.0 wdth=50.0', 4 in 'GRAD=100.0 wdth=50.0 wght=900.0'; reversed: False
 Glyph zero was not compatible:
   Masters: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0', 10 in 'GRAD=-50.0 opsz=8.0'; reversed: False
     Contour 1 start point differs: 0 in 'GRAD=-50.0', 8 in 'GRAD=-50.0 opsz=8.0'; reversed: False
-    Contour 0 has a kink at 0: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
-    Contour 0 has a kink at 10: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
-    Contour 0 has a kink at 20: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
-    Contour 0 has a kink at 30: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 30 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 34 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
-    Contour 0 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
-    Contour 0 has a kink at 30: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
-    Contour 1 has a kink at 8: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
-    Contour 1 has a kink at 28: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
+    Contour 0 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
+    Contour 0 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
+    Contour 1 has a kink at 6: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
+    Contour 1 has a kink at 26: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 30 in 'GRAD=-50.0 opsz=8.0 wdth=150.0'; reversed: False
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 36 in 'GRAD=-50.0 opsz=8.0 wdth=150.0'; reversed: False
-    Contour 0 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
-    Contour 0 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
+    Contour 0 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
+    Contour 0 has a kink at 30: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
+    Contour 1 has a kink at 24: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 30 in 'GRAD=-50.0 opsz=8.0 wght=100.0'; reversed: False
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 34 in 'GRAD=-50.0 opsz=8.0 wght=100.0'; reversed: False
+    Contour 1 has a kink at 6: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
+    Contour 1 has a kink at 26: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 30 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 34 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
-    Contour 0 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
-    Contour 0 has a kink at 30: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
-    Contour 1 has a kink at 8: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
-    Contour 1 has a kink at 28: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
+    Contour 0 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
+    Contour 0 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
+    Contour 1 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
+    Contour 1 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
   Masters: 'opsz=144.0 wdth=50.0', 'opsz=144.0 wdth=50.0 wght=900.0':
     Contour 1 start point differs: 0 in 'opsz=144.0 wdth=50.0', 38 in 'opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0':
+    Contour 1 has a kink at 0: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0'
+    Contour 1 has a kink at 20: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 0 has a kink at 10: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+    Contour 0 has a kink at 30: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0':
+    Contour 0 has a kink at 0: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'
+    Contour 0 has a kink at 20: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'
+    Contour 1 has a kink at 0: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'
+    Contour 1 has a kink at 20: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'
   Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0 wdth=150.0', 36 in 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'; reversed: False
   Masters: 'GRAD=-50.0 opsz=144.0 wdth=50.0', 'GRAD=-50.0 opsz=144.0 wdth=50.0 wght=900.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=144.0 wdth=50.0', 38 in 'GRAD=-50.0 opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
   Masters: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=100.0':
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=8.0 wdth=150.0', 34 in 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=100.0'; reversed: False
-    Contour 1 has a kink at 20: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=100.0'
-    Contour 1 has a kink at 34: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=100.0'
 Glyph zero.linprop was not compatible:
   Masters: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0', 34 in 'GRAD=-50.0 opsz=8.0'; reversed: False
     Contour 1 start point differs: 0 in 'GRAD=-50.0', 16 in 'GRAD=-50.0 opsz=8.0'; reversed: False
-    Contour 0 has a kink at 0: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
-    Contour 0 has a kink at 22: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
-    Contour 1 has a kink at 16: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
-    Contour 1 has a kink at 42: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 12 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 34 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
+    Contour 1 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
+    Contour 1 has a kink at 36: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
+  Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0':
+    Contour 0 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
+    Contour 0 has a kink at 42: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
+    Contour 1 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
+    Contour 1 has a kink at 36: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 12 in 'GRAD=-50.0 opsz=8.0 wght=100.0'; reversed: False
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 34 in 'GRAD=-50.0 opsz=8.0 wght=100.0'; reversed: False
-    Contour 1 has a kink at 8: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
-    Contour 1 has a kink at 34: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
+    Contour 1 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
+    Contour 1 has a kink at 36: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 12 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 36 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
+    Contour 1 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
+    Contour 1 has a kink at 26: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=900.0':
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 18 in 'GRAD=100.0 opsz=8.0 wght=900.0'; reversed: False
-    Contour 1 has a kink at 8: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=900.0'
-    Contour 1 has a kink at 16: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=900.0'
-    Contour 1 has a kink at 34: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=900.0'
-    Contour 1 has a kink at 42: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=900.0'
   Masters: 'opsz=8.0 wdth=150.0', 'opsz=8.0 wdth=150.0 wght=900.0':
     Contour 1 start point differs: 0 in 'opsz=8.0 wdth=150.0', 50 in 'opsz=8.0 wdth=150.0 wght=900.0'; reversed: False
   Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0 wdth=50.0', 2 in 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0'; reversed: False
+    Contour 0 has a kink at 0: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0'
+    Contour 0 has a kink at 22: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0'
+    Contour 1 has a kink at 6: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0'
+    Contour 1 has a kink at 32: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 0 has a kink at 10: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+    Contour 0 has a kink at 32: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
   Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0 wdth=150.0', 12 in 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'; reversed: False
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0 wdth=150.0', 34 in 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'; reversed: False
-    Contour 1 has a kink at 8: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'
-    Contour 1 has a kink at 34: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'
   Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0 wdth=150.0', 12 in 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'; reversed: False
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0 wdth=150.0', 32 in 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'; reversed: False
-    Contour 1 has a kink at 8: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
-    Contour 1 has a kink at 34: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
 Glyph zero.lintab was not compatible:
   Masters: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0', 10 in 'GRAD=-50.0 opsz=8.0'; reversed: False
     Contour 1 start point differs: 0 in 'GRAD=-50.0', 8 in 'GRAD=-50.0 opsz=8.0'; reversed: False
-    Contour 0 has a kink at 10: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
-    Contour 0 has a kink at 30: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
   Masters: 'GRAD=100.0', 'GRAD=100.0 opsz=8.0':
     Contour 0 start point differs: 0 in 'GRAD=100.0', 10 in 'GRAD=100.0 opsz=8.0'; reversed: False
     Contour 1 start point differs: 0 in 'GRAD=100.0', 8 in 'GRAD=100.0 opsz=8.0'; reversed: False
-    Contour 0 has a kink at 10: 'GRAD=100.0', 'GRAD=100.0 opsz=8.0'
-    Contour 0 has a kink at 30: 'GRAD=100.0', 'GRAD=100.0 opsz=8.0'
   Masters: 'opsz=8.0', 'opsz=8.0 wdth=150.0':
     Contour 1 start point differs: 0 in 'opsz=8.0', 40 in 'opsz=8.0 wdth=150.0'; reversed: False
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 30 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 36 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
-    Contour 1 has a kink at 22: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 30 in 'GRAD=-50.0 opsz=8.0 wdth=150.0'; reversed: False
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 32 in 'GRAD=-50.0 opsz=8.0 wdth=150.0'; reversed: False
@@ -413,14 +427,18 @@ Glyph zero.lintab was not compatible:
     Contour 0 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
     Contour 0 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
     Contour 0 has a kink at 30: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
+    Contour 1 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
+    Contour 1 has a kink at 2: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
+    Contour 1 has a kink at 22: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
+    Contour 1 has a kink at 24: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 30 in 'GRAD=-50.0 opsz=8.0 wght=100.0'; reversed: False
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 36 in 'GRAD=-50.0 opsz=8.0 wght=100.0'; reversed: False
+    Contour 1 has a kink at 8: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
+    Contour 1 has a kink at 30: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 30 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 38 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
-    Contour 1 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
-    Contour 1 has a kink at 32: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=50.0':
     Contour 0 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 30 in 'GRAD=100.0 opsz=8.0 wdth=50.0'; reversed: False
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 36 in 'GRAD=100.0 opsz=8.0 wdth=50.0'; reversed: False
@@ -431,52 +449,56 @@ Glyph zero.lintab was not compatible:
     Contour 0 has a kink at 10: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=150.0'
     Contour 0 has a kink at 20: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=150.0'
     Contour 0 has a kink at 30: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=150.0'
+    Contour 1 has a kink at 0: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=150.0'
+    Contour 1 has a kink at 2: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=150.0'
+    Contour 1 has a kink at 22: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=150.0'
+    Contour 1 has a kink at 24: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=150.0'
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=100.0':
     Contour 0 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 30 in 'GRAD=100.0 opsz=8.0 wght=100.0'; reversed: False
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 36 in 'GRAD=100.0 opsz=8.0 wght=100.0'; reversed: False
-    Contour 1 has a kink at 10: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=100.0'
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=900.0':
     Contour 0 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 30 in 'GRAD=100.0 opsz=8.0 wght=900.0'; reversed: False
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 38 in 'GRAD=100.0 opsz=8.0 wght=900.0'; reversed: False
-    Contour 1 has a kink at 10: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=900.0'
-    Contour 1 has a kink at 32: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=900.0'
+  Masters: 'opsz=8.0 wdth=150.0', 'opsz=8.0 wdth=150.0 wght=100.0':
+    Contour 1 has a kink at 16: 'opsz=8.0 wdth=150.0', 'opsz=8.0 wdth=150.0 wght=100.0'
+    Contour 1 has a kink at 38: 'opsz=8.0 wdth=150.0', 'opsz=8.0 wdth=150.0 wght=100.0'
   Masters: 'opsz=8.0 wdth=150.0', 'opsz=8.0 wdth=150.0 wght=900.0':
     Contour 1 start point differs: 0 in 'opsz=8.0 wdth=150.0', 4 in 'opsz=8.0 wdth=150.0 wght=900.0'; reversed: False
-    Contour 1 has a kink at 16: 'opsz=8.0 wdth=150.0', 'opsz=8.0 wdth=150.0 wght=900.0'
-    Contour 1 has a kink at 38: 'opsz=8.0 wdth=150.0', 'opsz=8.0 wdth=150.0 wght=900.0'
   Masters: 'opsz=144.0 wdth=50.0', 'opsz=144.0 wdth=50.0 wght=900.0':
     Contour 1 start point differs: 0 in 'opsz=144.0 wdth=50.0', 42 in 'opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 1 has a kink at 2: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+    Contour 1 has a kink at 24: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0':
+    Contour 0 has a kink at 0: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'
+    Contour 0 has a kink at 20: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'
+    Contour 1 has a kink at 28: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'
   Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0 wdth=150.0', 4 in 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'; reversed: False
-    Contour 1 has a kink at 16: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
-    Contour 1 has a kink at 38: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
+    Contour 1 has a kink at 0: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
+    Contour 1 has a kink at 22: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
   Masters: 'GRAD=-50.0 opsz=144.0 wdth=50.0', 'GRAD=-50.0 opsz=144.0 wdth=50.0 wght=900.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=144.0 wdth=50.0', 42 in 'GRAD=-50.0 opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
+  Masters: 'GRAD=100.0 opsz=8.0 wdth=50.0', 'GRAD=100.0 opsz=8.0 wdth=50.0 wght=100.0':
+    Contour 1 has a kink at 0: 'GRAD=100.0 opsz=8.0 wdth=50.0', 'GRAD=100.0 opsz=8.0 wdth=50.0 wght=100.0'
+  Masters: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=100.0':
+    Contour 0 has a kink at 0: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=100.0'
+    Contour 1 has a kink at 22: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=100.0'
   Masters: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0':
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=8.0 wdth=150.0', 4 in 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0'; reversed: False
-    Contour 1 has a kink at 16: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0'
-    Contour 1 has a kink at 38: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0'
+    Contour 1 has a kink at 0: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0'
+    Contour 1 has a kink at 22: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0'
   Masters: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0':
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=144.0 wdth=50.0', 42 in 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
 Glyph zero.midprop was not compatible:
   Masters: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0', 10 in 'GRAD=-50.0 opsz=8.0'; reversed: False
     Contour 1 start point differs: 0 in 'GRAD=-50.0', 6 in 'GRAD=-50.0 opsz=8.0'; reversed: False
-    Contour 0 has a kink at 0: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
-    Contour 0 has a kink at 10: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
-    Contour 0 has a kink at 20: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
-    Contour 0 has a kink at 30: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
-    Contour 1 has a kink at 0: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
-    Contour 1 has a kink at 20: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 30 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 34 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
-    Contour 0 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
-    Contour 0 has a kink at 30: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
-    Contour 1 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
-    Contour 1 has a kink at 8: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
-    Contour 1 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
-    Contour 1 has a kink at 28: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
+    Contour 0 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
+    Contour 0 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 30 in 'GRAD=-50.0 opsz=8.0 wdth=150.0'; reversed: False
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 36 in 'GRAD=-50.0 opsz=8.0 wdth=150.0'; reversed: False
@@ -492,26 +514,35 @@ Glyph zero.midprop was not compatible:
     Contour 0 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
     Contour 0 has a kink at 30: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
     Contour 1 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
+    Contour 1 has a kink at 8: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
     Contour 1 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
+    Contour 1 has a kink at 28: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 30 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 34 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
-    Contour 0 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
-    Contour 0 has a kink at 30: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
-    Contour 1 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
-    Contour 1 has a kink at 8: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
-    Contour 1 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
-    Contour 1 has a kink at 28: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
+    Contour 0 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
+    Contour 0 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
   Masters: 'opsz=8.0 wdth=150.0', 'opsz=8.0 wdth=150.0 wght=900.0':
     Contour 1 has a kink at 28: 'opsz=8.0 wdth=150.0', 'opsz=8.0 wdth=150.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0':
+    Contour 0 has a kink at 20: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0'
+    Contour 1 has a kink at 0: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0'
+    Contour 1 has a kink at 20: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 0 has a kink at 10: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+    Contour 0 has a kink at 30: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+    Contour 1 has a kink at 0: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+    Contour 1 has a kink at 20: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0':
+    Contour 1 has a kink at 0: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'
+    Contour 1 has a kink at 20: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
+    Contour 1 has a kink at 4: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
+    Contour 1 has a kink at 24: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
 Glyph zero.oldprop was not compatible:
   Masters: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0', 26 in 'GRAD=-50.0 opsz=8.0'; reversed: False
     Contour 1 start point differs: 0 in 'GRAD=-50.0', 30 in 'GRAD=-50.0 opsz=8.0'; reversed: False
-    Contour 1 has a kink at 0: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
-    Contour 1 has a kink at 10: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
-    Contour 1 has a kink at 20: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
-    Contour 1 has a kink at 30: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 14 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 10 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
@@ -526,33 +557,43 @@ Glyph zero.oldprop was not compatible:
     Contour 1 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
     Contour 1 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
     Contour 1 has a kink at 30: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
+  Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0':
+    Contour 1 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
+    Contour 1 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
+    Contour 1 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
+    Contour 1 has a kink at 30: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 14 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 10 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
-    Contour 0 has a kink at 34: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
+    Contour 0 has a kink at 8: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
+    Contour 0 has a kink at 28: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 1 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 1 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 1 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 1 has a kink at 30: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0':
+    Contour 0 has a kink at 8: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0'
+    Contour 0 has a kink at 28: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0'
+    Contour 1 has a kink at 0: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0'
+    Contour 1 has a kink at 20: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 0 has a kink at 0: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+    Contour 0 has a kink at 14: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+    Contour 0 has a kink at 20: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+    Contour 1 has a kink at 10: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+    Contour 1 has a kink at 30: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
+    Contour 0 has a kink at 8: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
+    Contour 0 has a kink at 28: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
 Glyph zero.propslash was not compatible:
   Masters: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0', 10 in 'GRAD=-50.0 opsz=8.0'; reversed: False
     Contour 2 start point differs: 0 in 'GRAD=-50.0', 6 in 'GRAD=-50.0 opsz=8.0'; reversed: False
-    Contour 1 has a kink at 0: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
-    Contour 1 has a kink at 10: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
-    Contour 1 has a kink at 20: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
-    Contour 1 has a kink at 30: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
-    Contour 2 has a kink at 0: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
-    Contour 2 has a kink at 20: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 30 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
     Contour 2 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 34 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
-    Contour 1 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
-    Contour 1 has a kink at 30: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
-    Contour 2 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
-    Contour 2 has a kink at 8: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
-    Contour 2 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
-    Contour 2 has a kink at 28: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
+    Contour 1 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
+    Contour 1 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 30 in 'GRAD=-50.0 opsz=8.0 wdth=150.0'; reversed: False
     Contour 2 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 36 in 'GRAD=-50.0 opsz=8.0 wdth=150.0'; reversed: False
@@ -568,29 +609,40 @@ Glyph zero.propslash was not compatible:
     Contour 1 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
     Contour 1 has a kink at 30: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
     Contour 2 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
+    Contour 2 has a kink at 8: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
     Contour 2 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
+    Contour 2 has a kink at 28: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 30 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
     Contour 2 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 34 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
-    Contour 1 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
-    Contour 1 has a kink at 30: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
-    Contour 2 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
-    Contour 2 has a kink at 8: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
-    Contour 2 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
-    Contour 2 has a kink at 28: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
+    Contour 1 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
+    Contour 1 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
   Masters: 'opsz=8.0 wdth=150.0', 'opsz=8.0 wdth=150.0 wght=900.0':
     Contour 2 has a kink at 28: 'opsz=8.0 wdth=150.0', 'opsz=8.0 wdth=150.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0':
+    Contour 2 has a kink at 20: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 1 has a kink at 10: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+    Contour 1 has a kink at 30: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+    Contour 2 has a kink at 0: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+    Contour 2 has a kink at 20: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0':
+    Contour 2 has a kink at 0: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'
+    Contour 2 has a kink at 20: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
+    Contour 2 has a kink at 4: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
+    Contour 2 has a kink at 24: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
 Glyph zero.slash was not compatible:
   Masters: 'opsz=144.0 wdth=50.0', 'opsz=144.0 wdth=50.0 wght=900.0':
     Contour 1 start point differs: 0 in 'opsz=144.0 wdth=50.0', 38 in 'opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
   Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0 wdth=150.0', 36 in 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'; reversed: False
+    Contour 1 has a kink at 0: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
+    Contour 1 has a kink at 20: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
   Masters: 'GRAD=-50.0 opsz=144.0 wdth=50.0', 'GRAD=-50.0 opsz=144.0 wdth=50.0 wght=900.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=144.0 wdth=50.0', 38 in 'GRAD=-50.0 opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
   Masters: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=100.0':
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=8.0 wdth=150.0', 34 in 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=100.0'; reversed: False
-    Contour 1 has a kink at 20: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=100.0'
-    Contour 1 has a kink at 34: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=100.0'
   Masters: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0':
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=144.0 wdth=50.0', 38 in 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
 Glyph zero.slashlin was not compatible:
@@ -600,33 +652,31 @@ Glyph zero.slashlin was not compatible:
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 40 in 'GRAD=-50.0 opsz=8.0 wdth=150.0'; reversed: False
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=150.0':
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 38 in 'GRAD=100.0 opsz=8.0 wdth=150.0'; reversed: False
+  Masters: 'opsz=8.0 wdth=150.0', 'opsz=8.0 wdth=150.0 wght=100.0':
+    Contour 1 has a kink at 16: 'opsz=8.0 wdth=150.0', 'opsz=8.0 wdth=150.0 wght=100.0'
+    Contour 1 has a kink at 38: 'opsz=8.0 wdth=150.0', 'opsz=8.0 wdth=150.0 wght=100.0'
   Masters: 'opsz=8.0 wdth=150.0', 'opsz=8.0 wdth=150.0 wght=900.0':
     Contour 1 start point differs: 0 in 'opsz=8.0 wdth=150.0', 4 in 'opsz=8.0 wdth=150.0 wght=900.0'; reversed: False
-    Contour 1 has a kink at 16: 'opsz=8.0 wdth=150.0', 'opsz=8.0 wdth=150.0 wght=900.0'
-    Contour 1 has a kink at 38: 'opsz=8.0 wdth=150.0', 'opsz=8.0 wdth=150.0 wght=900.0'
   Masters: 'opsz=144.0 wdth=50.0', 'opsz=144.0 wdth=50.0 wght=900.0':
     Contour 1 start point differs: 0 in 'opsz=144.0 wdth=50.0', 42 in 'opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0':
+    Contour 1 has a kink at 16: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'
+    Contour 1 has a kink at 38: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'
   Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0 wdth=150.0', 4 in 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'; reversed: False
-    Contour 1 has a kink at 16: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
-    Contour 1 has a kink at 38: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
   Masters: 'GRAD=-50.0 opsz=144.0 wdth=50.0', 'GRAD=-50.0 opsz=144.0 wdth=50.0 wght=900.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=144.0 wdth=50.0', 42 in 'GRAD=-50.0 opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
   Masters: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0':
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=8.0 wdth=150.0', 4 in 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0'; reversed: False
-    Contour 1 has a kink at 16: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0'
     Contour 1 has a kink at 38: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0'
   Masters: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0':
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=144.0 wdth=50.0', 42 in 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
 Glyph zero.slashlinprop was not compatible:
   Masters: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0':
     Contour 2 start point differs: 0 in 'GRAD=-50.0', 8 in 'GRAD=-50.0 opsz=8.0'; reversed: False
-    Contour 2 has a kink at 10: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
-    Contour 2 has a kink at 36: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
   Masters: 'wdth=50.0', 'wdth=50.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=50.0', 10 in 'wdth=50.0 wght=900.0'; reversed: False
     Contour 2 start point differs: 0 in 'wdth=50.0', 40 in 'wdth=50.0 wght=900.0'; reversed: False
-    Contour 1 has a kink at 0: 'wdth=50.0', 'wdth=50.0 wght=900.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0':
     Contour 2 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 44 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
     Contour 2 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
@@ -639,19 +689,22 @@ Glyph zero.slashlinprop was not compatible:
     Contour 2 has a kink at 26: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0':
     Contour 2 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 44 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
-    Contour 2 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
   Masters: 'opsz=8.0 wdth=150.0', 'opsz=8.0 wdth=150.0 wght=900.0':
     Contour 2 start point differs: 0 in 'opsz=8.0 wdth=150.0', 50 in 'opsz=8.0 wdth=150.0 wght=900.0'; reversed: False
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0':
+    Contour 2 has a kink at 0: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0'
+    Contour 2 has a kink at 26: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 2 has a kink at 0: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0':
+    Contour 2 has a kink at 0: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'
+    Contour 2 has a kink at 26: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'
   Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
     Contour 2 start point differs: 0 in 'GRAD=-50.0 opsz=8.0 wdth=150.0', 50 in 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'; reversed: False
 Glyph zero.slasholdprop was not compatible:
   Masters: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0', 26 in 'GRAD=-50.0 opsz=8.0'; reversed: False
     Contour 2 start point differs: 0 in 'GRAD=-50.0', 30 in 'GRAD=-50.0 opsz=8.0'; reversed: False
-    Contour 2 has a kink at 0: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
-    Contour 2 has a kink at 10: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
-    Contour 2 has a kink at 20: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
-    Contour 2 has a kink at 30: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 14 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
     Contour 2 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 10 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
@@ -662,13 +715,11 @@ Glyph zero.slasholdprop was not compatible:
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 16 in 'GRAD=-50.0 opsz=8.0 wdth=150.0'; reversed: False
     Contour 2 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 10 in 'GRAD=-50.0 opsz=8.0 wdth=150.0'; reversed: False
-    Contour 2 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
-    Contour 2 has a kink at 30: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
+    Contour 2 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
+    Contour 2 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 14 in 'GRAD=-50.0 opsz=8.0 wght=100.0'; reversed: False
     Contour 2 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 10 in 'GRAD=-50.0 opsz=8.0 wght=100.0'; reversed: False
-    Contour 1 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
-    Contour 1 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
     Contour 2 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
     Contour 2 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
     Contour 2 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
@@ -676,8 +727,23 @@ Glyph zero.slasholdprop was not compatible:
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 14 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
     Contour 2 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 10 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
-    Contour 1 has a kink at 34: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
+    Contour 1 has a kink at 8: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
+    Contour 1 has a kink at 28: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 2 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 2 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 2 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 2 has a kink at 30: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0':
+    Contour 1 has a kink at 28: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0'
+    Contour 2 has a kink at 0: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0'
+    Contour 2 has a kink at 20: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 1 has a kink at 0: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+    Contour 1 has a kink at 20: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+    Contour 2 has a kink at 0: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+    Contour 2 has a kink at 10: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+    Contour 2 has a kink at 20: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+    Contour 2 has a kink at 30: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
+    Contour 1 has a kink at 8: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
+    Contour 1 has a kink at 28: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'

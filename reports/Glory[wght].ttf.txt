@@ -13,4 +13,3 @@ Glyph six was not compatible:
 Glyph thorn was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 start point differs: 0 in '', 4 in 'wght=800.0'; reversed: False
-    Contour 0 has a kink at 40: '', 'wght=800.0'
