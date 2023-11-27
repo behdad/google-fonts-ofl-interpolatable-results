@@ -1,3 +1,4 @@
 Glyph uni0723.fina was not compatible:
   Masters: '', 'wght=900.0':
     Contour 2 start point differs: 0 in '', 6 in 'wght=900.0'; reversed: False
+    Contour 2 has a kink at 10: '', 'wght=900.0'

@@ -82,11 +82,9 @@ Glyph uni20A9 was not compatible:
 Glyph uni20AE was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 42 in 'wght=700.0'; reversed: False
-    Contour 0 has a kink at 34: '', 'wght=700.0'
 Glyph uni20BA was not compatible:
   Masters: '', 'wght=700.0':
     Contour 2 start point differs: 0 in '', 42 in 'wght=700.0'; reversed: False
-    Contour 2 has a kink at 34: '', 'wght=700.0'
 Glyph uni20BD was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 8 in 'wght=700.0'; reversed: False

@@ -15,17 +15,9 @@ Glyph k.italic was not compatible:
 Glyph one was not compatible:
   Masters: '', 'CASL=1.0':
     Contour 1 start point differs: 0 in '', 2 in 'CASL=1.0'; reversed: False
-  Masters: 'CASL=1.0', 'CASL=1.0 MONO=1.0':
-    Contour 1 has a kink at 16: 'CASL=1.0', 'CASL=1.0 MONO=1.0'
-  Masters: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497':
-    Contour 1 has a kink at 16: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
 Glyph one.pnum was not compatible:
   Masters: '', 'CASL=1.0':
     Contour 1 start point differs: 0 in '', 2 in 'CASL=1.0'; reversed: False
-  Masters: 'CASL=1.0', 'CASL=1.0 MONO=1.0':
-    Contour 1 has a kink at 16: 'CASL=1.0', 'CASL=1.0 MONO=1.0'
-  Masters: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497':
-    Contour 1 has a kink at 16: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
 Glyph percent was not compatible:
   Masters: 'wght=800.0061', 'wght=1000.0':
     Contour 1 structures differ: 'wght=800.0061', 'wght=1000.0'
