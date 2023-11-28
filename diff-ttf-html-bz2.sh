@@ -17,4 +17,10 @@ echo "Diffing $dir/1.html and $dir/2.html to $dir/diff.html"
 
 rm -f "$before" "$after"
 
-xdg-open "$dir/$basename-diff.html"
+open=xdg-open
+if ! which $open >/dev/null; then
+	# Mac
+	open=open
+fi
+
+$open "$dir/$basename-diff.html"
