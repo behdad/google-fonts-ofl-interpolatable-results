@@ -14,7 +14,7 @@ echo "<!DOCTYPE html>"
 echo "<html><body align=center>"
 
 diff=diff
-test=`$diff --unchanged-line-format='' /dev/null /dev/null`
+$diff --unchanged-line-format='' /dev/null /dev/null` 2>/dev/null > /dev/null
 if [ x$? != x0 ]; then
 	if [ -f /opt/homebrew/bin/diff ]; then
 		diff=/opt/homebrew/bin/diff

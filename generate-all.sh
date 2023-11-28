@@ -29,7 +29,7 @@ if $clear; then
 fi
 
 sort=--sort=size
-test=`ls $sort /dev/null`
+ls $sort /dev/null 2>/dev/null >/dev/null
 if [ x$? != x0 ]; then
 	sort=
 fi
