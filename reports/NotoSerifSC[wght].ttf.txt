@@ -1,6 +1,30 @@
+Glyph uni3B22 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 15 interpolation is underweight: '', 'wght=900.0'
+Glyph uni4279 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 1 interpolation is underweight: '', 'wght=900.0'
+Glyph uni4585 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 1 interpolation is underweight: '', 'wght=900.0'
+Glyph uni4979 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 14 interpolation is underweight: '', 'wght=900.0'
+Glyph uni4C0D was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 7 interpolation is underweight: '', 'wght=900.0'
+Glyph uni4D3B was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 8 interpolation is underweight: '', 'wght=900.0'
+Glyph uni4D45 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 8 interpolation is underweight: '', 'wght=900.0'
 Glyph uni704A was not compatible:
   Masters: '', 'wght=900.0':
     Contour order differs: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22] in '', [21, 22, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 0, 1] in 'wght=900.0'
+Glyph uni9F7E was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 30 interpolation is underweight: '', 'wght=900.0'
 Glyph uniFF7C was not compatible:
   Masters: '', 'wght=900.0':
     Contour 2 has a kink at 15: '', 'wght=900.0'

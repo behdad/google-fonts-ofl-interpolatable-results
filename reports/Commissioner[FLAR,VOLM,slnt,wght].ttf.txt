@@ -1,8 +1,6 @@
 Glyph uni03020309 was not compatible:
   Masters: 'FLAR=100.0', 'FLAR=100.0 VOLM=100.0':
     Contour order differs: [0, 1, 2] in 'FLAR=100.0', [1, 0, 2] in 'FLAR=100.0 VOLM=100.0'
-    Contour 0 structures differ: 'FLAR=100.0', 'FLAR=100.0 VOLM=100.0'
-    Contour 1 structures differ: 'FLAR=100.0', 'FLAR=100.0 VOLM=100.0'
   Masters: 'FLAR=100.0 VOLM=100.0', 'FLAR=100.0 VOLM=100.0 slnt=-12.0':
     Contour order differs: [0, 1, 2] in 'FLAR=100.0 VOLM=100.0', [1, 0, 2] in 'FLAR=100.0 VOLM=100.0 slnt=-12.0'
   Masters: 'FLAR=100.0 VOLM=100.0', 'FLAR=100.0 VOLM=100.0 wght=900.0':

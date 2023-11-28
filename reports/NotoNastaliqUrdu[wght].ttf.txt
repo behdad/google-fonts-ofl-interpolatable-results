@@ -1,6 +1,9 @@
 Glyph GafInvIni.NoutD11 was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 has a kink at 26: '', 'wght=700.0'
+Glyph HamzaBelowAF_AltNS was not compatible:
+  Masters: '', 'wght=700.0':
+    Contour 0 interpolation is underweight: '', 'wght=700.0'
 Glyph HehMed.inD5outD2H was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 has a kink at 29: '', 'wght=700.0'
@@ -12,14 +15,21 @@ Glyph RehFin.inD3MM was not compatible:
     Contour 0 start point differs: 0 in '', 1 in 'wght=700.0'; reversed: True
 Glyph SadMed.inD1outD1 was not compatible:
   Masters: '', 'wght=700.0':
+    Contour 0 interpolation is underweight: '', 'wght=700.0'
     Contour 0 has a kink at 36: '', 'wght=700.0'
     Contour 0 has a kink at 42: '', 'wght=700.0'
 Glyph SadSep was not compatible:
   Masters: '', 'wght=700.0':
     Contour 1 has a kink at 8: '', 'wght=700.0'
+Glyph Safhah was not compatible:
+  Masters: '', 'wght=700.0':
+    Contour 0 interpolation is underweight: '', 'wght=700.0'
 Glyph SeenMed.SWinAoutT2 was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 has a kink at 31: '', 'wght=700.0'
+Glyph TahDotEnclNS was not compatible:
+  Masters: '', 'wght=700.0':
+    Contour 0 interpolation is underweight: '', 'wght=700.0'
 Glyph TahIni.HRlow was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 has a kink at 61: '', 'wght=700.0'
@@ -31,6 +41,7 @@ Glyph YehBarreeFin was not compatible:
     Contour 0 has a kink at 46: '', 'wght=700.0'
 Glyph nine was not compatible:
   Masters: '', 'wght=700.0':
+    Contour 0 interpolation is underweight: '', 'wght=700.0'
     Contour 0 has a kink at 31: '', 'wght=700.0'
 Glyph seven.encl was not compatible:
   Masters: '', 'wght=700.0':

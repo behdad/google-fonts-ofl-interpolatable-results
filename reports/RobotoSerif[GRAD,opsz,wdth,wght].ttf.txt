@@ -1,3 +1,126 @@
+Glyph Acaron was not compatible:
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
+Glyph Ccaron was not compatible:
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
+Glyph Dcaron was not compatible:
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
+Glyph Ecaron was not compatible:
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
+Glyph Ecaron.alt was not compatible:
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
+Glyph Gcaron was not compatible:
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
+Glyph Icaron was not compatible:
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
+Glyph Ncaron was not compatible:
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
+Glyph Ocaron was not compatible:
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
+Glyph Rcaron was not compatible:
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
+Glyph Scaron was not compatible:
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
+Glyph Scarondotaccent was not compatible:
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
+Glyph Tcaron was not compatible:
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
+Glyph Ucaron was not compatible:
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
+Glyph Udieresiscaron was not compatible:
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
+Glyph Zcaron was not compatible:
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
+Glyph caron.uc was not compatible:
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
+Glyph caron_dotaccent.uc was not compatible:
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
+Glyph circumflex.uc was not compatible:
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
+Glyph circumflex_acute.uc was not compatible:
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
+Glyph circumflex_grave.uc was not compatible:
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
+Glyph circumflex_hook.uc was not compatible:
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
+Glyph circumflex_tilde was not compatible:
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+Glyph circumflex_tilde.uc was not compatible:
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
+Glyph dieresis_caron.uc was not compatible:
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
+  Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
 Glyph divide was not compatible:
   Masters: 'GRAD=-50.0', 'GRAD=-50.0 wght=100.0':
     Contour 2 start point differs: 0 in 'GRAD=-50.0', 3 in 'GRAD=-50.0 wght=100.0'; reversed: False

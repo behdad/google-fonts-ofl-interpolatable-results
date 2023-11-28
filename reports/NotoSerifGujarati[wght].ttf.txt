@@ -1,0 +1,3 @@
+Glyph uni0A950ACD0AB70ACD0072 was not compatible:
+  Masters: '', 'wght=699.9878':
+    Contour 1 interpolation is underweight: '', 'wght=699.9878'

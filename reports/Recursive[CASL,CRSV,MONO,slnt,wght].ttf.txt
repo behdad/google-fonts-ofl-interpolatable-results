@@ -1,50 +1,110 @@
 Glyph Euro was not compatible:
   Masters: '', 'CASL=1.0':
     Contour 0 has a kink at 45: '', 'CASL=1.0'
+Glyph H was not compatible:
+  Masters: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497':
+    Contour 0 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
+    Contour 2 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
+  Masters: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497':
+    Contour 0 interpolation is underweight: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497'
+    Contour 2 interpolation is underweight: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497'
+Glyph Hbar was not compatible:
+  Masters: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497':
+    Contour 1 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
+    Contour 3 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
+  Masters: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497':
+    Contour 1 interpolation is underweight: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497'
+    Contour 3 interpolation is underweight: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497'
+Glyph IJ was not compatible:
+  Masters: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497':
+    Contour 0 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
+  Masters: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497':
+    Contour 0 interpolation is underweight: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497'
+Glyph K was not compatible:
+  Masters: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497':
+    Contour 2 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
+  Masters: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497':
+    Contour 2 interpolation is underweight: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497'
+Glyph M was not compatible:
+  Masters: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497':
+    Contour 0 interpolation is underweight: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497'
 Glyph Oslash was not compatible:
   Masters: 'CASL=1.0 MONO=1.0 wght=800.0061', 'CASL=1.0 MONO=1.0 wght=1000.0':
     Contour 0 has a kink at 21: 'CASL=1.0 MONO=1.0 wght=800.0061', 'CASL=1.0 MONO=1.0 wght=1000.0'
 Glyph Oslashacute was not compatible:
   Masters: 'CASL=1.0 MONO=1.0 wght=800.0061', 'CASL=1.0 MONO=1.0 wght=1000.0':
     Contour 0 has a kink at 21: 'CASL=1.0 MONO=1.0 wght=800.0061', 'CASL=1.0 MONO=1.0 wght=1000.0'
+Glyph Pi was not compatible:
+  Masters: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497':
+    Contour 1 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
+  Masters: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497':
+    Contour 1 interpolation is underweight: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497'
+Glyph Thorn was not compatible:
+  Masters: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497':
+    Contour 0 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
+Glyph U was not compatible:
+  Masters: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497':
+    Contour 0 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
+  Masters: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497':
+    Contour 0 interpolation is underweight: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497'
+Glyph Uhungarumlaut was not compatible:
+  Masters: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497':
+    Contour 2 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
+  Masters: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497':
+    Contour 2 interpolation is underweight: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497'
+Glyph bar was not compatible:
+  Masters: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497':
+    Contour 0 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
+  Masters: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497':
+    Contour 0 interpolation is underweight: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497'
+Glyph bar_equal.code was not compatible:
+  Masters: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497':
+    Contour 0 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
+Glyph bar_greater.code was not compatible:
+  Masters: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497':
+    Contour 1 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
+Glyph brokenbar was not compatible:
+  Masters: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497':
+    Contour 1 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
+  Masters: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497':
+    Contour 1 interpolation is underweight: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497'
+Glyph f_f_i was not compatible:
+  Masters: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497':
+    Contour 4 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
+  Masters: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497':
+    Contour 4 interpolation is underweight: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497'
 Glyph k.italic was not compatible:
   Masters: 'CASL=1.0 wght=800.0061', 'CASL=1.0 wght=1000.0':
     Contour 1 has a kink at 15: 'CASL=1.0 wght=800.0061', 'CASL=1.0 wght=1000.0'
   Masters: 'CASL=1.0 MONO=1.0 wght=800.0061', 'CASL=1.0 MONO=1.0 wght=1000.0':
     Contour 1 has a kink at 15: 'CASL=1.0 MONO=1.0 wght=800.0061', 'CASL=1.0 MONO=1.0 wght=1000.0'
+Glyph less_bar.code was not compatible:
+  Masters: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497':
+    Contour 1 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
+Glyph less_bar_greater.code was not compatible:
+  Masters: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497':
+    Contour 2 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
 Glyph one was not compatible:
   Masters: '', 'CASL=1.0':
     Contour 1 start point differs: 0 in '', 2 in 'CASL=1.0'; reversed: False
 Glyph one.pnum was not compatible:
   Masters: '', 'CASL=1.0':
     Contour 1 start point differs: 0 in '', 2 in 'CASL=1.0'; reversed: False
-Glyph percent was not compatible:
-  Masters: 'wght=800.0061', 'wght=1000.0':
-    Contour 1 structures differ: 'wght=800.0061', 'wght=1000.0'
-    Contour 3 structures differ: 'wght=800.0061', 'wght=1000.0'
-  Masters: 'CASL=1.0 wght=800.0061', 'CASL=1.0 wght=1000.0':
-    Contour 3 structures differ: 'CASL=1.0 wght=800.0061', 'CASL=1.0 wght=1000.0'
-  Masters: 'slnt=-14.0497 wght=800.0061', 'slnt=-14.0497 wght=1000.0':
-    Contour 1 structures differ: 'slnt=-14.0497 wght=800.0061', 'slnt=-14.0497 wght=1000.0'
-    Contour 3 structures differ: 'slnt=-14.0497 wght=800.0061', 'slnt=-14.0497 wght=1000.0'
-  Masters: 'CASL=1.0 slnt=-14.0497 wght=800.0061', 'CASL=1.0 slnt=-14.0497 wght=1000.0':
-    Contour 1 structures differ: 'CASL=1.0 slnt=-14.0497 wght=800.0061', 'CASL=1.0 slnt=-14.0497 wght=1000.0'
-    Contour 3 structures differ: 'CASL=1.0 slnt=-14.0497 wght=800.0061', 'CASL=1.0 slnt=-14.0497 wght=1000.0'
+Glyph oslash was not compatible:
+  Masters: '', 'MONO=1.0 wght=1000.0':
+    Contour 0 interpolation is underweight: '', 'MONO=1.0 wght=1000.0'
+Glyph oslashacute was not compatible:
+  Masters: '', 'MONO=1.0 wght=1000.0':
+    Contour 0 interpolation is underweight: '', 'MONO=1.0 wght=1000.0'
 Glyph perthousand was not compatible:
   Masters: 'wght=800.0061', 'wght=1000.0':
     Contour 2 start point differs: 0 in 'wght=800.0061', 25 in 'wght=1000.0'; reversed: True
     Contour 4 start point differs: 0 in 'wght=800.0061', 25 in 'wght=1000.0'; reversed: True
     Contour 6 start point differs: 0 in 'wght=800.0061', 25 in 'wght=1000.0'; reversed: True
-  Masters: 'CASL=1.0 wght=800.0061', 'CASL=1.0 wght=1000.0':
-    Contour 2 structures differ: 'CASL=1.0 wght=800.0061', 'CASL=1.0 wght=1000.0'
-    Contour 4 structures differ: 'CASL=1.0 wght=800.0061', 'CASL=1.0 wght=1000.0'
   Masters: 'slnt=-14.0497 wght=800.0061', 'slnt=-14.0497 wght=1000.0':
     Contour 2 start point differs: 0 in 'slnt=-14.0497 wght=800.0061', 25 in 'slnt=-14.0497 wght=1000.0'; reversed: True
     Contour 4 start point differs: 0 in 'slnt=-14.0497 wght=800.0061', 25 in 'slnt=-14.0497 wght=1000.0'; reversed: True
     Contour 6 start point differs: 0 in 'slnt=-14.0497 wght=800.0061', 25 in 'slnt=-14.0497 wght=1000.0'; reversed: True
-  Masters: 'CASL=1.0 slnt=-14.0497 wght=800.0061', 'CASL=1.0 slnt=-14.0497 wght=1000.0':
-    Contour 2 structures differ: 'CASL=1.0 slnt=-14.0497 wght=800.0061', 'CASL=1.0 slnt=-14.0497 wght=1000.0'
-    Contour 4 structures differ: 'CASL=1.0 slnt=-14.0497 wght=800.0061', 'CASL=1.0 slnt=-14.0497 wght=1000.0'
 Glyph question was not compatible:
   Masters: '', 'wght=800.0061':
     Contour 1 has a kink at 48: '', 'wght=800.0061'
@@ -75,9 +135,73 @@ Glyph qust_qust.code was not compatible:
     Contour 3 has a kink at 48: '', 'wght=800.0061'
   Masters: 'slnt=-14.0497', 'slnt=-14.0497 wght=800.0061':
     Contour 3 has a kink at 48: 'slnt=-14.0497', 'slnt=-14.0497 wght=800.0061'
+Glyph uni01C4.sans was not compatible:
+  Masters: '', 'MONO=1.0':
+    Contour 2 interpolation is underweight: '', 'MONO=1.0'
+  Masters: 'CASL=1.0', 'CASL=1.0 MONO=1.0':
+    Contour 2 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 MONO=1.0'
+Glyph uni01CA was not compatible:
+  Masters: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497':
+    Contour 0 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
+Glyph uni01CB was not compatible:
+  Masters: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497':
+    Contour 0 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
+Glyph uni01F1.sans was not compatible:
+  Masters: '', 'MONO=1.0':
+    Contour 1 interpolation is underweight: '', 'MONO=1.0'
+  Masters: 'CASL=1.0', 'CASL=1.0 MONO=1.0':
+    Contour 1 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 MONO=1.0'
+Glyph uni0214 was not compatible:
+  Masters: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497':
+    Contour 2 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
+  Masters: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497':
+    Contour 2 interpolation is underweight: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497'
 Glyph uni031B was not compatible:
   Masters: '', 'CASL=1.0':
     Contour 0 start point differs: 0 in '', 42 in 'CASL=1.0'; reversed: False
+Glyph uni1E24 was not compatible:
+  Masters: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497':
+    Contour 1 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
+    Contour 3 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
+  Masters: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497':
+    Contour 1 interpolation is underweight: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497'
+    Contour 3 interpolation is underweight: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497'
+Glyph uni1E2A was not compatible:
+  Masters: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497':
+    Contour 1 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
+    Contour 3 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
+  Masters: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497':
+    Contour 1 interpolation is underweight: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497'
+    Contour 3 interpolation is underweight: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497'
+Glyph uni1E42 was not compatible:
+  Masters: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497':
+    Contour 1 interpolation is underweight: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497'
+Glyph uni1EF0 was not compatible:
+  Masters: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497':
+    Contour 1 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
+  Masters: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497':
+    Contour 1 interpolation is underweight: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497'
+Glyph uni20AD was not compatible:
+  Masters: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497':
+    Contour 0 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
 Glyph uni20B5 was not compatible:
   Masters: '', 'CASL=1.0':
     Contour 0 has a kink at 11: '', 'CASL=1.0'
+Glyph uni20BA was not compatible:
+  Masters: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497':
+    Contour 2 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
+  Masters: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497':
+    Contour 2 interpolation is underweight: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497'
+Glyph uni2116 was not compatible:
+  Masters: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497':
+    Contour 0 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
+Glyph uniFB01 was not compatible:
+  Masters: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497':
+    Contour 3 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 slnt=-14.0497'
+  Masters: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497':
+    Contour 3 interpolation is underweight: 'CASL=1.0 MONO=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497'
+Glyph zero.pnum was not compatible:
+  Masters: '', 'MONO=1.0 slnt=-14.0497 wght=800.0061':
+    Contour 2 interpolation is underweight: '', 'MONO=1.0 slnt=-14.0497 wght=800.0061'
+  Masters: 'CASL=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497 wght=800.0061':
+    Contour 2 interpolation is underweight: 'CASL=1.0', 'CASL=1.0 MONO=1.0 slnt=-14.0497 wght=800.0061'

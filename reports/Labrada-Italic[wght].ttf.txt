@@ -8,6 +8,9 @@ Glyph lira was not compatible:
   Masters: '', 'wght=100.0':
     Contour 1 start point differs: 0 in '', 1 in 'wght=100.0'; reversed: False
     Contour 2 start point differs: 0 in '', 1 in 'wght=100.0'; reversed: False
+Glyph notequal was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 interpolation is underweight: '', 'wght=900.0'
 Glyph zero was not compatible:
   Masters: '', 'wght=900.0':
     Contour 1 start point differs: 0 in '', 4 in 'wght=900.0'; reversed: False

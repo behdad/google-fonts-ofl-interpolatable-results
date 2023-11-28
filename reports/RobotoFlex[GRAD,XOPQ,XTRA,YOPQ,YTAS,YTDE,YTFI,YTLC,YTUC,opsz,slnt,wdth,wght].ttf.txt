@@ -29,14 +29,29 @@ Glyph circumflexacutecomb.case was not compatible:
 Glyph circumflexgravecomb.case was not compatible:
   Masters: 'slnt=-10.0 wdth=25.0', 'slnt=-10.0 wdth=25.0 wght=100.0':
     Contour 1 start point differs: 0 in 'slnt=-10.0 wdth=25.0', 3 in 'slnt=-10.0 wdth=25.0 wght=100.0'; reversed: False
+Glyph diagonalbarO was not compatible:
+  Masters: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=25.0 wght=100.0':
+    Contour 0 interpolation is underweight: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=25.0 wght=100.0'
+    Contour 1 interpolation is underweight: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=25.0 wght=100.0'
+Glyph diagonalbaro was not compatible:
+  Masters: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=25.0 wght=100.0':
+    Contour 0 interpolation is underweight: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=25.0 wght=100.0'
+    Contour 1 interpolation is underweight: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=25.0 wght=100.0'
 Glyph uni0021 was not compatible:
   Masters: '', 'XOPQ=27.0':
     Contour 0 start point differs: 0 in '', 8 in 'XOPQ=27.0'; reversed: False
-Glyph uni004E was not compatible:
-  Masters: 'opsz=144.0 wdth=25.0', 'opsz=144.0 wdth=25.0 wght=1000.0':
-    Contour 0 structures differ: 'opsz=144.0 wdth=25.0', 'opsz=144.0 wdth=25.0 wght=1000.0'
-  Masters: 'opsz=144.0 slnt=-10.0 wdth=25.0', 'opsz=144.0 slnt=-10.0 wdth=25.0 wght=1000.0':
-    Contour 0 structures differ: 'opsz=144.0 slnt=-10.0 wdth=25.0', 'opsz=144.0 slnt=-10.0 wdth=25.0 wght=1000.0'
+Glyph uni0041 was not compatible:
+  Masters: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=151.0 wght=100.0':
+    Contour 0 interpolation is underweight: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=151.0 wght=100.0'
+Glyph uni0057 was not compatible:
+  Masters: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=25.0 wght=100.0':
+    Contour 0 interpolation is underweight: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=25.0 wght=100.0'
+Glyph uni0059 was not compatible:
+  Masters: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=25.0 wght=100.0':
+    Contour 0 interpolation is underweight: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=25.0 wght=100.0'
+Glyph uni0077 was not compatible:
+  Masters: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=151.0 wght=100.0':
+    Contour 0 interpolation is underweight: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=151.0 wght=100.0'
 Glyph uni00A1 was not compatible:
   Masters: '', 'XOPQ=27.0':
     Contour 0 start point differs: 0 in '', 8 in 'XOPQ=27.0'; reversed: False
@@ -65,6 +80,15 @@ Glyph uni03B4 was not compatible:
     Contour 0 has a kink at 9: 'opsz=144.0 wdth=25.0', 'opsz=144.0 wdth=25.0 wght=1000.0'
   Masters: 'opsz=144.0 slnt=-10.0 wdth=25.0', 'opsz=144.0 slnt=-10.0 wdth=25.0 wght=1000.0':
     Contour 0 has a kink at 9: 'opsz=144.0 slnt=-10.0 wdth=25.0', 'opsz=144.0 slnt=-10.0 wdth=25.0 wght=1000.0'
+Glyph uni03BB was not compatible:
+  Masters: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=25.0 wght=100.0':
+    Contour 0 interpolation is underweight: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=25.0 wght=100.0'
+Glyph uni03C9 was not compatible:
+  Masters: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=25.0 wght=100.0':
+    Contour 0 interpolation is underweight: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=25.0 wght=100.0'
+Glyph uni0414.bgr was not compatible:
+  Masters: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=151.0 wght=100.0':
+    Contour 1 interpolation is underweight: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=151.0 wght=100.0'
 Glyph uni0416 was not compatible:
   Masters: 'opsz=8.0 wdth=25.0', 'opsz=8.0 wdth=25.0 wght=100.0':
     Contour 3 start point differs: 0 in 'opsz=8.0 wdth=25.0', 3 in 'opsz=8.0 wdth=25.0 wght=100.0'; reversed: False
@@ -72,9 +96,15 @@ Glyph uni0416 was not compatible:
     Contour 3 start point differs: 0 in 'GRAD=-200.0 opsz=8.0 wght=100.0', 3 in 'GRAD=-200.0 opsz=8.0 wdth=25.0 wght=100.0'; reversed: False
   Masters: 'opsz=8.0 wdth=25.0 wght=100.0', 'opsz=8.0 slnt=-10.0 wdth=25.0 wght=100.0':
     Contour 3 start point differs: 0 in 'opsz=8.0 wdth=25.0 wght=100.0', 1 in 'opsz=8.0 slnt=-10.0 wdth=25.0 wght=100.0'; reversed: False
+Glyph uni041B.bgr was not compatible:
+  Masters: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=25.0 wght=100.0':
+    Contour 0 interpolation is underweight: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=25.0 wght=100.0'
 Glyph uni0457 was not compatible:
   Masters: 'opsz=8.0 wdth=25.0', 'opsz=8.0 wdth=25.0 wght=100.0':
     Contour 1 start point differs: 0 in 'opsz=8.0 wdth=25.0', 3 in 'opsz=8.0 wdth=25.0 wght=100.0'; reversed: False
+Glyph uni04B0 was not compatible:
+  Masters: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=25.0 wght=100.0':
+    Contour 1 interpolation is underweight: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=25.0 wght=100.0'
 Glyph uni201D was not compatible:
   Masters: 'opsz=8.0 wdth=25.0', 'opsz=8.0 wdth=25.0 wght=100.0':
     Contour order differs: [0, 1] in 'opsz=8.0 wdth=25.0', [1, 0] in 'opsz=8.0 wdth=25.0 wght=100.0'
@@ -85,6 +115,18 @@ Glyph uni201E was not compatible:
     Contour order differs: [0, 1] in 'opsz=8.0 wdth=25.0', [1, 0] in 'opsz=8.0 wdth=25.0 wght=100.0'
   Masters: 'GRAD=-200.0 opsz=8.0 wght=100.0', 'GRAD=-200.0 opsz=8.0 wdth=25.0 wght=100.0':
     Contour order differs: [0, 1] in 'GRAD=-200.0 opsz=8.0 wght=100.0', [1, 0] in 'GRAD=-200.0 opsz=8.0 wdth=25.0 wght=100.0'
+Glyph uni20A6 was not compatible:
+  Masters: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=25.0 wght=100.0':
+    Contour 2 interpolation is underweight: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=25.0 wght=100.0'
+Glyph uni20A6.rvrn was not compatible:
+  Masters: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=25.0 wght=100.0':
+    Contour 0 interpolation is underweight: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=25.0 wght=100.0'
+Glyph uni20A9 was not compatible:
+  Masters: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=25.0 wght=100.0':
+    Contour 2 interpolation is underweight: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=25.0 wght=100.0'
+Glyph uni20A9.rvrn was not compatible:
+  Masters: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=25.0 wght=100.0':
+    Contour 0 interpolation is underweight: 'GRAD=-200.0 opsz=144.0 wght=100.0', 'GRAD=-200.0 opsz=144.0 wdth=25.0 wght=100.0'
 Glyph uni20B1 was not compatible:
   Masters: 'GRAD=150.0 wght=1000.0', 'GRAD=150.0 opsz=144.0 wght=1000.0':
     Contour order differs: [0, 1, 2] in 'GRAD=150.0 wght=1000.0', [0, 2, 1] in 'GRAD=150.0 opsz=144.0 wght=1000.0'
@@ -107,8 +149,3 @@ Glyph uni20BD was not compatible:
     Contour 1 start point differs: 0 in 'opsz=144.0 slnt=-10.0 wdth=25.0', 2 in 'opsz=144.0 slnt=-10.0 wdth=25.0 wght=100.0'; reversed: False
   Masters: 'opsz=144.0 slnt=-10.0 wdth=25.0', 'opsz=144.0 slnt=-10.0 wdth=25.0 wght=1000.0':
     Contour 1 start point differs: 0 in 'opsz=144.0 slnt=-10.0 wdth=25.0', 2 in 'opsz=144.0 slnt=-10.0 wdth=25.0 wght=1000.0'; reversed: False
-Glyph uni2116 was not compatible:
-  Masters: 'opsz=144.0 wdth=25.0', 'opsz=144.0 wdth=25.0 wght=1000.0':
-    Contour 0 structures differ: 'opsz=144.0 wdth=25.0', 'opsz=144.0 wdth=25.0 wght=1000.0'
-  Masters: 'opsz=144.0 slnt=-10.0 wdth=25.0', 'opsz=144.0 slnt=-10.0 wdth=25.0 wght=1000.0':
-    Contour 0 structures differ: 'opsz=144.0 slnt=-10.0 wdth=25.0', 'opsz=144.0 slnt=-10.0 wdth=25.0 wght=1000.0'

@@ -11,7 +11,7 @@ Glyph cent was not compatible:
     Contour 0 has a kink at 49: 'wdth=125.0', 'wdth=125.0 wght=700.0'
 Glyph slash was not compatible:
   Masters: '', 'wdth=125.0':
-    Contour 0 structures differ: '', 'wdth=125.0'
+    Contour 0 interpolation is underweight: '', 'wdth=125.0'
 Glyph uni0328 was not compatible:
   Masters: '', 'wdth=125.0':
     Contour 0 start point differs: 0 in '', 44 in 'wdth=125.0'; reversed: False

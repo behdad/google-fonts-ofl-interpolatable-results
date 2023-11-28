@@ -40,6 +40,9 @@ Glyph bar was not compatible:
     Contour 0 start point differs: 0 in '', 2 in 'slnt=-13.0'; reversed: False
   Masters: '', 'slnt=13.0':
     Contour 0 start point differs: 0 in '', 52 in 'slnt=13.0'; reversed: False
+Glyph braceleft was not compatible:
+  Masters: '', 'slnt=-13.0':
+    Contour 0 interpolation is underweight: '', 'slnt=-13.0'
 Glyph brokenbar was not compatible:
   Masters: '', 'slnt=-13.0':
     Contour 1 start point differs: 0 in '', 2 in 'slnt=-13.0'; reversed: False
@@ -141,6 +144,9 @@ Glyph semicolon was not compatible:
     Contour 1 has a kink at 30: 'slnt=-13.0', 'slnt=-13.0 wght=900.0'
   Masters: 'slnt=13.0', 'slnt=13.0 wght=900.0':
     Contour 1 start point differs: 0 in 'slnt=13.0', 4 in 'slnt=13.0 wght=900.0'; reversed: False
+Glyph uni00B5 was not compatible:
+  Masters: '', 'slnt=-13.0':
+    Contour 0 interpolation is underweight: '', 'slnt=-13.0'
 Glyph uni0312 was not compatible:
   Masters: '', 'wght=900.0':
     Contour 0 start point differs: 0 in '', 4 in 'wght=900.0'; reversed: False

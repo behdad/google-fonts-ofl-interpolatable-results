@@ -26,13 +26,13 @@ Glyph eth was not compatible:
     Contour 0 has a kink at 10: '', 'wdth=62.0'
 Glyph intersection was not compatible:
   Masters: '', 'wght=900.0':
-    Contour 0 structures differ: '', 'wght=900.0'
+    Contour 0 interpolation is underweight: '', 'wght=900.0'
     Contour 0 has a kink at 9: '', 'wght=900.0'
     Contour 0 has a kink at 30: '', 'wght=900.0'
   Masters: 'wdth=62.0', 'wdth=62.0 wght=900.0':
-    Contour 0 structures differ: 'wdth=62.0', 'wdth=62.0 wght=900.0'
+    Contour 0 interpolation is underweight: 'wdth=62.0', 'wdth=62.0 wght=900.0'
     Contour 0 has a kink at 9: 'wdth=62.0', 'wdth=62.0 wght=900.0'
     Contour 0 has a kink at 30: 'wdth=62.0', 'wdth=62.0 wght=900.0'
   Masters: 'wdth=125.0', 'wdth=125.0 wght=900.0':
-    Contour 0 structures differ: 'wdth=125.0', 'wdth=125.0 wght=900.0'
+    Contour 0 interpolation is underweight: 'wdth=125.0', 'wdth=125.0 wght=900.0'
     Contour 0 has a kink at 30: 'wdth=125.0', 'wdth=125.0 wght=900.0'
