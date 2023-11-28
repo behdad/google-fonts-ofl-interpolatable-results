@@ -21,18 +21,29 @@ time git submodule init
 echo "git submodule foreach git pull"
 time git submodule foreach git pull
 echo "Building fonttools cython extensions"
-(cd "$dirname/submodules/fonttools" && time python setup.py build_ext -i)
+(cd "$dirname/submodules/fonttools" && time python3 setup.py build_ext -i)
 
 if $clear; then
   echo "Clearing $out"
   time rm -f "$out"/*.ttf.{pdf,html.bz2,txt,metadata}
 fi
 
-cores=`grep -c ^processor /proc/cpuinfo`
+sort=--sort=size
+test=`ls $sort /dev/null`
+if [ x$? != x0 ]; then
+	sort=
+fi
+
+if [ -f /proc/cpuinfo ]; then
+	cores=`grep -c ^processor /proc/cpuinfo`
+else
+	cores=`sysctl -n hw.ncpu`
+fi
+
 echo "Cranking up $cores generate-one.sh processes at a time"
 time find "$dir" -name '*\[*.ttf' -print |
-  xargs ls --sort=size |
-  xargs --verbose -P "$cores" -I{} \
+  xargs ls $sort |
+  xargs -P "$cores" -I{} \
   "$dirname/generate-one.sh" "{}"
 
 echo "Removing empty reports"

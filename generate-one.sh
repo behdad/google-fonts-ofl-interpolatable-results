@@ -5,10 +5,11 @@ ttf=$1
 basename=`basename $ttf`
 out="$dirname/reports/$basename"
 
+echo "Processing '$ttf'"
+
 basebasename="$(echo "$basename" | sed 's/\[.*$//')"
 if grep -q "^$basebasename\$" "$dirname/IGNORE.txt"; then
-	echo "Skipping ignored  '$ttf'"
-	echo "Finished all with '$ttf'"
+	echo "Ignoring   '$ttf'"
 	exit 0
 fi
 
@@ -36,5 +37,5 @@ if [ -f "$description" ]; then
 	grep '<a href="https://github.com/' "$description" | sed 's@.*<a href="\(https://github.com/[^"]*\)".*@contribution_url: \1@' >> "$out.metadata"
 fi
 
-echo "Finished all with '$ttf'"
+echo "Processed  '$ttf'"
 exit $status
