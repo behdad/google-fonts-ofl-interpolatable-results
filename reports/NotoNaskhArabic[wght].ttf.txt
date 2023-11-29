@@ -1,7 +1,4 @@
-Glyph uni0602 was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 0 has a kink at 40: '', 'wght=700.0'
-Glyph uni0665 was not compatible:
+Glyph uni0665.lf was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 has a kink at 26: '', 'wght=700.0'
 Glyph uni06AA was not compatible:
