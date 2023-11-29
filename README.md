@@ -6,6 +6,13 @@ well as Mac with brew.
 
 ## Update
 
+For the first time, you would need to run
+```
+$ git submodule update
+```
+to download and populate `submodules/fonttools` and `submodules/google-fonts`.
+This might take a while.
+
 To update all reports, run `./generate-all.sh`.
 
 ## git setup

@@ -14,12 +14,6 @@ if [ -z "$out" ]; then
   out="$dirname/reports/"
 fi
 
-echo "git submodule init"
-time git submodule init
-#echo "git submodule update"
-#time git submodule update
-echo "git submodule foreach git pull"
-time git submodule foreach git pull
 echo "Building fonttools cython extensions"
 (cd "$dirname/submodules/fonttools" && time python3 setup.py build_ext -i)
 
