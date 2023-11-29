@@ -38,8 +38,4 @@ echo "Cranking up $cores generate-one.sh processes at a time"
 time find "$dir" -name '*\[*.ttf' -print |
   xargs ls $sort |
   xargs -P "$cores" -I{} \
-  "$dirname/generate-one.sh" "{}"
-
-echo "Removing empty reports"
-time find "$out" -name '*.ttf.txt' -size 0 |
-  while read x; do rm -f "$x" "${x%txt}pdf" "${x%txt}html.bz2" "${x%txt}metadata"; done
+  "$dirname/generate-one.sh" --clean "{}"

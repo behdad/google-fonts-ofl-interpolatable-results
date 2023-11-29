@@ -1,5 +1,18 @@
 #! /bin/bash
 
+clean=false
+while [ $# -gt 0 ]; do
+	case "$1" in
+	--clean)
+		clean=true
+		;;
+	*)
+		break
+		;;
+	esac
+	shift
+done
+
 dirname=`dirname $0`
 ttf=$1
 basename=`basename $ttf`
@@ -19,6 +32,13 @@ fi
 	--html "$out.html" \
 	--output "$out.txt"
 status=$?
+
+if [ x$clean = xtrue -a x$status = x0 ]; then
+	rm "$out.pdf" "$out.html" "$out.txt"
+	echo "Cleaned up '$ttf'"
+	exit $status
+fi
+
 bzip2 < "$out.html" > "$out.html.bz2" && rm "$out.html"
 
 # See if we can find the source info for the font and save it.
@@ -36,6 +56,7 @@ fi
 if [ -f "$description" ]; then
 	grep '<a href="https://github.com/' "$description" | sed 's@.*<a href="\(https://github.com/[^"]*\)".*@contribution_url: \1@' >> "$out.metadata"
 fi
+
 
 echo "Processed  '$ttf'"
 exit $status
