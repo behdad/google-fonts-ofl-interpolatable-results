@@ -38,10 +38,8 @@ And then in `~/.gitattributes`:
 
 This way, you can use eg.:
 ```
-$ git difftool --tool=ttf-html-bz2 reports/*.html.bz2
+$ ./review-one reports/FamilyName.html.bz2
 ```
-
-Read `man git-difftool` for other options.
 
 To open *all* the changed HTML files in your browser (at your own risk),
 do:
