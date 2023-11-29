@@ -1,7 +1,8 @@
 ## Intro
 
 This repository holds reports of the `fonttools varLib.interpolatable`
-tool on the Google Fonts catalog.
+tool on the Google Fonts catalog.  The tools here work on Linux, as
+well as Mac with brew.
 
 ## Update
 
@@ -34,3 +35,9 @@ $ git difftool --tool=ttf-html-bz2 reports/*.html.bz2
 ```
 
 Read `man git-difftool` for other options.
+
+To open *all* the changed HTML files in your browser (at your own risk),
+do:
+```
+$ ./review-all
+```
