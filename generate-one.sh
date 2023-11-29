@@ -58,5 +58,5 @@ if [ -f "$description" ]; then
 fi
 
 
-echo "Processed  '$ttf'"
+echo "Dirtied up '$ttf'"
 exit $status
