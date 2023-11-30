@@ -1,3 +1,6 @@
+Glyph B was not compatible:
+  Masters: '', 'wght=700.0':
+    Contour 3 interpolation is underweight: '', 'wght=700.0'
 Glyph colonmonetary was not compatible:
   Masters: '', 'wght=700.0':
     Contour order differs: [0, 1, 2, 3, 4] in '', [3, 1, 2, 0, 4] in 'wght=700.0'

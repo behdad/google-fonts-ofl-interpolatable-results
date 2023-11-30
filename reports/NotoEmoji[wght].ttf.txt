@@ -11,3 +11,8 @@ Glyph u1F493 was not compatible:
     Contour 3 start point differs: 0 in '', 20 in 'wght=700.0'; reversed: False
     Contour 3 has a kink at 12: '', 'wght=700.0'
     Contour 3 has a kink at 16: '', 'wght=700.0'
+Glyph u1F611 was not compatible:
+  Masters: '', 'wght=300.0':
+    Contour 5 interpolation is underweight: '', 'wght=300.0'
+  Masters: '', 'wght=700.0':
+    Contour 5 interpolation is underweight: '', 'wght=700.0'
