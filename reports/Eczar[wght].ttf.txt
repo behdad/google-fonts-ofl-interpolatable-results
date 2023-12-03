@@ -13,6 +13,7 @@ Glyph Upsilon was not compatible:
 Glyph asterisk was not compatible:
   Masters: '', 'wght=800.0':
     Contour order differs: [0, 1, 2, 3, 4] in '', [2, 0, 1, 3, 4] in 'wght=800.0'
+    Contour 3 interpolation is underweight: '', 'wght=800.0'
     Contour 4 start point differs: 0 in '', 1 in 'wght=800.0'; reversed: False
 Glyph dvDGRa was not compatible:
   Masters: '', 'wght=800.0':
