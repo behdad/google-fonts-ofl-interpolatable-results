@@ -1,6 +1,8 @@
 Glyph dollar was not compatible:
   Masters: '', 'wght=800.0':
     Contour 1 start point differs: 0 in '', 1 in 'wght=800.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'wght=800.0'
 Glyph uni20B2.osf was not compatible:
   Masters: '', 'wght=800.0':
     Contour 2 start point differs: 0 in '', 1 in 'wght=800.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'wght=800.0'

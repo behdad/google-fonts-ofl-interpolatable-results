@@ -1,3 +1,4 @@
 Glyph kgreenlandic was not compatible:
   Masters: '', 'wght=700.0':
     Contour 5 start point differs: 0 in '', 1 in 'wght=700.0'; reversed: False
+    Contour 5 interpolation is underweight: '', 'wght=700.0'

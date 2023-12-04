@@ -1,9 +1,12 @@
 Glyph o was not compatible:
   Masters: '', 'wght=700.0':
     Contour 1 start point differs: 0 in '', 24 in 'wght=700.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'wght=700.0'
 Glyph oslash was not compatible:
   Masters: '', 'wght=700.0':
     Contour 2 start point differs: 0 in '', 24 in 'wght=700.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'wght=700.0'
 Glyph oslashacute was not compatible:
   Masters: '', 'wght=700.0':
     Contour 2 start point differs: 0 in '', 24 in 'wght=700.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'wght=700.0'

@@ -1,6 +1,8 @@
 Glyph equal_equal_greater.liga was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 start point differs: 0 in '', 12 in 'wght=800.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=800.0'
 Glyph equal_greater.liga was not compatible:
   Masters: '', 'wght=800.0':
     Contour 0 start point differs: 0 in '', 12 in 'wght=800.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=800.0'

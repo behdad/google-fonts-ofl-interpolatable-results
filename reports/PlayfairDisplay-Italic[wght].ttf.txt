@@ -1,6 +1,8 @@
 Glyph parenleft.case was not compatible:
   Masters: '', 'wght=900.0':
     Contour 0 start point differs: 0 in '', 14 in 'wght=900.0'; reversed: True
+    Contour 0 interpolation is underweight: '', 'wght=900.0'
 Glyph parenright.case was not compatible:
   Masters: '', 'wght=900.0':
     Contour 0 start point differs: 0 in '', 14 in 'wght=900.0'; reversed: True
+    Contour 0 interpolation is underweight: '', 'wght=900.0'

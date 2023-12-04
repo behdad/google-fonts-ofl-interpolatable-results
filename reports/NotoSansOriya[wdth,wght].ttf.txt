@@ -6,5 +6,7 @@ Glyph laphaoriya was not compatible:
 Glyph uni0B19.base was not compatible:
   Masters: '', 'wght=900.0':
     Contour 2 start point differs: 0 in '', 12 in 'wght=900.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'wght=900.0'
   Masters: 'wght=900.0', 'wdth=62.5 wght=900.0':
     Contour 2 start point differs: 0 in 'wght=900.0', 4 in 'wdth=62.5 wght=900.0'; reversed: False
+    Contour 2 interpolation is underweight: 'wght=900.0', 'wdth=62.5 wght=900.0'

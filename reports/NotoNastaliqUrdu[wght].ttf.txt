@@ -13,6 +13,7 @@ Glyph KafIni.NoutD11 was not compatible:
 Glyph RehFin.inD3MM was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 1 in 'wght=700.0'; reversed: True
+    Contour 0 interpolation is underweight: '', 'wght=700.0'
 Glyph SadMed.inD1outD1 was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 interpolation is underweight: '', 'wght=700.0'

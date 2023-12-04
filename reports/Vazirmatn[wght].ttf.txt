@@ -4,11 +4,13 @@ Glyph uni060D was not compatible:
 Glyph uni066D was not compatible:
   Masters: '', 'wght=100.0':
     Contour 0 start point differs: 0 in '', 3 in 'wght=100.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=100.0'
   Masters: '', 'wght=900.0':
     Contour 0 start point differs: 0 in '', 0 in 'wght=900.0'; reversed: True
 Glyph uni06CD was not compatible:
   Masters: '', 'wght=100.0':
     Contour 0 start point differs: 0 in '', 1 in 'wght=100.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=100.0'
 Glyph uni06D0.dots was not compatible:
   Masters: '', 'wght=100.0':
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=100.0'

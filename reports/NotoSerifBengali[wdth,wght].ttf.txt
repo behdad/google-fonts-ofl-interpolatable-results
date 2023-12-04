@@ -1,6 +1,7 @@
 Glyph uni09C1.alt was not compatible:
   Masters: 'wdth=62.5', 'wdth=62.5 wght=100.0':
     Contour 0 start point differs: 0 in 'wdth=62.5', 18 in 'wdth=62.5 wght=100.0'; reversed: True
+    Contour 0 interpolation is underweight: 'wdth=62.5', 'wdth=62.5 wght=100.0'
 Glyph uni09C4 was not compatible:
   Masters: 'wdth=62.5', 'wdth=62.5 wght=100.0':
     Contour 1 interpolation is underweight: 'wdth=62.5', 'wdth=62.5 wght=100.0'

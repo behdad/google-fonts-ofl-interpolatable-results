@@ -10,3 +10,4 @@ Glyph uni20BA was not compatible:
 Glyph zero.osf was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 12 in 'wght=700.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=700.0'

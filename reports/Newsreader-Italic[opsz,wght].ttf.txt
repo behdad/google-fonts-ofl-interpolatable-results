@@ -1,19 +1,26 @@
 Glyph asciitilde was not compatible:
   Masters: '', 'opsz=72.0':
     Contour 0 start point differs: 0 in '', 19 in 'opsz=72.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'opsz=72.0'
   Masters: 'opsz=72.0', 'opsz=72.0 wght=200.0':
     Contour 0 start point differs: 0 in 'opsz=72.0', 19 in 'opsz=72.0 wght=200.0'; reversed: False
+    Contour 0 interpolation is underweight: 'opsz=72.0', 'opsz=72.0 wght=200.0'
   Masters: 'opsz=72.0', 'opsz=72.0 wght=800.0':
     Contour 0 start point differs: 0 in 'opsz=72.0', 19 in 'opsz=72.0 wght=800.0'; reversed: False
+    Contour 0 interpolation is underweight: 'opsz=72.0', 'opsz=72.0 wght=800.0'
 Glyph germandbls was not compatible:
   Masters: 'opsz=72.0', 'opsz=72.0 wght=200.0':
     Contour 0 start point differs: 0 in 'opsz=72.0', 3 in 'opsz=72.0 wght=200.0'; reversed: False
+    Contour 0 interpolation is underweight: 'opsz=72.0', 'opsz=72.0 wght=200.0'
 Glyph greater was not compatible:
   Masters: 'opsz=72.0', 'opsz=72.0 wght=800.0':
     Contour 0 start point differs: 0 in 'opsz=72.0', 4 in 'opsz=72.0 wght=800.0'; reversed: False
+    Contour 0 interpolation is underweight: 'opsz=72.0', 'opsz=72.0 wght=800.0'
 Glyph iogonek was not compatible:
   Masters: 'opsz=72.0', 'opsz=72.0 wght=800.0':
     Contour 0 start point differs: 0 in 'opsz=72.0', 14 in 'opsz=72.0 wght=800.0'; reversed: False
+    Contour 0 interpolation is underweight: 'opsz=72.0', 'opsz=72.0 wght=800.0'
 Glyph less was not compatible:
   Masters: 'opsz=72.0', 'opsz=72.0 wght=800.0':
     Contour 0 start point differs: 0 in 'opsz=72.0', 4 in 'opsz=72.0 wght=800.0'; reversed: False
+    Contour 0 interpolation is underweight: 'opsz=72.0', 'opsz=72.0 wght=800.0'

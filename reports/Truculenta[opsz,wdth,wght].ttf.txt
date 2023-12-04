@@ -4,16 +4,22 @@ Glyph g.alt was not compatible:
 Glyph oslash.BRACKET.600 was not compatible:
   Masters: '', 'wght=100.0':
     Contour 2 start point differs: 0 in '', 5 in 'wght=100.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'wght=100.0'
   Masters: 'opsz=72.0', 'opsz=72.0 wght=100.0':
     Contour 2 start point differs: 0 in 'opsz=72.0', 5 in 'opsz=72.0 wght=100.0'; reversed: False
+    Contour 2 interpolation is underweight: 'opsz=72.0', 'opsz=72.0 wght=100.0'
   Masters: 'wdth=75.0', 'wdth=75.0 wght=100.0':
     Contour 2 start point differs: 0 in 'wdth=75.0', 5 in 'wdth=75.0 wght=100.0'; reversed: False
+    Contour 2 interpolation is underweight: 'wdth=75.0', 'wdth=75.0 wght=100.0'
   Masters: 'wdth=125.0', 'wdth=125.0 wght=100.0':
     Contour 2 start point differs: 0 in 'wdth=125.0', 5 in 'wdth=125.0 wght=100.0'; reversed: False
+    Contour 2 interpolation is underweight: 'wdth=125.0', 'wdth=125.0 wght=100.0'
   Masters: 'opsz=72.0 wdth=75.0', 'opsz=72.0 wdth=75.0 wght=100.0':
     Contour 2 start point differs: 0 in 'opsz=72.0 wdth=75.0', 5 in 'opsz=72.0 wdth=75.0 wght=100.0'; reversed: False
+    Contour 2 interpolation is underweight: 'opsz=72.0 wdth=75.0', 'opsz=72.0 wdth=75.0 wght=100.0'
   Masters: 'opsz=72.0 wdth=125.0', 'opsz=72.0 wdth=125.0 wght=100.0':
     Contour 2 start point differs: 0 in 'opsz=72.0 wdth=125.0', 5 in 'opsz=72.0 wdth=125.0 wght=100.0'; reversed: False
+    Contour 2 interpolation is underweight: 'opsz=72.0 wdth=125.0', 'opsz=72.0 wdth=125.0 wght=100.0'
 Glyph uni019D.alt was not compatible:
   Masters: '', 'wdth=75.0':
     Contour 0 has a kink at 0: '', 'wdth=75.0'
@@ -27,24 +33,36 @@ Glyph uni20A9.BRACKET.600 was not compatible:
   Masters: '', 'wght=100.0':
     Contour order differs: [0, 1, 2, 3, 4] in '', [0, 3, 4, 1, 2] in 'wght=100.0'
     Contour 1 start point differs: 0 in '', 5 in 'wght=100.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'wght=100.0'
     Contour 2 start point differs: 0 in '', 5 in 'wght=100.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'wght=100.0'
   Masters: 'opsz=72.0', 'opsz=72.0 wght=100.0':
     Contour order differs: [0, 1, 2, 3, 4] in 'opsz=72.0', [0, 3, 4, 1, 2] in 'opsz=72.0 wght=100.0'
     Contour 1 start point differs: 0 in 'opsz=72.0', 5 in 'opsz=72.0 wght=100.0'; reversed: False
+    Contour 1 interpolation is underweight: 'opsz=72.0', 'opsz=72.0 wght=100.0'
     Contour 2 start point differs: 0 in 'opsz=72.0', 5 in 'opsz=72.0 wght=100.0'; reversed: False
+    Contour 2 interpolation is underweight: 'opsz=72.0', 'opsz=72.0 wght=100.0'
   Masters: 'wdth=75.0', 'wdth=75.0 wght=100.0':
     Contour order differs: [0, 1, 2, 3, 4] in 'wdth=75.0', [0, 1, 2, 4, 3] in 'wdth=75.0 wght=100.0'
     Contour 1 start point differs: 0 in 'wdth=75.0', 5 in 'wdth=75.0 wght=100.0'; reversed: False
+    Contour 1 interpolation is underweight: 'wdth=75.0', 'wdth=75.0 wght=100.0'
     Contour 2 start point differs: 0 in 'wdth=75.0', 5 in 'wdth=75.0 wght=100.0'; reversed: False
+    Contour 2 interpolation is underweight: 'wdth=75.0', 'wdth=75.0 wght=100.0'
   Masters: 'wdth=125.0', 'wdth=125.0 wght=100.0':
     Contour order differs: [0, 1, 2, 3, 4] in 'wdth=125.0', [0, 3, 4, 1, 2] in 'wdth=125.0 wght=100.0'
     Contour 1 start point differs: 0 in 'wdth=125.0', 5 in 'wdth=125.0 wght=100.0'; reversed: False
+    Contour 1 interpolation is underweight: 'wdth=125.0', 'wdth=125.0 wght=100.0'
     Contour 2 start point differs: 0 in 'wdth=125.0', 5 in 'wdth=125.0 wght=100.0'; reversed: False
+    Contour 2 interpolation is underweight: 'wdth=125.0', 'wdth=125.0 wght=100.0'
   Masters: 'opsz=72.0 wdth=75.0', 'opsz=72.0 wdth=75.0 wght=100.0':
     Contour order differs: [0, 1, 2, 3, 4] in 'opsz=72.0 wdth=75.0', [0, 1, 2, 4, 3] in 'opsz=72.0 wdth=75.0 wght=100.0'
     Contour 1 start point differs: 0 in 'opsz=72.0 wdth=75.0', 5 in 'opsz=72.0 wdth=75.0 wght=100.0'; reversed: False
+    Contour 1 interpolation is underweight: 'opsz=72.0 wdth=75.0', 'opsz=72.0 wdth=75.0 wght=100.0'
     Contour 2 start point differs: 0 in 'opsz=72.0 wdth=75.0', 5 in 'opsz=72.0 wdth=75.0 wght=100.0'; reversed: False
+    Contour 2 interpolation is underweight: 'opsz=72.0 wdth=75.0', 'opsz=72.0 wdth=75.0 wght=100.0'
   Masters: 'opsz=72.0 wdth=125.0', 'opsz=72.0 wdth=125.0 wght=100.0':
     Contour order differs: [0, 1, 2, 3, 4] in 'opsz=72.0 wdth=125.0', [0, 3, 4, 1, 2] in 'opsz=72.0 wdth=125.0 wght=100.0'
     Contour 1 start point differs: 0 in 'opsz=72.0 wdth=125.0', 5 in 'opsz=72.0 wdth=125.0 wght=100.0'; reversed: False
+    Contour 1 interpolation is underweight: 'opsz=72.0 wdth=125.0', 'opsz=72.0 wdth=125.0 wght=100.0'
     Contour 2 start point differs: 0 in 'opsz=72.0 wdth=125.0', 5 in 'opsz=72.0 wdth=125.0 wght=100.0'; reversed: False
+    Contour 2 interpolation is underweight: 'opsz=72.0 wdth=125.0', 'opsz=72.0 wdth=125.0 wght=100.0'

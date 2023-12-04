@@ -4,6 +4,7 @@ Glyph germandbls was not compatible:
 Glyph uni20BC was not compatible:
   Masters: '', 'wght=900.0':
     Contour 1 start point differs: 0 in '', 1 in 'wght=900.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'wght=900.0'
 Glyph uni27E8 was not compatible:
   Masters: '', 'wght=900.0':
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=900.0'

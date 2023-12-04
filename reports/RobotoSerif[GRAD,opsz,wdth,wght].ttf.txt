@@ -124,19 +124,26 @@ Glyph dieresis_caron.uc was not compatible:
 Glyph divide was not compatible:
   Masters: 'GRAD=-50.0', 'GRAD=-50.0 wght=100.0':
     Contour 2 start point differs: 0 in 'GRAD=-50.0', 3 in 'GRAD=-50.0 wght=100.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=-50.0', 'GRAD=-50.0 wght=100.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0':
     Contour 2 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 3 in 'GRAD=-50.0 opsz=8.0 wght=100.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
   Masters: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=100.0':
     Contour 2 start point differs: 0 in 'GRAD=-50.0 wdth=50.0', 3 in 'GRAD=-50.0 wdth=50.0 wght=100.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=100.0'
   Masters: 'GRAD=-50.0 wdth=150.0', 'GRAD=-50.0 wdth=150.0 wght=100.0':
     Contour 2 start point differs: 0 in 'GRAD=-50.0 wdth=150.0', 3 in 'GRAD=-50.0 wdth=150.0 wght=100.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=-50.0 wdth=150.0', 'GRAD=-50.0 wdth=150.0 wght=100.0'
   Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0':
     Contour 2 start point differs: 0 in 'GRAD=-50.0 opsz=8.0 wdth=50.0', 3 in 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0'
   Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0':
     Contour 2 start point differs: 0 in 'GRAD=-50.0 opsz=8.0 wdth=150.0', 3 in 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'
 Glyph dollar.altprop was not compatible:
   Masters: 'opsz=8.0 wdth=150.0', 'opsz=8.0 wdth=150.0 wght=900.0':
     Contour 1 start point differs: 0 in 'opsz=8.0 wdth=150.0', 2 in 'opsz=8.0 wdth=150.0 wght=900.0'; reversed: False
+    Contour 1 interpolation is underweight: 'opsz=8.0 wdth=150.0', 'opsz=8.0 wdth=150.0 wght=900.0'
 Glyph f_f_b.alt was not compatible:
   Masters: 'GRAD=-50.0', 'GRAD=-50.0 opsz=144.0':
     Contour order differs: [0, 1, 2, 3, 4, 5] in 'GRAD=-50.0', [0, 1, 2, 3, 5, 4] in 'GRAD=-50.0 opsz=144.0'
@@ -153,53 +160,84 @@ Glyph f_f_b.alt was not compatible:
 Glyph idieresis was not compatible:
   Masters: 'opsz=8.0', 'opsz=8.0 wdth=50.0':
     Contour 0 start point differs: 0 in 'opsz=8.0', 4 in 'opsz=8.0 wdth=50.0'; reversed: False
+    Contour 0 interpolation is underweight: 'opsz=8.0', 'opsz=8.0 wdth=50.0'
     Contour 1 start point differs: 0 in 'opsz=8.0', 4 in 'opsz=8.0 wdth=50.0'; reversed: False
+    Contour 1 interpolation is underweight: 'opsz=8.0', 'opsz=8.0 wdth=50.0'
   Masters: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0', 4 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
     Contour 1 start point differs: 0 in 'GRAD=-50.0', 4 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=50.0':
     Contour 0 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 4 in 'GRAD=100.0 opsz=8.0 wdth=50.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=50.0'
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 4 in 'GRAD=100.0 opsz=8.0 wdth=50.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=50.0'
   Masters: 'opsz=8.0 wdth=50.0', 'opsz=8.0 wdth=50.0 wght=100.0':
     Contour 0 start point differs: 0 in 'opsz=8.0 wdth=50.0', 12 in 'opsz=8.0 wdth=50.0 wght=100.0'; reversed: False
+    Contour 0 interpolation is underweight: 'opsz=8.0 wdth=50.0', 'opsz=8.0 wdth=50.0 wght=100.0'
     Contour 1 start point differs: 0 in 'opsz=8.0 wdth=50.0', 12 in 'opsz=8.0 wdth=50.0 wght=100.0'; reversed: False
+    Contour 1 interpolation is underweight: 'opsz=8.0 wdth=50.0', 'opsz=8.0 wdth=50.0 wght=100.0'
   Masters: 'opsz=8.0 wdth=50.0', 'opsz=8.0 wdth=50.0 wght=900.0':
     Contour 0 start point differs: 0 in 'opsz=8.0 wdth=50.0', 12 in 'opsz=8.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 0 interpolation is underweight: 'opsz=8.0 wdth=50.0', 'opsz=8.0 wdth=50.0 wght=900.0'
     Contour 1 start point differs: 0 in 'opsz=8.0 wdth=50.0', 12 in 'opsz=8.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 1 interpolation is underweight: 'opsz=8.0 wdth=50.0', 'opsz=8.0 wdth=50.0 wght=900.0'
   Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0 wdth=50.0', 12 in 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0'
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0 wdth=50.0', 12 in 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0'
   Masters: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0 wdth=50.0', 12 in 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0 wdth=50.0', 12 in 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=50.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=900.0'
   Masters: 'GRAD=100.0 opsz=8.0 wdth=50.0', 'GRAD=100.0 opsz=8.0 wdth=50.0 wght=100.0':
     Contour 0 start point differs: 0 in 'GRAD=100.0 opsz=8.0 wdth=50.0', 12 in 'GRAD=100.0 opsz=8.0 wdth=50.0 wght=100.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=100.0 opsz=8.0 wdth=50.0', 'GRAD=100.0 opsz=8.0 wdth=50.0 wght=100.0'
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=8.0 wdth=50.0', 12 in 'GRAD=100.0 opsz=8.0 wdth=50.0 wght=100.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=100.0 opsz=8.0 wdth=50.0', 'GRAD=100.0 opsz=8.0 wdth=50.0 wght=100.0'
   Masters: 'GRAD=100.0 opsz=8.0 wdth=50.0', 'GRAD=100.0 opsz=8.0 wdth=50.0 wght=900.0':
     Contour 0 start point differs: 0 in 'GRAD=100.0 opsz=8.0 wdth=50.0', 12 in 'GRAD=100.0 opsz=8.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=100.0 opsz=8.0 wdth=50.0', 'GRAD=100.0 opsz=8.0 wdth=50.0 wght=900.0'
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=8.0 wdth=50.0', 12 in 'GRAD=100.0 opsz=8.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=100.0 opsz=8.0 wdth=50.0', 'GRAD=100.0 opsz=8.0 wdth=50.0 wght=900.0'
 Glyph idieresisacute was not compatible:
   Masters: 'opsz=8.0', 'opsz=8.0 wdth=50.0':
     Contour 0 start point differs: 0 in 'opsz=8.0', 4 in 'opsz=8.0 wdth=50.0'; reversed: False
+    Contour 0 interpolation is underweight: 'opsz=8.0', 'opsz=8.0 wdth=50.0'
     Contour 1 start point differs: 0 in 'opsz=8.0', 4 in 'opsz=8.0 wdth=50.0'; reversed: False
+    Contour 1 interpolation is underweight: 'opsz=8.0', 'opsz=8.0 wdth=50.0'
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=50.0':
     Contour 0 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 4 in 'GRAD=100.0 opsz=8.0 wdth=50.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=50.0'
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 4 in 'GRAD=100.0 opsz=8.0 wdth=50.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=50.0'
   Masters: 'opsz=8.0 wdth=50.0', 'opsz=8.0 wdth=50.0 wght=100.0':
     Contour 0 start point differs: 0 in 'opsz=8.0 wdth=50.0', 12 in 'opsz=8.0 wdth=50.0 wght=100.0'; reversed: False
+    Contour 0 interpolation is underweight: 'opsz=8.0 wdth=50.0', 'opsz=8.0 wdth=50.0 wght=100.0'
     Contour 1 start point differs: 0 in 'opsz=8.0 wdth=50.0', 12 in 'opsz=8.0 wdth=50.0 wght=100.0'; reversed: False
+    Contour 1 interpolation is underweight: 'opsz=8.0 wdth=50.0', 'opsz=8.0 wdth=50.0 wght=100.0'
   Masters: 'opsz=8.0 wdth=50.0', 'opsz=8.0 wdth=50.0 wght=900.0':
     Contour 0 start point differs: 0 in 'opsz=8.0 wdth=50.0', 12 in 'opsz=8.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 0 interpolation is underweight: 'opsz=8.0 wdth=50.0', 'opsz=8.0 wdth=50.0 wght=900.0'
     Contour 1 start point differs: 0 in 'opsz=8.0 wdth=50.0', 12 in 'opsz=8.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 1 interpolation is underweight: 'opsz=8.0 wdth=50.0', 'opsz=8.0 wdth=50.0 wght=900.0'
   Masters: 'GRAD=100.0 opsz=8.0 wdth=50.0', 'GRAD=100.0 opsz=8.0 wdth=50.0 wght=100.0':
     Contour 0 start point differs: 0 in 'GRAD=100.0 opsz=8.0 wdth=50.0', 12 in 'GRAD=100.0 opsz=8.0 wdth=50.0 wght=100.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=100.0 opsz=8.0 wdth=50.0', 'GRAD=100.0 opsz=8.0 wdth=50.0 wght=100.0'
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=8.0 wdth=50.0', 12 in 'GRAD=100.0 opsz=8.0 wdth=50.0 wght=100.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=100.0 opsz=8.0 wdth=50.0', 'GRAD=100.0 opsz=8.0 wdth=50.0 wght=100.0'
   Masters: 'GRAD=100.0 opsz=8.0 wdth=50.0', 'GRAD=100.0 opsz=8.0 wdth=50.0 wght=900.0':
     Contour 0 start point differs: 0 in 'GRAD=100.0 opsz=8.0 wdth=50.0', 12 in 'GRAD=100.0 opsz=8.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=100.0 opsz=8.0 wdth=50.0', 'GRAD=100.0 opsz=8.0 wdth=50.0 wght=900.0'
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=8.0 wdth=50.0', 12 in 'GRAD=100.0 opsz=8.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=100.0 opsz=8.0 wdth=50.0', 'GRAD=100.0 opsz=8.0 wdth=50.0 wght=900.0'
 Glyph yukrcyr was not compatible:
   Masters: 'GRAD=100.0', 'GRAD=100.0 wght=100.0':
     Contour order differs: [0, 1, 2] in 'GRAD=100.0', [1, 0, 2] in 'GRAD=100.0 wght=100.0'
 Glyph zero.slashlin was not compatible:
   Masters: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0':
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=8.0 wdth=150.0', 10 in 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0'

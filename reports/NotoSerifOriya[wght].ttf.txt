@@ -1,15 +1,20 @@
 Glyph badaorya was not compatible:
   Masters: '', 'wght=700.0':
     Contour 1 start point differs: 0 in '', 18 in 'wght=700.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'wght=700.0'
 Glyph nnattaUIorya was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 5 in 'wght=700.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=700.0'
 Glyph nnattaorya was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 5 in 'wght=700.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=700.0'
 Glyph nnatthaUIorya was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 5 in 'wght=700.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=700.0'
 Glyph tasaorya was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 6 in 'wght=700.0'; reversed: True
+    Contour 0 interpolation is underweight: '', 'wght=700.0'

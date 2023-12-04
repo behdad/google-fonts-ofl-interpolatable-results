@@ -1,109 +1,160 @@
 Glyph Oslash was not compatible:
   Masters: '', 'wght=1000.0':
     Contour 0 start point differs: 0 in '', 3 in 'wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=1000.0'
   Masters: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=-11.0', 3 in 'slnt=-11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0'
   Masters: 'slnt=11.0', 'slnt=11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=11.0', 3 in 'slnt=11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=11.0', 'slnt=11.0 wght=1000.0'
 Glyph Oslash.BRACKET.varAlt01 was not compatible:
   Masters: '', 'wght=200.0':
     Contour order differs: [0, 1, 2, 3] in '', [1, 0, 2, 3] in 'wght=200.0'
     Contour 0 start point differs: 0 in '', 1 in 'wght=200.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=200.0'
   Masters: 'slnt=-11.0', 'slnt=-11.0 wght=200.0':
     Contour order differs: [0, 1, 2, 3] in 'slnt=-11.0', [1, 0, 2, 3] in 'slnt=-11.0 wght=200.0'
     Contour 0 start point differs: 0 in 'slnt=-11.0', 1 in 'slnt=-11.0 wght=200.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=-11.0', 'slnt=-11.0 wght=200.0'
   Masters: 'slnt=11.0', 'slnt=11.0 wght=200.0':
     Contour 0 start point differs: 0 in 'slnt=11.0', 1 in 'slnt=11.0 wght=200.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=11.0', 'slnt=11.0 wght=200.0'
 Glyph Oslash.color0 was not compatible:
   Masters: '', 'wght=1000.0':
     Contour 0 start point differs: 0 in '', 3 in 'wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=1000.0'
   Masters: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=-11.0', 3 in 'slnt=-11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0'
   Masters: 'slnt=11.0', 'slnt=11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=11.0', 3 in 'slnt=11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=11.0', 'slnt=11.0 wght=1000.0'
 Glyph Oslash.color1 was not compatible:
   Masters: '', 'wght=1000.0':
     Contour 0 start point differs: 0 in '', 3 in 'wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=1000.0'
   Masters: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=-11.0', 3 in 'slnt=-11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0'
   Masters: 'slnt=11.0', 'slnt=11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=11.0', 3 in 'slnt=11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=11.0', 'slnt=11.0 wght=1000.0'
 Glyph Oslashacute was not compatible:
   Masters: '', 'wght=1000.0':
     Contour 0 start point differs: 0 in '', 3 in 'wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=1000.0'
     Contour 2 start point differs: 0 in '', 1 in 'wght=1000.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'wght=1000.0'
   Masters: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=-11.0', 3 in 'slnt=-11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0'
     Contour 2 start point differs: 0 in 'slnt=-11.0', 1 in 'slnt=-11.0 wght=1000.0'; reversed: False
+    Contour 2 interpolation is underweight: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0'
   Masters: 'slnt=11.0', 'slnt=11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=11.0', 3 in 'slnt=11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=11.0', 'slnt=11.0 wght=1000.0'
     Contour 2 start point differs: 0 in 'slnt=11.0', 1 in 'slnt=11.0 wght=1000.0'; reversed: False
+    Contour 2 interpolation is underweight: 'slnt=11.0', 'slnt=11.0 wght=1000.0'
 Glyph Oslashacute.BRACKET.varAlt01 was not compatible:
   Masters: '', 'wght=200.0':
     Contour order differs: [0, 1, 2, 3, 4] in '', [1, 0, 2, 3, 4] in 'wght=200.0'
     Contour 0 start point differs: 0 in '', 1 in 'wght=200.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=200.0'
   Masters: '', 'wght=1000.0':
     Contour 2 start point differs: 0 in '', 1 in 'wght=1000.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'wght=1000.0'
   Masters: 'slnt=-11.0', 'slnt=-11.0 wght=200.0':
     Contour order differs: [0, 1, 2, 3, 4] in 'slnt=-11.0', [1, 0, 2, 3, 4] in 'slnt=-11.0 wght=200.0'
     Contour 0 start point differs: 0 in 'slnt=-11.0', 1 in 'slnt=-11.0 wght=200.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=-11.0', 'slnt=-11.0 wght=200.0'
   Masters: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0':
     Contour 2 start point differs: 0 in 'slnt=-11.0', 1 in 'slnt=-11.0 wght=1000.0'; reversed: False
+    Contour 2 interpolation is underweight: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0'
   Masters: 'slnt=11.0', 'slnt=11.0 wght=200.0':
     Contour 0 start point differs: 0 in 'slnt=11.0', 1 in 'slnt=11.0 wght=200.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=11.0', 'slnt=11.0 wght=200.0'
   Masters: 'slnt=11.0', 'slnt=11.0 wght=1000.0':
     Contour 2 start point differs: 0 in 'slnt=11.0', 1 in 'slnt=11.0 wght=1000.0'; reversed: False
+    Contour 2 interpolation is underweight: 'slnt=11.0', 'slnt=11.0 wght=1000.0'
 Glyph Oslashacute.color0 was not compatible:
   Masters: '', 'wght=1000.0':
     Contour 0 start point differs: 0 in '', 3 in 'wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=1000.0'
   Masters: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=-11.0', 3 in 'slnt=-11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0'
   Masters: 'slnt=11.0', 'slnt=11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=11.0', 3 in 'slnt=11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=11.0', 'slnt=11.0 wght=1000.0'
 Glyph Oslashacute.color1 was not compatible:
   Masters: '', 'wght=1000.0':
     Contour 0 start point differs: 0 in '', 3 in 'wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=1000.0'
     Contour 2 start point differs: 0 in '', 1 in 'wght=1000.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'wght=1000.0'
   Masters: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=-11.0', 3 in 'slnt=-11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0'
     Contour 2 start point differs: 0 in 'slnt=-11.0', 1 in 'slnt=-11.0 wght=1000.0'; reversed: False
+    Contour 2 interpolation is underweight: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0'
   Masters: 'slnt=11.0', 'slnt=11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=11.0', 3 in 'slnt=11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=11.0', 'slnt=11.0 wght=1000.0'
     Contour 2 start point differs: 0 in 'slnt=11.0', 1 in 'slnt=11.0 wght=1000.0'; reversed: False
+    Contour 2 interpolation is underweight: 'slnt=11.0', 'slnt=11.0 wght=1000.0'
 Glyph acute.cap was not compatible:
   Masters: '', 'wght=1000.0':
     Contour 0 start point differs: 0 in '', 1 in 'wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=1000.0'
   Masters: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=-11.0', 1 in 'slnt=-11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0'
   Masters: 'slnt=11.0', 'slnt=11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=11.0', 1 in 'slnt=11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=11.0', 'slnt=11.0 wght=1000.0'
 Glyph acute.cap.color0 was not compatible:
   Masters: '', 'wght=1000.0':
     Contour 0 start point differs: 0 in '', 1 in 'wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=1000.0'
   Masters: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=-11.0', 1 in 'slnt=-11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0'
   Masters: 'slnt=11.0', 'slnt=11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=11.0', 1 in 'slnt=11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=11.0', 'slnt=11.0 wght=1000.0'
 Glyph currency was not compatible:
   Masters: '', 'wght=1000.0':
     Contour 0 start point differs: 0 in '', 20 in 'wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=1000.0'
     Contour 2 start point differs: 0 in '', 4 in 'wght=1000.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'wght=1000.0'
   Masters: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=-11.0', 20 in 'slnt=-11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0'
     Contour 2 start point differs: 0 in 'slnt=-11.0', 2 in 'slnt=-11.0 wght=1000.0'; reversed: False
+    Contour 2 interpolation is underweight: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0'
   Masters: 'slnt=11.0', 'slnt=11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=11.0', 22 in 'slnt=11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=11.0', 'slnt=11.0 wght=1000.0'
     Contour 2 start point differs: 0 in 'slnt=11.0', 2 in 'slnt=11.0 wght=1000.0'; reversed: False
+    Contour 2 interpolation is underweight: 'slnt=11.0', 'slnt=11.0 wght=1000.0'
 Glyph currency.color0 was not compatible:
   Masters: '', 'wght=1000.0':
     Contour 0 start point differs: 0 in '', 20 in 'wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=1000.0'
     Contour 2 start point differs: 0 in '', 4 in 'wght=1000.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'wght=1000.0'
   Masters: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=-11.0', 20 in 'slnt=-11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0'
     Contour 2 start point differs: 0 in 'slnt=-11.0', 2 in 'slnt=-11.0 wght=1000.0'; reversed: False
+    Contour 2 interpolation is underweight: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0'
   Masters: 'slnt=11.0', 'slnt=11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=11.0', 22 in 'slnt=11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=11.0', 'slnt=11.0 wght=1000.0'
     Contour 2 start point differs: 0 in 'slnt=11.0', 2 in 'slnt=11.0 wght=1000.0'; reversed: False
+    Contour 2 interpolation is underweight: 'slnt=11.0', 'slnt=11.0 wght=1000.0'
 Glyph dad_noonar.color1 was not compatible:
   Masters: '', 'slnt=-11.0':
     Contour order differs: [0, 1] in '', [1, 0] in 'slnt=-11.0'
@@ -116,164 +167,252 @@ Glyph dad_noonar.color1 was not compatible:
 Glyph dollar was not compatible:
   Masters: '', 'wght=1000.0':
     Contour 1 start point differs: 0 in '', 3 in 'wght=1000.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'wght=1000.0'
   Masters: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0':
     Contour 1 start point differs: 0 in 'slnt=-11.0', 3 in 'slnt=-11.0 wght=1000.0'; reversed: False
+    Contour 1 interpolation is underweight: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0'
   Masters: 'slnt=11.0', 'slnt=11.0 wght=1000.0':
     Contour 1 start point differs: 0 in 'slnt=11.0', 3 in 'slnt=11.0 wght=1000.0'; reversed: False
+    Contour 1 interpolation is underweight: 'slnt=11.0', 'slnt=11.0 wght=1000.0'
 Glyph dollar.color0 was not compatible:
   Masters: '', 'wght=1000.0':
     Contour 1 start point differs: 0 in '', 3 in 'wght=1000.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'wght=1000.0'
   Masters: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0':
     Contour 1 start point differs: 0 in 'slnt=-11.0', 3 in 'slnt=-11.0 wght=1000.0'; reversed: False
+    Contour 1 interpolation is underweight: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0'
   Masters: 'slnt=11.0', 'slnt=11.0 wght=1000.0':
     Contour 1 start point differs: 0 in 'slnt=11.0', 3 in 'slnt=11.0 wght=1000.0'; reversed: False
+    Contour 1 interpolation is underweight: 'slnt=11.0', 'slnt=11.0 wght=1000.0'
 Glyph grave.cap was not compatible:
   Masters: '', 'wght=1000.0':
     Contour 0 start point differs: 0 in '', 3 in 'wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=1000.0'
   Masters: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=-11.0', 3 in 'slnt=-11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0'
   Masters: 'slnt=11.0', 'slnt=11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=11.0', 3 in 'slnt=11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=11.0', 'slnt=11.0 wght=1000.0'
 Glyph grave.cap.color0 was not compatible:
   Masters: '', 'wght=1000.0':
     Contour 0 start point differs: 0 in '', 3 in 'wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=1000.0'
   Masters: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=-11.0', 3 in 'slnt=-11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0'
   Masters: 'slnt=11.0', 'slnt=11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=11.0', 3 in 'slnt=11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=11.0', 'slnt=11.0 wght=1000.0'
 Glyph quotedblbase was not compatible:
   Masters: '', 'wght=1000.0':
     Contour 0 start point differs: 0 in '', 2 in 'wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=1000.0'
     Contour 1 start point differs: 0 in '', 2 in 'wght=1000.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'wght=1000.0'
   Masters: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=-11.0', 2 in 'slnt=-11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0'
     Contour 1 start point differs: 0 in 'slnt=-11.0', 2 in 'slnt=-11.0 wght=1000.0'; reversed: False
+    Contour 1 interpolation is underweight: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0'
   Masters: 'slnt=11.0', 'slnt=11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=11.0', 2 in 'slnt=11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=11.0', 'slnt=11.0 wght=1000.0'
     Contour 1 start point differs: 0 in 'slnt=11.0', 2 in 'slnt=11.0 wght=1000.0'; reversed: False
+    Contour 1 interpolation is underweight: 'slnt=11.0', 'slnt=11.0 wght=1000.0'
 Glyph quotedblbase.color0 was not compatible:
   Masters: '', 'wght=1000.0':
     Contour 0 start point differs: 0 in '', 2 in 'wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=1000.0'
     Contour 1 start point differs: 0 in '', 2 in 'wght=1000.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'wght=1000.0'
   Masters: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=-11.0', 2 in 'slnt=-11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0'
     Contour 1 start point differs: 0 in 'slnt=-11.0', 2 in 'slnt=-11.0 wght=1000.0'; reversed: False
+    Contour 1 interpolation is underweight: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0'
   Masters: 'slnt=11.0', 'slnt=11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=11.0', 2 in 'slnt=11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=11.0', 'slnt=11.0 wght=1000.0'
     Contour 1 start point differs: 0 in 'slnt=11.0', 2 in 'slnt=11.0 wght=1000.0'; reversed: False
+    Contour 1 interpolation is underweight: 'slnt=11.0', 'slnt=11.0 wght=1000.0'
 Glyph threedotsdownabovear was not compatible:
   Masters: '', 'slnt=-11.0':
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'slnt=-11.0'
     Contour 0 start point differs: 0 in '', 3 in 'slnt=-11.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'slnt=-11.0'
     Contour 1 start point differs: 0 in '', 3 in 'slnt=-11.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'slnt=-11.0'
     Contour 2 start point differs: 0 in '', 3 in 'slnt=-11.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'slnt=-11.0'
   Masters: '', 'slnt=11.0':
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'slnt=11.0'
     Contour 0 start point differs: 0 in '', 3 in 'slnt=11.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'slnt=11.0'
     Contour 1 start point differs: 0 in '', 3 in 'slnt=11.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'slnt=11.0'
     Contour 2 start point differs: 0 in '', 3 in 'slnt=11.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'slnt=11.0'
 Glyph threedotsdownabovear.color0 was not compatible:
   Masters: '', 'slnt=-11.0':
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'slnt=-11.0'
     Contour 0 start point differs: 0 in '', 3 in 'slnt=-11.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'slnt=-11.0'
     Contour 1 start point differs: 0 in '', 3 in 'slnt=-11.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'slnt=-11.0'
     Contour 2 start point differs: 0 in '', 3 in 'slnt=-11.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'slnt=-11.0'
   Masters: '', 'slnt=11.0':
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'slnt=11.0'
     Contour 0 start point differs: 0 in '', 3 in 'slnt=11.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'slnt=11.0'
     Contour 1 start point differs: 0 in '', 3 in 'slnt=11.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'slnt=11.0'
     Contour 2 start point differs: 0 in '', 3 in 'slnt=11.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'slnt=11.0'
 Glyph threedotsdownbelowar was not compatible:
   Masters: '', 'slnt=-11.0':
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'slnt=-11.0'
     Contour 0 start point differs: 0 in '', 3 in 'slnt=-11.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'slnt=-11.0'
     Contour 1 start point differs: 0 in '', 3 in 'slnt=-11.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'slnt=-11.0'
     Contour 2 start point differs: 0 in '', 3 in 'slnt=-11.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'slnt=-11.0'
   Masters: '', 'slnt=11.0':
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'slnt=11.0'
     Contour 0 start point differs: 0 in '', 3 in 'slnt=11.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'slnt=11.0'
     Contour 1 start point differs: 0 in '', 3 in 'slnt=11.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'slnt=11.0'
     Contour 2 start point differs: 0 in '', 3 in 'slnt=11.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'slnt=11.0'
 Glyph threedotsdownbelowar.color0 was not compatible:
   Masters: '', 'slnt=-11.0':
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'slnt=-11.0'
     Contour 0 start point differs: 0 in '', 3 in 'slnt=-11.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'slnt=-11.0'
     Contour 1 start point differs: 0 in '', 3 in 'slnt=-11.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'slnt=-11.0'
     Contour 2 start point differs: 0 in '', 3 in 'slnt=-11.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'slnt=-11.0'
   Masters: '', 'slnt=11.0':
     Contour order differs: [0, 1, 2] in '', [1, 0, 2] in 'slnt=11.0'
     Contour 0 start point differs: 0 in '', 3 in 'slnt=11.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'slnt=11.0'
     Contour 1 start point differs: 0 in '', 3 in 'slnt=11.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'slnt=11.0'
     Contour 2 start point differs: 0 in '', 3 in 'slnt=11.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'slnt=11.0'
 Glyph uni064C was not compatible:
   Masters: '', 'wght=200.0':
     Contour 0 start point differs: 0 in '', 3 in 'wght=200.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=200.0'
   Masters: '', 'wght=1000.0':
     Contour 0 start point differs: 0 in '', 3 in 'wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=1000.0'
   Masters: 'slnt=-11.0', 'slnt=-11.0 wght=200.0':
     Contour 0 start point differs: 0 in 'slnt=-11.0', 3 in 'slnt=-11.0 wght=200.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=-11.0', 'slnt=-11.0 wght=200.0'
   Masters: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=-11.0', 3 in 'slnt=-11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0'
   Masters: 'slnt=11.0', 'slnt=11.0 wght=200.0':
     Contour 0 start point differs: 0 in 'slnt=11.0', 3 in 'slnt=11.0 wght=200.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=11.0', 'slnt=11.0 wght=200.0'
   Masters: 'slnt=11.0', 'slnt=11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=11.0', 3 in 'slnt=11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=11.0', 'slnt=11.0 wght=1000.0'
 Glyph uni064C.color0 was not compatible:
   Masters: '', 'wght=200.0':
     Contour 0 start point differs: 0 in '', 3 in 'wght=200.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=200.0'
   Masters: '', 'wght=1000.0':
     Contour 0 start point differs: 0 in '', 3 in 'wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=1000.0'
   Masters: 'slnt=-11.0', 'slnt=-11.0 wght=200.0':
     Contour 0 start point differs: 0 in 'slnt=-11.0', 3 in 'slnt=-11.0 wght=200.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=-11.0', 'slnt=-11.0 wght=200.0'
   Masters: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=-11.0', 3 in 'slnt=-11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=-11.0', 'slnt=-11.0 wght=1000.0'
   Masters: 'slnt=11.0', 'slnt=11.0 wght=200.0':
     Contour 0 start point differs: 0 in 'slnt=11.0', 3 in 'slnt=11.0 wght=200.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=11.0', 'slnt=11.0 wght=200.0'
   Masters: 'slnt=11.0', 'slnt=11.0 wght=1000.0':
     Contour 0 start point differs: 0 in 'slnt=11.0', 3 in 'slnt=11.0 wght=1000.0'; reversed: False
+    Contour 0 interpolation is underweight: 'slnt=11.0', 'slnt=11.0 wght=1000.0'
 Glyph uni0668 was not compatible:
   Masters: '', 'slnt=-11.0':
     Contour 0 start point differs: 0 in '', 9 in 'slnt=-11.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'slnt=-11.0'
   Masters: '', 'slnt=11.0':
     Contour 0 start point differs: 0 in '', 9 in 'slnt=11.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'slnt=11.0'
 Glyph uni0668.color0 was not compatible:
   Masters: '', 'slnt=-11.0':
     Contour 0 start point differs: 0 in '', 9 in 'slnt=-11.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'slnt=-11.0'
   Masters: '', 'slnt=11.0':
     Contour 0 start point differs: 0 in '', 9 in 'slnt=11.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'slnt=11.0'
 Glyph uni0686 was not compatible:
   Masters: '', 'slnt=-11.0':
     Contour 0 start point differs: 0 in '', 3 in 'slnt=-11.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'slnt=-11.0'
     Contour 1 start point differs: 0 in '', 3 in 'slnt=-11.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'slnt=-11.0'
     Contour 2 start point differs: 0 in '', 3 in 'slnt=-11.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'slnt=-11.0'
   Masters: '', 'slnt=11.0':
     Contour 0 start point differs: 0 in '', 3 in 'slnt=11.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'slnt=11.0'
     Contour 1 start point differs: 0 in '', 3 in 'slnt=11.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'slnt=11.0'
     Contour 2 start point differs: 0 in '', 3 in 'slnt=11.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'slnt=11.0'
 Glyph uni0686.color1 was not compatible:
   Masters: '', 'slnt=-11.0':
     Contour 0 start point differs: 0 in '', 3 in 'slnt=-11.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'slnt=-11.0'
     Contour 1 start point differs: 0 in '', 3 in 'slnt=-11.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'slnt=-11.0'
     Contour 2 start point differs: 0 in '', 3 in 'slnt=-11.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'slnt=-11.0'
   Masters: '', 'slnt=11.0':
     Contour 0 start point differs: 0 in '', 3 in 'slnt=11.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'slnt=11.0'
     Contour 1 start point differs: 0 in '', 3 in 'slnt=11.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'slnt=11.0'
     Contour 2 start point differs: 0 in '', 3 in 'slnt=11.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'slnt=11.0'
 Glyph uni0686.fina.color1 was not compatible:
   Masters: '', 'slnt=-11.0':
     Contour 0 start point differs: 0 in '', 3 in 'slnt=-11.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'slnt=-11.0'
     Contour 1 start point differs: 0 in '', 3 in 'slnt=-11.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'slnt=-11.0'
     Contour 2 start point differs: 0 in '', 3 in 'slnt=-11.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'slnt=-11.0'
   Masters: '', 'slnt=11.0':
     Contour 0 start point differs: 0 in '', 3 in 'slnt=11.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'slnt=11.0'
     Contour 1 start point differs: 0 in '', 3 in 'slnt=11.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'slnt=11.0'
     Contour 2 start point differs: 0 in '', 3 in 'slnt=11.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'slnt=11.0'
 Glyph uniFB7B was not compatible:
   Masters: '', 'slnt=-11.0':
     Contour 0 start point differs: 0 in '', 3 in 'slnt=-11.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'slnt=-11.0'
     Contour 1 start point differs: 0 in '', 3 in 'slnt=-11.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'slnt=-11.0'
     Contour 2 start point differs: 0 in '', 3 in 'slnt=-11.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'slnt=-11.0'
   Masters: '', 'slnt=11.0':
     Contour 0 start point differs: 0 in '', 3 in 'slnt=11.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'slnt=11.0'
     Contour 1 start point differs: 0 in '', 3 in 'slnt=11.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'slnt=11.0'
     Contour 2 start point differs: 0 in '', 3 in 'slnt=11.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'slnt=11.0'

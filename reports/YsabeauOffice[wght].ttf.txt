@@ -1,8 +1,10 @@
 Glyph uni048F was not compatible:
   Masters: '', 'wght=250.1318':
     Contour 2 start point differs: 0 in '', 1 in 'wght=250.1318'; reversed: False
+    Contour 2 interpolation is underweight: '', 'wght=250.1318'
   Masters: 'wght=250.1318', 'wght=1.0':
     Contour 2 start point differs: 0 in 'wght=250.1318', 3 in 'wght=1.0'; reversed: False
+    Contour 2 interpolation is underweight: 'wght=250.1318', 'wght=1.0'
 Glyph uni04B9 was not compatible:
   Masters: '', 'wght=1000.0':
     Contour order differs: [0, 1, 2] in '', [0, 2, 1] in 'wght=1000.0'

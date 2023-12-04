@@ -15,5 +15,7 @@ Glyph slash was not compatible:
 Glyph uni0328 was not compatible:
   Masters: '', 'wdth=125.0':
     Contour 0 start point differs: 0 in '', 44 in 'wdth=125.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wdth=125.0'
   Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
     Contour 0 start point differs: 0 in 'wdth=125.0', 8 in 'wdth=125.0 wght=700.0'; reversed: False
+    Contour 0 interpolation is underweight: 'wdth=125.0', 'wdth=125.0 wght=700.0'

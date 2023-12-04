@@ -1,3 +1,4 @@
 Glyph uni04A8 was not compatible:
   Masters: 'wght=500.0', 'wght=900.0':
     Contour 1 start point differs: 0 in 'wght=500.0', 6 in 'wght=900.0'; reversed: False
+    Contour 1 interpolation is underweight: 'wght=500.0', 'wght=900.0'

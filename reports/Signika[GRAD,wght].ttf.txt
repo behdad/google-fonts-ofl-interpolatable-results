@@ -1,5 +1,7 @@
 Glyph ico.tag was not compatible:
   Masters: '', 'wght=700.0':
     Contour 2 start point differs: 0 in '', 28 in 'wght=700.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'wght=700.0'
   Masters: 'GRAD=-30.0', 'GRAD=-30.0 wght=700.0':
     Contour 2 start point differs: 0 in 'GRAD=-30.0', 28 in 'GRAD=-30.0 wght=700.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=-30.0', 'GRAD=-30.0 wght=700.0'

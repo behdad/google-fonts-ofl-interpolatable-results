@@ -4,6 +4,8 @@ Glyph sh_caoriya was not compatible:
 Glyph uni00760921 was not compatible:
   Masters: '', 'wght=700.0':
     Contour 1 start point differs: 0 in '', 32 in 'wght=700.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'wght=700.0'
 Glyph uni0931094D was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 8 in 'wght=700.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=700.0'

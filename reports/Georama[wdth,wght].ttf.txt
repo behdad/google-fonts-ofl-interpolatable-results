@@ -1,7 +1,9 @@
 Glyph uni0030.tosf.zero was not compatible:
   Masters: 'wght=558.3418', 'wdth=100.0015 wght=558.3418':
     Contour 0 start point differs: 0 in 'wght=558.3418', 18 in 'wdth=100.0015 wght=558.3418'; reversed: False
+    Contour 0 interpolation is underweight: 'wght=558.3418', 'wdth=100.0015 wght=558.3418'
     Contour 1 start point differs: 0 in 'wght=558.3418', 4 in 'wdth=100.0015 wght=558.3418'; reversed: False
+    Contour 1 interpolation is underweight: 'wght=558.3418', 'wdth=100.0015 wght=558.3418'
 Glyph uni2052 was not compatible:
   Masters: '', 'wdth=150.0':
     Contour 0 interpolation is underweight: '', 'wdth=150.0'

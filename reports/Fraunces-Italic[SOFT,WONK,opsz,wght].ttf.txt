@@ -53,6 +53,7 @@ Glyph lira was not compatible:
 Glyph o was not compatible:
   Masters: '', 'opsz=144.0':
     Contour 1 start point differs: 0 in '', 28 in 'opsz=144.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'opsz=144.0'
   Masters: 'SOFT=100.0', 'SOFT=100.0 opsz=144.0':
     Contour 1 start point differs: 0 in 'SOFT=100.0', 30 in 'SOFT=100.0 opsz=144.0'; reversed: False
   Masters: 'opsz=144.0', 'opsz=144.0 wght=100.0':
@@ -67,6 +68,7 @@ Glyph oe was not compatible:
 Glyph ohorn was not compatible:
   Masters: '', 'opsz=144.0':
     Contour 2 start point differs: 0 in '', 28 in 'opsz=144.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'opsz=144.0'
   Masters: 'SOFT=100.0', 'SOFT=100.0 opsz=144.0':
     Contour 2 start point differs: 0 in 'SOFT=100.0', 30 in 'SOFT=100.0 opsz=144.0'; reversed: False
   Masters: 'opsz=144.0', 'opsz=144.0 wght=100.0':
@@ -74,6 +76,7 @@ Glyph ohorn was not compatible:
 Glyph oslash was not compatible:
   Masters: '', 'opsz=144.0':
     Contour 2 start point differs: 0 in '', 28 in 'opsz=144.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'opsz=144.0'
   Masters: 'SOFT=100.0', 'SOFT=100.0 opsz=144.0':
     Contour 2 start point differs: 0 in 'SOFT=100.0', 30 in 'SOFT=100.0 opsz=144.0'; reversed: False
   Masters: 'opsz=144.0', 'opsz=144.0 wght=100.0':

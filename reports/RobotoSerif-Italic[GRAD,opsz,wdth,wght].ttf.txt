@@ -12,6 +12,7 @@ Glyph Q was not compatible:
     Contour 1 has a kink at 36: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
   Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0 wdth=150.0', 26 in 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0 wdth=150.0', 2 in 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'; reversed: False
 Glyph cent.alt was not compatible:
   Masters: 'GRAD=100.0', 'GRAD=100.0 opsz=144.0':
@@ -27,10 +28,13 @@ Glyph cent.alt was not compatible:
 Glyph colonmonetary was not compatible:
   Masters: 'GRAD=-50.0 opsz=144.0 wdth=50.0', 'GRAD=-50.0 opsz=144.0 wdth=50.0 wght=100.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=144.0 wdth=50.0', 9 in 'GRAD=-50.0 opsz=144.0 wdth=50.0 wght=100.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=144.0 wdth=50.0', 'GRAD=-50.0 opsz=144.0 wdth=50.0 wght=100.0'
 Glyph currency was not compatible:
   Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0':
     Contour 2 start point differs: 0 in 'GRAD=-50.0 opsz=8.0 wdth=150.0', 6 in 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'
     Contour 3 start point differs: 0 in 'GRAD=-50.0 opsz=8.0 wdth=150.0', 8 in 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'; reversed: False
+    Contour 3 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'
 Glyph dieresis was not compatible:
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0':
     Contour order differs: [0, 1] in 'GRAD=-50.0 opsz=8.0', [1, 0] in 'GRAD=-50.0 opsz=8.0 wght=900.0'
@@ -53,19 +57,27 @@ Glyph eight was not compatible:
 Glyph eight.den was not compatible:
   Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
     Contour 2 start point differs: 0 in 'GRAD=-50.0 opsz=8.0 wdth=150.0', 4 in 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
     Contour 3 start point differs: 0 in 'GRAD=-50.0 opsz=8.0 wdth=150.0', 4 in 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'; reversed: False
+    Contour 3 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
     Contour 2 has a kink at 8: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
     Contour 3 has a kink at 8: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
   Masters: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0':
     Contour 2 start point differs: 0 in 'GRAD=100.0 opsz=8.0 wdth=150.0', 4 in 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0'
     Contour 3 start point differs: 0 in 'GRAD=100.0 opsz=8.0 wdth=150.0', 4 in 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0'; reversed: False
+    Contour 3 interpolation is underweight: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0'
     Contour 2 has a kink at 20: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0'
     Contour 3 has a kink at 8: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0'
   Masters: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0':
     Contour 0 start point differs: 0 in 'GRAD=100.0 opsz=144.0 wdth=50.0', 20 in 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=144.0 wdth=50.0', 18 in 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'
     Contour 2 start point differs: 0 in 'GRAD=100.0 opsz=144.0 wdth=50.0', 8 in 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'
     Contour 3 start point differs: 0 in 'GRAD=100.0 opsz=144.0 wdth=50.0', 8 in 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 3 interpolation is underweight: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'
 Glyph eight.lintab was not compatible:
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=150.0':
     Contour 0 has a kink at 22: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=150.0'
@@ -83,6 +95,7 @@ Glyph g.alt was not compatible:
     Contour 3 has a kink at 22: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'
   Masters: 'GRAD=100.0 opsz=144.0 wdth=150.0', 'GRAD=100.0 opsz=144.0 wdth=150.0 wght=100.0':
     Contour 3 start point differs: 0 in 'GRAD=100.0 opsz=144.0 wdth=150.0', 18 in 'GRAD=100.0 opsz=144.0 wdth=150.0 wght=100.0'; reversed: False
+    Contour 3 interpolation is underweight: 'GRAD=100.0 opsz=144.0 wdth=150.0', 'GRAD=100.0 opsz=144.0 wdth=150.0 wght=100.0'
 Glyph gcaron.alt was not compatible:
   Masters: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0':
     Contour 4 start point differs: 0 in 'GRAD=100.0 opsz=144.0 wdth=50.0', 32 in 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
@@ -90,6 +103,7 @@ Glyph gcaron.alt was not compatible:
     Contour 4 has a kink at 22: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'
   Masters: 'GRAD=100.0 opsz=144.0 wdth=150.0', 'GRAD=100.0 opsz=144.0 wdth=150.0 wght=100.0':
     Contour 4 start point differs: 0 in 'GRAD=100.0 opsz=144.0 wdth=150.0', 18 in 'GRAD=100.0 opsz=144.0 wdth=150.0 wght=100.0'; reversed: False
+    Contour 4 interpolation is underweight: 'GRAD=100.0 opsz=144.0 wdth=150.0', 'GRAD=100.0 opsz=144.0 wdth=150.0 wght=100.0'
 Glyph gcommaaccent.alt was not compatible:
   Masters: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0':
     Contour 4 start point differs: 0 in 'GRAD=100.0 opsz=144.0 wdth=50.0', 32 in 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
@@ -97,52 +111,75 @@ Glyph gcommaaccent.alt was not compatible:
     Contour 4 has a kink at 22: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0'
   Masters: 'GRAD=100.0 opsz=144.0 wdth=150.0', 'GRAD=100.0 opsz=144.0 wdth=150.0 wght=100.0':
     Contour 4 start point differs: 0 in 'GRAD=100.0 opsz=144.0 wdth=150.0', 18 in 'GRAD=100.0 opsz=144.0 wdth=150.0 wght=100.0'; reversed: False
+    Contour 4 interpolation is underweight: 'GRAD=100.0 opsz=144.0 wdth=150.0', 'GRAD=100.0 opsz=144.0 wdth=150.0 wght=100.0'
 Glyph naira was not compatible:
   Masters: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0':
     Contour 4 start point differs: 0 in 'GRAD=-50.0', 1 in 'GRAD=-50.0 opsz=8.0'; reversed: False
+    Contour 4 interpolation is underweight: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
   Masters: 'GRAD=100.0', 'GRAD=100.0 opsz=8.0':
     Contour 4 start point differs: 0 in 'GRAD=100.0', 1 in 'GRAD=100.0 opsz=8.0'; reversed: False
+    Contour 4 interpolation is underweight: 'GRAD=100.0', 'GRAD=100.0 opsz=8.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0':
     Contour 4 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 5 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
+    Contour 4 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0':
     Contour 4 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 5 in 'GRAD=-50.0 opsz=8.0 wdth=150.0'; reversed: False
+    Contour 4 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0':
     Contour 4 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 5 in 'GRAD=-50.0 opsz=8.0 wght=100.0'; reversed: False
+    Contour 4 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0':
     Contour 4 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 5 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
+    Contour 4 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=50.0':
     Contour 4 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 5 in 'GRAD=100.0 opsz=8.0 wdth=50.0'; reversed: False
+    Contour 4 interpolation is underweight: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=50.0'
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=150.0':
     Contour 4 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 5 in 'GRAD=100.0 opsz=8.0 wdth=150.0'; reversed: False
+    Contour 4 interpolation is underweight: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=150.0'
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=100.0':
     Contour 4 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 5 in 'GRAD=100.0 opsz=8.0 wght=100.0'; reversed: False
+    Contour 4 interpolation is underweight: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=100.0'
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=900.0':
     Contour 4 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 5 in 'GRAD=100.0 opsz=8.0 wght=900.0'; reversed: False
+    Contour 4 interpolation is underweight: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=900.0'
 Glyph naira.proportional was not compatible:
   Masters: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0':
     Contour 3 start point differs: 0 in 'GRAD=-50.0', 1 in 'GRAD=-50.0 opsz=8.0'; reversed: False
+    Contour 3 interpolation is underweight: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
   Masters: 'GRAD=100.0', 'GRAD=100.0 opsz=8.0':
     Contour 3 start point differs: 0 in 'GRAD=100.0', 1 in 'GRAD=100.0 opsz=8.0'; reversed: False
+    Contour 3 interpolation is underweight: 'GRAD=100.0', 'GRAD=100.0 opsz=8.0'
   Masters: 'opsz=8.0', 'opsz=8.0 wght=900.0':
     Contour 3 start point differs: 0 in 'opsz=8.0', 1 in 'opsz=8.0 wght=900.0'; reversed: False
+    Contour 3 interpolation is underweight: 'opsz=8.0', 'opsz=8.0 wght=900.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0':
     Contour 3 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 5 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
+    Contour 3 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0':
     Contour 3 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 5 in 'GRAD=-50.0 opsz=8.0 wdth=150.0'; reversed: False
+    Contour 3 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0':
     Contour 3 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 5 in 'GRAD=-50.0 opsz=8.0 wght=100.0'; reversed: False
+    Contour 3 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0':
     Contour 3 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 5 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
+    Contour 3 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=50.0':
     Contour 3 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 5 in 'GRAD=100.0 opsz=8.0 wdth=50.0'; reversed: False
+    Contour 3 interpolation is underweight: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=50.0'
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=150.0':
     Contour 3 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 5 in 'GRAD=100.0 opsz=8.0 wdth=150.0'; reversed: False
+    Contour 3 interpolation is underweight: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=150.0'
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=100.0':
     Contour 3 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 5 in 'GRAD=100.0 opsz=8.0 wght=100.0'; reversed: False
+    Contour 3 interpolation is underweight: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=100.0'
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=900.0':
     Contour 3 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 5 in 'GRAD=100.0 opsz=8.0 wght=900.0'; reversed: False
+    Contour 3 interpolation is underweight: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=900.0'
   Masters: 'opsz=8.0 wdth=50.0', 'opsz=8.0 wdth=50.0 wght=900.0':
     Contour 3 start point differs: 0 in 'opsz=8.0 wdth=50.0', 1 in 'opsz=8.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 3 interpolation is underweight: 'opsz=8.0 wdth=50.0', 'opsz=8.0 wdth=50.0 wght=900.0'
 Glyph nine.linprop was not compatible:
   Masters: 'opsz=8.0 wdth=150.0', 'opsz=8.0 wdth=150.0 wght=100.0':
     Contour 0 has a kink at 59: 'opsz=8.0 wdth=150.0', 'opsz=8.0 wdth=150.0 wght=100.0'
@@ -196,24 +233,30 @@ Glyph ocaron was not compatible:
 Glyph oe was not compatible:
   Masters: 'GRAD=100.0', 'GRAD=100.0 opsz=8.0':
     Contour 2 start point differs: 0 in 'GRAD=100.0', 34 in 'GRAD=100.0 opsz=8.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=100.0', 'GRAD=100.0 opsz=8.0'
     Contour 2 has a kink at 6: 'GRAD=100.0', 'GRAD=100.0 opsz=8.0'
     Contour 2 has a kink at 12: 'GRAD=100.0', 'GRAD=100.0 opsz=8.0'
     Contour 2 has a kink at 26: 'GRAD=100.0', 'GRAD=100.0 opsz=8.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0':
     Contour 2 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 32 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
   Masters: 'GRAD=-50.0 wdth=50.0', 'GRAD=-50.0 wdth=50.0 wght=900.0':
     Contour 2 start point differs: 0 in 'GRAD=-50.0 wdth=50.0', 36 in 'GRAD=-50.0 wdth=50.0 wght=900.0'; reversed: False
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=50.0':
     Contour 2 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 6 in 'GRAD=100.0 opsz=8.0 wdth=50.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=50.0'
     Contour 2 has a kink at 12: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=50.0'
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=150.0':
     Contour 2 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 6 in 'GRAD=100.0 opsz=8.0 wdth=150.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=150.0'
     Contour 2 has a kink at 26: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=150.0'
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=100.0':
     Contour 2 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 6 in 'GRAD=100.0 opsz=8.0 wght=100.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=100.0'
     Contour 2 has a kink at 26: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=100.0'
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=900.0':
     Contour 2 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 6 in 'GRAD=100.0 opsz=8.0 wght=900.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=900.0'
     Contour 2 has a kink at 12: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=900.0'
     Contour 2 has a kink at 32: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=900.0'
   Masters: 'GRAD=100.0 wdth=50.0', 'GRAD=100.0 wdth=50.0 wght=900.0':
@@ -248,12 +291,18 @@ Glyph oslash was not compatible:
 Glyph perthousand was not compatible:
   Masters: 'opsz=144.0 wdth=50.0', 'opsz=144.0 wdth=50.0 wght=900.0':
     Contour 0 start point differs: 0 in 'opsz=144.0 wdth=50.0', 8 in 'opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 0 interpolation is underweight: 'opsz=144.0 wdth=50.0', 'opsz=144.0 wdth=50.0 wght=900.0'
     Contour 1 start point differs: 0 in 'opsz=144.0 wdth=50.0', 24 in 'opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 1 interpolation is underweight: 'opsz=144.0 wdth=50.0', 'opsz=144.0 wdth=50.0 wght=900.0'
     Contour 4 start point differs: 0 in 'opsz=144.0 wdth=50.0', 24 in 'opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 4 interpolation is underweight: 'opsz=144.0 wdth=50.0', 'opsz=144.0 wdth=50.0 wght=900.0'
   Masters: 'GRAD=-50.0 opsz=144.0 wdth=50.0', 'GRAD=-50.0 opsz=144.0 wdth=50.0 wght=900.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=144.0 wdth=50.0', 8 in 'GRAD=-50.0 opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=144.0 wdth=50.0', 'GRAD=-50.0 opsz=144.0 wdth=50.0 wght=900.0'
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=144.0 wdth=50.0', 24 in 'GRAD=-50.0 opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=144.0 wdth=50.0', 'GRAD=-50.0 opsz=144.0 wdth=50.0 wght=900.0'
     Contour 4 start point differs: 0 in 'GRAD=-50.0 opsz=144.0 wdth=50.0', 24 in 'GRAD=-50.0 opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
+    Contour 4 interpolation is underweight: 'GRAD=-50.0 opsz=144.0 wdth=50.0', 'GRAD=-50.0 opsz=144.0 wdth=50.0 wght=900.0'
 Glyph ruble.proportional was not compatible:
   Masters: 'opsz=8.0', 'opsz=8.0 wdth=50.0':
     Contour 0 has a kink at 53: 'opsz=8.0', 'opsz=8.0 wdth=50.0'
@@ -313,29 +362,39 @@ Glyph yucyr was not compatible:
 Glyph zero was not compatible:
   Masters: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0', 10 in 'GRAD=-50.0 opsz=8.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 1 start point differs: 0 in 'GRAD=-50.0', 8 in 'GRAD=-50.0 opsz=8.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 0 has a kink at 0: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 0 has a kink at 10: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 0 has a kink at 20: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 0 has a kink at 30: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 30 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 34 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
     Contour 0 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
     Contour 0 has a kink at 30: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
     Contour 1 has a kink at 8: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
     Contour 1 has a kink at 28: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 30 in 'GRAD=-50.0 opsz=8.0 wdth=150.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 36 in 'GRAD=-50.0 opsz=8.0 wdth=150.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
     Contour 0 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
     Contour 0 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 30 in 'GRAD=-50.0 opsz=8.0 wght=100.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 34 in 'GRAD=-50.0 opsz=8.0 wght=100.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 30 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 34 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 0 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 0 has a kink at 30: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 1 has a kink at 8: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
@@ -348,29 +407,39 @@ Glyph zero was not compatible:
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=144.0 wdth=50.0', 38 in 'GRAD=-50.0 opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
   Masters: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=100.0':
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=8.0 wdth=150.0', 34 in 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=100.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=100.0'
     Contour 1 has a kink at 20: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=100.0'
     Contour 1 has a kink at 34: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=100.0'
 Glyph zero.linprop was not compatible:
   Masters: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0', 34 in 'GRAD=-50.0 opsz=8.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 1 start point differs: 0 in 'GRAD=-50.0', 16 in 'GRAD=-50.0 opsz=8.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 0 has a kink at 0: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 0 has a kink at 22: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 1 has a kink at 16: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 1 has a kink at 42: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 12 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 34 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 12 in 'GRAD=-50.0 opsz=8.0 wght=100.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 34 in 'GRAD=-50.0 opsz=8.0 wght=100.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
     Contour 1 has a kink at 8: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
     Contour 1 has a kink at 34: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 12 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 36 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=900.0':
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 18 in 'GRAD=100.0 opsz=8.0 wght=900.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=900.0'
     Contour 1 has a kink at 8: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=900.0'
     Contour 1 has a kink at 16: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=900.0'
     Contour 1 has a kink at 34: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=900.0'
@@ -381,63 +450,88 @@ Glyph zero.linprop was not compatible:
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0 wdth=50.0', 2 in 'GRAD=-50.0 opsz=8.0 wdth=50.0 wght=100.0'; reversed: False
   Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0 wdth=150.0', 12 in 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0 wdth=150.0', 34 in 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'
     Contour 1 has a kink at 8: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'
     Contour 1 has a kink at 34: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=100.0'
   Masters: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0 wdth=150.0', 12 in 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0 wdth=150.0', 32 in 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
     Contour 1 has a kink at 8: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
     Contour 1 has a kink at 34: 'GRAD=-50.0 opsz=8.0 wdth=150.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0 wght=900.0'
 Glyph zero.lintab was not compatible:
   Masters: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0', 10 in 'GRAD=-50.0 opsz=8.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 1 start point differs: 0 in 'GRAD=-50.0', 8 in 'GRAD=-50.0 opsz=8.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 0 has a kink at 10: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 0 has a kink at 30: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
   Masters: 'GRAD=100.0', 'GRAD=100.0 opsz=8.0':
     Contour 0 start point differs: 0 in 'GRAD=100.0', 10 in 'GRAD=100.0 opsz=8.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=100.0', 'GRAD=100.0 opsz=8.0'
     Contour 1 start point differs: 0 in 'GRAD=100.0', 8 in 'GRAD=100.0 opsz=8.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=100.0', 'GRAD=100.0 opsz=8.0'
     Contour 0 has a kink at 10: 'GRAD=100.0', 'GRAD=100.0 opsz=8.0'
     Contour 0 has a kink at 30: 'GRAD=100.0', 'GRAD=100.0 opsz=8.0'
   Masters: 'opsz=8.0', 'opsz=8.0 wdth=150.0':
     Contour 1 start point differs: 0 in 'opsz=8.0', 40 in 'opsz=8.0 wdth=150.0'; reversed: False
+    Contour 1 interpolation is underweight: 'opsz=8.0', 'opsz=8.0 wdth=150.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 30 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 36 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
     Contour 1 has a kink at 22: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 30 in 'GRAD=-50.0 opsz=8.0 wdth=150.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 32 in 'GRAD=-50.0 opsz=8.0 wdth=150.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
     Contour 0 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
     Contour 0 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
     Contour 0 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
     Contour 0 has a kink at 30: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 30 in 'GRAD=-50.0 opsz=8.0 wght=100.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 36 in 'GRAD=-50.0 opsz=8.0 wght=100.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 30 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 38 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 1 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 1 has a kink at 32: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=50.0':
     Contour 0 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 30 in 'GRAD=100.0 opsz=8.0 wdth=50.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=50.0'
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 36 in 'GRAD=100.0 opsz=8.0 wdth=50.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=50.0'
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=150.0':
     Contour 0 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 30 in 'GRAD=100.0 opsz=8.0 wdth=150.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=150.0'
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 32 in 'GRAD=100.0 opsz=8.0 wdth=150.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=150.0'
     Contour 0 has a kink at 0: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=150.0'
     Contour 0 has a kink at 10: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=150.0'
     Contour 0 has a kink at 20: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=150.0'
     Contour 0 has a kink at 30: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=150.0'
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=100.0':
     Contour 0 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 30 in 'GRAD=100.0 opsz=8.0 wght=100.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=100.0'
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 36 in 'GRAD=100.0 opsz=8.0 wght=100.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=100.0'
     Contour 1 has a kink at 10: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=100.0'
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=900.0':
     Contour 0 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 30 in 'GRAD=100.0 opsz=8.0 wght=900.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=900.0'
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 38 in 'GRAD=100.0 opsz=8.0 wght=900.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=900.0'
     Contour 1 has a kink at 10: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=900.0'
     Contour 1 has a kink at 32: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wght=900.0'
   Masters: 'opsz=8.0 wdth=150.0', 'opsz=8.0 wdth=150.0 wght=900.0':
@@ -461,7 +555,9 @@ Glyph zero.lintab was not compatible:
 Glyph zero.midprop was not compatible:
   Masters: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0', 10 in 'GRAD=-50.0 opsz=8.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 1 start point differs: 0 in 'GRAD=-50.0', 6 in 'GRAD=-50.0 opsz=8.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 0 has a kink at 0: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 0 has a kink at 10: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 0 has a kink at 20: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
@@ -470,7 +566,9 @@ Glyph zero.midprop was not compatible:
     Contour 1 has a kink at 20: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 30 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 34 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
     Contour 0 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
     Contour 0 has a kink at 30: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
     Contour 1 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
@@ -479,14 +577,18 @@ Glyph zero.midprop was not compatible:
     Contour 1 has a kink at 28: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 30 in 'GRAD=-50.0 opsz=8.0 wdth=150.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 36 in 'GRAD=-50.0 opsz=8.0 wdth=150.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
     Contour 0 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
     Contour 0 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
     Contour 0 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
     Contour 0 has a kink at 30: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 30 in 'GRAD=-50.0 opsz=8.0 wght=100.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 34 in 'GRAD=-50.0 opsz=8.0 wght=100.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
     Contour 0 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
     Contour 0 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
     Contour 0 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
@@ -495,7 +597,9 @@ Glyph zero.midprop was not compatible:
     Contour 1 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 30 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 34 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 0 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 0 has a kink at 30: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 1 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
@@ -507,28 +611,36 @@ Glyph zero.midprop was not compatible:
 Glyph zero.oldprop was not compatible:
   Masters: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0', 26 in 'GRAD=-50.0 opsz=8.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 1 start point differs: 0 in 'GRAD=-50.0', 30 in 'GRAD=-50.0 opsz=8.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 1 has a kink at 0: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 1 has a kink at 10: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 1 has a kink at 20: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 1 has a kink at 30: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 14 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 10 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
     Contour 1 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
     Contour 1 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
     Contour 1 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
     Contour 1 has a kink at 30: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 16 in 'GRAD=-50.0 opsz=8.0 wdth=150.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 10 in 'GRAD=-50.0 opsz=8.0 wdth=150.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
     Contour 1 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
     Contour 1 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
     Contour 1 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
     Contour 1 has a kink at 30: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0':
     Contour 0 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 14 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
+    Contour 0 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 10 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 0 has a kink at 34: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 1 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 1 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
@@ -537,7 +649,9 @@ Glyph zero.oldprop was not compatible:
 Glyph zero.propslash was not compatible:
   Masters: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0', 10 in 'GRAD=-50.0 opsz=8.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 2 start point differs: 0 in 'GRAD=-50.0', 6 in 'GRAD=-50.0 opsz=8.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 1 has a kink at 0: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 1 has a kink at 10: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 1 has a kink at 20: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
@@ -546,7 +660,9 @@ Glyph zero.propslash was not compatible:
     Contour 2 has a kink at 20: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 30 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
     Contour 2 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 34 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
     Contour 1 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
     Contour 1 has a kink at 30: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
     Contour 2 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
@@ -555,14 +671,18 @@ Glyph zero.propslash was not compatible:
     Contour 2 has a kink at 28: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 30 in 'GRAD=-50.0 opsz=8.0 wdth=150.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
     Contour 2 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 36 in 'GRAD=-50.0 opsz=8.0 wdth=150.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
     Contour 1 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
     Contour 1 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
     Contour 1 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
     Contour 1 has a kink at 30: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 30 in 'GRAD=-50.0 opsz=8.0 wght=100.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
     Contour 2 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 34 in 'GRAD=-50.0 opsz=8.0 wght=100.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
     Contour 1 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
     Contour 1 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
     Contour 1 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
@@ -571,7 +691,9 @@ Glyph zero.propslash was not compatible:
     Contour 2 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 30 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 2 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 34 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 1 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 1 has a kink at 30: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 2 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
@@ -589,6 +711,7 @@ Glyph zero.slash was not compatible:
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=144.0 wdth=50.0', 38 in 'GRAD=-50.0 opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
   Masters: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=100.0':
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=8.0 wdth=150.0', 34 in 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=100.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=100.0'
     Contour 1 has a kink at 20: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=100.0'
     Contour 1 has a kink at 34: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=100.0'
   Masters: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0':
@@ -596,10 +719,13 @@ Glyph zero.slash was not compatible:
 Glyph zero.slashlin was not compatible:
   Masters: 'opsz=8.0', 'opsz=8.0 wdth=150.0':
     Contour 1 start point differs: 0 in 'opsz=8.0', 40 in 'opsz=8.0 wdth=150.0'; reversed: False
+    Contour 1 interpolation is underweight: 'opsz=8.0', 'opsz=8.0 wdth=150.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 40 in 'GRAD=-50.0 opsz=8.0 wdth=150.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
   Masters: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=150.0':
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=8.0', 38 in 'GRAD=100.0 opsz=8.0 wdth=150.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=100.0 opsz=8.0', 'GRAD=100.0 opsz=8.0 wdth=150.0'
   Masters: 'opsz=8.0 wdth=150.0', 'opsz=8.0 wdth=150.0 wght=900.0':
     Contour 1 start point differs: 0 in 'opsz=8.0 wdth=150.0', 4 in 'opsz=8.0 wdth=150.0 wght=900.0'; reversed: False
     Contour 1 has a kink at 16: 'opsz=8.0 wdth=150.0', 'opsz=8.0 wdth=150.0 wght=900.0'
@@ -614,6 +740,7 @@ Glyph zero.slashlin was not compatible:
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=144.0 wdth=50.0', 42 in 'GRAD=-50.0 opsz=144.0 wdth=50.0 wght=900.0'; reversed: False
   Masters: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0':
     Contour 1 start point differs: 0 in 'GRAD=100.0 opsz=8.0 wdth=150.0', 4 in 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0'
     Contour 1 has a kink at 16: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0'
     Contour 1 has a kink at 38: 'GRAD=100.0 opsz=8.0 wdth=150.0', 'GRAD=100.0 opsz=8.0 wdth=150.0 wght=900.0'
   Masters: 'GRAD=100.0 opsz=144.0 wdth=50.0', 'GRAD=100.0 opsz=144.0 wdth=50.0 wght=900.0':
@@ -621,24 +748,31 @@ Glyph zero.slashlin was not compatible:
 Glyph zero.slashlinprop was not compatible:
   Masters: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0':
     Contour 2 start point differs: 0 in 'GRAD=-50.0', 8 in 'GRAD=-50.0 opsz=8.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 2 has a kink at 10: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 2 has a kink at 36: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
   Masters: 'wdth=50.0', 'wdth=50.0 wght=900.0':
     Contour 1 start point differs: 0 in 'wdth=50.0', 10 in 'wdth=50.0 wght=900.0'; reversed: False
+    Contour 1 interpolation is underweight: 'wdth=50.0', 'wdth=50.0 wght=900.0'
     Contour 2 start point differs: 0 in 'wdth=50.0', 40 in 'wdth=50.0 wght=900.0'; reversed: False
+    Contour 2 interpolation is underweight: 'wdth=50.0', 'wdth=50.0 wght=900.0'
     Contour 1 has a kink at 0: 'wdth=50.0', 'wdth=50.0 wght=900.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0':
     Contour 2 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 44 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
     Contour 2 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
     Contour 2 has a kink at 26: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0':
     Contour 2 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 46 in 'GRAD=-50.0 opsz=8.0 wdth=150.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0':
     Contour 2 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 44 in 'GRAD=-50.0 opsz=8.0 wght=100.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
     Contour 2 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
     Contour 2 has a kink at 26: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0':
     Contour 2 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 44 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 2 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
   Masters: 'opsz=8.0 wdth=150.0', 'opsz=8.0 wdth=150.0 wght=900.0':
     Contour 2 start point differs: 0 in 'opsz=8.0 wdth=150.0', 50 in 'opsz=8.0 wdth=150.0 wght=900.0'; reversed: False
@@ -647,26 +781,34 @@ Glyph zero.slashlinprop was not compatible:
 Glyph zero.slasholdprop was not compatible:
   Masters: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0', 26 in 'GRAD=-50.0 opsz=8.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 2 start point differs: 0 in 'GRAD=-50.0', 30 in 'GRAD=-50.0 opsz=8.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 2 has a kink at 0: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 2 has a kink at 10: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 2 has a kink at 20: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
     Contour 2 has a kink at 30: 'GRAD=-50.0', 'GRAD=-50.0 opsz=8.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 14 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
     Contour 2 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 10 in 'GRAD=-50.0 opsz=8.0 wdth=50.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
     Contour 2 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
     Contour 2 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
     Contour 2 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
     Contour 2 has a kink at 30: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=50.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 16 in 'GRAD=-50.0 opsz=8.0 wdth=150.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
     Contour 2 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 10 in 'GRAD=-50.0 opsz=8.0 wdth=150.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
     Contour 2 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
     Contour 2 has a kink at 30: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wdth=150.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 14 in 'GRAD=-50.0 opsz=8.0 wght=100.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
     Contour 2 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 10 in 'GRAD=-50.0 opsz=8.0 wght=100.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
     Contour 1 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
     Contour 1 has a kink at 20: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
     Contour 2 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
@@ -675,7 +817,9 @@ Glyph zero.slasholdprop was not compatible:
     Contour 2 has a kink at 30: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=100.0'
   Masters: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0':
     Contour 1 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 14 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
+    Contour 1 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 2 start point differs: 0 in 'GRAD=-50.0 opsz=8.0', 10 in 'GRAD=-50.0 opsz=8.0 wght=900.0'; reversed: False
+    Contour 2 interpolation is underweight: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 1 has a kink at 34: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 2 has a kink at 0: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'
     Contour 2 has a kink at 10: 'GRAD=-50.0 opsz=8.0', 'GRAD=-50.0 opsz=8.0 wght=900.0'

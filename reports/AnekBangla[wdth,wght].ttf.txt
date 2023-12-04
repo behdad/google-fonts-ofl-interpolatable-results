@@ -1,35 +1,51 @@
 Glyph KaSsaMa.bn was not compatible:
   Masters: '', 'wdth=75.0':
     Contour 5 start point differs: 0 in '', 7 in 'wdth=75.0'; reversed: False
+    Contour 5 interpolation is underweight: '', 'wdth=75.0'
   Masters: '', 'wdth=125.0':
     Contour 5 start point differs: 0 in '', 7 in 'wdth=125.0'; reversed: False
+    Contour 5 interpolation is underweight: '', 'wdth=125.0'
 Glyph SignI_Tta_Ttha1_reph.bn was not compatible:
   Masters: '', 'wdth=75.0':
     Contour 0 start point differs: 0 in '', 3 in 'wdth=75.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wdth=75.0'
   Masters: '', 'wdth=125.0':
     Contour 0 start point differs: 0 in '', 3 in 'wdth=125.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wdth=125.0'
   Masters: '', 'wght=100.0':
     Contour 0 start point differs: 0 in '', 2 in 'wght=100.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=100.0'
   Masters: '', 'wght=800.0':
     Contour 0 start point differs: 0 in '', 2 in 'wght=800.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=800.0'
   Masters: 'wdth=75.0', 'wdth=75.0 wght=100.0':
     Contour 0 start point differs: 0 in 'wdth=75.0', 3 in 'wdth=75.0 wght=100.0'; reversed: False
+    Contour 0 interpolation is underweight: 'wdth=75.0', 'wdth=75.0 wght=100.0'
   Masters: 'wdth=75.0', 'wdth=75.0 wght=800.0':
     Contour 0 start point differs: 0 in 'wdth=75.0', 3 in 'wdth=75.0 wght=800.0'; reversed: False
+    Contour 0 interpolation is underweight: 'wdth=75.0', 'wdth=75.0 wght=800.0'
   Masters: 'wdth=125.0', 'wdth=125.0 wght=100.0':
     Contour 0 start point differs: 0 in 'wdth=125.0', 3 in 'wdth=125.0 wght=100.0'; reversed: False
+    Contour 0 interpolation is underweight: 'wdth=125.0', 'wdth=125.0 wght=100.0'
 Glyph SignI_Tta_Ttha2_reph.bn was not compatible:
   Masters: '', 'wdth=75.0':
     Contour 0 start point differs: 0 in '', 3 in 'wdth=75.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wdth=75.0'
   Masters: '', 'wdth=125.0':
     Contour 0 start point differs: 0 in '', 3 in 'wdth=125.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wdth=125.0'
   Masters: '', 'wght=100.0':
     Contour 0 start point differs: 0 in '', 2 in 'wght=100.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=100.0'
   Masters: '', 'wght=800.0':
     Contour 0 start point differs: 0 in '', 2 in 'wght=800.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=800.0'
   Masters: 'wdth=75.0', 'wdth=75.0 wght=100.0':
     Contour 0 start point differs: 0 in 'wdth=75.0', 3 in 'wdth=75.0 wght=100.0'; reversed: False
+    Contour 0 interpolation is underweight: 'wdth=75.0', 'wdth=75.0 wght=100.0'
   Masters: 'wdth=75.0', 'wdth=75.0 wght=800.0':
     Contour 0 start point differs: 0 in 'wdth=75.0', 3 in 'wdth=75.0 wght=800.0'; reversed: False
+    Contour 0 interpolation is underweight: 'wdth=75.0', 'wdth=75.0 wght=800.0'
   Masters: 'wdth=125.0', 'wdth=125.0 wght=100.0':
     Contour 0 start point differs: 0 in 'wdth=125.0', 3 in 'wdth=125.0 wght=100.0'; reversed: False
+    Contour 0 interpolation is underweight: 'wdth=125.0', 'wdth=125.0 wght=100.0'

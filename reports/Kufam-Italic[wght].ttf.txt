@@ -1,8 +1,11 @@
 Glyph ellipsis was not compatible:
   Masters: '', 'wght=900.0':
     Contour 0 start point differs: 0 in '', 4 in 'wght=900.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=900.0'
     Contour 1 start point differs: 0 in '', 4 in 'wght=900.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'wght=900.0'
     Contour 2 start point differs: 0 in '', 4 in 'wght=900.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'wght=900.0'
     Contour 0 has a kink at 4: '', 'wght=900.0'
     Contour 0 has a kink at 12: '', 'wght=900.0'
     Contour 1 has a kink at 4: '', 'wght=900.0'
@@ -15,5 +18,8 @@ Glyph quotedblright.sc was not compatible:
 Glyph threedotshorizontalbelowar was not compatible:
   Masters: '', 'wght=900.0':
     Contour 0 start point differs: 0 in '', 12 in 'wght=900.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=900.0'
     Contour 1 start point differs: 0 in '', 12 in 'wght=900.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'wght=900.0'
     Contour 2 start point differs: 0 in '', 12 in 'wght=900.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'wght=900.0'

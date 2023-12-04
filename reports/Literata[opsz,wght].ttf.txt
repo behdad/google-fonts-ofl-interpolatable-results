@@ -1,11 +1,13 @@
 Glyph brevecombcy.case was not compatible:
   Masters: 'opsz=72.0', 'opsz=72.0 wght=200.0':
     Contour 0 start point differs: 0 in 'opsz=72.0', 46 in 'opsz=72.0 wght=200.0'; reversed: False
+    Contour 0 interpolation is underweight: 'opsz=72.0', 'opsz=72.0 wght=200.0'
     Contour 0 has a kink at 0: 'opsz=72.0', 'opsz=72.0 wght=200.0'
     Contour 0 has a kink at 8: 'opsz=72.0', 'opsz=72.0 wght=200.0'
     Contour 0 has a kink at 44: 'opsz=72.0', 'opsz=72.0 wght=200.0'
   Masters: 'opsz=72.0', 'opsz=72.0 wght=900.0':
     Contour 0 start point differs: 0 in 'opsz=72.0', 46 in 'opsz=72.0 wght=900.0'; reversed: False
+    Contour 0 interpolation is underweight: 'opsz=72.0', 'opsz=72.0 wght=900.0'
     Contour 0 has a kink at 0: 'opsz=72.0', 'opsz=72.0 wght=900.0'
     Contour 0 has a kink at 8: 'opsz=72.0', 'opsz=72.0 wght=900.0'
     Contour 0 has a kink at 36: 'opsz=72.0', 'opsz=72.0 wght=900.0'

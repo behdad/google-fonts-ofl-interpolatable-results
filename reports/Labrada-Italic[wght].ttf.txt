@@ -1,9 +1,11 @@
 Glyph at was not compatible:
   Masters: '', 'wght=900.0':
     Contour 1 start point differs: 0 in '', 8 in 'wght=900.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'wght=900.0'
 Glyph currency was not compatible:
   Masters: '', 'wght=100.0':
     Contour 2 start point differs: 0 in '', 1 in 'wght=100.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'wght=100.0'
 Glyph lira was not compatible:
   Masters: '', 'wght=100.0':
     Contour 1 start point differs: 0 in '', 1 in 'wght=100.0'; reversed: False

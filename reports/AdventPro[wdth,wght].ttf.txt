@@ -1,19 +1,24 @@
 Glyph exclam was not compatible:
   Masters: '', 'wght=100.0':
     Contour 1 start point differs: 0 in '', 4 in 'wght=100.0'; reversed: False
+    Contour 1 interpolation is underweight: '', 'wght=100.0'
 Glyph period was not compatible:
   Masters: '', 'wght=100.0':
     Contour 0 start point differs: 0 in '', 12 in 'wght=100.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=100.0'
   Masters: 'wdth=200.0', 'wdth=200.0 wght=100.0':
     Contour 0 start point differs: 0 in 'wdth=200.0', 12 in 'wdth=200.0 wght=100.0'; reversed: False
+    Contour 0 interpolation is underweight: 'wdth=200.0', 'wdth=200.0 wght=100.0'
 Glyph quotedbl was not compatible:
   Masters: 'wght=699.9878', 'wght=900.0':
     Contour order differs: [0, 1] in 'wght=699.9878', [1, 0] in 'wght=900.0'
 Glyph uni0492 was not compatible:
   Masters: '', 'wght=699.9878':
     Contour 0 start point differs: 0 in '', 3 in 'wght=699.9878'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=699.9878'
   Masters: 'wdth=200.0', 'wdth=200.0 wght=699.9878':
     Contour 0 start point differs: 0 in 'wdth=200.0', 3 in 'wdth=200.0 wght=699.9878'; reversed: False
+    Contour 0 interpolation is underweight: 'wdth=200.0', 'wdth=200.0 wght=699.9878'
 Glyph uni2116 was not compatible:
   Masters: 'wght=699.9878', 'wght=900.0':
     Contour 0 start point differs: 0 in 'wght=699.9878', 13 in 'wght=900.0'; reversed: True

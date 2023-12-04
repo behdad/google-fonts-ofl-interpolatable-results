@@ -1,4 +1,6 @@
 Glyph dcroat was not compatible:
   Masters: '', 'wght=333.6003':
     Contour 0 start point differs: 0 in '', 3 in 'wght=333.6003'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=333.6003'
     Contour 1 start point differs: 0 in '', 3 in 'wght=333.6003'; reversed: False
+    Contour 1 interpolation is underweight: '', 'wght=333.6003'

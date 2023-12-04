@@ -47,6 +47,7 @@ Glyph uni779E was not compatible:
 Glyph uni7E6D was not compatible:
   Masters: 'wght=500.0', 'wght=900.0':
     Contour 11 start point differs: 0 in 'wght=500.0', 25 in 'wght=900.0'; reversed: False
+    Contour 11 interpolation is underweight: 'wght=500.0', 'wght=900.0'
 Glyph uni98C4 was not compatible:
   Masters: 'wght=500.0', 'wght=900.0':
     Contour 1 interpolation is underweight: 'wght=500.0', 'wght=900.0'

@@ -1,6 +1,7 @@
 Glyph u1B1CE was not compatible:
   Masters: '', 'wght=300.0':
     Contour 2 start point differs: 0 in '', 5 in 'wght=300.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'wght=300.0'
 Glyph u1B2F1 was not compatible:
   Masters: '', 'wght=300.0':
     Contour order differs: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12] in '', [0, 1, 2, 9, 10, 11, 12, 3, 4, 5, 6, 7, 8] in 'wght=300.0'

@@ -1,8 +1,12 @@
 Glyph X was not compatible:
   Masters: 'opsz=60.0', 'opsz=60.0 wght=200.0':
     Contour 3 start point differs: 0 in 'opsz=60.0', 1 in 'opsz=60.0 wght=200.0'; reversed: False
+    Contour 3 interpolation is underweight: 'opsz=60.0', 'opsz=60.0 wght=200.0'
     Contour 4 start point differs: 0 in 'opsz=60.0', 5 in 'opsz=60.0 wght=200.0'; reversed: False
+    Contour 4 interpolation is underweight: 'opsz=60.0', 'opsz=60.0 wght=200.0'
 Glyph uni04B2 was not compatible:
   Masters: 'opsz=60.0', 'opsz=60.0 wght=200.0':
     Contour 4 start point differs: 0 in 'opsz=60.0', 1 in 'opsz=60.0 wght=200.0'; reversed: False
+    Contour 4 interpolation is underweight: 'opsz=60.0', 'opsz=60.0 wght=200.0'
     Contour 5 start point differs: 0 in 'opsz=60.0', 5 in 'opsz=60.0 wght=200.0'; reversed: False
+    Contour 5 interpolation is underweight: 'opsz=60.0', 'opsz=60.0 wght=200.0'

@@ -14,6 +14,7 @@ Glyph approxequal was not compatible:
 Glyph backslash was not compatible:
   Masters: '', 'wght=900.0':
     Contour 0 start point differs: 0 in '', 2 in 'wght=900.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=900.0'
 Glyph c.ss01 was not compatible:
   Masters: '', 'wght=900.0':
     Contour 0 has a kink at 15: '', 'wght=900.0'

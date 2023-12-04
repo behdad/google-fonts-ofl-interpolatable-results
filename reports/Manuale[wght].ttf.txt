@@ -1,6 +1,7 @@
 Glyph asciicircum was not compatible:
   Masters: '', 'wght=300.0':
     Contour 0 start point differs: 0 in '', 1 in 'wght=300.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=300.0'
 Glyph brokenbar was not compatible:
   Masters: '', 'wght=700.0':
     Contour order differs: [0, 1] in '', [1, 0] in 'wght=700.0'
@@ -13,13 +14,18 @@ Glyph equal was not compatible:
 Glyph lslash was not compatible:
   Masters: '', 'wght=300.0':
     Contour 0 start point differs: 0 in '', 3 in 'wght=300.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=300.0'
   Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 3 in 'wght=700.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=700.0'
   Masters: 'wght=700.0', 'wght=800.0':
     Contour 0 start point differs: 0 in 'wght=700.0', 1 in 'wght=800.0'; reversed: False
+    Contour 0 interpolation is underweight: 'wght=700.0', 'wght=800.0'
 Glyph uni0326 was not compatible:
   Masters: '', 'wght=700.0':
     Contour 0 start point differs: 0 in '', 1 in 'wght=700.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=700.0'
 Glyph uni2197 was not compatible:
   Masters: '', 'wght=300.0':
     Contour 0 start point differs: 0 in '', 2 in 'wght=300.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=300.0'
