@@ -33,6 +33,8 @@ our_repo=https://github.com/behdad/google-fonts-ofl-interpolatable-results
 dirname=$(dirname "$1")
 basename=$(basename "$1" .metadata)
 
+echo "Processing $basename"
+
 # Check that basename ends in ttf
 metadata=$"$dirname/$basename.metadata"
 if [ ! -f "$metadata" ]; then

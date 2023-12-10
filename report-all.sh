@@ -25,4 +25,4 @@ fi
 # GitHub doesn't like us making too many requests too quickly.
 # So, no parallelizing, and sleep in between.
 find $defaultdir "$@" -name '*.ttf.metadata' |
-xargs --verbose -I {} $dirname/report-one.sh --sleep $dryrun "{}"
+xargs -I {} $dirname/report-one.sh --sleep $dryrun "{}"
