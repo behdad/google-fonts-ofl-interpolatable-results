@@ -1,21 +1,3 @@
-Glyph uni0682.fina was not compatible:
-  Masters: '', 'wght=100.0':
-    Contour 2 has a kink at 12: '', 'wght=100.0'
-Glyph uni0685.fina was not compatible:
-  Masters: '', 'wght=100.0':
-    Contour 3 has a kink at 12: '', 'wght=100.0'
-Glyph uni0757.fina was not compatible:
-  Masters: '', 'wght=100.0':
-    Contour 2 has a kink at 12: '', 'wght=100.0'
-Glyph uniFB77 was not compatible:
-  Masters: '', 'wght=100.0':
-    Contour 2 has a kink at 12: '', 'wght=100.0'
-Glyph uniFE9E was not compatible:
-  Masters: '', 'wght=100.0':
-    Contour 1 has a kink at 12: '', 'wght=100.0'
-Glyph uniFEA2 was not compatible:
+Glyph uni062D.fina was not compatible:
   Masters: '', 'wght=100.0':
     Contour 0 has a kink at 12: '', 'wght=100.0'
-Glyph uniFEA6 was not compatible:
-  Masters: '', 'wght=100.0':
-    Contour 1 has a kink at 12: '', 'wght=100.0'

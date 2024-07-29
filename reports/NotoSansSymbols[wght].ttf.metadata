@@ -1,4 +1,2 @@
-repository_url: "https://github.com/notofonts/symbols.git"
+repository_url: "https://github.com/notofonts/symbols"
 archive_url: "https://github.com/notofonts/symbols/releases/download/NotoSansSymbols-v2.003/NotoSansSymbols-v2.003.zip"
-archive: https://github.com/notofonts/symbols/releases/download/NotoSansSymbols-v2.003/NotoSansSymbols-v2.003.zip
-branch: main

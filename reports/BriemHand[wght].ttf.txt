@@ -1,0 +1,27 @@
+Glyph glyph00772 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 22: '', 'wght=900.0'
+Glyph glyph00792 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 interpolation is underweight: '', 'wght=900.0'
+Glyph glyph00798 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 start point differs: 0 in '', 48 in 'wght=900.0'; reversed: False
+Glyph glyph00846 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 start point differs: 0 in '', 38 in 'wght=900.0'; reversed: False
+Glyph glyph00848 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 0: '', 'wght=900.0'
+Glyph glyph00850 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 interpolation is underweight: '', 'wght=900.0'
+Glyph glyph00856 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 0: '', 'wght=900.0'
+Glyph glyph00862 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 start point differs: 0 in '', 38 in 'wght=900.0'; reversed: False
+Glyph section was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 1 start point differs: 0 in '', 34 in 'wght=900.0'; reversed: False

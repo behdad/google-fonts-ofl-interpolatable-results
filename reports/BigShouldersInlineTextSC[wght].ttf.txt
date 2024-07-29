@@ -1,0 +1,4 @@
+Glyph uni2126 was not compatible:
+  Masters: 'wght=256.9824', 'wght=900.0':
+    Contour 3 start point differs: 0 in 'wght=256.9824', 0 in 'wght=900.0'; reversed: True
+    Contour 4 start point differs: 0 in 'wght=256.9824', 0 in 'wght=900.0'; reversed: True

@@ -1,0 +1,155 @@
+Glyph B was not compatible:
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour order differs: [0, 1, 2, 3, 4] in 'wdth=125.0', [0, 2, 1, 3, 4] in 'wdth=125.0 wght=700.0'
+Glyph D was not compatible:
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour order differs: [0, 1, 2, 3] in 'wdth=125.0', [0, 2, 1, 3] in 'wdth=125.0 wght=700.0'
+Glyph Eth was not compatible:
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour order differs: [0, 1, 2, 3, 4, 5] in 'wdth=125.0', [0, 1, 2, 4, 3, 5] in 'wdth=125.0 wght=700.0'
+Glyph M was not compatible:
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour 2 start point differs: 0 in 'wdth=125.0', 7 in 'wdth=125.0 wght=700.0'; reversed: True
+Glyph M.color1 was not compatible:
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour 1 start point differs: 0 in 'wdth=125.0', 7 in 'wdth=125.0 wght=700.0'; reversed: True
+Glyph OE was not compatible:
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour order differs: [0, 1, 2, 3, 4, 5, 6] in 'wdth=125.0', [6, 1, 2, 3, 4, 5, 0] in 'wdth=125.0 wght=700.0'
+Glyph a was not compatible:
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour order differs: [0, 1, 2, 3, 4] in 'wdth=125.0', [0, 2, 1, 3, 4] in 'wdth=125.0 wght=700.0'
+Glyph ae was not compatible:
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour order differs: [0, 1, 2, 3, 4, 5, 6] in 'wdth=125.0', [0, 5, 3, 2, 4, 1, 6] in 'wdth=125.0 wght=700.0'
+Glyph b was not compatible:
+  Masters: '', 'wght=700.0':
+    Contour order differs: [0, 1, 2, 3] in '', [0, 2, 1, 3] in 'wght=700.0'
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour order differs: [0, 1, 2, 3] in 'wdth=125.0', [0, 2, 1, 3] in 'wdth=125.0 wght=700.0'
+Glyph d was not compatible:
+  Masters: '', 'wght=700.0':
+    Contour order differs: [0, 1, 2, 3] in '', [0, 2, 1, 3] in 'wght=700.0'
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour order differs: [0, 1, 2, 3] in 'wdth=125.0', [0, 2, 1, 3] in 'wdth=125.0 wght=700.0'
+Glyph dcroat was not compatible:
+  Masters: '', 'wght=700.0':
+    Contour order differs: [0, 1, 2, 3, 4, 5] in '', [0, 1, 2, 4, 3, 5] in 'wght=700.0'
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour order differs: [0, 1, 2, 3, 4, 5] in 'wdth=125.0', [0, 1, 2, 4, 3, 5] in 'wdth=125.0 wght=700.0'
+Glyph eth was not compatible:
+  Masters: '', 'wdth=125.0':
+    Contour 3 interpolation is underweight: '', 'wdth=125.0'
+  Masters: '', 'wght=700.0':
+    Contour order differs: [0, 1, 2, 3, 4, 5] in '', [0, 2, 1, 3, 4, 5] in 'wght=700.0'
+Glyph eth.color1 was not compatible:
+  Masters: '', 'wdth=125.0':
+    Contour 0 interpolation is underweight: '', 'wdth=125.0'
+Glyph f was not compatible:
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour 1 has a kink at 6: 'wdth=125.0', 'wdth=125.0 wght=700.0'
+Glyph f.color1 was not compatible:
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour 0 has a kink at 6: 'wdth=125.0', 'wdth=125.0 wght=700.0'
+Glyph f_b.liga was not compatible:
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour order differs: [0, 1, 2, 3, 4] in 'wdth=125.0', [0, 3, 2, 1, 4] in 'wdth=125.0 wght=700.0'
+Glyph f_k.liga was not compatible:
+  Masters: '', 'wdth=125.0':
+    Contour 3 interpolation is underweight: '', 'wdth=125.0'
+Glyph f_k.liga.color1 was not compatible:
+  Masters: '', 'wdth=125.0':
+    Contour 2 interpolation is underweight: '', 'wdth=125.0'
+Glyph florin was not compatible:
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour 2 has a kink at 41: 'wdth=125.0', 'wdth=125.0 wght=700.0'
+Glyph florin.color1 was not compatible:
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour 1 has a kink at 41: 'wdth=125.0', 'wdth=125.0 wght=700.0'
+Glyph g was not compatible:
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour order differs: [0, 1, 2, 3, 4, 5, 6, 7, 8] in 'wdth=125.0', [0, 1, 7, 3, 4, 5, 6, 2, 8] in 'wdth=125.0 wght=700.0'
+Glyph j was not compatible:
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour 2 has a kink at 6: 'wdth=125.0', 'wdth=125.0 wght=700.0'
+Glyph j.color1 was not compatible:
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour 0 has a kink at 6: 'wdth=125.0', 'wdth=125.0 wght=700.0'
+Glyph k was not compatible:
+  Masters: '', 'wdth=125.0':
+    Contour 3 interpolation is underweight: '', 'wdth=125.0'
+Glyph k.color1 was not compatible:
+  Masters: '', 'wdth=125.0':
+    Contour 1 interpolation is underweight: '', 'wdth=125.0'
+Glyph o was not compatible:
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour order differs: [0, 1, 2, 3] in 'wdth=125.0', [0, 3, 2, 1] in 'wdth=125.0 wght=700.0'
+Glyph oe was not compatible:
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour order differs: [0, 1, 2, 3, 4] in 'wdth=125.0', [0, 3, 2, 1, 4] in 'wdth=125.0 wght=700.0'
+Glyph oslash was not compatible:
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour order differs: [0, 1, 2, 3, 4, 5] in 'wdth=125.0', [0, 1, 2, 5, 4, 3] in 'wdth=125.0 wght=700.0'
+Glyph p was not compatible:
+  Masters: '', 'wght=700.0':
+    Contour order differs: [0, 1, 2, 3] in '', [0, 1, 3, 2] in 'wght=700.0'
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour order differs: [0, 1, 2, 3] in 'wdth=125.0', [0, 1, 3, 2] in 'wdth=125.0 wght=700.0'
+Glyph paragraph was not compatible:
+  Masters: '', 'wght=700.0':
+    Contour order differs: [0, 1, 2, 3] in '', [0, 2, 1, 3] in 'wght=700.0'
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour order differs: [0, 1, 2, 3] in 'wdth=125.0', [0, 2, 1, 3] in 'wdth=125.0 wght=700.0'
+Glyph q was not compatible:
+  Masters: '', 'wght=700.0':
+    Contour order differs: [0, 1, 2, 3] in '', [0, 1, 3, 2] in 'wght=700.0'
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour order differs: [0, 1, 2, 3] in 'wdth=125.0', [0, 1, 3, 2] in 'wdth=125.0 wght=700.0'
+Glyph section was not compatible:
+  Masters: '', 'wdth=125.0':
+    Contour 4 interpolation is underweight: '', 'wdth=125.0'
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour 5 has a kink at 46: 'wdth=125.0', 'wdth=125.0 wght=700.0'
+Glyph section.color0 was not compatible:
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour 0 has a kink at 66: 'wdth=125.0', 'wdth=125.0 wght=700.0'
+Glyph section.color1 was not compatible:
+  Masters: '', 'wdth=125.0':
+    Contour 2 interpolation is underweight: '', 'wdth=125.0'
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour 3 has a kink at 46: 'wdth=125.0', 'wdth=125.0 wght=700.0'
+Glyph sterling was not compatible:
+  Masters: '', 'wght=700.0':
+    Contour 2 start point differs: 0 in '', 12 in 'wght=700.0'; reversed: True
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour 2 start point differs: 0 in 'wdth=125.0', 12 in 'wdth=125.0 wght=700.0'; reversed: True
+Glyph sterling.color1 was not compatible:
+  Masters: '', 'wght=700.0':
+    Contour 1 start point differs: 0 in '', 12 in 'wght=700.0'; reversed: True
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour 1 start point differs: 0 in 'wdth=125.0', 12 in 'wdth=125.0 wght=700.0'; reversed: True
+Glyph thorn was not compatible:
+  Masters: '', 'wght=700.0':
+    Contour order differs: [0, 1, 2, 3] in '', [0, 1, 3, 2] in 'wght=700.0'
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour order differs: [0, 1, 2, 3] in 'wdth=125.0', [0, 1, 3, 2] in 'wdth=125.0 wght=700.0'
+Glyph trademark was not compatible:
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour 6 start point differs: 0 in 'wdth=125.0', 1 in 'wdth=125.0 wght=700.0'; reversed: True
+Glyph trademark.color1 was not compatible:
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour 4 start point differs: 0 in 'wdth=125.0', 1 in 'wdth=125.0 wght=700.0'; reversed: True
+Glyph uni0237 was not compatible:
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour 1 has a kink at 6: 'wdth=125.0', 'wdth=125.0 wght=700.0'
+Glyph uni0237.color1 was not compatible:
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour 0 has a kink at 6: 'wdth=125.0', 'wdth=125.0 wght=700.0'
+Glyph zero was not compatible:
+  Masters: '', 'wdth=125.0':
+    Contour 3 interpolation is underweight: '', 'wdth=125.0'
+  Masters: 'wdth=125.0', 'wdth=125.0 wght=700.0':
+    Contour order differs: [0, 1, 2, 3] in 'wdth=125.0', [0, 2, 1, 3] in 'wdth=125.0 wght=700.0'
+Glyph zero.color1 was not compatible:
+  Masters: '', 'wdth=125.0':
+    Contour 1 interpolation is underweight: '', 'wdth=125.0'

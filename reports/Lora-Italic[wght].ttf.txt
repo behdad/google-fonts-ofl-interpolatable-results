@@ -1,8 +1,0 @@
-Glyph lessequal was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 0 start point differs: 0 in '', 3 in 'wght=700.0'; reversed: False
-    Contour 0 interpolation is underweight: '', 'wght=700.0'
-Glyph minute was not compatible:
-  Masters: '', 'wght=700.0':
-    Contour 0 start point differs: 0 in '', 3 in 'wght=700.0'; reversed: False
-    Contour 0 interpolation is underweight: '', 'wght=700.0'

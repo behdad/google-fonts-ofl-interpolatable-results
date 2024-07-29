@@ -1,4 +1,2 @@
-repository_url: "https://github.com/notofonts/arabic.git"
-archive_url: "https://github.com/notofonts/arabic/releases/download/NotoNaskhArabic-v2.018/NotoNaskhArabic-v2.018.zip"
-archive: https://github.com/notofonts/arabic/releases/download/NotoNaskhArabic-v2.018/NotoNaskhArabic-v2.018.zip
-branch: main
+repository_url: "https://github.com/notofonts/arabic"
+archive_url: "https://github.com/notofonts/arabic/releases/download/NotoNaskhArabic-v2.019/NotoNaskhArabic-v2.019.zip"

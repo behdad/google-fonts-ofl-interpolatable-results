@@ -1,0 +1,9 @@
+Glyph percent was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour order differs: [0, 1, 2, 3, 4] in '', [0, 3, 4, 1, 2] in 'wght=900.0'
+Glyph perthousand was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour order differs: [0, 1, 2, 3, 4, 5, 6] in '', [0, 3, 4, 1, 2, 5, 6] in 'wght=900.0'
+Glyph uni2198 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 start point differs: 0 in '', 1 in 'wght=900.0'; reversed: False

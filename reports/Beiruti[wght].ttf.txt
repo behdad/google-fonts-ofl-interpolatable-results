@@ -1,0 +1,62 @@
+Glyph O64C was not compatible:
+  Masters: '', 'wght=200.0':
+    Contour 2 start point differs: 0 in '', 8 in 'wght=200.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'wght=200.0'
+    Contour 3 start point differs: 0 in '', 8 in 'wght=200.0'; reversed: False
+    Contour 3 interpolation is underweight: '', 'wght=200.0'
+    Contour 4 start point differs: 0 in '', 8 in 'wght=200.0'; reversed: False
+    Contour 4 interpolation is underweight: '', 'wght=200.0'
+    Contour 5 start point differs: 0 in '', 8 in 'wght=200.0'; reversed: False
+    Contour 5 interpolation is underweight: '', 'wght=200.0'
+    Contour 6 start point differs: 0 in '', 8 in 'wght=200.0'; reversed: False
+    Contour 6 interpolation is underweight: '', 'wght=200.0'
+Glyph O64F was not compatible:
+  Masters: '', 'wght=200.0':
+    Contour 0 start point differs: 0 in '', 4 in 'wght=200.0'; reversed: False
+    Contour 0 interpolation is underweight: '', 'wght=200.0'
+    Contour 2 start point differs: 0 in '', 8 in 'wght=200.0'; reversed: False
+    Contour 2 interpolation is underweight: '', 'wght=200.0'
+    Contour 3 start point differs: 0 in '', 8 in 'wght=200.0'; reversed: False
+    Contour 3 interpolation is underweight: '', 'wght=200.0'
+    Contour 4 start point differs: 0 in '', 8 in 'wght=200.0'; reversed: False
+    Contour 4 interpolation is underweight: '', 'wght=200.0'
+    Contour 5 start point differs: 0 in '', 8 in 'wght=200.0'; reversed: False
+    Contour 5 interpolation is underweight: '', 'wght=200.0'
+    Contour 6 start point differs: 0 in '', 8 in 'wght=200.0'; reversed: False
+    Contour 6 interpolation is underweight: '', 'wght=200.0'
+Glyph s was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 20: '', 'wght=900.0'
+Glyph sacute was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 20: '', 'wght=900.0'
+Glyph scaron was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 20: '', 'wght=900.0'
+Glyph scedilla was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 20: '', 'wght=900.0'
+Glyph scircumflex was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 20: '', 'wght=900.0'
+Glyph scommaaccent was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 20: '', 'wght=900.0'
+Glyph uni1E61 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 20: '', 'wght=900.0'
+Glyph uni1E63 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 20: '', 'wght=900.0'
+Glyph uni1E65 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 20: '', 'wght=900.0'
+Glyph uni1E67 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 20: '', 'wght=900.0'
+Glyph uni1E69 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 0 has a kink at 20: '', 'wght=900.0'
+Glyph uni20A8 was not compatible:
+  Masters: '', 'wght=900.0':
+    Contour 2 has a kink at 20: '', 'wght=900.0'

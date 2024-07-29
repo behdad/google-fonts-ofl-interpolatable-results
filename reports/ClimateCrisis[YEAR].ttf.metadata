@@ -1,6 +1,3 @@
 repository_url: "https://github.com/dancoull/ClimateCrisis"
-minisite_url: "https://kampanjat.hs.fi/climatefont/index.html"
-minisite_url: "https://kampanjat.hs.fi/climatefont/"
-branch: main
-archive:
+minisite_url: "https://kampanjat.hs.fi/climatefont"
 contribution_url: https://github.com/dancoull/ClimateCrisis

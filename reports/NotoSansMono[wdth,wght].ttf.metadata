@@ -1,4 +1,2 @@
-repository_url: "https://github.com/notofonts/latin-greek-cyrillic.git"
+repository_url: "https://github.com/notofonts/latin-greek-cyrillic"
 archive_url: "https://github.com/notofonts/latin-greek-cyrillic/releases/download/NotoSansMono-v2.014/NotoSansMono-v2.014.zip"
-archive: https://github.com/notofonts/latin-greek-cyrillic/releases/download/NotoSansMono-v2.014/NotoSansMono-v2.014.zip
-branch: main

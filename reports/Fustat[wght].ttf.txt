@@ -1,0 +1,6 @@
+Glyph uni0635 was not compatible:
+  Masters: '', 'wght=800.0':
+    Contour order differs: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10] in '', [5, 1, 2, 3, 4, 0, 6, 7, 8, 9, 10] in 'wght=800.0'
+Glyph uni0635.fina was not compatible:
+  Masters: '', 'wght=800.0':
+    Contour order differs: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12] in '', [0, 1, 7, 3, 4, 5, 6, 2, 8, 9, 10, 11, 12] in 'wght=800.0'
