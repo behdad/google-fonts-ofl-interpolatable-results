@@ -19,7 +19,7 @@ echo "Building fonttools cython extensions"
 
 if $clear; then
   echo "Clearing $out"
-  time rm -f "$out"/*.ttf.{pdf,html.bz2,txt,metadata}
+  time rm -f "$out"/*.ttf.{pdf,html.xz,txt,metadata}
 fi
 
 sort=--sort=size

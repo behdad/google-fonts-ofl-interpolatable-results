@@ -26,19 +26,19 @@ To get a visual diff of the changes, you can configure `git` as below:
 ```
 and
 ```
-[difftool "ttf-html-bz2"]
-   cmd = ~/google-fonts-ofl-interpolatable-results/diff-ttf-html-bz2.sh \"$LOCAL\" \"$REMOTE\" \"$MERGED\"
+[difftool "ttf-html-xz"]
+   cmd = ~/google-fonts-ofl-interpolatable-results/diff-ttf-html-xz.sh \"$LOCAL\" \"$REMOTE\" \"$MERGED\"
 ```
 (update the directory path as you wish.)
 
 And then in `~/.gitattributes`:
 ```
-*.ttf.html.bz2 diff=diff-ttf-html-bz2
+*.ttf.html.xz diff=diff-ttf-html-xz
 ```
 
 This way, you can use eg.:
 ```
-$ ./review-one reports/FamilyName.html.bz2
+$ ./review-one reports/FamilyName.html.xz
 ```
 
 To open *all* the changed HTML files in your browser (at your own risk),

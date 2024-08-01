@@ -39,7 +39,7 @@ if [ x$clean = xtrue -a x$status = x0 ]; then
 	exit $status
 fi
 
-bzip2 < "$out.html" > "$out.html.bz2" && rm "$out.html"
+xz -3 < "$out.html" > "$out.html.xz" && rm "$out.html"
 
 # See if we can find the source info for the font and save it.
 ttfdirname=`dirname "$ttf"`

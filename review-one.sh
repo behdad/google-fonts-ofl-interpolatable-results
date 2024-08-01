@@ -15,4 +15,4 @@ while [ $# -gt 0 ]; do
 done
 
 yes |
-git difftool --tool=ttf-html-bz2 "$commit" "$@"
+git difftool --tool=ttf-html-xz "$commit" "$@"
