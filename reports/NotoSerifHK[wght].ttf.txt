@@ -3,10 +3,10 @@ Glyph uni3B22 was not compatible:
     Contour 15 interpolation is underweight: '', 'wght=900.0'
 Glyph uni56D3 was not compatible:
   Masters: '', 'wght=900.0':
-    Contour 7 interpolation is underweight: '', 'wght=900.0'
+    Contour 19 interpolation is underweight: '', 'wght=900.0'
 Glyph uni5ABB was not compatible:
   Masters: '', 'wght=900.0':
-    Contour 6 interpolation is underweight: '', 'wght=900.0'
+    Contour 10 interpolation is underweight: '', 'wght=900.0'
 Glyph uniFF7C was not compatible:
   Masters: '', 'wght=900.0':
     Contour 2 has a kink at 15: '', 'wght=900.0'

@@ -1,0 +1,8 @@
+Glyph uni0247.ss01.BRACKET.varAlt01 was not compatible:
+  Masters: '', 'wght=548.2654':
+    Contour 2 start point differs: 0 in '', 2 in 'wght=548.2654'; reversed: False
+    Contour 2 interpolation is underweight: '', 'wght=548.2654'
+Glyph uni20B2.BRACKET.varAlt01 was not compatible:
+  Masters: '', 'wght=548.2654':
+    Contour 2 start point differs: 0 in '', 1 in 'wght=548.2654'; reversed: False
+    Contour 2 interpolation is underweight: '', 'wght=548.2654'
